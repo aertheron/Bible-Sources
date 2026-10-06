@@ -1,0 +1,423 @@
+{
+  "source_package_version": "0.2.0",
+  "source_package_date": "2026-10-05",
+  "published_date": "2026-10-06",
+  "source_data_commit": "4bf4acf6db6a674a8569d198f04900da7511acb8",
+  "studies": [
+    {
+      "entry_id": "WT001",
+      "prepared_member": "studies/WT001-faith-belief-trust.md",
+      "prepared_sha256": "50f2d683dd168a8ac14d7580ba8311e55323b1f5bfa8da283aeeffe51f5e57d3",
+      "published_path": "knowledge/word-studies/studies/WT001-faith-belief-trust.md",
+      "published_sha256": "3b7fc9d24e1682c896436089e66899c4181ebdc03f6e30d59b493b6424893dc2",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT002",
+      "prepared_member": "studies/WT002-works-deeds-service.md",
+      "prepared_sha256": "e6342bec4efdc5e469a83b0f8f835e846fec9ac91bbc7ca5995b54d9aa109ef2",
+      "published_path": "knowledge/word-studies/studies/WT002-works-deeds-service.md",
+      "published_sha256": "57a61b8fb81680d45c19a1dc02b2691b7fc49fdb05b349decff8832d6b474751",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT003",
+      "prepared_member": "studies/WT003-salvation-rescue-deliverance.md",
+      "prepared_sha256": "bae3a376f2be9a76b592fc44f9c2438d80ea0f813b973fac40dbe4c1c34936f8",
+      "published_path": "knowledge/word-studies/studies/WT003-salvation-rescue-deliverance.md",
+      "published_sha256": "548eecdf6cdb1c1be4a1142a1c83e09b1e9b4e36b2d4cf0a1727894ee4e68ee6",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT004",
+      "prepared_member": "studies/WT004-justification-vindication.md",
+      "prepared_sha256": "ebe08d7b4d66d0f42046667cb2fcca178c60a429d8f8a797fd88d08681ec7417",
+      "published_path": "knowledge/word-studies/studies/WT004-justification-vindication.md",
+      "published_sha256": "466ad1e36a4ea5061a5b58aeab46718b61342344012205aab4562591b6936c68",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT005",
+      "prepared_member": "studies/WT005-righteousness-and-justice.md",
+      "prepared_sha256": "0e943b4ef15004020317bf4e452cea346a9350735418158f663338f2ae957f3a",
+      "published_path": "knowledge/word-studies/studies/WT005-righteousness-and-justice.md",
+      "published_sha256": "beb8328c74ff3829cba44e7f1e2c75dcfad36b0596203802392a55a0db49ca42",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT006",
+      "prepared_member": "studies/WT006-holiness-and-sanctification.md",
+      "prepared_sha256": "06adb09486cd70f33f2e7af203173ac887ecead84553ad7bf57079a58ad055a6",
+      "published_path": "knowledge/word-studies/studies/WT006-holiness-and-sanctification.md",
+      "published_sha256": "737f9450d1cba82ea9bdaf50ec7a392b77ea5008e1987f06d14a0ec441f9af2a",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT007",
+      "prepared_member": "studies/WT007-election-foreknowledge-predestination.md",
+      "prepared_sha256": "8c2e86a69091b46a277ce6017b9e57c807a2d445ab6d484bccf7f0cf1ec23fd4",
+      "published_path": "knowledge/word-studies/studies/WT007-election-foreknowledge-predestination.md",
+      "published_sha256": "65ecd2654a4c6c9c3935f21c333a00597f67e10c367a5b93cc71bab10fb7bd09",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT008",
+      "prepared_member": "studies/WT008-freedom-willing-choice-responsibility.md",
+      "prepared_sha256": "06e43ed16261ef2c031a86711a6ecae81fb97b2c2b2f9cc5e4a3bcec5bbab29f",
+      "published_path": "knowledge/word-studies/studies/WT008-freedom-willing-choice-responsibility.md",
+      "published_sha256": "abe82eb680e3fbd1cd6a9f9d793233564dde13ad7a78dec0fb7042dc2496fd32",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT009",
+      "prepared_member": "studies/WT009-nephesh-psych-soul-life-person.md",
+      "prepared_sha256": "47593940606570fa9b434862881a34a72d7fe4756238122150d2ad76cac3dddc",
+      "published_path": "knowledge/word-studies/studies/WT009-nephesh-psych-soul-life-person.md",
+      "published_sha256": "b40dd0ad327368a0dbec83e60ccd28245c4d705654c31de720f031f343bde942",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT010",
+      "prepared_member": "studies/WT010-spirit-wind-breath-and-spirit-language.md",
+      "prepared_sha256": "43b7dad3fd374b25663ab2c91a318d9d0974186d6a315b2f8aa65278d01617be",
+      "published_path": "knowledge/word-studies/studies/WT010-spirit-wind-breath-and-spirit-language.md",
+      "published_sha256": "8a25883c2c9d08bf67cdfc28f7d7fba752191b155d734ae0fdb41b199fa5a256",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT011",
+      "prepared_member": "studies/WT011-heart-thought-intention.md",
+      "prepared_sha256": "b517b1e4d88f2884069a88fd4388c3a62e8f614e8384e41215ee5c4ca9867371",
+      "published_path": "knowledge/word-studies/studies/WT011-heart-thought-intention.md",
+      "published_sha256": "31879d0fd1e60edb48e719b03f74b885792049c52b34fa4b9d316699dadfc02e",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT012",
+      "prepared_member": "studies/WT012-flesh-body-embodied-life.md",
+      "prepared_sha256": "dfe14bc850eb8d1979d77ea2bbe9a03d06f85025c156ac835446b076f7bae442",
+      "published_path": "knowledge/word-studies/studies/WT012-flesh-body-embodied-life.md",
+      "published_sha256": "e58a7b4bd001dfe80ef702e7987915cb34d7be6e4b768120b96a4dda9c7d5bc3",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT013",
+      "prepared_member": "studies/WT013-yahweh-yhwh-the-divine-name.md",
+      "prepared_sha256": "50e2286d40a8d47627ac7974e2a9db2c7523d2806050b2d69678d32c7d350a38",
+      "published_path": "knowledge/word-studies/studies/WT013-yahweh-yhwh-the-divine-name.md",
+      "published_sha256": "2e1ea0982a81bd5a02b5f4c270bfd87ae15871a8abe095d99b68d50d5cefbb5c",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT014",
+      "prepared_member": "studies/WT014-god-divine-designations-and-titles.md",
+      "prepared_sha256": "8feb88b8aa8c61c7b099f5e97b203b3b71ffbc63e875b3158d871704d2c311b3",
+      "published_path": "knowledge/word-studies/studies/WT014-god-divine-designations-and-titles.md",
+      "published_sha256": "97ff35e46a099a0c18584aecbfc43e6e9fbc5f27fc071ce2f795e80092d8e633",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT015",
+      "prepared_member": "studies/WT015-lord-master-hosts-sovereignty.md",
+      "prepared_sha256": "f0d9b1da6158b35dfb2573bb4a65c3a10db2b2b1f6218da84c6cfdfacddb1254",
+      "published_path": "knowledge/word-studies/studies/WT015-lord-master-hosts-sovereignty.md",
+      "published_sha256": "ea742027f4e6d2aa5abefacf40ac36952955e9b299ad4cf6d5cf98d812351774",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT016",
+      "prepared_member": "studies/WT016-one-alone-i-am-he.md",
+      "prepared_sha256": "ea9b31be80fe93172474a050e19a5dee3b99e2d0b7f05050265adbb14d6ac5b4",
+      "published_path": "knowledge/word-studies/studies/WT016-one-alone-i-am-he.md",
+      "published_sha256": "5635d178db9ae75ed13e6bc26a46fe7d677834f6330af5525f2ef12ab8527ca1",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT017",
+      "prepared_member": "studies/WT017-creation-disorder-new-creation.md",
+      "prepared_sha256": "213a07d6278bbcef2cddd292bd54c9a115708ca995ba0a6d934da7b515cbfd21",
+      "published_path": "knowledge/word-studies/studies/WT017-creation-disorder-new-creation.md",
+      "published_sha256": "a9d7b1141607f9a242dbebf258a64e4f64d4f5159de90ad90a6aaa811c20dbb1",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT018",
+      "prepared_member": "studies/WT018-covenant-and-covenant-instruction.md",
+      "prepared_sha256": "ab71cdb8537a4651e5df7bfecd4f215b0e7b146daca79168de33977ff46611cf",
+      "published_path": "knowledge/word-studies/studies/WT018-covenant-and-covenant-instruction.md",
+      "published_sha256": "1e8f18a6ae99aa60682d8d773528b8beea6e4c392bdd8d7c7d44aaa5fa562b48",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT019",
+      "prepared_member": "studies/WT019-love-ahavah-agap.md",
+      "prepared_sha256": "147670db37ecc8eef308bb61c65f58b179011605db9f5957d073ffdcf092defd",
+      "published_path": "knowledge/word-studies/studies/WT019-love-ahavah-agap.md",
+      "published_sha256": "553d7b673b661521a3c241260c8f4915ff5c4255e36b476d73d3f06fc22c2725",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT020",
+      "prepared_member": "studies/WT020-hesed-loyal-love-kindness.md",
+      "prepared_sha256": "8cdfe697a706be1a71c13d14ea9f0b8352332c2553fccb1b51ce016b91782861",
+      "published_path": "knowledge/word-studies/studies/WT020-hesed-loyal-love-kindness.md",
+      "published_sha256": "293a035d94db4ed82e5dd18d2cf409126a0688a16360f958e57584bd2b0e29c3",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT021",
+      "prepared_member": "studies/WT021-truth-reliability-faithfulness.md",
+      "prepared_sha256": "0c166a599277051926205fe58a3ea88b02704812041205d799ce415cbb15de02",
+      "published_path": "knowledge/word-studies/studies/WT021-truth-reliability-faithfulness.md",
+      "published_sha256": "c9c0d0664f360d029aaddba8b74317c6c2d42c3b6ad434ffa9327790c350062c",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT022",
+      "prepared_member": "studies/WT022-grace-favor-graciousness.md",
+      "prepared_sha256": "220743f6c770b291a2169a0cd92df54d862505d66c3f3ee138be1c95d97ddbc7",
+      "published_path": "knowledge/word-studies/studies/WT022-grace-favor-graciousness.md",
+      "published_sha256": "9b45be247886783301b513e6b95b046d5179d3b907394b8d8ac713ba6bdeb508",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT023",
+      "prepared_member": "studies/WT023-compassion-and-mercy.md",
+      "prepared_sha256": "f0e110a8780b3be5a229e490b9d2ba03e50ba96df88b120101e036e423c0ad3a",
+      "published_path": "knowledge/word-studies/studies/WT023-compassion-and-mercy.md",
+      "published_sha256": "182b15cd9bf73e4a92d422718e5f768da39bdd664180650d963eead6e933d433",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT024",
+      "prepared_member": "studies/WT024-anger-patience-slow-to-anger.md",
+      "prepared_sha256": "4574e58dca81f5850806af0efd3ecb9f3ab5449e737749079649bc41d56132fb",
+      "published_path": "knowledge/word-studies/studies/WT024-anger-patience-slow-to-anger.md",
+      "published_sha256": "c82382bd725698fd19a492210e9ba0e1a09b7615b73e7c7e13ff51aaf9fe8037",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT025",
+      "prepared_member": "studies/WT025-hear-listen-obey.md",
+      "prepared_sha256": "155934d529271737a86c05d0a30be7fa9be87031cedd4c496a9c4005f5dbb826",
+      "published_path": "knowledge/word-studies/studies/WT025-hear-listen-obey.md",
+      "published_sha256": "fdeffb64927892e52e38d9c26190bf995dab2b398bdef663de445eb7d5ae3693",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT026",
+      "prepared_member": "studies/WT026-meod-strength-whole-person-intensity.md",
+      "prepared_sha256": "c8a9a128d692bb63e759c0a4ba1f194787c989ba658c81e0708dbde63d68acac",
+      "published_path": "knowledge/word-studies/studies/WT026-meod-strength-whole-person-intensity.md",
+      "published_sha256": "45ac9e0805e7a0c6efeb5cafeb3f562fe742f637d878a23575c8026b0cd72086",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT027",
+      "prepared_member": "studies/WT027-peace-shalom-well-being.md",
+      "prepared_sha256": "a2b13d4141b063786f488412325c1a63865a114c1a9e2b1489502709abe61ab5",
+      "published_path": "knowledge/word-studies/studies/WT027-peace-shalom-well-being.md",
+      "published_sha256": "32e72049497413624ca1d88ccc7d065d5d53c86ae0162a79495f206cc84afbe6",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT028",
+      "prepared_member": "studies/WT028-hope-waiting-expectation.md",
+      "prepared_sha256": "1ee780a53e5aa233ef165646d6863c0588679ac44d11f5d9932ab53037ef7022",
+      "published_path": "knowledge/word-studies/studies/WT028-hope-waiting-expectation.md",
+      "published_sha256": "ab847c42e5005c93d1bbb618736c164f21d335f28d437237e35364f85df607e6",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT029",
+      "prepared_member": "studies/WT029-joy-and-rejoicing.md",
+      "prepared_sha256": "ea6707526f03b808f9db8bf842967b81e992d9d881dc89f3ff16423f5a2ba056",
+      "published_path": "knowledge/word-studies/studies/WT029-joy-and-rejoicing.md",
+      "published_sha256": "2a79e6fb149ee3ae1651691e6e89b76c5c1da8cae52ef901f9285609605ccaf0",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT030",
+      "prepared_member": "studies/WT030-sin-failure-missing.md",
+      "prepared_sha256": "b6c46d08ab3e5483d996672b281f96fa0fbe814cbbe7e20178eadcb9eea3af79",
+      "published_path": "knowledge/word-studies/studies/WT030-sin-failure-missing.md",
+      "published_sha256": "3e1789a384d1325af29f985843fa78207c0ec1d574b47bef843342cfb4ebb23b",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT031",
+      "prepared_member": "studies/WT031-transgression-rebellion-breach.md",
+      "prepared_sha256": "29c73512419c26ccf9d321f9ded473ec340be56aa24d5f09cd74c717239609bf",
+      "published_path": "knowledge/word-studies/studies/WT031-transgression-rebellion-breach.md",
+      "published_sha256": "d925113afb382bed418a3a28476ed748a1f8fc5dc8b0be5ab53bef4a7cdbbe10",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT032",
+      "prepared_member": "studies/WT032-iniquity-guilt-consequences.md",
+      "prepared_sha256": "5bfb5e0fe7f28c55da69947425b4378b7cb40a791b7715cdf68982caf9ea9838",
+      "published_path": "knowledge/word-studies/studies/WT032-iniquity-guilt-consequences.md",
+      "published_sha256": "7d911936e45ac190452b9bada8adbc99710918d3c13ee0985bf437518fd1a76f",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT033",
+      "prepared_member": "studies/WT033-repentance-turning-change-of-response.md",
+      "prepared_sha256": "a591da520ea8e718982e70f3b373c54bdbc0ec916cff6cf15576d7b58662ed6f",
+      "published_path": "knowledge/word-studies/studies/WT033-repentance-turning-change-of-response.md",
+      "published_sha256": "cacd17ce75510742c75f5c9b3ac0b6c24dda757d94a599f65eba8312dc602c8a",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT034",
+      "prepared_member": "studies/WT034-forgiveness-release-pardon.md",
+      "prepared_sha256": "20e6984fff3be3a460c62ab65c743eb289f12a1b9bd3b75ba87f8a8d656d416e",
+      "published_path": "knowledge/word-studies/studies/WT034-forgiveness-release-pardon.md",
+      "published_sha256": "142c47f88af88c1590fdae2de70401ba255ef83a8ac292bebb23b1df50073ba7",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT035",
+      "prepared_member": "studies/WT035-redemption-ransom-buying-back.md",
+      "prepared_sha256": "30c9a71f4e381da4bce4bda0ed46e015721445061867ef0f30c36a43f98d2f71",
+      "published_path": "knowledge/word-studies/studies/WT035-redemption-ransom-buying-back.md",
+      "published_sha256": "68084e35b2af6cd8e0ed2a32f7d9c818db2019419b5df98eb4adec97275e5cc8",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT036",
+      "prepared_member": "studies/WT036-gospel-good-news-announcement.md",
+      "prepared_sha256": "201768e39c1bf655d1d349c2b6fddad7811dbc503fbf6875511b525cb26b08eb",
+      "published_path": "knowledge/word-studies/studies/WT036-gospel-good-news-announcement.md",
+      "published_sha256": "214091c8a1dbdd9a0813de041a9bca908a7388ea12cd406cd1fedef2bf918776",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT037",
+      "prepared_member": "studies/WT037-witness-testimony-martyr.md",
+      "prepared_sha256": "941fcae62581ac7abb96cebe7c22a49500878dfa26732359cd05ce7d9ccbf711",
+      "published_path": "knowledge/word-studies/studies/WT037-witness-testimony-martyr.md",
+      "published_sha256": "b11ba062cb50bd8a60b9f227fb78ba1a57eafd8f5a58d09e7062bff7327f4e2b",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT038",
+      "prepared_member": "studies/WT038-passover-pesach-pascha.md",
+      "prepared_sha256": "702958b8815107a3f2e26c27a6a4b5583c8b68b613371ac75d9c1a33c870548b",
+      "published_path": "knowledge/word-studies/studies/WT038-passover-pesach-pascha.md",
+      "published_sha256": "8f90bb4146a990318dce03dc2c03be71bb24cade2f0f55abca1fec2d4741a47e",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT039",
+      "prepared_member": "studies/WT039-messiah-christ-anointing.md",
+      "prepared_sha256": "52b01b34b07a556a8e3a164608a5ce2ce0d087ebe08510cef266fd0b4749f7e7",
+      "published_path": "knowledge/word-studies/studies/WT039-messiah-christ-anointing.md",
+      "published_sha256": "627930579c35f9e6700326d70fb97d8994a765663ea0135b78529de1224e2410",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT040",
+      "prepared_member": "studies/WT040-son-children-monogen-s.md",
+      "prepared_sha256": "8d8b9e90f916666a1a5eabbe616f655ac316bb12f9fa34b3386441b15674bb38",
+      "published_path": "knowledge/word-studies/studies/WT040-son-children-monogen-s.md",
+      "published_sha256": "8d62bde22a1eb008fb781af2f958618b68f4c4bef21f5e72dae19bedfab496f9",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT041",
+      "prepared_member": "studies/WT041-son-of-man-human-figure.md",
+      "prepared_sha256": "5c4584fc7490340c5442a3499ae305b51e1feb2abe415460b177374522685ebc",
+      "published_path": "knowledge/word-studies/studies/WT041-son-of-man-human-figure.md",
+      "published_sha256": "03fa6254e3dc4ff96e6ccefd3e6bc2b0eb4b89e024f946bcf626cccc5ebed5bc",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT042",
+      "prepared_member": "studies/WT042-word-speech-message-logos.md",
+      "prepared_sha256": "4b82a32b1666bf424f6bdffd3a3f94a1a97a867951f48bce0e3cf5dbfefd4f4c",
+      "published_path": "knowledge/word-studies/studies/WT042-word-speech-message-logos.md",
+      "published_sha256": "23ba63534c9fc491c2cdd83194f3f0e8580689997eada2fe4049e17342c8e06f",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT043",
+      "prepared_member": "studies/WT043-image-glory-form-exaltation.md",
+      "prepared_sha256": "109ecf1ac16675fff410b5d23bfdd874a838abd48da7d5ca48821cfcfc2389a7",
+      "published_path": "knowledge/word-studies/studies/WT043-image-glory-form-exaltation.md",
+      "published_sha256": "dc364a1fce03a568e3a458fde35c80cc20321a417e17082bf24430966e3731c5",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT044",
+      "prepared_member": "studies/WT044-servant-sacrifice-lamb-atonement.md",
+      "prepared_sha256": "53d7d6664aca8f79455d275f26984e3bcb393ea7e1a2ca2bd92e119964d725c3",
+      "published_path": "knowledge/word-studies/studies/WT044-servant-sacrifice-lamb-atonement.md",
+      "published_sha256": "8998cf5f5d38d31f817a9aae1bd428c682bd6066df21348fe3410b40d2c5da49",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT045",
+      "prepared_member": "studies/WT045-resurrection-newness-firstfruits-coming.md",
+      "prepared_sha256": "f10c2cd226ea57b3ed7753a1109fe6fef4fce0ffab84708206e7ab3528108db7",
+      "published_path": "knowledge/word-studies/studies/WT045-resurrection-newness-firstfruits-coming.md",
+      "published_sha256": "103b3b29902fdc08caaa59baacb385007d4d7ecb06020920dd643dc15bb32573",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT046",
+      "prepared_member": "studies/WT046-baptism-cleansing-union-with-christ.md",
+      "prepared_sha256": "3ddd05e6faab5cd31c3147d09f241e38b3eecc2d7be3bf6ff11afffcf7b9b66c",
+      "published_path": "knowledge/word-studies/studies/WT046-baptism-cleansing-union-with-christ.md",
+      "published_sha256": "daa9eb2e155248955978b1a70534c247f33725f541e7c76b8a1e7db66ed4a47e",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT047",
+      "prepared_member": "studies/WT047-kingdom-presence-temple-abiding.md",
+      "prepared_sha256": "428f7b32fc82d56f03195cb825196569064c21e7c6c733eb6c7e4c7fba037343",
+      "published_path": "knowledge/word-studies/studies/WT047-kingdom-presence-temple-abiding.md",
+      "published_sha256": "1d837797417b99acb4866bf22166929e5ee1e3ebc7c1054f8d18d5a2a965a38f",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT048",
+      "prepared_member": "studies/WT048-adoption-inheritance-seal-pledge.md",
+      "prepared_sha256": "3335b5850a15c3ac40bc9219a678fc5864b0da577bbbc4f96b6fda9bce68e19f",
+      "published_path": "knowledge/word-studies/studies/WT048-adoption-inheritance-seal-pledge.md",
+      "published_sha256": "4e85b186163a71df042ced4a0091497a0f3b6f5a261af7daa73368a4a7251f23",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT049",
+      "prepared_member": "studies/WT049-judgment-death-sheol-hades-gehenna-tartarus-abyss.md",
+      "prepared_sha256": "ba3ab4bc0f13466ae73ab415ab3d06388a835dcfbc284cc377fd76ad99257f08",
+      "published_path": "knowledge/word-studies/studies/WT049-judgment-death-sheol-hades-gehenna-tartarus-abyss.md",
+      "published_sha256": "e5421936598f44b1798f0a7c7dac42f551949fd9ab70b4b69f92c06d0520cacb",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    },
+    {
+      "entry_id": "WT050",
+      "prepared_member": "studies/WT050-marriage-one-flesh-desire-sexual-ethics.md",
+      "prepared_sha256": "085856bd98d16a6bdf2de4738dac9fc159261fbe9bc2800924e18815068dd0a8",
+      "published_path": "knowledge/word-studies/studies/WT050-marriage-one-flesh-desire-sexual-ethics.md",
+      "published_sha256": "70c4aae0bad45e6e1b2a85c3b7c17ada289935eb66c6a5fccd8ceee21eff46d1",
+      "change": "Replace the package-local lexical filename with a repository link; study prose unchanged."
+    }
+  ],
+  "structured_changes": [
+    "Remove internal Library IDs",
+    "Add verified repository book paths",
+    "Retain preparation hash separately from public book hashes",
+    "Reuse existing lexical records",
+    "Add bounded lookup index",
+    "Add English discovery aliases to the index; aliases return candidates rather than asserting equivalence"
+  ],
+  "not_published": [
+    "Private editorial correction log",
+    "Combined old draft",
+    "SQLite database",
+    "Processing/runtime scripts",
+    "Private Greek OT corpus"
+  ]
+}

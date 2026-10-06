@@ -8,8 +8,9 @@
   "private_or_pending": [
     "Rahlfs/CCAT source excluded",
     "Plugin code and skill instructions excluded",
-    "Project study drafts and unpublished editorial corrections excluded",
+    "Other unpublished study drafts and private editorial corrections excluded",
     "Swete ingestion/verification remains pending",
     "Reviewed cross-edition maps and live retrieval API remain pending"
-  ]
+  ],
+  "word_and_theme_studies": "50 enriched studies; lexical link adjusted, arguments unchanged; structured IDs and evidence preserved with public book locators and a checked lookup index."
 }

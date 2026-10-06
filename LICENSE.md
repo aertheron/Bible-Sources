@@ -11,5 +11,6 @@ The included sources retain their individual terms. See [ATTRIBUTION.md](ATTRIBU
 | SBLGNT text and apparatus | CC BY 4.0 |
 | Identified eBible Brenton Greek | Public domain as declared by the publisher |
 | ETCBC DSS and its derived exports | CC BY-NC 4.0 |
+| Original word/theme study prose | Published for this project; no blanket redistribution licence is assigned by this update. Cited source evidence retains its own terms. |
 
 No blanket permission here overrides a source's licence. Editorial notices, modern annotations and linked secondary resources must remain correctly attributed. The future plugin code will have its own repository and code-licence decision.

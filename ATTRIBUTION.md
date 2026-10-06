@@ -59,3 +59,7 @@ Changes consist of selecting entries, exposing original identifiers and locators
 ## Linked secondary resources
 
 BibleProject, Canonical Theology, Yale, Bible Odyssey and other listed resources retain their own rights. This repository contains links and short catalogue descriptions only; no complete articles, videos, transcripts or modern commentary corpora are reproduced.
+
+## Curated word and theme studies
+
+The 50 studies are original model-assisted material prepared for Mark Gatzen, with contextual translation guidance and biblical/canonical interpretation. See [the collection attribution](knowledge/word-studies/ATTRIBUTION.md) for source evidence, access/review claims and modifications. The collection reuses this repository's selected lexical records and adds selected SBLGNT/TAHOT evidence; their original terms remain in force. No complete linked articles or videos are mirrored.

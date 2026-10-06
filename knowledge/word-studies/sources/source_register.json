@@ -1,0 +1,481 @@
+[
+  {
+    "id": "CT-THEO",
+    "title": "Mark Gatzen: Theology references",
+    "url": "https://canonical-theology.com/theology-who-god-is-reference/",
+    "status": "Vocabulary headings and selected discussion read; source interpretation remains attributed.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "CT-CHRIST",
+    "title": "Mark Gatzen: Christology references",
+    "url": "https://canonical-theology.com/christology-who-jesus-christ-is-reference/",
+    "status": "Vocabulary headings and selected discussion read; source interpretation remains attributed.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "CT-PNEUMA",
+    "title": "Mark Gatzen: Pneumatology references",
+    "url": "https://canonical-theology.com/pneumatology-who-the-holy-spirit-is-reference/",
+    "status": "Vocabulary headings and selected discussion read; source interpretation remains attributed.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "CT-JUDGMENT",
+    "title": "Mark Gatzen: Relational De-Creation",
+    "url": "https://canonical-theology.com/relational-de-creation/",
+    "status": "Topic/term inventory and selected discussion read; not a completed evaluation of the full argument.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "CT-BAPTISM",
+    "title": "Mark Gatzen: Baptism as Covenant and New Creation",
+    "url": "https://canonical-theology.com/baptism-covenant-new-creation/",
+    "status": "Topic inventory and selected discussion read; not a completed evaluation of the full argument.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "CT-RELATIONS",
+    "title": "Mark Gatzen: Covenantal Relationships",
+    "url": "https://canonical-theology.com/covenantal-relationships/",
+    "status": "Term inventory and selected discussion read; not a completed evaluation of the full argument.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-SHEMA",
+    "title": "BibleProject: Shema / Listen",
+    "url": "https://bibleproject.com/videos/shema-listen/",
+    "status": "Landing page read; video not watched.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-YHWH",
+    "title": "BibleProject: YHWH / LORD",
+    "url": "https://bibleproject.com/videos/yhwh-lord/",
+    "status": "Landing page read; video not watched.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-AHAVAH",
+    "title": "BibleProject: Ahavah / Love",
+    "url": "https://bibleproject.com/videos/ahavah-love/",
+    "status": "Landing page read; video not watched.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-LEV",
+    "title": "BibleProject: Lev / Heart",
+    "url": "https://bibleproject.com/videos/lev-heart/",
+    "status": "Landing page read; video not watched.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-NEPHESH",
+    "title": "BibleProject: Nephesh / Soul",
+    "url": "https://bibleproject.com/videos/nephesh-soul/",
+    "status": "Landing page and official transcript accessed; video not watched.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-MEOD",
+    "title": "BibleProject: Meod / Strength",
+    "url": "https://bibleproject.com/videos/meod-strength/",
+    "status": "Landing page read; video not watched.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-HOPE",
+    "title": "BibleProject: Yakhal / Hope",
+    "url": "https://bibleproject.com/videos/yakhal-hope/",
+    "status": "Landing page read; video not watched.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-PEACE",
+    "title": "BibleProject: Shalom / Peace",
+    "url": "https://bibleproject.com/videos/shalom-peace/",
+    "status": "Landing page read; video not watched.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-JOY",
+    "title": "BibleProject: Chara / Joy",
+    "url": "https://bibleproject.com/videos/chara-joy/",
+    "status": "Landing page read; video not watched.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-AGAPE",
+    "title": "BibleProject: Agape / Love",
+    "url": "https://bibleproject.com/videos/agape-love/",
+    "status": "Landing page read; video not watched.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-COMPASSION",
+    "title": "BibleProject: Compassion",
+    "url": "https://bibleproject.com/videos/character-of-god-compassion/",
+    "status": "Landing page read; video not watched.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-GRACE",
+    "title": "BibleProject: Grace",
+    "url": "https://bibleproject.com/videos/character-of-god-grace/",
+    "status": "Catalogue title/link checked; individual page text unavailable; video not watched.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-ANGER",
+    "title": "BibleProject: Slow to Anger",
+    "url": "https://bibleproject.com/videos/slow-to-anger/",
+    "status": "Landing page read; video not watched.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-HESED",
+    "title": "BibleProject: Loyal Love",
+    "url": "https://bibleproject.com/videos/loyal-love/",
+    "status": "Landing page read; video not watched.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-EMET",
+    "title": "BibleProject: Faithfulness",
+    "url": "https://bibleproject.com/videos/faithful/",
+    "status": "Landing page read; video not watched.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-SIN",
+    "title": "BibleProject: Khata / Sin",
+    "url": "https://bibleproject.com/videos/khata-sin/",
+    "status": "Landing page read; video not watched.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-TRANSGRESSION",
+    "title": "BibleProject: Pesha / Transgression",
+    "url": "https://bibleproject.com/videos/pesha-transgression/",
+    "status": "Catalogue title/link checked; individual page text unavailable; video not watched.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-INIQUITY",
+    "title": "BibleProject: Avon / Iniquity",
+    "url": "https://bibleproject.com/videos/avon-iniquity/",
+    "status": "Catalogue title/link checked; individual page text unavailable; video not watched.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-GOSPEL",
+    "title": "BibleProject: Euangelion / Gospel",
+    "url": "https://bibleproject.com/videos/euangelion-gospel/",
+    "status": "Landing page read; video not watched.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-WITNESS",
+    "title": "BibleProject: Martus / Witness",
+    "url": "https://bibleproject.com/videos/martus-witness/",
+    "status": "Landing page read; video not watched.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-PASSOVER",
+    "title": "BibleProject: What Is Passover?",
+    "url": "https://bibleproject.com/videos/what-is-passover/",
+    "status": "Catalogue title/link and search excerpt checked; individual page text unavailable; video not watched.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-PSALM23",
+    "title": "BibleProject: Psalm 23 explainer",
+    "url": "https://bibleproject.com/articles/what-does-psalm-23-lord-my-shepherd-mean/",
+    "status": "Article page accessed as a vocabulary/context lead.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-GRACE-ARTICLE",
+    "title": "BibleProject: Biblical grace explainer",
+    "url": "https://bibleproject.com/articles/biblical-grace-and-a-generous-god/",
+    "status": "Article page read; verify the exact noun/adjective used in each cited passage.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-BADWORDS-ARTICLE",
+    "title": "BibleProject: Sin, iniquity, and transgression",
+    "url": "https://bibleproject.com/articles/sin-iniquity-and-transgression-in-the-bible/",
+    "status": "Article page read; distinguish actual lemmas from related roots and illustrations.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-METHOD",
+    "title": "BibleProject: Art of Biblical Words teacher notes",
+    "url": "https://documents.bibleproject.com/classroom/teacher-notes/art-of-biblical-words-teacher-notes.pdf",
+    "status": "PDF accessed for methodology; not reproduced in this file.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "BP-REDEMPTION",
+    "title": "BibleProject: Redemption guide",
+    "url": "https://bibleproject.com/guides/redemption/",
+    "status": "Guide accessed earlier as a passage-map lead.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "LEX-STEP",
+    "title": "STEP Bible: TBESH, TBESG, TFLSJ",
+    "url": "https://github.com/STEPBible/STEPBible-Data",
+    "status": "Selected Greek brief/full records inspected and exported; Hebrew identifiers retained, TBESH definition prose excluded. CC BY 4.0 with source notices; see ATTRIBUTION.md.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "LEX-OSHB",
+    "title": "Open Scriptures Hebrew Lexicon",
+    "url": "https://github.com/openscriptures/HebrewLexicon",
+    "status": "Selected LexicalIndex bindings and BDB outlines inspected and exported; homonyms and source editing status preserved. Incomplete transcription; TWOT prose not included.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "DICT-EASTON",
+    "title": "CCEL: Easton's Bible Dictionary (1897)",
+    "url": "https://ccel.org/ccel/easton/ebd2/ebd2",
+    "status": "1897 dictionary metadata and the Seal article inspected as limited background; no full dictionary imported; dated historical assertions not adopted automatically.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "USER-PRIORITIES",
+    "title": "User-specified study priorities",
+    "url": "",
+    "status": "Faith, works, salvation, sanctification, predestination, free will, and related questions selected in this conversation.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "TAHOT",
+    "title": "User-supplied full TAHOT master",
+    "url": null,
+    "status": "Selected word evidence and full-range presence checked; original locators and dStrong/morphology preserved.",
+    "sha256": "3278db0c0a917a3328db3dcf811fc664e3d3947d874b35cf1cce7527ce1ae97e",
+    "access_date": "2026-10-05",
+    "public_books_path": "sources/tahot/books/",
+    "publication_note": "Historical master hash retained; public verse locators verified against the published book files."
+  },
+  {
+    "id": "SBLGNT",
+    "title": "User-supplied SBLGNT: 27 separate clean main-text book files",
+    "url": "https://www.sblgnt.com/",
+    "status": "Selected contexts and exact forms inspected directly in separate book files; each verse preserves its file/line/hash locator. Greek lemma assignments are curated suggestions, not a full tagged concordance.",
+    "collection_manifest_sha256": "94dde6b61813614729319b2380d952633abeb20f7248fdc5cf18f438d3f991b2",
+    "book_file_hashes": {
+      "1Cor": {
+        "file": "1Cor.txt",
+        "sha256": "2a706bac29f1e34568bf6862cbc1616471511e9b915d7292adba3e93fb72c946",
+        "archive_member": "SBL Greek New Testament/1Cor.txt",
+        "repository_path": "sources/sblgnt/text/1Cor.txt"
+      },
+      "1John": {
+        "file": "1John.txt",
+        "sha256": "074201796600c23d79c0abd26621ed0046290d5f227f4aaea67ac425784094c5",
+        "archive_member": "SBL Greek New Testament/1John.txt",
+        "repository_path": "sources/sblgnt/text/1John.txt"
+      },
+      "1Pet": {
+        "file": "1Pet.txt",
+        "sha256": "9c847143fbecfb2c5d0fc35820f973efb749c04a9badae99eb8d9ac0cf3d2a6d",
+        "archive_member": "SBL Greek New Testament/1Pet.txt",
+        "repository_path": "sources/sblgnt/text/1Pet.txt"
+      },
+      "1Thess": {
+        "file": "1Thess.txt",
+        "sha256": "58b57d9b87ee994757a6bd425cfb8a12cecee9b3c7d0206286fdf2b089b44ccf",
+        "archive_member": "SBL Greek New Testament/1Thess.txt",
+        "repository_path": "sources/sblgnt/text/1Thess.txt"
+      },
+      "1Tim": {
+        "file": "1Tim.txt",
+        "sha256": "e4813e23b26b8b4763771b252cb41982d3af66abeead62f014e5f5f0a5323dcb",
+        "archive_member": "SBL Greek New Testament/1Tim.txt",
+        "repository_path": "sources/sblgnt/text/1Tim.txt"
+      },
+      "2Cor": {
+        "file": "2Cor.txt",
+        "sha256": "af6a60d5f851762c7ee22be6f15975e706a55cf24bd0b890d6ee9ab2ad74bd18",
+        "archive_member": "SBL Greek New Testament/2Cor.txt",
+        "repository_path": "sources/sblgnt/text/2Cor.txt"
+      },
+      "2John": {
+        "file": "2John.txt",
+        "sha256": "b2daf832c6f88d67ae0bdf2ecfbbb42309e330dc161f5b127c8939d5cb448bc7",
+        "archive_member": "SBL Greek New Testament/2John.txt",
+        "repository_path": "sources/sblgnt/text/2John.txt"
+      },
+      "2Pet": {
+        "file": "2Pet.txt",
+        "sha256": "7afd9df2ea451cc6b3d55984d12fcf8d8d159b5f3d40489b4ebd375dbac8aea0",
+        "archive_member": "SBL Greek New Testament/2Pet.txt",
+        "repository_path": "sources/sblgnt/text/2Pet.txt"
+      },
+      "2Thess": {
+        "file": "2Thess.txt",
+        "sha256": "c2a6922591a0282f5c07fe9fa47b8f38cd1aaf15b56eb9364aac91f5546f5822",
+        "archive_member": "SBL Greek New Testament/2Thess.txt",
+        "repository_path": "sources/sblgnt/text/2Thess.txt"
+      },
+      "2Tim": {
+        "file": "2Tim.txt",
+        "sha256": "eecea7f17f3493bb3e0d2d5922acf2ab10dae876156e0cbc395355c05f66d2bf",
+        "archive_member": "SBL Greek New Testament/2Tim.txt",
+        "repository_path": "sources/sblgnt/text/2Tim.txt"
+      },
+      "3John": {
+        "file": "3John.txt",
+        "sha256": "db0bfc024dfbafa4bf0c978d6f53186c35e6eb771058672ff4f1c31708db6c16",
+        "archive_member": "SBL Greek New Testament/3John.txt",
+        "repository_path": "sources/sblgnt/text/3John.txt"
+      },
+      "Acts": {
+        "file": "Acts.txt",
+        "sha256": "199867a92d9a1ef73abe85986e4489d4799bb187bdd22845f3c168c93cafa9c8",
+        "archive_member": "SBL Greek New Testament/Acts.txt",
+        "repository_path": "sources/sblgnt/text/Acts.txt"
+      },
+      "Col": {
+        "file": "Col.txt",
+        "sha256": "665ef40dbc19bacf2b2642aa0bfc265e3cfab3f37b5757ea1ff69bdaf968bd08",
+        "archive_member": "SBL Greek New Testament/Col.txt",
+        "repository_path": "sources/sblgnt/text/Col.txt"
+      },
+      "Eph": {
+        "file": "Eph.txt",
+        "sha256": "c15837d245dc849384a0be9f6c76de65590ffd496474f48c16822696ca024f6a",
+        "archive_member": "SBL Greek New Testament/Eph.txt",
+        "repository_path": "sources/sblgnt/text/Eph.txt"
+      },
+      "Gal": {
+        "file": "Gal.txt",
+        "sha256": "cea30996850efb7a24d5be03d5d1ea052f2200e292f8bdd190c57298bd8c2fb1",
+        "archive_member": "SBL Greek New Testament/Gal.txt",
+        "repository_path": "sources/sblgnt/text/Gal.txt"
+      },
+      "Heb": {
+        "file": "Heb.txt",
+        "sha256": "a89fa2a3a8f04e8bf6a9c71404a9c45fa0e32cff5b6942043e663d8c1f40cc93",
+        "archive_member": "SBL Greek New Testament/Heb.txt",
+        "repository_path": "sources/sblgnt/text/Heb.txt"
+      },
+      "Jas": {
+        "file": "Jas.txt",
+        "sha256": "1343ea4125c64585c738a2f8bf54a077947d0a6229b2642b39a1ad845f40e153",
+        "archive_member": "SBL Greek New Testament/Jas.txt",
+        "repository_path": "sources/sblgnt/text/Jas.txt"
+      },
+      "John": {
+        "file": "John.txt",
+        "sha256": "ada9643154a990ae2725ab847c6cfb576ce2c3bcd4945d47606e8a90c8d065f5",
+        "archive_member": "SBL Greek New Testament/John.txt",
+        "repository_path": "sources/sblgnt/text/John.txt"
+      },
+      "Jude": {
+        "file": "Jude.txt",
+        "sha256": "9d80e8332848395a7af425ebf30edd21c9c43f0f446489f648b65c652630b734",
+        "archive_member": "SBL Greek New Testament/Jude.txt",
+        "repository_path": "sources/sblgnt/text/Jude.txt"
+      },
+      "Luke": {
+        "file": "Luke.txt",
+        "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+        "archive_member": "SBL Greek New Testament/Luke.txt",
+        "repository_path": "sources/sblgnt/text/Luke.txt"
+      },
+      "Mark": {
+        "file": "Mark.txt",
+        "sha256": "fe1b5a4c15db71e7e30f33fb67966ca93baffae377085ece0b88f66316729638",
+        "archive_member": "SBL Greek New Testament/Mark.txt",
+        "repository_path": "sources/sblgnt/text/Mark.txt"
+      },
+      "Matt": {
+        "file": "Matt.txt",
+        "sha256": "4fa718540cbc6330591b233c99c68bbf52b85afc90016e4188efe5cd9719eeb0",
+        "archive_member": "SBL Greek New Testament/Matt.txt",
+        "repository_path": "sources/sblgnt/text/Matt.txt"
+      },
+      "Phil": {
+        "file": "Phil.txt",
+        "sha256": "c99e25ea7856fd7a3edb1055716869117c4cba4c15f07567ea22c0269e211b85",
+        "archive_member": "SBL Greek New Testament/Phil.txt",
+        "repository_path": "sources/sblgnt/text/Phil.txt"
+      },
+      "Phlm": {
+        "file": "Phlm.txt",
+        "sha256": "0b74d129888819be274cdcf239672f4688691ebab77c627521b5fcb185bea011",
+        "archive_member": "SBL Greek New Testament/Phlm.txt",
+        "repository_path": "sources/sblgnt/text/Phlm.txt"
+      },
+      "Rev": {
+        "file": "Rev.txt",
+        "sha256": "61419de7970661f8c481975c35b50e7c1df0422db0c6400d1ce2c6ade35da9f0",
+        "archive_member": "SBL Greek New Testament/Rev.txt",
+        "repository_path": "sources/sblgnt/text/Rev.txt"
+      },
+      "Rom": {
+        "file": "Rom.txt",
+        "sha256": "a919e44983ec633d541ec1084da79cfba1c1aa7f0eac6470c1ac7ec66cf774e8",
+        "archive_member": "SBL Greek New Testament/Rom.txt",
+        "repository_path": "sources/sblgnt/text/Rom.txt"
+      },
+      "Titus": {
+        "file": "Titus.txt",
+        "sha256": "8a7ff3511b7cbaaba481fe92b9aa716b8fd2abcc9d54829939c2fa3f836a2267",
+        "archive_member": "SBL Greek New Testament/Titus.txt",
+        "repository_path": "sources/sblgnt/text/Titus.txt"
+      }
+    },
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "LXX-SUPPLIED",
+    "title": "User-supplied Greek OT export; edition unresolved",
+    "url": null,
+    "status": "Lev 18:22 and 20:13 wording spot-checked for the proposed arsenokoitēs background; not an identified critical edition or independently collated witness.",
+    "sha256": "90d01f5fedda0e7b4e3c3b802329f9f8a0aa2fb112dfb016daaa099f0e979894",
+    "access_date": "2026-10-05",
+    "publication_note": "Historical preparation source pointer only; no Greek OT corpus or excerpt from this export is included. Use an identified permitted edition for shared studies."
+  },
+  {
+    "id": "SBLGNT-ORIGINAL-REPO",
+    "title": "Publisher SBLGNT source and apparatus at pinned commit",
+    "url": "https://github.com/Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "status": "Romans main text and apparatus checked to resolve the 16:25–27 main-text reference issue.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "DICT-EASTON-SEAL",
+    "title": "Easton's Seal entry (1897), via CCEL",
+    "url": "https://ccel.org/ccel/easton/ebd2.s.html?term=seal",
+    "status": "Entry inspected as limited historical background; no wholesale reproduction or current archaeology endorsement.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "LEX-BDB-NEPHESH",
+    "title": "BDB nephesh entry, separate display",
+    "url": "https://biblehub.com/bdb/5315.htm",
+    "status": "Individual historical lexical entry inspected; separate from site commentary.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "LEX-THAYER-PISTIS",
+    "title": "Thayer pistis entry, separate display",
+    "url": "https://biblehub.com/thayers/4102.htm",
+    "status": "Individual historical lexical entry inspected; interpretive preferences not treated as current consensus.",
+    "access_date": "2026-10-05"
+  },
+  {
+    "id": "LEX-THAYER-PSYCHE",
+    "title": "Thayer psychē entry, separate display",
+    "url": "https://biblehub.com/thayers/5590.htm",
+    "status": "Individual historical lexical entry inspected; doctrinal assertions require contextual assessment.",
+    "access_date": "2026-10-05"
+  }
+]

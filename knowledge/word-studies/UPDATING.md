@@ -1,0 +1,17 @@
+# Growing the study collection
+
+Add substantive studies as they are completed. Fifty is the starting collection, not a limit. Brief word definitions and unfinished chat drafts do not become completed studies merely because a term was mentioned.
+
+1. Check the catalogue and original lemmas first. Revise an existing entry if the same word family or theme is already covered. An English word shared by distinct original words does not justify merging their meanings.
+2. For a new study, allocate the next unused WT ID from the catalogue. The first addition after this initial release is WT051. Retain IDs permanently; do not renumber old studies. Use a readable filename such as `studies/WT051-topic-name.md`.
+3. Build the entry from the actual passage and source forms. Record lemma, morphology and construction where consequential; explain translation options, genre and literary/historical setting. Use cultural background with an attributed source and a proportionate claim.
+4. Trace a focused biblical and canonical development. Classify an explicit citation, probable allusion, thematic comparison and theological synthesis separately. Explain the project's preferred reading and its strongest relevant challenge. Word roots alone do not establish doctrine.
+5. Add the completed Markdown entry and its structured record. Link source IDs, lexical IDs, sense IDs and selected contexts. Preserve homonyms and original-word differences. Add missing source records with their actual terms and exact locators; never invent an identifier or transplant a definition from a near match.
+6. Use currently identified, permitted public text sources for new public evidence. Keep private Rahlfs and private source identifiers outside public files. Explain missing coverage rather than silently substituting an edition. Preserve biblical numbering and editorial markers.
+7. State what was checked, what remains inferential and what needs further review. Increase the entry version and update its date when its argument or evidence changes. Record a meaningful correction in CHANGELOG.md rather than silently changing a past conclusion. Do not mark an AI-assisted draft as independently peer reviewed.
+8. Update the JSONL records and source register, then regenerate the lookup index's IDs, aliases, paths, byte locations and checksums. Resolve every related study, context, sense and lexical link. Check quoted source forms against the named public book files and update the repository file manifest.
+9. Publish the finished addition as a separate commit with a short explanation of the new coverage or corrected argument. Preserve source licences and the scope distinction between an original study and a cited source. Completed entries can become default study guidance; their arguments remain open to correction.
+
+Normal retrieval still selects one or two relevant studies and up to six context pointers within a 12,000-character packet. Adding a study does not load the whole collection or expand translation permission. Translation remains one chapter plus at most five adjacent verses to finish a literary unit, spanning at most two adjacent chapters and never two complete chapters.
+
+The catalogue's existing English titles and English/Dutch aliases support simple discovery. Add further aliases when they help a reader find the right entry; a label or keyword match does not prove that every underlying term is equivalent.

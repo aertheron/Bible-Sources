@@ -1,0 +1,17 @@
+{
+  "published_date": "2026-10-06",
+  "entries": 50,
+  "sense_records": 58,
+  "context_ranges": 450,
+  "source_records_reused": 606,
+  "all_linked_ids_resolve": true,
+  "all_index_spans_checked": true,
+  "all_tahot_locators_resolve": true,
+  "tahot_source_locators_checked": 7075,
+  "selected_tahot_words_checked": 290,
+  "sblgnt_verse_records_checked": 1102,
+  "internal_file_ids_removed": true,
+  "private_greek_ot_text_included": false,
+  "study_argument_changes": "None; lexical link replacement only",
+  "independent_peer_review": false
+}

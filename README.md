@@ -1,6 +1,6 @@
 # Bible-Sources
 
-Public source data for AI-assisted Bible study, maintained by Mark Gatzen. This repository holds identified texts, linguistic data, source notes and retrieval indexes. Plugin skills, runtime code and private source configuration are maintained separately.
+Public source data for AI-assisted Bible study, maintained by Mark Gatzen. This repository holds identified texts, linguistic data, source notes, curated studies and retrieval indexes. Plugin skills, runtime code and private source configuration are maintained separately.
 
 ## Included sources
 
@@ -15,6 +15,10 @@ Public source data for AI-assisted Bible study, maintained by Mark Gatzen. This 
 | [Selected lexical data](sources/lexical/) | 606 attributed supporting records: 500 STEP records and 106 Open Scriptures bindings/outlines | CC BY 4.0; selected source data supporting the initial word-study vocabulary. Full upstream lexicons are identified by download URLs and hashes. TBESH definition/gloss prose is excluded. |
 
 See [source-specific attribution and terms](ATTRIBUTION.md). The DSS dataset retains its noncommercial condition; the repository does not grant one blanket licence over every source.
+
+## Curated study knowledge
+
+[Word and theme studies](knowledge/word-studies/) contains the first 50 enriched studies, with contextual translation keys, biblical/canonical development, source pointers and review status. These are original model-assisted study explanations, not another text edition or an independent manuscript witness. The collection can grow as further studies are completed; [the update process](knowledge/word-studies/UPDATING.md) retains stable IDs and a checked [lookup index](indexes/word-study-index.json).
 
 ## Retrieval layout
 
@@ -42,7 +46,7 @@ No Unicode normalization is applied during this repository preparation. Git text
 
 ## Sources kept elsewhere or pending
 
-The personal Rahlfs/CCAT export is excluded from this public repository. Swete remains pending corpus ingestion and verification. Plugin-specific study drafts, editorial corrections, skills and runtime code are not part of this data snapshot.
+The personal Rahlfs/CCAT export is excluded from this public repository. Swete remains pending corpus ingestion and verification. The 50 word/theme studies are published in the curated knowledge directory. Separate unpublished study drafts, private editorial corrections, skills and runtime code remain outside this snapshot.
 
 BibleProject and scholarly/contextual resources remain [attributed research links](resources/research-links.json), without mirroring their articles, videos or commentary collections. A link is a research lead, not a claim that every resource has been imported or reviewed.
 
