@@ -1,4 +1,4 @@
-# Canonical Scripture Study — MVP 0.1.1
+# Canonical Scripture Study — MVP 0.1.2
 
 *Study Scripture through its languages, context, and canonical story.*
 
@@ -30,7 +30,7 @@ Configure an MCP-capable host to start that environment's `bible-study-mcp` exec
 
 The intended study interface is a ChatGPT Work conversation. Once connected and installed, select **@Canonical Scripture Study** and ask for a passage study or a focused command. ChatGPT uses the skills to translate and explain the retrieved evidence.
 
-The code and local runtime are published; the ChatGPT connection and installation remain unfinished. Connection requires a reachable MCP service, using hosted HTTPS or a supported tunnel to the local server. No hosted endpoint, credentials or model API keys are included. Publishing these files does not replace the existing personal plugin or create a public Plugins Directory listing.
+The code and local runtime are published. A [free Cloudflare hosting package](cloudflare/) now supplies a native Worker, verified static source assets and a Streamable HTTP endpoint. Use its setup guide to deploy and then connect the actual HTTPS `/mcp` URL in ChatGPT. No live endpoint or completed ChatGPT installation is claimed. This hosting path needs no model API key; ChatGPT performs the study. Publishing these files does not replace the existing personal plugin or create a public Plugins Directory listing.
 
 ## Commands and continuation
 

@@ -10,6 +10,8 @@ Public source data and study software for AI-assisted Bible study, maintained by
 
 This public package is not yet a hosted ChatGPT connection or a public Plugins Directory listing. The runtime and skills are MIT licensed; source data retains its own terms.
 
+A [Cloudflare Workers Free deployment package](plugins/canonical-scripture-study/cloudflare/) is ready for an initial ChatGPT trial. It exposes the study tools and methodology through HTTPS after account-side deployment, with verified static evidence assets and no separate model API key. The setup guide distinguishes the initial MCP connection from installing the full skill bundle.
+
 ## Included sources
 
 | Source | Published material | Identity and terms |

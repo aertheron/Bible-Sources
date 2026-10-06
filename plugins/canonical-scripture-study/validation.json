@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "plugin_version": "0.1.1",
+  "plugin_version": "0.1.2",
   "checked_date": "2026-10-06",
   "source_commit": "df1ed50b4aa532c14c9587106b75693414aaa622",
   "core_behavior_tests": {
@@ -96,5 +96,59 @@
       "0.1.1 wheel distribution metadata and bundled source profile"
     ]
   },
-  "initial_mvp_validation_version": "0.1.0"
+  "initial_mvp_validation_version": "0.1.0",
+  "cloudflare_free_adapter": {
+    "runtime": "Native JavaScript Cloudflare Worker; Python CLI and stdio adapter retained",
+    "dependencies": {
+      "agents": "0.26.0",
+      "mcp_typescript_server": "2.0.0",
+      "wrangler": "4.147.0"
+    },
+    "worker_behavior_tests": 5,
+    "python_worker_parity_cases": 1921,
+    "parity_coverage": [
+      "1189 chapter boundaries",
+      "all 50 word studies",
+      "all selected lexical lookup IDs",
+      "source packets and codepoint token offsets",
+      "English/Dutch routing and Next",
+      "apparatus",
+      "DSS pagination and reconstruction/linguistic records",
+      "reading and stage validation"
+    ],
+    "protocol": "Streamable HTTP with legacy stateless compatibility; tested through the actual Worker handler in Node and local Wrangler/workerd",
+    "protocol_tools": 11,
+    "methodology_resources": 12,
+    "wrangler_deployment_dry_run": "passed; gzip bundle approximately 1.16 MiB",
+    "assets": {
+      "schema_version": "0.1.0",
+      "source_commit": "df1ed50b4aa532c14c9587106b75693414aaa622",
+      "metadata_verified": 103,
+      "source_spans_verified": 64104,
+      "asset_files": 13365,
+      "asset_bytes": 542831713,
+      "indexed_chapters": 4150,
+      "dss_physical_records": 23422,
+      "dss_passages": 8024,
+      "largest_asset_bytes": 782080,
+      "free_limits_checked": {
+        "asset_files": 20000,
+        "individual_asset_bytes": 26214400
+      },
+      "source_normalization": false,
+      "runtime_source_verification": "SHA-256 for each asset; original span pointers retained"
+    },
+    "paid_services_required": false,
+    "model_api_key_required": false,
+    "live_cloudflare_deployment": false,
+    "chatgpt_installation": false,
+    "live_free_plan_CPU_verified": false,
+    "limits": "Free allowance is 100,000 Worker requests/day and 10 ms CPU/invocation; live usage must be checked after deployment. Dense output may require smaller portions.",
+    "wrangler_local_mcp_smoke": "passed over local HTTP; no live Cloudflare account deployment"
+  },
+  "packaging_current_release": {
+    "version": "0.1.2",
+    "wheel_built": true,
+    "wheel_sha256": "d0808f0fc402efd9e6b8b2f4d04a2ece9acf2882613ee29ce41cd373383757d4"
+  }
 }

@@ -1,0 +1,21 @@
+{
+  "name": "canonical-scripture-study-worker",
+  "version": "0.1.2",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "prepare:data": "node scripts/build-data.mjs",
+    "dev": "npm run prepare:data && wrangler dev",
+    "build": "npm run prepare:data && wrangler deploy --dry-run",
+    "deploy": "npm run prepare:data && wrangler deploy",
+    "test": "npm run prepare:data && node --test tests/*.test.mjs",
+    "smoke": "node scripts/smoke.mjs"
+  },
+  "engines": {"node": ">=22"},
+  "dependencies": {
+    "@modelcontextprotocol/server": "2.0.0",
+    "agents": "0.26.0",
+    "zod": "4.4.3"
+  },
+  "devDependencies": {"wrangler": "4.147.0"}
+}

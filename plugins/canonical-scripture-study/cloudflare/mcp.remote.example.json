@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "canonical-scripture-study": {
+      "type": "streamable-http",
+      "url": "https://canonical-scripture-study.YOUR-SUBDOMAIN.workers.dev/mcp"
+    }
+  }
+}

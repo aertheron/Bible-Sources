@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.2 — 2026-10-06
+
+- Add native JavaScript hosting for Cloudflare Workers Free with verified Workers Static Assets; no paid service or model API binding.
+- Preserve the ten runtime operations and add a read-only instruction tool exposing the eight skills and four method references.
+- Prepare byte-preserved chapter spans and paged DSS verse assets from the existing pinned sources; exclude private Rahlfs and unmapped DSS routes.
+- Verify 1,921 Python/Worker behavior comparisons, integrity and scope guards, Streamable HTTP behavior and a Wrangler deployment dry run.
+- Document account-side deployment and ChatGPT connection; live hosting, free-plan CPU measurements and installation remain pending.
+
 ## 0.1.1 — 2026-10-06
 
 - Adopt Canonical Scripture Study and the approved subtitle.

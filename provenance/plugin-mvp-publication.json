@@ -2,7 +2,7 @@
   "schema_version": "0.1.0",
   "prepared_date": "2026-10-06",
   "plugin": "plugins/canonical-scripture-study",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "source_snapshot_commit": "df1ed50b4aa532c14c9587106b75693414aaa622",
   "authorization": "Public code and skills in Bible-Sources as requested by the repository owner.",
   "code_licence": "MIT for new plugin material; all source terms remain separate.",
@@ -25,5 +25,11 @@
     "plugin": "plugins/source-text-bible-study",
     "version": "0.1.0",
     "commit": "3a2196c7f51fe1a1e23c4a3387960e48e7a6df8d"
+  },
+  "hosting_preparation": {
+    "adapter": "plugins/canonical-scripture-study/cloudflare",
+    "plan": "Workers Free and free Workers Static Assets",
+    "live_endpoint_deployed": false,
+    "ChatGPT_installed": false
   }
 }

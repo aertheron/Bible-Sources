@@ -1,0 +1,62 @@
+// Works against Wrangler locally or the actual workers.dev endpoint after deployment.
+import assert from 'node:assert/strict';
+const endpoint = process.argv[2] ?? 'http://localhost:8787/mcp';
+const url = new URL(endpoint);
+if (!['localhost', '127.0.0.1', '[::1]'].includes(url.hostname) && url.protocol !== 'https:') throw Error('Use HTTPS for a public MCP endpoint.');
+let id = 0, version = '2025-06-18';
+async function rpc(method, params = {}, notification = false, extraHeaders = {}) {
+  const response = await fetch(endpoint, {method: 'POST', headers: {'Content-Type': 'application/json', Accept: 'application/json, text/event-stream', 'MCP-Protocol-Version': version, ...extraHeaders}, body: JSON.stringify({jsonrpc: '2.0', ...(notification ? {} : {id: ++id}), method, params}), signal: AbortSignal.timeout(30000)});
+  if (notification) {assert.ok(response.ok); return null;}
+  assert.equal(response.status, 200, await response.clone().text());
+  const text = await response.text();
+  const packet = response.headers.get('Content-Type')?.includes('text/event-stream')
+    ? text.split(/\r?\n\r?\n/).map(event => event.split(/\r?\n/).filter(line => line.startsWith('data:')).map(line => line.slice(5).trimStart()).join('\n')).filter(Boolean).map(JSON.parse).find(packet => packet.id === id)
+    : JSON.parse(text);
+  assert.ok(packet, 'Streamable HTTP response must contain the matching result.');
+  assert.equal(packet.id, id);
+  assert.ok(!packet.error, JSON.stringify(packet.error));
+  return packet.result;
+}
+async function tool(name, args = {}) {
+  const result = await rpc('tools/call', {name, arguments: args});
+  assert.deepEqual(JSON.parse(result.content[0].text), result.structuredContent);
+  return result;
+}
+const initialized = await rpc('initialize', {protocolVersion: version, capabilities: {}, clientInfo: {name: 'canonical-study-deployment-check', version: '0.1.0'}});
+version = initialized.protocolVersion;
+assert.equal(initialized.serverInfo.name, 'canonical-scripture-study');
+assert.ok(initialized.instructions.includes('Mark Gatzen'));
+await rpc('notifications/initialized', {}, true);
+const list = await rpc('tools/list');
+assert.equal(list.tools.length, 11);
+assert.ok(list.tools.every(t => t.annotations.readOnlyHint && !t.annotations.destructiveHint && t.outputSchema));
+const health = (await tool('study_health')).structuredContent;
+assert.equal(health.indexed_chapters, 4150);
+assert.equal(health.deployment.paid_services_required, false);
+const plan = (await tool('study_plan', {query: 'Translate Genesis 1-2, in Dutch, with original language interlinear'})).structuredContent;
+assert.equal(plan.reference, 'Genesis 1');
+const next = (await tool('study_plan', {query: 'Next', study_state: plan.continuation_state})).structuredContent;
+assert.deepEqual([next.reference, next.language, next.translation_format, next.mode], ['Genesis 2', 'nl', 'original_interlinear', 'translation_only']);
+const passage = (await tool('fetch_passage', {reference: 'Genesis 1:1-3', sources: ['WLC', 'LXX', 'TAHOT']})).structuredContent;
+assert.equal(passage.source_packets.length, 3);
+assert.ok(passage.source_packets.every(p => p.evidence.sha256 && p.records.length));
+const word = (await tool('lookup_word', {query: 'testing'})).structuredContent;
+assert.equal(word.entries[0].entry.id, 'WT008');
+const dss = (await tool('fetch_dss', {reference: 'Genesis 1:27'})).structuredContent;
+assert.equal(dss.total_records, 7);
+assert.equal(dss.records[0].metadata.letter_reconstruction, 'ALL_LETTER_SLOTS_RECONSTRUCTED');
+assert.equal(dss.records[0].linguistics.columns.length, 69);
+const bad = await tool('fetch_passage', {reference: 'Genesis 1:99'});
+assert.equal(bad.isError, true);
+assert.equal(bad.structuredContent.error.code, 'invalid_reference');
+const instructions = (await tool('get_study_instructions', {section: 'bible-translation'})).structuredContent;
+assert.ok(instructions.text.includes('translation'));
+const resources = await rpc('resources/list');
+assert.equal(resources.resources.length, 12);
+const resource = await rpc('resources/read', {uri: 'canonical-scripture-study://instructions/references/translation-key.md'});
+assert.ok(resource.contents[0].text.includes('Sheol'));
+const badOrigin = await fetch(endpoint, {method: 'POST', headers: {'Content-Type': 'application/json', Origin: 'https://unrelated.invalid'}, body: JSON.stringify({jsonrpc: '2.0', id: 999, method: 'tools/list'})});
+assert.equal(badOrigin.status, 403);
+const staticAttempt = await fetch(new URL('/spans/arbitrary.txt', endpoint));
+assert.equal(staticAttempt.status, 404);
+console.log(JSON.stringify({endpoint, protocol_version: version, tools: list.tools.length, resources: resources.resources.length, checked: ['initialization', 'schemas and read-only hints', 'verified passage retrieval', 'Next in Dutch interlinear mode', 'word study', 'DSS status and 69 linguistic columns', 'structured domain error', 'skill instructions', 'resource read', 'browser origin rejection', 'static paths unavailable through public routes']}, null, 2));
