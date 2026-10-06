@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.1 — 2026-10-06
+
+- Adopt Canonical Scripture Study and the approved subtitle.
+- Rename the package, catalogue entry, MCP identity and setup paths consistently.
+- Clarify that the intended study interface is ChatGPT and installation remains unfinished.
+- Preserve all source datasets, study commands and evidence contracts.
+
 ## 0.1.0 — 2026-10-06
 
 - Publish eight modular study skills and a dependency-free, pinned source retrieval CLI.

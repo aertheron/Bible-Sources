@@ -1,12 +1,12 @@
 {
   "schema_version": "0.1.0",
   "prepared_date": "2026-10-06",
-  "plugin": "plugins/source-text-bible-study",
-  "version": "0.1.0",
+  "plugin": "plugins/canonical-scripture-study",
+  "version": "0.1.1",
   "source_snapshot_commit": "df1ed50b4aa532c14c9587106b75693414aaa622",
   "authorization": "Public code and skills in Bible-Sources as requested by the repository owner.",
   "code_licence": "MIT for new plugin material; all source terms remain separate.",
-  "validation": "plugins/source-text-bible-study/validation.json",
+  "validation": "plugins/canonical-scripture-study/validation.json",
   "preservation": "Original source texts, indexes and curated study records unchanged. A stale lexical README was corrected to reflect the existing public studies.",
   "private_sources_excluded": [
     "personal Rahlfs/CCAT export"
@@ -17,5 +17,13 @@
     "exact project claim profile",
     "wider canonical/default-explanation dossiers",
     "further contextual lexical keys and scholarly curation"
-  ]
+  ],
+  "display_name": "Canonical Scripture Study",
+  "subtitle": "Study Scripture through its languages, context, and canonical story.",
+  "initial_publication": {
+    "display_name": "Source Text Bible Study Teacher",
+    "plugin": "plugins/source-text-bible-study",
+    "version": "0.1.0",
+    "commit": "3a2196c7f51fe1a1e23c4a3387960e48e7a6df8d"
+  }
 }

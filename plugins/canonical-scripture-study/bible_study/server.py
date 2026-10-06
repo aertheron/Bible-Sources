@@ -14,7 +14,7 @@ def build_server():
         from mcp.types import ToolAnnotations
     except ImportError as e:
         raise SystemExit('Install the optional adapter with: pip install ".[mcp]"') from e
-    server = MCPServer("source-text-bible-study", version=__version__)
+    server = MCPServer("canonical-scripture-study", version=__version__)
     annotations = ToolAnnotations(read_only_hint=True, destructive_hint=False, idempotent_hint=True, open_world_hint=True)
 
     @lru_cache(maxsize=1)

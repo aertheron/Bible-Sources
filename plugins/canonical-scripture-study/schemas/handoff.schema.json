@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/aertheron/Bible-Sources/blob/main/plugins/source-text-bible-study/schemas/handoff.schema.json",
+  "$id": "https://github.com/aertheron/Bible-Sources/blob/main/plugins/canonical-scripture-study/schemas/handoff.schema.json",
   "title": "Bible study stage handoff 0.1.0",
   "type": "object",
   "properties": {

@@ -14,7 +14,7 @@ def load_json(filename):
 
 
 def main(argv=None):
-    p = argparse.ArgumentParser(description="Source Text Bible Study Teacher: bounded JSON retrieval and study planning.")
+    p = argparse.ArgumentParser(description="Canonical Scripture Study: bounded JSON retrieval and study planning.")
     p.add_argument("--data-root"); p.add_argument("--cache-root"); p.add_argument("--offline", action="store_true", default=None)
     sub = p.add_subparsers(dest="command", required=True)
     sub.add_parser("health")

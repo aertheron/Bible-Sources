@@ -4,7 +4,9 @@ Public source data and study software for AI-assisted Bible study, maintained by
 
 ## Study plugin
 
-The [Source Text Bible Study Teacher MVP](plugins/source-text-bible-study/) includes eight modular skills, a pinned source retrieval CLI, an optional read-only local MCP server, study commands and three translation formats. It combines biblical theology, canonical theology and contextual working translation, with explicit textual evidence and a correctable working-theology framework. Larger requests become sequential portions with **Next**, preserving language, mode and format. See its README for setup, examples, checks and remaining limitations.
+*Study Scripture through its languages, context, and canonical story.*
+
+[Canonical Scripture Study](plugins/canonical-scripture-study/) includes eight modular skills, a pinned source retrieval CLI, an optional read-only local MCP server, study commands and three translation formats. It combines biblical theology, canonical theology and contextual working translation, with explicit textual evidence and a correctable working-theology framework. Larger requests become sequential portions with **Next**, preserving language, mode and format. See its README for setup, examples, checks and remaining limitations.
 
 This public package is not yet a hosted ChatGPT connection or a public Plugins Directory listing. The runtime and skills are MIT licensed; source data retains its own terms.
 

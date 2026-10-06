@@ -1,4 +1,6 @@
-# Source Text Bible Study Teacher — MVP 0.1.0
+# Canonical Scripture Study — MVP 0.1.1
+
+*Study Scripture through its languages, context, and canonical story.*
 
 A public, inspectable Bible study plugin combining biblical theology, canonical theology and contextual working translation. Eight skills guide the host model; a Python runtime supplies pinned, hash-verified passages and bounded knowledge packets. The runtime does not generate translations by replacing dictionary words.
 
@@ -7,17 +9,17 @@ A public, inspectable Bible study plugin combining biblical theology, canonical 
 Python 3.10 or later is required. From the repository root, the core CLI works without installing dependencies:
 
 ```bash
-python3 plugins/source-text-bible-study/scripts/bible.py health
-python3 plugins/source-text-bible-study/scripts/bible.py plan 'Full study Romans 12:1-2, in Dutch, with original language interlinear'
-python3 plugins/source-text-bible-study/scripts/bible.py passage 'Genesis 1:1-3' --sources WLC LXX TAHOT
-python3 plugins/source-text-bible-study/scripts/bible.py dss 'Genesis 1:27' --limit 1
-python3 plugins/source-text-bible-study/scripts/bible.py word testing
+python3 plugins/canonical-scripture-study/scripts/bible.py health
+python3 plugins/canonical-scripture-study/scripts/bible.py plan 'Full study Romans 12:1-2, in Dutch, with original language interlinear'
+python3 plugins/canonical-scripture-study/scripts/bible.py passage 'Genesis 1:1-3' --sources WLC LXX TAHOT
+python3 plugins/canonical-scripture-study/scripts/bible.py dss 'Genesis 1:27' --limit 1
+python3 plugins/canonical-scripture-study/scripts/bible.py word testing
 ```
 
 For the optional local MCP server:
 
 ```bash
-cd plugins/source-text-bible-study
+cd plugins/canonical-scripture-study
 python3 -m venv .venv
 # Activate this environment using the command for your operating system.
 python3 -m pip install '.[mcp]'
@@ -26,7 +28,9 @@ bible-study-mcp
 
 Configure an MCP-capable host to start that environment's `bible-study-mcp` executable. Its standard input/output is the protocol; use the CLI for ordinary terminal JSON. The portable [plugin manifest](plugin.json), [MCP configuration](mcp.json), eight `skills/` folders and repository marketplace catalogue support package discovery on compatible surfaces. For a different Python environment, adjust the host's executable path. Installing the Python wheel installs the retrieval runtime; obtain the full repository plugin folder to use the skills and manifest.
 
-This is a public package and working local runtime, not a deployed ChatGPT web connection or a public Plugins Directory listing. A cloud-only host needs a hosted HTTPS MCP adapter or an authorized Python execution environment. No hosted endpoint, credentials or model API keys are included. The existing personal plugin is not automatically replaced by publishing these files.
+The intended study interface is a ChatGPT Work conversation. Once connected and installed, select **@Canonical Scripture Study** and ask for a passage study or a focused command. ChatGPT uses the skills to translate and explain the retrieved evidence.
+
+The code and local runtime are published; the ChatGPT connection and installation remain unfinished. Connection requires a reachable MCP service, using hosted HTTPS or a supported tunnel to the local server. No hosted endpoint, credentials or model API keys are included. Publishing these files does not replace the existing personal plugin or create a public Plugins Directory listing.
 
 ## Commands and continuation
 

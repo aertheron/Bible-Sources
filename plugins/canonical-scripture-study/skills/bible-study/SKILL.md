@@ -1,9 +1,9 @@
 ---
 name: bible-study
-description: "Plan and route source-grounded Bible study combining biblical theology, canonical theology and working translation. Use for a Bible reference, full study, focused study command, Next/next chapter, or selection of translation format in this plugin."
+description: "Plan and route source-grounded Bible study combining biblical theology, canonical theology and working translation. Use for a Bible reference, full study, focused study command, Next/next chapter, or selection of translation format in the Canonical Scripture Study plugin."
 ---
 
-# Bible study
+# Canonical Scripture Study
 
 Resolve the user's command with study_plan or the CLI plan. For a bare passage, start with a concise plan and initial literary/contextual orientation. For an explicit command, complete that task without forcing all the prose of a full study. Normalize ordinary phrasing into the documented command when necessary.
 

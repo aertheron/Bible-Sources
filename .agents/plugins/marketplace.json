@@ -5,10 +5,10 @@
   },
   "plugins": [
     {
-      "name": "source-text-bible-study",
+      "name": "canonical-scripture-study",
       "source": {
         "source": "local",
-        "path": "./plugins/source-text-bible-study"
+        "path": "./plugins/canonical-scripture-study"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -18,4 +18,3 @@
     }
   ]
 }
-

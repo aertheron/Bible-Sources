@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "plugin_version": "0.1.0",
+  "plugin_version": "0.1.1",
   "checked_date": "2026-10-06",
   "source_commit": "df1ed50b4aa532c14c9587106b75693414aaa622",
   "core_behavior_tests": {
@@ -82,5 +82,19 @@
     "Cross-edition verse equivalence, exact macro-variant witness spans and complete website claim profile remain to be reviewed.",
     "No full critical manuscript apparatus or exhaustive Greek lemma/concordance layer.",
     "No hosted HTTPS deployment or public directory listing."
-  ]
+  ],
+  "identity_update": {
+    "display_name": "Canonical Scripture Study",
+    "subtitle": "Study Scripture through its languages, context, and canonical story.",
+    "scope": "Identity and documentation update; study behavior and source contracts unchanged.",
+    "checked": [
+      "32 core behavior tests",
+      "portable plugin and MCP schemas",
+      "marketplace path and name",
+      "eight skill references and UI metadata",
+      "MCP initialization as canonical-scripture-study with ten read-only tools",
+      "0.1.1 wheel distribution metadata and bundled source profile"
+    ]
+  },
+  "initial_mvp_validation_version": "0.1.0"
 }

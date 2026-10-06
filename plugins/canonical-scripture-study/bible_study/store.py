@@ -8,6 +8,7 @@ from pathlib import Path, PurePosixPath
 import tempfile
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
+from . import __version__
 
 
 class StudyError(ValueError):
@@ -41,7 +42,7 @@ class SourceStore:
         else:
             checkout = Path(__file__).resolve().parents[3]
             self.root = checkout if (checkout / "indexes/book-catalog.json").is_file() else None
-        self.cache = Path(cache_root or os.environ.get("BIBLE_STUDY_CACHE", "~/.cache/source-text-bible-study")).expanduser() / self.profile["commit"]
+        self.cache = Path(cache_root or os.environ.get("BIBLE_STUDY_CACHE", "~/.cache/canonical-scripture-study")).expanduser() / self.profile["commit"]
         self.offline = os.environ.get("BIBLE_STUDY_OFFLINE") == "1" if offline is None else offline
         self._metadata = {}
 
@@ -82,7 +83,7 @@ class SourceStore:
             return self.verify(cached.read_bytes(), expected)
         if self.offline:
             raise StudyError("offline_cache_miss", f"Pinned source is not cached: {path}")
-        headers = {"User-Agent": "source-text-bible-study/0.1.0"}
+        headers = {"User-Agent": f"canonical-scripture-study/{__version__}"}
         if offset is not None:
             headers["Range"] = f"bytes={offset}-{offset + length - 1}"
         url = f"https://raw.githubusercontent.com/{self.profile['repository']}/{self.profile['commit']}/{path}"

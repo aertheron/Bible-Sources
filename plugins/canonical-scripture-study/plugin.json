@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
-  "name": "source-text-bible-study",
-  "version": "0.1.0",
-  "description": "Contextual working translation and biblical/canonical study with explicit textual evidence.",
+  "name": "canonical-scripture-study",
+  "version": "0.1.1",
+  "description": "Study Scripture through its languages, context, and canonical story.",
   "author": {
     "name": "Mark Gatzen",
     "url": "https://canonical-theology.com"
@@ -19,8 +19,8 @@
   "extensions": {
     "com.openai": {
       "interface": {
-        "displayName": "Source Text Bible Study Teacher",
-        "shortDescription": "Source-grounded biblical and canonical study",
+        "displayName": "Canonical Scripture Study",
+        "shortDescription": "Study Scripture through its languages, context, and canonical story.",
         "longDescription": "Working translations, exegesis, word studies, canonical trajectories and explicit manuscript reconstruction evidence.",
         "developerName": "Mark Gatzen",
         "category": "Productivity",
@@ -37,4 +37,3 @@
     }
   }
 }
-
