@@ -1,0 +1,53 @@
+{
+  "schema_version": "0.1.0",
+  "study_id": "example-matt6",
+  "stage": "fetch_align",
+  "reference": "Matthew 6:13",
+  "language": "en",
+  "translation_format": "plain_working",
+  "depends_on": [],
+  "evidence": [
+    {
+      "id": "SBLGNT-Matt6",
+      "locator": "SBLGNT Matthew 6:13",
+      "repository": "aertheron/Bible-Sources",
+      "source_commit": "df1ed50b4aa532c14c9587106b75693414aaa622",
+      "file": "sources/sblgnt/text/Matt.txt",
+      "byte_offset": 31430,
+      "byte_length": 7919,
+      "sha256": "50dffdf999b146dfd72f51d11a4c8adbfa899fa2d72678a27a3170e01558d29e"
+    }
+  ],
+  "payload": {
+    "source_packets": [
+      {
+        "dataset_id": "SBLGNT",
+        "native_book": "Matt",
+        "chapter": 6,
+        "evidence": {
+          "repository": "aertheron/Bible-Sources",
+          "source_commit": "df1ed50b4aa532c14c9587106b75693414aaa622",
+          "file": "sources/sblgnt/text/Matt.txt",
+          "byte_offset": 31430,
+          "byte_length": 7919,
+          "sha256": "50dffdf999b146dfd72f51d11a4c8adbfa899fa2d72678a27a3170e01558d29e"
+        },
+        "records": [
+          {
+            "id": "SBLGNT:Matt:6:13",
+            "chapter": 6,
+            "verse": 13,
+            "native_reference": "Matt 6:13",
+            "text": "καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν, ἀλλὰ ῥῦσαι ἡμᾶς ἀπὸ τοῦ ⸀πονηροῦ. "
+          }
+        ],
+        "coverage_status": "indexed_source_span_verified",
+        "source": "SBLGNT"
+      }
+    ],
+    "alignment_status": "native_number_candidate_retrieval_not_verified_verse_equivalence"
+  },
+  "uncertainties": [
+    "The base text alone does not establish the full variant evidence."
+  ]
+}

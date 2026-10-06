@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bible Source Retrieval"
+  short_description: "Fetch identified, bounded source passages"
+  default_prompt: "Use $bible-source-retrieval to study the requested passage or question."

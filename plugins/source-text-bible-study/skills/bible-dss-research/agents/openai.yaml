@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dead Sea Scrolls Research"
+  short_description: "Read marked DSS records and linguistic data"
+  default_prompt: "Use $bible-dss-research to study the requested passage or question."

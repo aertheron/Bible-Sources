@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bible Exegesis"
+  short_description: "Explain context and canonical development"
+  default_prompt: "Use $bible-exegesis to study the requested passage or question."

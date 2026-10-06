@@ -1,0 +1,27 @@
+{
+  "schema_version": "0.1.0",
+  "aliases": {
+    "testing": [
+      "WT008"
+    ],
+    "trial": [
+      "WT008"
+    ],
+    "trials": [
+      "WT008"
+    ],
+    "temptation": [
+      "WT008"
+    ],
+    "tempt": [
+      "WT008"
+    ],
+    "beproeving": [
+      "WT008"
+    ],
+    "verzoeking": [
+      "WT008"
+    ]
+  }
+}
+

@@ -1,0 +1,1432 @@
+{
+  "schema_version": "0.1.0",
+  "route_status": "book_identity_only_native_verse_equivalence_not_verified",
+  "books": {
+    "Gen": {
+      "name": "Genesis",
+      "testament": "OT",
+      "aliases": [
+        "Genesis",
+        "Gen"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Gen"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Gen"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Gen"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "GEN"
+        ]
+      },
+      "dss_book": "Gen"
+    },
+    "Exod": {
+      "name": "Exodus",
+      "testament": "OT",
+      "aliases": [
+        "Exodus",
+        "Exo"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Exod"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Exod"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Exo"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "EXO"
+        ]
+      },
+      "dss_book": "Ex"
+    },
+    "Lev": {
+      "name": "Leviticus",
+      "testament": "OT",
+      "aliases": [
+        "Leviticus",
+        "Lev"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Lev"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Lev"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Lev"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "LEV"
+        ]
+      },
+      "dss_book": "Lev"
+    },
+    "Num": {
+      "name": "Numbers",
+      "testament": "OT",
+      "aliases": [
+        "Numeri",
+        "Num",
+        "Numbers"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Num"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Num"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Num"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "NUM"
+        ]
+      },
+      "dss_book": "Num"
+    },
+    "Deut": {
+      "name": "Deuteronomy",
+      "testament": "OT",
+      "aliases": [
+        "Deuteronomium",
+        "Deu",
+        "Deuteronomy"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Deut"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Deut"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Deu"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "DEU"
+        ]
+      },
+      "dss_book": "Deut"
+    },
+    "Josh": {
+      "name": "Joshua",
+      "testament": "OT",
+      "aliases": [
+        "Jozua",
+        "Jos",
+        "Joshua"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Josh"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Josh"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Jos"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "JOS"
+        ]
+      },
+      "dss_book": "Josh"
+    },
+    "Judg": {
+      "name": "Judges",
+      "testament": "OT",
+      "aliases": [
+        "Rechters",
+        "Jdg",
+        "Judges"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Judg"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Judg"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Jdg"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "JDG"
+        ]
+      },
+      "dss_book": "Judg"
+    },
+    "Ruth": {
+      "name": "Ruth",
+      "testament": "OT",
+      "aliases": [
+        "Ruth",
+        "Rut"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Ruth"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Ruth"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Rut"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "RUT"
+        ]
+      },
+      "dss_book": "Ruth"
+    },
+    "1Sam": {
+      "name": "1 Samuel",
+      "testament": "OT",
+      "aliases": [
+        "1 Samuel",
+        "1Sa"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "1Sam"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "1Sam"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "1Sa"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "1SA"
+        ]
+      },
+      "dss_book": "1Sam"
+    },
+    "2Sam": {
+      "name": "2 Samuel",
+      "testament": "OT",
+      "aliases": [
+        "2 Samuel",
+        "2Sa"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "2Sam"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "2Sam"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "2Sa"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "2SA"
+        ]
+      },
+      "dss_book": "2Sam"
+    },
+    "1Kgs": {
+      "name": "1 Kings",
+      "testament": "OT",
+      "aliases": [
+        "1 Koningen",
+        "1Ki",
+        "1 Kings"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "1Kgs"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "1Kgs"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "1Ki"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "1KI"
+        ]
+      },
+      "dss_book": "1Kgs"
+    },
+    "2Kgs": {
+      "name": "2 Kings",
+      "testament": "OT",
+      "aliases": [
+        "2 Koningen",
+        "2Ki",
+        "2 Kings"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "2Kgs"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "2Kgs"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "2Ki"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "2KI"
+        ]
+      },
+      "dss_book": "2Kgs"
+    },
+    "1Chr": {
+      "name": "1 Chronicles",
+      "testament": "OT",
+      "aliases": [
+        "1 Kronieken",
+        "1Ch",
+        "1 Chronicles"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "1Chr"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "1Chr"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "1Ch"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "1CH"
+        ]
+      },
+      "dss_book": "1Chr"
+    },
+    "2Chr": {
+      "name": "2 Chronicles",
+      "testament": "OT",
+      "aliases": [
+        "2 Kronieken",
+        "2Ch",
+        "2 Chronicles"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "2Chr"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "2Chr"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "2Ch"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "2CH"
+        ]
+      },
+      "dss_book": "2Chr"
+    },
+    "Ezra": {
+      "name": "Ezra",
+      "testament": "OT",
+      "aliases": [
+        "Ezra",
+        "Ezr"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Ezra"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Ezra"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Ezr"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "EZR"
+        ]
+      },
+      "dss_book": "Ezra"
+    },
+    "Neh": {
+      "name": "Nehemiah",
+      "testament": "OT",
+      "aliases": [
+        "Nehemia",
+        "Neh",
+        "Nehemiah"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Neh"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Neh"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Neh"
+        ]
+      },
+      "dss_book": "Neh"
+    },
+    "Esth": {
+      "name": "Esther",
+      "testament": "OT",
+      "aliases": [
+        "Ester",
+        "Est",
+        "Esther"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Esth"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Esth"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Est"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "ESG"
+        ]
+      },
+      "dss_book": "Est"
+    },
+    "Job": {
+      "name": "Job",
+      "testament": "OT",
+      "aliases": [
+        "Job"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Job"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Job"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Job"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "JOB"
+        ]
+      },
+      "dss_book": "Job"
+    },
+    "Ps": {
+      "name": "Psalms",
+      "testament": "OT",
+      "aliases": [
+        "Psalmen",
+        "Psa",
+        "Psalm"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Ps"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Ps"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Psa"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "PSA"
+        ]
+      },
+      "dss_book": "Ps"
+    },
+    "Prov": {
+      "name": "Proverbs",
+      "testament": "OT",
+      "aliases": [
+        "Spreuken",
+        "Pro",
+        "Proverbs"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Prov"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Prov"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Pro"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "PRO"
+        ]
+      },
+      "dss_book": "Prov"
+    },
+    "Eccl": {
+      "name": "Ecclesiastes",
+      "testament": "OT",
+      "aliases": [
+        "Prediker",
+        "Ecc",
+        "Ecclesiastes"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Eccl"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Eccl"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Ecc"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "ECC"
+        ]
+      },
+      "dss_book": "Eccl"
+    },
+    "Song": {
+      "name": "Song of Songs",
+      "testament": "OT",
+      "aliases": [
+        "Hooglied",
+        "Sng",
+        "Song of Songs"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Song"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Song"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Sng"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "SNG"
+        ]
+      },
+      "dss_book": "Song"
+    },
+    "Isa": {
+      "name": "Isaiah",
+      "testament": "OT",
+      "aliases": [
+        "Jesaja",
+        "Isa",
+        "Isaiah"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Isa"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Isa"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Isa"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "ISA"
+        ]
+      },
+      "dss_book": "Is"
+    },
+    "Jer": {
+      "name": "Jeremiah",
+      "testament": "OT",
+      "aliases": [
+        "Jeremia",
+        "Jer",
+        "Jeremiah"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Jer"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Jer"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Jer"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "JER"
+        ]
+      },
+      "dss_book": "Jer"
+    },
+    "Lam": {
+      "name": "Lamentations",
+      "testament": "OT",
+      "aliases": [
+        "Klaagliederen",
+        "Lam",
+        "Lamentations"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Lam"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Lam"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Lam"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "LAM"
+        ]
+      },
+      "dss_book": "Lam"
+    },
+    "Ezek": {
+      "name": "Ezekiel",
+      "testament": "OT",
+      "aliases": [
+        "Ezechiël",
+        "Ezk",
+        "Ezekiel"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Ezek"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Ezek"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Ezk"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "EZK"
+        ]
+      },
+      "dss_book": "Ezek"
+    },
+    "Dan": {
+      "name": "Daniel",
+      "testament": "OT",
+      "aliases": [
+        "Daniël",
+        "Dan",
+        "Daniel"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Dan"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Dan"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Dan"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "DAG"
+        ]
+      },
+      "dss_book": "Dan"
+    },
+    "Hos": {
+      "name": "Hosea",
+      "testament": "OT",
+      "aliases": [
+        "Hosea",
+        "Hos"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Hos"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Hos"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Hos"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "HOS"
+        ]
+      },
+      "dss_book": "Hos"
+    },
+    "Joel": {
+      "name": "Joel",
+      "testament": "OT",
+      "aliases": [
+        "Joël",
+        "Jol",
+        "Joel"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Joel"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Joel"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Jol"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "JOL"
+        ]
+      },
+      "dss_book": "Joel"
+    },
+    "Amos": {
+      "name": "Amos",
+      "testament": "OT",
+      "aliases": [
+        "Amos",
+        "Amo"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Amos"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Amos"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Amo"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "AMO"
+        ]
+      },
+      "dss_book": "Amos"
+    },
+    "Obad": {
+      "name": "Obadiah",
+      "testament": "OT",
+      "aliases": [
+        "Obadja",
+        "Oba",
+        "Obadiah"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Obad"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Obad"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Oba"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "OBA"
+        ]
+      },
+      "dss_book": "Obad"
+    },
+    "Jonah": {
+      "name": "Jonah",
+      "testament": "OT",
+      "aliases": [
+        "Jona",
+        "Jon",
+        "Jonah"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Jonah"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Jonah"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Jon"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "JON"
+        ]
+      },
+      "dss_book": "Jonah"
+    },
+    "Mic": {
+      "name": "Micah",
+      "testament": "OT",
+      "aliases": [
+        "Micha",
+        "Mic",
+        "Micah"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Mic"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Mic"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Mic"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "MIC"
+        ]
+      },
+      "dss_book": "Mic"
+    },
+    "Nah": {
+      "name": "Nahum",
+      "testament": "OT",
+      "aliases": [
+        "Nahum",
+        "Nam"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Nah"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Nah"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Nam"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "NAM"
+        ]
+      },
+      "dss_book": "Nah"
+    },
+    "Hab": {
+      "name": "Habakkuk",
+      "testament": "OT",
+      "aliases": [
+        "Habakuk",
+        "Hab",
+        "Habakkuk"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Hab"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Hab"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Hab"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "HAB"
+        ]
+      },
+      "dss_book": "Hab"
+    },
+    "Zeph": {
+      "name": "Zephaniah",
+      "testament": "OT",
+      "aliases": [
+        "Sefanja",
+        "Zep",
+        "Zephaniah"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Zeph"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Zeph"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Zep"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "ZEP"
+        ]
+      },
+      "dss_book": "Zeph"
+    },
+    "Hag": {
+      "name": "Haggai",
+      "testament": "OT",
+      "aliases": [
+        "Haggai",
+        "Hag"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Hag"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Hag"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Hag"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "HAG"
+        ]
+      },
+      "dss_book": "Hag"
+    },
+    "Zech": {
+      "name": "Zechariah",
+      "testament": "OT",
+      "aliases": [
+        "Zacharia",
+        "Zec",
+        "Zechariah"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Zech"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Zech"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Zec"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "ZEC"
+        ]
+      },
+      "dss_book": "Zech"
+    },
+    "Mal": {
+      "name": "Malachi",
+      "testament": "OT",
+      "aliases": [
+        "Maleachi",
+        "Mal",
+        "Malachi"
+      ],
+      "routes": {
+        "WLC": [
+          "wlc-4.20-oshb",
+          "Mal"
+        ],
+        "UXLC": [
+          "uxlc-2.4",
+          "Mal"
+        ],
+        "TAHOT": [
+          "TAHOT",
+          "Mal"
+        ],
+        "LXX": [
+          "LXX-GRCBRENT-20260408",
+          "MAL"
+        ]
+      },
+      "dss_book": "Mal"
+    },
+    "Matt": {
+      "name": "Matthew",
+      "testament": "NT",
+      "aliases": [
+        "Matteüs"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "Matt"
+        ]
+      }
+    },
+    "Mark": {
+      "name": "Mark",
+      "testament": "NT",
+      "aliases": [
+        "Marcus"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "Mark"
+        ]
+      }
+    },
+    "Luke": {
+      "name": "Luke",
+      "testament": "NT",
+      "aliases": [
+        "Lucas"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "Luke"
+        ]
+      }
+    },
+    "John": {
+      "name": "John",
+      "testament": "NT",
+      "aliases": [
+        "Johannes"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "John"
+        ]
+      }
+    },
+    "Acts": {
+      "name": "Acts",
+      "testament": "NT",
+      "aliases": [
+        "Handelingen"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "Acts"
+        ]
+      }
+    },
+    "Rom": {
+      "name": "Romans",
+      "testament": "NT",
+      "aliases": [
+        "Romeinen"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "Rom"
+        ]
+      }
+    },
+    "1Cor": {
+      "name": "1 Corinthians",
+      "testament": "NT",
+      "aliases": [
+        "1 Korintiërs"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "1Cor"
+        ]
+      }
+    },
+    "2Cor": {
+      "name": "2 Corinthians",
+      "testament": "NT",
+      "aliases": [
+        "2 Korintiërs"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "2Cor"
+        ]
+      }
+    },
+    "Gal": {
+      "name": "Galatians",
+      "testament": "NT",
+      "aliases": [
+        "Galaten"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "Gal"
+        ]
+      }
+    },
+    "Eph": {
+      "name": "Ephesians",
+      "testament": "NT",
+      "aliases": [
+        "Efeziërs"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "Eph"
+        ]
+      }
+    },
+    "Phil": {
+      "name": "Philippians",
+      "testament": "NT",
+      "aliases": [
+        "Filippenzen"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "Phil"
+        ]
+      }
+    },
+    "Col": {
+      "name": "Colossians",
+      "testament": "NT",
+      "aliases": [
+        "Kolossenzen"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "Col"
+        ]
+      }
+    },
+    "1Thess": {
+      "name": "1 Thessalonians",
+      "testament": "NT",
+      "aliases": [
+        "1 Tessalonicenzen"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "1Thess"
+        ]
+      }
+    },
+    "2Thess": {
+      "name": "2 Thessalonians",
+      "testament": "NT",
+      "aliases": [
+        "2 Tessalonicenzen"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "2Thess"
+        ]
+      }
+    },
+    "1Tim": {
+      "name": "1 Timothy",
+      "testament": "NT",
+      "aliases": [
+        "1 Timoteüs"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "1Tim"
+        ]
+      }
+    },
+    "2Tim": {
+      "name": "2 Timothy",
+      "testament": "NT",
+      "aliases": [
+        "2 Timoteüs"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "2Tim"
+        ]
+      }
+    },
+    "Titus": {
+      "name": "Titus",
+      "testament": "NT",
+      "aliases": [
+        "Titus"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "Titus"
+        ]
+      }
+    },
+    "Phlm": {
+      "name": "Philemon",
+      "testament": "NT",
+      "aliases": [
+        "Filemon"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "Phlm"
+        ]
+      }
+    },
+    "Heb": {
+      "name": "Hebrews",
+      "testament": "NT",
+      "aliases": [
+        "Hebreeën"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "Heb"
+        ]
+      }
+    },
+    "Jas": {
+      "name": "James",
+      "testament": "NT",
+      "aliases": [
+        "Jakobus"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "Jas"
+        ]
+      }
+    },
+    "1Pet": {
+      "name": "1 Peter",
+      "testament": "NT",
+      "aliases": [
+        "1 Petrus"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "1Pet"
+        ]
+      }
+    },
+    "2Pet": {
+      "name": "2 Peter",
+      "testament": "NT",
+      "aliases": [
+        "2 Petrus"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "2Pet"
+        ]
+      }
+    },
+    "1John": {
+      "name": "1 John",
+      "testament": "NT",
+      "aliases": [
+        "1 Johannes"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "1John"
+        ]
+      }
+    },
+    "2John": {
+      "name": "2 John",
+      "testament": "NT",
+      "aliases": [
+        "2 Johannes"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "2John"
+        ]
+      }
+    },
+    "3John": {
+      "name": "3 John",
+      "testament": "NT",
+      "aliases": [
+        "3 Johannes"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "3John"
+        ]
+      }
+    },
+    "Jude": {
+      "name": "Jude",
+      "testament": "NT",
+      "aliases": [
+        "Judas"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "Jude"
+        ]
+      }
+    },
+    "Rev": {
+      "name": "Revelation",
+      "testament": "NT",
+      "aliases": [
+        "Openbaring"
+      ],
+      "routes": {
+        "SBLGNT": [
+          "SBLGNT",
+          "Rev"
+        ]
+      }
+    }
+  }
+}

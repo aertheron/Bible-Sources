@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bible Reading Evaluation"
+  short_description: "Assess variants with explicit evidence"
+  default_prompt: "Use $bible-reading-evaluation to study the requested passage or question."

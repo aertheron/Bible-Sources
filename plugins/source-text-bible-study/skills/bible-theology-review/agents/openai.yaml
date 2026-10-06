@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bible Theology Review"
+  short_description: "Review claims against contextual Scripture"
+  default_prompt: "Use $bible-theology-review to study the requested passage or question."

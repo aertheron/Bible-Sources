@@ -1,0 +1,86 @@
+{
+  "schema_version": "0.1.0",
+  "plugin_version": "0.1.0",
+  "checked_date": "2026-10-06",
+  "source_commit": "df1ed50b4aa532c14c9587106b75693414aaa622",
+  "core_behavior_tests": {
+    "passed": 32,
+    "command": "python3 -m unittest discover -s tests -v"
+  },
+  "skills": {
+    "initialized_and_frontmatter_validated": 8,
+    "linked_references_resolve": true
+  },
+  "schemas": {
+    "portable_plugin": "passed against published Agent Plugins 1.0.0 schema",
+    "portable_mcp": "passed against published Agent Plugins 1.0.0 schema",
+    "stage_schema": "Draft 2020-12 valid"
+  },
+  "mcp_protocol": {
+    "sdk": "2.3.0",
+    "tools": 10,
+    "read_only_annotations": true,
+    "structured_outputs": true,
+    "checked": [
+      "initialize",
+      "tool schemas",
+      "source retrieval",
+      "Next state",
+      "DSS reconstruction status",
+      "word lookup",
+      "structured domain errors"
+    ]
+  },
+  "source_integrity": {
+    "byte_preserved_original_files_verified": 614,
+    "source_texts_indexes_and_curated_studies_modified": false
+  },
+  "word_studies": {
+    "complete_entries_retrieved": 50,
+    "packet_limit_characters": 12000,
+    "richer_entries": "Context pointers deferred explicitly; complete study prose preserved."
+  },
+  "independent_skill_examples": {
+    "Romans_12_1_2": {
+      "language": "nl",
+      "format": "original_interlinear",
+      "stage_handoffs": 6,
+      "source_tokens_aligned_once_in_order": 50,
+      "next_reference": "Romans 12:3-21"
+    },
+    "Genesis_1_2_continuation": {
+      "first": "Genesis 1",
+      "next": "Genesis 2",
+      "preserved": [
+        "translation_only",
+        "nl",
+        "original_interlinear"
+      ]
+    },
+    "DSS_Genesis_1_27_and_testing": {
+      "physical_records_accounted_for": 7,
+      "linguistic_word_rows": 57,
+      "linguistic_columns": 69,
+      "stage_handoffs": 4,
+      "comparison": [
+        "Matthew 6:13",
+        "James 1:13"
+      ]
+    },
+    "actual_stage_envelopes_validated_against_schema_and_runtime": 10,
+    "model_context_isolation": "not implemented; separate structured packets were used in a host context",
+    "study_artifacts_published_as_curated_knowledge": false
+  },
+  "installation": {
+    "wheel_built_and_installed": true,
+    "bundled_source_profile_verified": true,
+    "standalone_remote_span_retrieval": "passed for WLC, Brenton and TAHOT Genesis 1:1-3",
+    "offline_cache_replay": "identical JSON"
+  },
+  "limitations": [
+    "Checks do not prove theological truth or certify all linguistic judgments.",
+    "Cross-edition verse equivalence, exact macro-variant witness spans and complete website claim profile remain to be reviewed.",
+    "No full critical manuscript apparatus or exhaustive Greek lemma/concordance layer.",
+    "No hosted HTTPS deployment or public directory listing."
+  ]
+}

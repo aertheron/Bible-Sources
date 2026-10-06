@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "source-text-bible-study"
+version = "0.1.0"
+description = "Evidence-preserving source retrieval and modular biblical/canonical study skills"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+authors = [{name = "Mark Gatzen"}]
+dependencies = []
+
+[project.optional-dependencies]
+mcp = ["mcp==2.3.0"]
+dev = ["jsonschema>=4.23,<5", "PyYAML>=6,<7"]
+
+[project.scripts]
+bible-study = "bible_study.cli:main"
+bible-study-mcp = "bible_study.server:main"
+
+[tool.setuptools]
+packages = ["bible_study"]
+
+[tool.setuptools.package-data]
+bible_study = ["config/*.json"]

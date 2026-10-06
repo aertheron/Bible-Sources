@@ -1,13 +1,15 @@
-# Generated runtime caches and private plugin implementation do not belong here.
+# Generated caches, local environments and private source data stay outside git.
 *.sqlite
 *.db
 *.zip
-*.py
 *.pyc
 __pycache__/
 node_modules/
 .env
 .env.*
-skills/
 private/
-runtime/
+.venv/
+*.egg-info/
+build/
+dist/
+.pytest_cache/

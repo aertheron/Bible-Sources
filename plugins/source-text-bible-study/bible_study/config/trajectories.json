@@ -1,0 +1,271 @@
+{
+  "schema_version": "0.1.0",
+  "status": "Six authored, provisional seed dossiers. Anchor relationships require local context checks; no automatic whole-canon analysis.",
+  "dossiers": [
+    {
+      "id": "salvation",
+      "aliases": [
+        "salvation",
+        "rescue",
+        "redding",
+        "heil"
+      ],
+      "word_study": "WT003",
+      "default_explanation": "Salvation language concerns particular acts of rescue and their wider biblical development; identify agent, danger and intended restoration in each context.",
+      "source_basis": "Scripture candidates and the published authored word-study collection; no claim that unread secondary resources establish these relationships.",
+      "anchors": [
+        {
+          "reference": "Genesis 12:1-3",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Exodus 14:13-14",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Isaiah 52:7-10",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Luke 2:29-32",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Romans 5:6-11",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Revelation 21:1-5",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        }
+      ]
+    },
+    {
+      "id": "justification",
+      "aliases": [
+        "justification",
+        "rechtvaardiging"
+      ],
+      "word_study": "WT004",
+      "default_explanation": "Distinguish declaring right, vindicating and righteous conduct from their local subjects and argument. Do not force Paul's and James's rhetorical questions into identical situations.",
+      "source_basis": "Scripture candidates and the published authored word-study collection; no claim that unread secondary resources establish these relationships.",
+      "anchors": [
+        {
+          "reference": "Genesis 15:1-6",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Psalms 32:1-5",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Habakkuk 2:1-4",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Romans 3:21-31",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Galatians 2:15-21",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "James 2:14-26",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        }
+      ]
+    },
+    {
+      "id": "judgment",
+      "aliases": [
+        "judgment",
+        "judgement",
+        "oordeel"
+      ],
+      "word_study": "WT049",
+      "default_explanation": "Distinguish historical judgment, vindication and final judgment; identify literary genre before constructing a theological synthesis.",
+      "source_basis": "Scripture candidates and the published authored word-study collection; no claim that unread secondary resources establish these relationships.",
+      "anchors": [
+        {
+          "reference": "Genesis 18:16-25",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Ezekiel 18:20-32",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Daniel 7:9-14",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Matthew 25:31-46",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Romans 2:1-11",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Revelation 20:11-15",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        }
+      ]
+    },
+    {
+      "id": "jesus-in-ot",
+      "aliases": [
+        "jesus in the ot",
+        "jesus in the old testament",
+        "messiah",
+        "christ",
+        "jezus in het ot"
+      ],
+      "word_study": "WT039",
+      "default_explanation": "Distinguish local historical sense, promise, typological proposal and explicit later canonical reception. Christological synthesis does not settle a disputed manuscript reading.",
+      "source_basis": "Scripture candidates and the published authored word-study collection; no claim that unread secondary resources establish these relationships.",
+      "anchors": [
+        {
+          "reference": "Genesis 3:14-15",
+          "relationship": "proposed_typology",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Genesis 12:1-3",
+          "relationship": "promise_theme",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "2 Samuel 7:12-16",
+          "relationship": "promise_theme",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Isaiah 52:13-53:12",
+          "relationship": "canonical_reception",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Psalms 110:1-4",
+          "relationship": "canonical_reception",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Luke 24:25-27",
+          "relationship": "canonical_orientation",
+          "review_status": "retrieve_local_context_before_synthesis"
+        }
+      ]
+    },
+    {
+      "id": "presence",
+      "aliases": [
+        "presence",
+        "temple",
+        "dwelling",
+        "aanwezigheid",
+        "tempel"
+      ],
+      "word_study": "WT047",
+      "default_explanation": "Trace dwelling, sanctuary and God's presence through their distinct literary contexts; resemblance alone is not evidence of direct quotation.",
+      "source_basis": "Scripture candidates and the published authored word-study collection; no claim that unread secondary resources establish these relationships.",
+      "anchors": [
+        {
+          "reference": "Exodus 25:1-9",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "1 Kings 8:27-30",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Ezekiel 37:26-28",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "John 1:14-18",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Ephesians 2:19-22",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Revelation 21:1-5",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        }
+      ]
+    },
+    {
+      "id": "testing",
+      "aliases": [
+        "testing",
+        "trial",
+        "temptation",
+        "beproeving",
+        "verzoeking"
+      ],
+      "word_study": "WT008",
+      "default_explanation": "Matthew 6:13 uses peirasmos; James 1 uses related testing/tempting forms, including peirazō and apeirastos. Agency, desire and negation distinguish a trial from enticement to evil; the apparent English tension cannot be dismissed as unrelated Greek words.",
+      "source_basis": "Scripture candidates and the published authored word-study collection; no claim that unread secondary resources establish these relationships.",
+      "anchors": [
+        {
+          "reference": "Genesis 22:1-2",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Matthew 4:1-11",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Matthew 6:9-13",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "James 1:2-18",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "1 Corinthians 10:1-13",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        },
+        {
+          "reference": "Hebrews 4:14-16",
+          "relationship": "thematic_development_candidate",
+          "review_status": "retrieve_local_context_before_synthesis"
+        }
+      ]
+    }
+  ]
+}
+

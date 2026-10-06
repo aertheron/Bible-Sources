@@ -1,0 +1,143 @@
+{
+  "schema_version": "0.1.0",
+  "registry_status": "Flags for focused review. Exact witness spans and cross-edition maps remain to be verified case by case.",
+  "cases": [
+    {
+      "id": "OT-1SAM-17-18",
+      "reference": "1 Samuel 17-18",
+      "type": "different_literary_forms",
+      "review_note": "Compare identified Hebrew and Greek literary forms; do not splice silently.",
+      "selection": "no_automatic_longest_or_shortest",
+      "inclusion": "only_exact_attested_source_text_bracketed_and_footnoted"
+    },
+    {
+      "id": "OT-NAHASH",
+      "reference": "1 Samuel 10:27-11:1",
+      "type": "expansion",
+      "review_note": "Verify the exact DSS passage and reconstruction. Josephus is literary reception, not a manuscript vote.",
+      "selection": "no_automatic_longest_or_shortest",
+      "inclusion": "only_exact_attested_source_text_bracketed_and_footnoted"
+    },
+    {
+      "id": "OT-DEUT-32-43",
+      "reference": "Deuteronomy 32:43",
+      "type": "expansion",
+      "review_note": "Identify the exact Hebrew scroll and Greek reading and retain numbering differences.",
+      "selection": "no_automatic_longest_or_shortest",
+      "inclusion": "only_exact_attested_source_text_bracketed_and_footnoted"
+    },
+    {
+      "id": "OT-JEROBOAM",
+      "reference": "1 Kings 12:24",
+      "type": "lettered_supplement",
+      "review_note": "The Greek 12:24 a-z supplement needs its own native locations.",
+      "selection": "no_automatic_longest_or_shortest",
+      "inclusion": "only_exact_attested_source_text_bracketed_and_footnoted"
+    },
+    {
+      "id": "OT-JEREMIAH",
+      "reference": "Jeremiah",
+      "type": "different_literary_forms",
+      "review_note": "Shorter Greek form and alternate order require reviewed mapping, not chapter-number matching.",
+      "selection": "no_automatic_longest_or_shortest",
+      "inclusion": "only_exact_attested_source_text_bracketed_and_footnoted"
+    },
+    {
+      "id": "OT-ESTHER",
+      "reference": "Esther",
+      "type": "additions",
+      "review_note": "Identify the Greek form and additions as a labelled literary edition or supplement.",
+      "selection": "no_automatic_longest_or_shortest",
+      "inclusion": "only_exact_attested_source_text_bracketed_and_footnoted"
+    },
+    {
+      "id": "OT-DANIEL-3",
+      "reference": "Daniel 3",
+      "type": "additions",
+      "review_note": "Preserve Greek additions and native numbering as a labelled supplement.",
+      "selection": "no_automatic_longest_or_shortest",
+      "inclusion": "only_exact_attested_source_text_bracketed_and_footnoted"
+    },
+    {
+      "id": "OT-JOB",
+      "reference": "Job",
+      "type": "major_length_differences",
+      "review_note": "Review Greek omissions and supplements locally; length alone cannot select a text.",
+      "selection": "no_automatic_longest_or_shortest",
+      "inclusion": "only_exact_attested_source_text_bracketed_and_footnoted"
+    },
+    {
+      "id": "OT-PS151",
+      "reference": "Psalms 151",
+      "type": "different_literary_forms",
+      "review_note": "Base Psalms route currently stops at 150. Retrieve Psalm 151 separately using verified native identifiers.",
+      "selection": "no_automatic_longest_or_shortest",
+      "inclusion": "only_exact_attested_source_text_bracketed_and_footnoted"
+    },
+    {
+      "id": "NT-MARK-END",
+      "reference": "Mark 16:9-20",
+      "type": "disputed_block",
+      "review_note": "Bracket only an identified supplied longer ending; distinguish authenticity from study inclusion.",
+      "selection": "no_automatic_longest_or_shortest",
+      "inclusion": "only_exact_attested_source_text_bracketed_and_footnoted"
+    },
+    {
+      "id": "NT-JOHN-8",
+      "reference": "John 7:53-8:11",
+      "type": "disputed_block",
+      "review_note": "If invoking Augustine, check and attribute his explanation; it is not proof of scribal motivation.",
+      "selection": "no_automatic_longest_or_shortest",
+      "inclusion": "only_exact_attested_source_text_bracketed_and_footnoted"
+    },
+    {
+      "id": "NT-COMMA",
+      "reference": "1 John 5:7-8",
+      "type": "disputed_clause",
+      "review_note": "Do not import the Johannine Comma from memory; exact attestation is required.",
+      "selection": "no_automatic_longest_or_shortest",
+      "inclusion": "only_exact_attested_source_text_bracketed_and_footnoted"
+    },
+    {
+      "id": "NT-SWEAT",
+      "reference": "Luke 22:43-44",
+      "type": "disputed_verses",
+      "review_note": "Check the supplied edition apparatus and distinguish manuscript evidence from edition comparisons.",
+      "selection": "no_automatic_longest_or_shortest",
+      "inclusion": "only_exact_attested_source_text_bracketed_and_footnoted"
+    },
+    {
+      "id": "NT-FORGIVE",
+      "reference": "Luke 23:34",
+      "type": "disputed_clause",
+      "review_note": "Scope the first clause precisely, not the entire verse.",
+      "selection": "no_automatic_longest_or_shortest",
+      "inclusion": "only_exact_attested_source_text_bracketed_and_footnoted"
+    },
+    {
+      "id": "NT-ACTS-8",
+      "reference": "Acts 8:37",
+      "type": "disputed_verse",
+      "review_note": "Absent verse numbers in the base are not permission to invent their text.",
+      "selection": "no_automatic_longest_or_shortest",
+      "inclusion": "only_exact_attested_source_text_bracketed_and_footnoted"
+    },
+    {
+      "id": "NT-PRAYER",
+      "reference": "Matthew 6:13",
+      "type": "disputed_clause",
+      "review_note": "Check the doxology separately from the prayer's base wording.",
+      "selection": "no_automatic_longest_or_shortest",
+      "inclusion": "only_exact_attested_source_text_bracketed_and_footnoted"
+    },
+    {
+      "id": "NT-SIGNS",
+      "reference": "Matthew 16:2-3",
+      "type": "disputed_clause",
+      "review_note": "Check precise clause coverage and identified witnesses.",
+      "selection": "no_automatic_longest_or_shortest",
+      "inclusion": "only_exact_attested_source_text_bracketed_and_footnoted"
+    }
+  ]
+}
+

@@ -1,0 +1,404 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/aertheron/Bible-Sources/blob/main/plugins/source-text-bible-study/schemas/handoff.schema.json",
+  "title": "Bible study stage handoff 0.1.0",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "const": "0.1.0"
+    },
+    "study_id": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_.-]{1,80}$"
+    },
+    "stage": {
+      "enum": [
+        "fetch_align",
+        "collate_compare",
+        "evaluate_select",
+        "translate_annotate",
+        "exegetical_synthesis",
+        "theology_review",
+        "dss_research"
+      ]
+    },
+    "reference": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "language": {
+      "type": "string",
+      "pattern": "^[a-z]{2,3}(-[A-Za-z]{2,8})?$"
+    },
+    "translation_format": {
+      "enum": [
+        "plain_working",
+        "transliteration_interlinear",
+        "original_interlinear"
+      ]
+    },
+    "depends_on": {
+      "type": "array",
+      "maxItems": 64,
+      "items": {
+        "type": "string"
+      }
+    },
+    "evidence": {
+      "type": "array",
+      "maxItems": 64,
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "locator": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "id",
+          "locator"
+        ]
+      }
+    },
+    "payload": {
+      "type": "object"
+    },
+    "uncertainties": {
+      "type": "array",
+      "maxItems": 64,
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "study_id",
+    "stage",
+    "reference",
+    "language",
+    "translation_format",
+    "depends_on",
+    "evidence",
+    "payload",
+    "uncertainties"
+  ],
+  "additionalProperties": false,
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "stage": {
+            "const": "fetch_align"
+          }
+        },
+        "required": [
+          "stage"
+        ]
+      },
+      "then": {
+        "properties": {
+          "payload": {
+            "type": "object",
+            "properties": {
+              "source_packets": {
+                "type": "array"
+              },
+              "alignment_status": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "source_packets",
+              "alignment_status"
+            ],
+            "additionalProperties": false
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "stage": {
+            "const": "collate_compare"
+          }
+        },
+        "required": [
+          "stage"
+        ]
+      },
+      "then": {
+        "properties": {
+          "payload": {
+            "type": "object",
+            "properties": {
+              "differences": {
+                "type": "array"
+              },
+              "comparison_limits": {
+                "type": "array"
+              }
+            },
+            "required": [
+              "differences",
+              "comparison_limits"
+            ],
+            "additionalProperties": false
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "stage": {
+            "const": "evaluate_select"
+          }
+        },
+        "required": [
+          "stage"
+        ]
+      },
+      "then": {
+        "properties": {
+          "payload": {
+            "type": "object",
+            "properties": {
+              "decisions": {
+                "type": "array"
+              },
+              "unresolved": {
+                "type": "array"
+              }
+            },
+            "required": [
+              "decisions",
+              "unresolved"
+            ],
+            "additionalProperties": false
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "stage": {
+            "const": "translate_annotate"
+          }
+        },
+        "required": [
+          "stage"
+        ]
+      },
+      "then": {
+        "properties": {
+          "payload": {
+            "type": "object",
+            "properties": {
+              "footnotes": {
+                "type": "array"
+              },
+              "term_key": {
+                "type": "array"
+              },
+              "context_preface": {
+                "type": "string"
+              },
+              "verses": {
+                "type": "array",
+                "minItems": 1,
+                "items": {
+                  "$ref": "#/$defs/verse"
+                }
+              }
+            },
+            "required": [
+              "footnotes",
+              "term_key",
+              "context_preface",
+              "verses"
+            ],
+            "additionalProperties": false
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "stage": {
+            "const": "exegetical_synthesis"
+          }
+        },
+        "required": [
+          "stage"
+        ]
+      },
+      "then": {
+        "properties": {
+          "payload": {
+            "type": "object",
+            "properties": {
+              "observations": {
+                "type": "array"
+              },
+              "biblical_development": {
+                "type": "array"
+              },
+              "canonical_links": {
+                "type": "array"
+              },
+              "formation": {
+                "type": "array"
+              }
+            },
+            "required": [
+              "observations",
+              "biblical_development",
+              "canonical_links",
+              "formation"
+            ],
+            "additionalProperties": false
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "stage": {
+            "const": "theology_review"
+          }
+        },
+        "required": [
+          "stage"
+        ]
+      },
+      "then": {
+        "properties": {
+          "payload": {
+            "type": "object",
+            "properties": {
+              "claim_reconstruction": {
+                "type": "string"
+              },
+              "findings": {
+                "type": "array"
+              },
+              "verdict": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "claim_reconstruction",
+              "findings",
+              "verdict"
+            ],
+            "additionalProperties": false
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "stage": {
+            "const": "dss_research"
+          }
+        },
+        "required": [
+          "stage"
+        ]
+      },
+      "then": {
+        "properties": {
+          "payload": {
+            "type": "object",
+            "properties": {
+              "records": {
+                "type": "array"
+              },
+              "reconstruction_limits": {
+                "type": "array"
+              }
+            },
+            "required": [
+              "records",
+              "reconstruction_limits"
+            ],
+            "additionalProperties": false
+          }
+        }
+      }
+    }
+  ],
+  "$defs": {
+    "verse": {
+      "type": "object",
+      "properties": {
+        "reference": {
+          "type": "string",
+          "minLength": 1
+        },
+        "working_translation": {
+          "type": "string",
+          "minLength": 1
+        },
+        "alignment_groups": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/alignment"
+          }
+        }
+      },
+      "required": [
+        "reference",
+        "working_translation",
+        "alignment_groups"
+      ],
+      "additionalProperties": false
+    },
+    "alignment": {
+      "type": "object",
+      "properties": {
+        "source_token_ids": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "original": {
+          "type": "string",
+          "minLength": 1
+        },
+        "transliteration": {
+          "type": "string",
+          "minLength": 1
+        },
+        "gloss": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "source_token_ids",
+        "original",
+        "transliteration",
+        "gloss"
+      ],
+      "additionalProperties": false
+    }
+  }
+}
+

@@ -1,0 +1,26 @@
+{
+  "reference": "Matthew 6:13",
+  "base_reading_id": "SBLGNT:Matt:6:13",
+  "significance": "uncertain",
+  "readings": [
+    {
+      "id": "SBLGNT:Matt:6:13",
+      "text": "καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν, ἀλλὰ ῥῦσαι ἡμᾶς ἀπὸ τοῦ ⸀πονηροῦ. ",
+      "source_ids": [
+        "SBLGNT"
+      ],
+      "evidence": [
+        {
+          "repository": "aertheron/Bible-Sources",
+          "source_commit": "df1ed50b4aa532c14c9587106b75693414aaa622",
+          "file": "sources/sblgnt/text/Matt.txt",
+          "byte_offset": 31430,
+          "byte_length": 7919,
+          "sha256": "50dffdf999b146dfd72f51d11a4c8adbfa899fa2d72678a27a3170e01558d29e"
+        }
+      ],
+      "status": "attested",
+      "independence_group": "modern_edition_not_an_independent_manuscript"
+    }
+  ]
+}

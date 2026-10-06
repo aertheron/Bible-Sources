@@ -1,0 +1,40 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "source-text-bible-study",
+  "version": "0.1.0",
+  "description": "Contextual working translation and biblical/canonical study with explicit textual evidence.",
+  "author": {
+    "name": "Mark Gatzen",
+    "url": "https://canonical-theology.com"
+  },
+  "homepage": "https://canonical-theology.com",
+  "repository": "https://github.com/aertheron/Bible-Sources",
+  "license": "MIT",
+  "keywords": [
+    "bible",
+    "translation",
+    "exegesis",
+    "canonical-theology"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Source Text Bible Study Teacher",
+        "shortDescription": "Source-grounded biblical and canonical study",
+        "longDescription": "Working translations, exegesis, word studies, canonical trajectories and explicit manuscript reconstruction evidence.",
+        "developerName": "Mark Gatzen",
+        "category": "Productivity",
+        "capabilities": [
+          "Read"
+        ],
+        "websiteURL": "https://canonical-theology.com",
+        "defaultPrompt": [
+          "Full study Romans 12:1-2",
+          "Word study testing",
+          "Translate Genesis 1-2, in Dutch, with original language interlinear"
+        ]
+      }
+    }
+  }
+}
+

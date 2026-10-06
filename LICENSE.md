@@ -12,5 +12,6 @@ The included sources retain their individual terms. See [ATTRIBUTION.md](ATTRIBU
 | Identified eBible Brenton Greek | Public domain as declared by the publisher |
 | ETCBC DSS and its derived exports | CC BY-NC 4.0 |
 | Original word/theme study prose | Published for this project; no blanket redistribution licence is assigned by this update. Cited source evidence retains its own terms. |
+| New plugin code, skills, configuration, examples and documentation | MIT; see [the plugin licence](plugins/source-text-bible-study/LICENSE). Source datasets and previously published word-study prose are excluded from that grant. |
 
-No blanket permission here overrides a source's licence. Editorial notices, modern annotations and linked secondary resources must remain correctly attributed. The future plugin code will have its own repository and code-licence decision.
+No blanket permission here overrides a source's licence. Editorial notices, modern annotations and linked secondary resources must remain correctly attributed. Publishing study software does not remove the source data's attribution or noncommercial conditions.

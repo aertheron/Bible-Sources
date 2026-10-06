@@ -1,6 +1,12 @@
 # Bible-Sources
 
-Public source data for AI-assisted Bible study, maintained by Mark Gatzen. This repository holds identified texts, linguistic data, source notes, curated studies and retrieval indexes. Plugin skills, runtime code and private source configuration are maintained separately.
+Public source data and study software for AI-assisted Bible study, maintained by Mark Gatzen. This repository holds identified texts, linguistic data, source notes, curated studies, retrieval indexes and the first public plugin MVP.
+
+## Study plugin
+
+The [Source Text Bible Study Teacher MVP](plugins/source-text-bible-study/) includes eight modular skills, a pinned source retrieval CLI, an optional read-only local MCP server, study commands and three translation formats. It combines biblical theology, canonical theology and contextual working translation, with explicit textual evidence and a correctable working-theology framework. Larger requests become sequential portions with **Next**, preserving language, mode and format. See its README for setup, examples, checks and remaining limitations.
+
+This public package is not yet a hosted ChatGPT connection or a public Plugins Directory listing. The runtime and skills are MIT licensed; source data retains its own terms.
 
 ## Included sources
 
@@ -30,9 +36,9 @@ Source books are unpacked and directly readable. Original files are preserved by
 - [Lexical entry index](indexes/lexical-entry-index.json): entry IDs and exact byte locations, retaining multiple candidates where needed.
 - Structured verse JSONL files for WLC/UXLC and Brenton are split by book. Compact Leningrad records retain reading and word data; duplicate serialized views are omitted because the original XML/TXT remains available.
 
-For a study request, select the source and native reference, retrieve the relevant small span, and pass a bounded passage packet to the study pipeline. A runtime can cache the source files and build local indexes. This static repository does not itself provide a running passage API, automatic cross-edition alignment or a completed plugin.
+For a study request, the MVP selects the current portion, retrieves small verified native spans and passes bounded packets to the study pipeline. It can read a local checkout or lazily cache pinned GitHub data. The study host performs translation and interpretation using the skills; automatic reviewed cross-edition alignment remains future work. Repository retrieval does not require loading all these files into one model context or uploading them all as Custom GPT knowledge. Model context budgets still apply.
 
-The future private runtime must enforce its translation scope and context budgets separately. Retrieving source data is not permission to generate an unrestricted whole-book translation.
+Larger references become a sequence: Genesis 1–2 gives chapter 1 first and chapter 2 on Next; Genesis 1:1–2:3 remains a single literary portion. Very long chapters use smaller portions. A whole-book request starts a bounded sequence instead of an unrestricted whole-book translation.
 
 ## Reading and evidence
 
@@ -46,7 +52,7 @@ No Unicode normalization is applied during this repository preparation. Git text
 
 ## Sources kept elsewhere or pending
 
-The personal Rahlfs/CCAT export is excluded from this public repository. Swete remains pending corpus ingestion and verification. The 50 word/theme studies are published in the curated knowledge directory. Separate unpublished study drafts, private editorial corrections, skills and runtime code remain outside this snapshot.
+The personal Rahlfs/CCAT export is excluded from this public repository. Swete remains pending corpus ingestion and verification. The 50 word/theme studies are published in the curated knowledge directory. Separate unpublished study drafts and private editorial corrections remain outside this snapshot. The MVP's code, skills and reviewable policies are now public in the plugin directory.
 
 BibleProject and scholarly/contextual resources remain [attributed research links](resources/research-links.json), without mirroring their articles, videos or commentary collections. A link is a research lead, not a claim that every resource has been imported or reviewed.
 

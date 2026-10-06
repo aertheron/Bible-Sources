@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bible Translation"
+  short_description: "Translate contextually with source alignment"
+  default_prompt: "Use $bible-translation to study the requested passage or question."

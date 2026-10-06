@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bible Textual Comparison"
+  short_description: "Compare actual textual evidence and limits"
+  default_prompt: "Use $bible-textual-comparison to study the requested passage or question."

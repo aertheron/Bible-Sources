@@ -1,0 +1,21 @@
+{
+  "name": "canonical-theology",
+  "interface": {
+    "displayName": "Canonical Theology"
+  },
+  "plugins": [
+    {
+      "name": "source-text-bible-study",
+      "source": {
+        "source": "local",
+        "path": "./plugins/source-text-bible-study"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
+

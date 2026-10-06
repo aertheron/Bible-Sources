@@ -3,6 +3,12 @@
   "prepared_date": "2026-10-06",
   "files": [
     {
+      "path": ".agents/plugins/marketplace.json",
+      "bytes": 413,
+      "sha256": "07a47d94903efd20f541e2f535ab55c9759cef8996dda0b78a5fb3dfcd8b16fb",
+      "git_blob_sha": "00f10efbcf85665adef9864ebec96c9240d8614d"
+    },
+    {
       "path": ".gitattributes",
       "bytes": 87,
       "sha256": "c0e432cbbad56f1720c00addc174cbc3da97f4dadb39a8d7a63945c3db19e21d",
@@ -10,9 +16,9 @@
     },
     {
       "path": ".gitignore",
-      "bytes": 177,
-      "sha256": "91e61821383da3af172a558946f1f83c6b0a09b95fe4f83aba69bbb8464512bd",
-      "git_blob_sha": "dacdaaf79a955ef5d21c06379ba4a65c1caa1359"
+      "bytes": 202,
+      "sha256": "3494b9d23f5451f1fbd7a630f27ec7cf7c4726510c6de8107d63eee15c3c60ef",
+      "git_blob_sha": "e3de9427858c05b939b8bac99707b14a9b56715c"
     },
     {
       "path": "ATTRIBUTION.md",
@@ -22,15 +28,15 @@
     },
     {
       "path": "LICENSE.md",
-      "bytes": 1131,
-      "sha256": "1f00ce9fba6463fe2e1eb653212216a3530fc33899ca23c82e9c679e9f0632f9",
-      "git_blob_sha": "7282020379c8d33743b85b22e4c80b6426648f62"
+      "bytes": 1386,
+      "sha256": "d1b891c8ba4d497d0bd82ed21227dd20cb6542153a4cc4270dfa9550054bdf59",
+      "git_blob_sha": "308e8dfbba39250f48bdbab174a7b3530f996f0a"
     },
     {
       "path": "README.md",
-      "bytes": 7175,
-      "sha256": "de656ad35954639c846abf048ab7eab92929916185c75e583954ecaa3836bc52",
-      "git_blob_sha": "6dbfef4ad6cf1bbd484529143bcec9da1b76cc30"
+      "bytes": 8221,
+      "sha256": "88ea5ef17430cecd73fa482c9433c2df3272e4da470601875975263e7dc11867",
+      "git_blob_sha": "eb46055d2564bb519dd9b7e6769af91be2163734"
     },
     {
       "path": "indexes/book-catalog.json",
@@ -1383,10 +1389,352 @@
       "git_blob_sha": "fab645415fad876b330594f8dcbfda0118f006c5"
     },
     {
+      "path": "plugins/source-text-bible-study/CHANGELOG.md",
+      "bytes": 645,
+      "sha256": "231f8a3612be32d2c4a62e3a8f27af4ebd4301c79453493ccdd17c20ed23db5a",
+      "git_blob_sha": "a7d5ce587c41852b08a8ad66217baee3896f24e6"
+    },
+    {
+      "path": "plugins/source-text-bible-study/LICENSE",
+      "bytes": 1293,
+      "sha256": "017e8a4e779c863913c21a56a3bd32420af77ae334c2120ea158fab425938ef4",
+      "git_blob_sha": "a7e18de09aa68e7ad841557536be86295f54a2b8"
+    },
+    {
+      "path": "plugins/source-text-bible-study/README.md",
+      "bytes": 9417,
+      "sha256": "34f258e863745a526ab8d9e25d23d2651af07e6ee2ea2d46ea787671e70effb2",
+      "git_blob_sha": "fc4e2e1852b1669a4d3b9963fda2aa77ca243cb7"
+    },
+    {
+      "path": "plugins/source-text-bible-study/REVIEW.md",
+      "bytes": 1640,
+      "sha256": "1eee3c8d005848932d4a1c4a1a06b99e5bd67b0b692fc0e9a553d980d2a1d883",
+      "git_blob_sha": "ec4a0080e760df345d4a914e869dfbac2c3c866e"
+    },
+    {
+      "path": "plugins/source-text-bible-study/bible_study/__init__.py",
+      "bytes": 81,
+      "sha256": "b66816e4154c63396e1944af4b0507ed114a6b49040e4f4230e97e4c22ade064",
+      "git_blob_sha": "792faa85d36289e47ceeadedf4c1d16d2b480162"
+    },
+    {
+      "path": "plugins/source-text-bible-study/bible_study/__main__.py",
+      "bytes": 48,
+      "sha256": "935a1c1166b0c1ea35a82256345000bf2c73ded718d77773bc27a71ecce28f7d",
+      "git_blob_sha": "eb53e2f31b2f703ad32ef64b8a41faa3e7d18e08"
+    },
+    {
+      "path": "plugins/source-text-bible-study/bible_study/cli.py",
+      "bytes": 3455,
+      "sha256": "ba9413ab8e7c4c669e21306da599e9edaa90f064f1ca6432f0ef1ab6cf42a4d4",
+      "git_blob_sha": "0cdff4782388bcee2541e100c44c6e8577afbb9d"
+    },
+    {
+      "path": "plugins/source-text-bible-study/bible_study/config/base-references.json",
+      "bytes": 390522,
+      "sha256": "8f975a3525b0cc1bc31a7d78eeee4f2c84d38f060d079f8fb73ed6df9b78d87d",
+      "git_blob_sha": "be9bcc5a27495bcfb263b9952ee54ad9c8e17e4e"
+    },
+    {
+      "path": "plugins/source-text-bible-study/bible_study/config/books.json",
+      "bytes": 24492,
+      "sha256": "3db4be0d0ab84b37f3f5e2f8334ac23ba99dcc1d974e5b439cb4e0800530943f",
+      "git_blob_sha": "ad2d3fdb2a7de974b880261ea7735b466a8540c3"
+    },
+    {
+      "path": "plugins/source-text-bible-study/bible_study/config/chunking.json",
+      "bytes": 2884,
+      "sha256": "dc170d9d166fb4d462d9f33eb231a60adf53b2e91a163b930a24186353eae080",
+      "git_blob_sha": "2a8e0715ee66b3461b10fa0040043adb54d7b566"
+    },
+    {
+      "path": "plugins/source-text-bible-study/bible_study/config/literary-units.json",
+      "bytes": 2491,
+      "sha256": "05453b1d5c0a4df52732e6b57e3f1a681d3f78b1cf93dea647b71059cfe0201d",
+      "git_blob_sha": "fd4d5c17705052f00f750d5733c0683b8544bb9a"
+    },
+    {
+      "path": "plugins/source-text-bible-study/bible_study/config/method.json",
+      "bytes": 1693,
+      "sha256": "3f264a7b3943516bf55f0e06fa01bb6f53f88fca6fcebb73dcb845bd281e1682",
+      "git_blob_sha": "3fdd175349817c9e9f6597902b01d8d90830b360"
+    },
+    {
+      "path": "plugins/source-text-bible-study/bible_study/config/source-profile.json",
+      "bytes": 31922,
+      "sha256": "65283b4f6c8bab13d43d602e358b36f1c741eca6ff8c1b37e8a265da2698ab28",
+      "git_blob_sha": "0026502ec698a4fe98d96c85a2bff02b9394b822"
+    },
+    {
+      "path": "plugins/source-text-bible-study/bible_study/config/textual-cases.json",
+      "bytes": 6036,
+      "sha256": "aa87efb34d02c0b3aba5ef3c64b6a853412b3e00b19cd6d192b0f5bb43c8f777",
+      "git_blob_sha": "c448a2c3289d5ecfffbd98865628f281f866daec"
+    },
+    {
+      "path": "plugins/source-text-bible-study/bible_study/config/trajectories.json",
+      "bytes": 10512,
+      "sha256": "dea95b663ea174df1e52368ed264b26dca7a82b914baf26b2cdc113dc8d3d10f",
+      "git_blob_sha": "de2fae2a8ad1a41e6733e654b3311d1986f49b6b"
+    },
+    {
+      "path": "plugins/source-text-bible-study/bible_study/config/word-aliases.json",
+      "bytes": 322,
+      "sha256": "999e7a73e2aadff57fd66492959879260bff1bce8c769eda361442f0a1d61936",
+      "git_blob_sha": "ba6271f6ace43eb802e73326c48f2ea2391edf3c"
+    },
+    {
+      "path": "plugins/source-text-bible-study/bible_study/engine.py",
+      "bytes": 12848,
+      "sha256": "22bd62400e21fb2b32db502eed378b40d0773e5c21e329a3e5d8857ff34f384c",
+      "git_blob_sha": "bb241b75bc6edb2a76924884eea530bfae8d4c09"
+    },
+    {
+      "path": "plugins/source-text-bible-study/bible_study/evaluation.py",
+      "bytes": 6268,
+      "sha256": "d2a57747f8f3263fdf536ccb2061683507d3028b2c05321134519e05ac8bc039",
+      "git_blob_sha": "8ba9aa826c87f50b6f59a24b02eaa3544cbfc287"
+    },
+    {
+      "path": "plugins/source-text-bible-study/bible_study/handoff.py",
+      "bytes": 5261,
+      "sha256": "e573e86dd81242f8e6a6b4a005b87740005193fb437501a33d59c0232d4c2cf5",
+      "git_blob_sha": "454968c23f8a4a05f33630309cfedd5b158db214"
+    },
+    {
+      "path": "plugins/source-text-bible-study/bible_study/knowledge.py",
+      "bytes": 5777,
+      "sha256": "6e1c54d2dc499c979f8ece1963e2af8e95b599a937eaf65361f1113e1fc77c30",
+      "git_blob_sha": "82906e7d1542a6f83fa7871b436bf5a8cce94b08"
+    },
+    {
+      "path": "plugins/source-text-bible-study/bible_study/readers.py",
+      "bytes": 12082,
+      "sha256": "0a67f1e3ae05de34082a807fbbe630ea2192988d8be0ccbe55a40b6f25260c88",
+      "git_blob_sha": "9c296bc50767cc593aba06c3037da2ce9a2817f1"
+    },
+    {
+      "path": "plugins/source-text-bible-study/bible_study/reference.py",
+      "bytes": 6187,
+      "sha256": "4a31c8df7f86e71f9acbe03d2485535432d1d5da762626743f1b2fdfc30997b2",
+      "git_blob_sha": "10e677abc92c5928a797b14cd8e44f73720ca54e"
+    },
+    {
+      "path": "plugins/source-text-bible-study/bible_study/server.py",
+      "bytes": 4327,
+      "sha256": "d08a9903ebb9aac0497eb2ce9a6f9b8c3352e3320fbd15d1c61dfde70fd87271",
+      "git_blob_sha": "227fe39ae5bc326b0ba2f226d6a00ba8abcca008"
+    },
+    {
+      "path": "plugins/source-text-bible-study/bible_study/store.py",
+      "bytes": 6339,
+      "sha256": "25249d5ab66d243a3e6ffe74c5a83fb0d15ccf5fa5e7e5a43b47b1c29f6e3dad",
+      "git_blob_sha": "d6af522d052ba5b8a3afd6edaf0778feec1bc6f5"
+    },
+    {
+      "path": "plugins/source-text-bible-study/examples/README.md",
+      "bytes": 769,
+      "sha256": "b619cf4a6c7c597698e0e5557de7813bc75bf92c6d987352d7dfb0b9c08f08c4",
+      "git_blob_sha": "25acfab9648cf693b0dff06e07ed5ff3d8a199df"
+    },
+    {
+      "path": "plugins/source-text-bible-study/examples/fetch-handoff.json",
+      "bytes": 1743,
+      "sha256": "510704b7c1b051ea7792c7eb28796776d781aefb196af743ab2cd853baa17165",
+      "git_blob_sha": "3215376361ea2541b081f2d86733f8fe9a2d8e2f"
+    },
+    {
+      "path": "plugins/source-text-bible-study/examples/variant-assessment.json",
+      "bytes": 859,
+      "sha256": "1fb1f2a2b62f0ce561ff25495c01c1bce23c91658e1ba0a32edad811b5d7d3ae",
+      "git_blob_sha": "77fc287ce1d7d7b788821188208ef3b36c8770ed"
+    },
+    {
+      "path": "plugins/source-text-bible-study/mcp.json",
+      "bytes": 246,
+      "sha256": "ffeea187363120dfa2500fd4237de6583f4a1d635ccfda2c0a45cb5d03c4035a",
+      "git_blob_sha": "fafc6a2a444001127bae5d5c16a49cd9956c4b46"
+    },
+    {
+      "path": "plugins/source-text-bible-study/plugin.json",
+      "bytes": 1297,
+      "sha256": "7c5d5c4a551c6d3d11ff38417dcc915261d61ab966704ea72da196106e5835cd",
+      "git_blob_sha": "dac6ea39d5bd4aca4dc62a16310d25765926086d"
+    },
+    {
+      "path": "plugins/source-text-bible-study/pyproject.toml",
+      "bytes": 671,
+      "sha256": "6f6c42250892eb78b44f33fa95ff70224d531c6ebc59d6664464c0c820f3b7e3",
+      "git_blob_sha": "31ded76e8866d6bb22b95a7d179ca571d5940c46"
+    },
+    {
+      "path": "plugins/source-text-bible-study/references/handoffs.md",
+      "bytes": 3802,
+      "sha256": "c27fb92a3e50ec46c936b6f75b2c1ffb2df4334390d67279c4cbac1602d23527",
+      "git_blob_sha": "d00b5a8460764cd9cfb1abd4f69248f41060ed34"
+    },
+    {
+      "path": "plugins/source-text-bible-study/references/method.md",
+      "bytes": 4116,
+      "sha256": "b25226fb22e1486a599a82558a69d975de2f62e8eacf127b2c96d02904d7fa0a",
+      "git_blob_sha": "d855bfdb89a21d8904b9cbe80845e186e4b77e54"
+    },
+    {
+      "path": "plugins/source-text-bible-study/references/runtime.md",
+      "bytes": 4823,
+      "sha256": "f08f95e3026c46f9415ed2987aa559704260b48fbd4701650ae800dd68d1d504",
+      "git_blob_sha": "68ab1167811107e041a3d13cd9c69d285f71788f"
+    },
+    {
+      "path": "plugins/source-text-bible-study/references/translation-key.md",
+      "bytes": 3779,
+      "sha256": "c27590b67c0cc7e5a00f5d1f43ac490f15cbfdbcfa12151ea5195aef9a2236f7",
+      "git_blob_sha": "5341a12a1037a2fcc79d8f4bb6b4c58d8324b05a"
+    },
+    {
+      "path": "plugins/source-text-bible-study/schemas/handoff.schema.json",
+      "bytes": 8509,
+      "sha256": "9ee04cd7a93abd9bf18bcfbdae8e30bd461ddd999c2e8f55be08ce1f834908a4",
+      "git_blob_sha": "4766481fc2a937c3f77e8f81449168881a1833b9"
+    },
+    {
+      "path": "plugins/source-text-bible-study/scripts/bible.py",
+      "bytes": 213,
+      "sha256": "a1fdaa25188fb9e5c7bbf30cd779bc0eabfe701ede3d3d27de9109e62b51bb0f",
+      "git_blob_sha": "ab08bda62b7d33b05f797b1c1ef199f7220f2798"
+    },
+    {
+      "path": "plugins/source-text-bible-study/scripts/build_source_profile.py",
+      "bytes": 6039,
+      "sha256": "b6c537636b0158a2a85b7fd4d6ae41c0c026e66ddd171f95f7866d93576b1a89",
+      "git_blob_sha": "94b48498e7be8ad9b1a68ffea7cc880b372855e2"
+    },
+    {
+      "path": "plugins/source-text-bible-study/skills/bible-dss-research/SKILL.md",
+      "bytes": 2397,
+      "sha256": "0fddb11df21b9f09bfdd1d054ab41211c9f12c9ef99d476ea422f7b03fbcacc7",
+      "git_blob_sha": "663112e3c31846b27fbf8a26aa26ee622f97ec6e"
+    },
+    {
+      "path": "plugins/source-text-bible-study/skills/bible-dss-research/agents/openai.yaml",
+      "bytes": 210,
+      "sha256": "1a33d7857d907e3df9d1bf1a2e4eea0bd156922c4ee437b2236af48c35497d14",
+      "git_blob_sha": "716a98d7610f17200bd3b706b9cea6141682e133"
+    },
+    {
+      "path": "plugins/source-text-bible-study/skills/bible-exegesis/SKILL.md",
+      "bytes": 2372,
+      "sha256": "14789a64707290755e230e31703fb79397b384a8318bed21b5f171476f8671e4",
+      "git_blob_sha": "4c58f6eaef8facb732f8034e94bc7989a3f08d38"
+    },
+    {
+      "path": "plugins/source-text-bible-study/skills/bible-exegesis/agents/openai.yaml",
+      "bytes": 193,
+      "sha256": "ffd2473307b057040e60aeefa80ffe5937f1512e169291568ca47584db553529",
+      "git_blob_sha": "28a6a7801f6a44e39219c5825c3816eaccdc7e2b"
+    },
+    {
+      "path": "plugins/source-text-bible-study/skills/bible-reading-evaluation/SKILL.md",
+      "bytes": 2124,
+      "sha256": "ff7f9103ba3b85b980771f126c391298b7f7175d757cf2555e3446482d50749e",
+      "git_blob_sha": "11ddb38922645c11fa15a83fd362df09ca1fa667"
+    },
+    {
+      "path": "plugins/source-text-bible-study/skills/bible-reading-evaluation/agents/openai.yaml",
+      "bytes": 210,
+      "sha256": "4a9c3206ccb556880a33d6fab4ce34938aad052d963e1197a674ba3e7a271c5f",
+      "git_blob_sha": "36274b921b0d5bfd1273010f70fe5995d92e5cea"
+    },
+    {
+      "path": "plugins/source-text-bible-study/skills/bible-source-retrieval/SKILL.md",
+      "bytes": 1948,
+      "sha256": "4dda4fa0581e26594b12eecb3bf1db8d8b6dd106297685bbe6c2fe882294fb49",
+      "git_blob_sha": "b2db5cc3ef2175b61514b0cd8045133cbc324cc2"
+    },
+    {
+      "path": "plugins/source-text-bible-study/skills/bible-source-retrieval/agents/openai.yaml",
+      "bytes": 209,
+      "sha256": "dd748a4e13713c695d531329487175d7ec1b6be929da1dfadbbe00f569bbf26a",
+      "git_blob_sha": "6a294d7df99771fbe9e7d272f887c6a63bd21807"
+    },
+    {
+      "path": "plugins/source-text-bible-study/skills/bible-study/SKILL.md",
+      "bytes": 2561,
+      "sha256": "b04d279e953ffe3764720e8ae520dae8d4754c0880c54925e8c2948502aa3b6a",
+      "git_blob_sha": "181a3ef53e0689b332c14c146f2ce9fbd95e36a6"
+    },
+    {
+      "path": "plugins/source-text-bible-study/skills/bible-study/agents/openai.yaml",
+      "bytes": 185,
+      "sha256": "fb055bc02e0a79a90766ffd619c5c21aacc545bdd7fff24a22c3784359da090e",
+      "git_blob_sha": "f2a2b9c38ee296d3bbe0df74dbac8843f18d3fd4"
+    },
+    {
+      "path": "plugins/source-text-bible-study/skills/bible-textual-comparison/SKILL.md",
+      "bytes": 2025,
+      "sha256": "69aca49867a6da0af2416dbc2d35eea89fd52560b4a3fe20bf88f9ca5fe30029",
+      "git_blob_sha": "d8f788386c2acd5e0c1f12a1ca28c59292ef2b2c"
+    },
+    {
+      "path": "plugins/source-text-bible-study/skills/bible-textual-comparison/agents/openai.yaml",
+      "bytes": 214,
+      "sha256": "1ff06c35156ad1cffaf25cccaa7b8cca23e481ec0c02326bf6715815bc968b4b",
+      "git_blob_sha": "96e4d3fd1291cda6488a4aeb2fb975b91a3ea5d4"
+    },
+    {
+      "path": "plugins/source-text-bible-study/skills/bible-theology-review/SKILL.md",
+      "bytes": 2153,
+      "sha256": "00a3adfbf9de9756d306d3d640281b22285a689334c307a32ef70e8622fb621a",
+      "git_blob_sha": "dc3a35915e0f99a686be8057b13ed069387f000e"
+    },
+    {
+      "path": "plugins/source-text-bible-study/skills/bible-theology-review/agents/openai.yaml",
+      "bytes": 208,
+      "sha256": "3f46f8aff8ef9f9246b832c925c28e16e2ddd2c3f14b21cdc9c0cf137c9f298a",
+      "git_blob_sha": "c7ad2f8778be9286618acc06e27047eabb224487"
+    },
+    {
+      "path": "plugins/source-text-bible-study/skills/bible-translation/SKILL.md",
+      "bytes": 2312,
+      "sha256": "7015068caeeb4075a2660b0d8db2957b12cc1edf3e0eea4fb36e6e473de290f4",
+      "git_blob_sha": "4678ff1a3faae7e3bcdce03abcf331f521869763"
+    },
+    {
+      "path": "plugins/source-text-bible-study/skills/bible-translation/agents/openai.yaml",
+      "bytes": 202,
+      "sha256": "200f65e63bf79371ee8071c9c92121fc1406c30826f174dba5aaeec79b2dd0b6",
+      "git_blob_sha": "b64f921150e5afb599f557ba69c66e24230ba788"
+    },
+    {
+      "path": "plugins/source-text-bible-study/tests/mcp_smoke.py",
+      "bytes": 2434,
+      "sha256": "f1fe3be36e9ddbb0a4c81fc70f6f73e728d247502a4ea5b1e2331e36c8d8f353",
+      "git_blob_sha": "673f68b387e473d61794cdbac35159536efd3b2e"
+    },
+    {
+      "path": "plugins/source-text-bible-study/tests/test_runtime.py",
+      "bytes": 14758,
+      "sha256": "1e0ce17f9fb7b99afa1d90ab1c94c4ffdde7432307f6398e97710aec34596a6e",
+      "git_blob_sha": "8777596d122199a8aba1fd51b5f4e467bdf0bff5"
+    },
+    {
+      "path": "plugins/source-text-bible-study/validation.json",
+      "bytes": 2828,
+      "sha256": "73cc30c3c495dba5c0dcbb866821b55c93ed527cd780637310c2e3b66c8bda83",
+      "git_blob_sha": "b7143d34e1c9774f68e39281e4a3c39265a3b07e"
+    },
+    {
       "path": "provenance/exact-source-file-preservation.json",
       "bytes": 209446,
       "sha256": "0619acf1d0554f46cf6fbd809336f732dc1e909f6ae7c5e3e26c88acae7f724f",
       "git_blob_sha": "992dcbd8ac68161a7ca1a495a13ef78db3f108e7"
+    },
+    {
+      "path": "provenance/plugin-mvp-publication.json",
+      "bytes": 941,
+      "sha256": "6ddbbe1260538a9d5246e2002cc02e447f9cff45cc17ea1435312ee323f19c47",
+      "git_blob_sha": "536c0beee943f7272ecabe029e784c923551b650"
     },
     {
       "path": "provenance/preparation_results.json",
@@ -4324,9 +4672,9 @@
     },
     {
       "path": "sources/lexical/README.md",
-      "bytes": 980,
-      "sha256": "8d90ea02fc58042383e6d85ca8853fa305a5c832c8826281b226da7993b41bdc",
-      "git_blob_sha": "13eaf5fe147f928619a11f352e64a088de5aa73e"
+      "bytes": 1200,
+      "sha256": "c9a7be366b28e93c390cf24dec64963436de59e1edd415772f6b5165a2f00c0a",
+      "git_blob_sha": "b28cd6aea90d5410913858c97e7477acc40cdd52"
     },
     {
       "path": "sources/lexical/selected/LEX-OSHB.jsonl",

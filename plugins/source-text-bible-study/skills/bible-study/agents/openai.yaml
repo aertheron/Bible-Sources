@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bible Study"
+  short_description: "Plan and route biblical/canonical study"
+  default_prompt: "Use $bible-study to study the requested passage or question."
