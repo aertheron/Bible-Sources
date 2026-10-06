@@ -1,0 +1,637 @@
+DSS TF FEATURE GUIDE
+
+The following descriptions and value lists are retained from the uploaded TF headers.
+The provenance grouping is added by this export and preserves each header as evidence.
+
+after
+  Kind: @node
+  Group: source
+  Word values present: 389180
+  Description: space behind the word, if any
+  Source: Martin Abegg's data files, personal communication
+  Declared values:  (space)
+
+alt
+  Kind: @node
+  Group: source
+  Word values present: 0
+  Description: alternative reading
+  Source: Martin Abegg's data files, personal communication
+  Declared values: 1
+
+biblical
+  Kind: @node
+  Group: source
+  Word values present: 218189
+  Description: whether we are in biblical material or not
+  Source: Martin Abegg's data files, personal communication
+  Declared values: 1=biblical, 2=biblical but also with nonbiblical material
+
+book
+  Kind: @node
+  Group: source
+  Word values present: 218189
+  Description: acronym of the book in which the word occurs
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+book_etcbc
+  Kind: @node
+  Group: derived_bhsa
+  Word values present: 500995
+  Description: Dead Sea Scrolls: additions based on BHSA
+  Source: [not specified in this header]
+  Declared values: [not specified in this header]
+
+chapter
+  Kind: @node
+  Group: source
+  Word values present: 218189
+  Description: label of the chapter in which the word occurs
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+cl
+  Kind: @node
+  Group: source
+  Word values present: 312839
+  Description: class (morphology tag)
+  Source: Martin Abegg's data files, personal communication
+  Declared values: advb, art, artp, card, cmn, conj, gent, indp, intj, intr, mult, nega, objm, ord, prep, prp, rela, unknown
+
+cl2
+  Kind: @node
+  Group: source
+  Word values present: 1334
+  Description: class (for part 2) (morphology tag)
+  Source: Martin Abegg's data files, personal communication
+  Declared values: d, h, n, unknown
+
+cor
+  Kind: @node
+  Group: source
+  Word values present: 0
+  Description: correction made by an ancient or modern editor
+  Source: Martin Abegg's data files, personal communication
+  Declared values: 1 = modern, 2 = ancient, 3 = ancient supralinear
+
+fragment
+  Kind: @node
+  Group: source
+  Word values present: 0
+  Description: label of a fragment of a scroll
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+full
+  Kind: @node
+  Group: source
+  Word values present: 500995
+  Description: full transcription (Unicode) of a word including flags and brackets
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+fulle
+  Kind: @node
+  Group: source
+  Word values present: 500995
+  Description: full transcription (ETCBC transliteration) of a word including flags and brackets
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+fullo
+  Kind: @node
+  Group: source
+  Word values present: 500995
+  Description: full transcription (original source) of a word including flags and brackets
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+g_cons
+  Kind: @node
+  Group: derived_parsing
+  Word values present: 12808
+  Description: The consonantal representation of a word or sign in BHSA transliteration.
+  Source: Automatic generated morphological parsing corrected by Thijs Amersfoort
+  Declared values: [not specified in this header]
+
+g_lex_etcbc
+  Kind: @node
+  Group: derived_parsing
+  Word values present: 35566
+  Description: TThe consonantal representation of the realised lexeme of a word occurrence in BHSA transliteration
+  Source: Automatic generated morphological parsing corrected by Thijs Amersfoort
+  Declared values: [not specified in this header]
+
+g_nme_etcbc
+  Kind: @node
+  Group: derived_parsing
+  Word values present: 468345
+  Description: The consonantal representation of the nominal ending of a word in BHSA transliteration.
+  Source: Automatic generated morphological parsing corrected by Thijs Amersfoort
+  Declared values: [not specified in this header]
+
+g_pfm_etcbc
+  Kind: @node
+  Group: derived_parsing
+  Word values present: 2776
+  Description: The consonantal representation of the preformative of a word in BHSA transliteration.
+  Source: Automatic generated morphological parsing corrected by Thijs Amersfoort
+  Declared values: [not specified in this header]
+
+g_prs_etcbc
+  Kind: @node
+  Group: derived_parsing
+  Word values present: 376106
+  Description: The consonantal representation of the pronominal suffix of a word in BHSA transliteration.
+  Source: Automatic generated morphological parsing corrected by Thijs Amersfoort
+  Declared values: [not specified in this header]
+
+g_vbe_etcbc
+  Kind: @node
+  Group: derived_parsing
+  Word values present: 2385
+  Description: The consonantal representation of the verbal ending of a word in BHSA transliteration.
+  Source: Automatic generated morphological parsing corrected by Thijs Amersfoort
+  Declared values: [not specified in this header]
+
+g_vbs_etcbc
+  Kind: @node
+  Group: derived_parsing
+  Word values present: 760
+  Description: The consonantal representation of the root formation of a verb in BHSA transliteration.
+  Source: Automatic generated morphological parsing corrected by Thijs Amersfoort
+  Declared values: [not specified in this header]
+
+glex
+  Kind: @node
+  Group: source
+  Word values present: 405736
+  Description: representation (Unicode) of a lexeme leaving out non-letters
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+glexe
+  Kind: @node
+  Group: source
+  Word values present: 405736
+  Description: representation (ETCBC transliteration) of a lexeme leaving out non-letters
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+glexo
+  Kind: @node
+  Group: source
+  Word values present: 405736
+  Description: representation (original source) of a lexeme leaving out non-letters
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+glyph
+  Kind: @node
+  Group: source
+  Word values present: 408125
+  Description: representation (Unicode) of a word or sign
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+glyphe
+  Kind: @node
+  Group: source
+  Word values present: 408125
+  Description: representation (ETCBC transliteration) of a word or sign
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+glypho
+  Kind: @node
+  Group: source
+  Word values present: 408125
+  Description: representation (original source) of a word or sign
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+gn
+  Kind: @node
+  Group: source
+  Word values present: 194777
+  Description: gender (morphology tag)
+  Source: Martin Abegg's data files, personal communication
+  Declared values: b, c, f, m, unknown
+
+gn2
+  Kind: @node
+  Group: source
+  Word values present: 44408
+  Description: gender (for part 2) (morphology tag)
+  Source: Martin Abegg's data files, personal communication
+  Declared values: c, f, m, unknown
+
+gn3
+  Kind: @node
+  Group: source
+  Word values present: 14
+  Description: gender (for part 3) (morphology tag)
+  Source: Martin Abegg's data files, personal communication
+  Declared values: c, f, m
+
+gn_etcbc
+  Kind: @node
+  Group: derived_model
+  Word values present: 197922
+  Description: Dead Sea Scrolls: additions based on BHSA and machine learning
+  Source: Martijn Naaijer's data files, personal communication
+  Declared values: [not specified in this header]
+
+halfverse
+  Kind: @node
+  Group: source
+  Word values present: 932
+  Description: label of the half-verse in which the word occurs
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+intl
+  Kind: @node
+  Group: source
+  Word values present: 443
+  Description: interlinear material, the value indicates the sequence number of the interlinear line
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+lang
+  Kind: @node
+  Group: source
+  Word values present: 49411
+  Description: language of a word or sign, only if it is not Hebrew
+  Source: Martin Abegg's data files, personal communication
+  Declared values: g=greek, a=aramaic
+
+lang_etcbc
+  Kind: @node
+  Group: derived_bhsa
+  Word values present: 500995
+  Description: Dead Sea Scrolls: additions based on BHSA
+  Source: [not specified in this header]
+  Declared values: [not specified in this header]
+
+lex
+  Kind: @node
+  Group: source
+  Word values present: 470845
+  Description: representation (Unicode) of a lexeme
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+lex_etcbc
+  Kind: @node
+  Group: derived_parsing
+  Word values present: 498456
+  Description: The consonantal representation of the lexeme of a word occurrence in BHSA transliteration
+  Source: Automatic generated morphological parsing corrected by Thijs Amersfoort
+  Declared values: [not specified in this header]
+
+lex_utf8_etcbc
+  Kind: @node
+  Group: derived_parsing
+  Word values present: 382905
+  Description: The pointed representation of the lexeme of a word
+  Source: Automatic generated morphological parsing corrected by Thijs Amersfoort
+  Declared values: [not specified in this header]
+
+lexe
+  Kind: @node
+  Group: source
+  Word values present: 470845
+  Description: representation (ETCBC transliteration) of a lexeme
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+lexo
+  Kind: @node
+  Group: source
+  Word values present: 470845
+  Description: representation (original source) of a lexeme
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+line
+  Kind: @node
+  Group: source
+  Word values present: 0
+  Description: label of a line of a fragment of a scroll
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+md
+  Kind: @node
+  Group: source
+  Word values present: 1984
+  Description: mood (morphology tag)
+  Source: Martin Abegg's data files, personal communication
+  Declared values: coho, cons, juss, unknown
+
+merr
+  Kind: @node
+  Group: source
+  Word values present: 1
+  Description: errors in parsing the morphology tag
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+morph_etcbc
+  Kind: @node
+  Group: derived_parsing
+  Word values present: 35584
+  Description: The complete morphological parsing of a word in the BHSA convention.
+  Source: Automatic generated morphological parsing corrected by Thijs Amersfoort
+  Declared values: [not specified in this header]
+
+morpho
+  Kind: @node
+  Group: source
+  Word values present: 470845
+  Description: morphological tag (by Abegg)
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+note_etcbc
+  Kind: @node
+  Group: derived_parsing
+  Word values present: 42
+  Description: Notes by Thijs Amersfoort during the morphological parsing of the text.
+  Source: Automatic generated morphological parsing corrected by Thijs Amersfoort
+  Declared values: [not specified in this header]
+
+nr
+  Kind: @node
+  Group: derived_model
+  Word values present: 0
+  Description: Dead Sea Scrolls: additions based on BHSA and machine learning
+  Source: Martijn Naaijer's data files, personal communication
+  Declared values: [not specified in this header]
+
+nu
+  Kind: @node
+  Group: source
+  Word values present: 194670
+  Description: number (morphology tag)
+  Source: Martin Abegg's data files, personal communication
+  Declared values: d, p, s, unknown
+
+nu2
+  Kind: @node
+  Group: source
+  Word values present: 44406
+  Description: number (for part 2) (morphology tag)
+  Source: Martin Abegg's data files, personal communication
+  Declared values: p, s, unknown
+
+nu3
+  Kind: @node
+  Group: source
+  Word values present: 14
+  Description: number (for part 3) (morphology tag)
+  Source: Martin Abegg's data files, personal communication
+  Declared values: s
+
+nu_etcbc
+  Kind: @node
+  Group: derived_model
+  Word values present: 500995
+  Description: Dead Sea Scrolls: additions based on BHSA and machine learning
+  Source: Martijn Naaijer's data files, personal communication
+  Declared values: [not specified in this header]
+
+occ
+  Kind: @edge
+  Group: source
+  Word values present: 0
+  Description: edge feature from a lexeme to its occurrences
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+oslots
+  Kind: @edge
+  Group: source
+  Word values present: 0
+  Description: Dead Sea Scrolls: biblical and non-biblical scrolls
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+otext
+  Kind: @config
+  Group: source
+  Word values present: 0
+  Description: Dead Sea Scrolls: biblical and non-biblical scrolls
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+otype
+  Kind: @node
+  Group: source
+  Word values present: 500995
+  Description: Dead Sea Scrolls: biblical and non-biblical scrolls
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+ps
+  Kind: @node
+  Group: source
+  Word values present: 49100
+  Description: person (morphology tag)
+  Source: Martin Abegg's data files, personal communication
+  Declared values: 1, 2, 3, unknown
+
+ps2
+  Kind: @node
+  Group: source
+  Word values present: 44409
+  Description: person (for part 2) (morphology tag)
+  Source: Martin Abegg's data files, personal communication
+  Declared values: 1, 2, 3
+
+ps3
+  Kind: @node
+  Group: source
+  Word values present: 14
+  Description: person (for part 3) (morphology tag)
+  Source: Martin Abegg's data files, personal communication
+  Declared values: 1, 2, 3
+
+ps_etcbc
+  Kind: @node
+  Group: derived_model
+  Word values present: 500995
+  Description: Dead Sea Scrolls: additions based on BHSA and machine learning
+  Source: Martijn Naaijer's data files, personal communication
+  Declared values: [not specified in this header]
+
+punc
+  Kind: @node
+  Group: source
+  Word values present: 29927
+  Description: trailing punctuation (Unicode) of a word
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+punce
+  Kind: @node
+  Group: source
+  Word values present: 29927
+  Description: trailing punctuation (ETCBC transliteration) of a word
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+punco
+  Kind: @node
+  Group: source
+  Word values present: 29927
+  Description: trailing punctuation (original source) of a word
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+rec
+  Kind: @node
+  Group: source
+  Word values present: 0
+  Description: reconstructed by a modern editor
+  Source: Martin Abegg's data files, personal communication
+  Declared values: 1
+
+rem
+  Kind: @node
+  Group: source
+  Word values present: 0
+  Description: removed by an ancient or modern editor
+  Source: Martin Abegg's data files, personal communication
+  Declared values: 1 = modern, 2 = ancient
+
+script
+  Kind: @node
+  Group: source
+  Word values present: 796
+  Description: script in which the word or sign is written if it is not Hebrew
+  Source: Martin Abegg's data files, personal communication
+  Declared values: paleohebrew greekcapital
+
+scroll
+  Kind: @node
+  Group: source
+  Word values present: 0
+  Description: acronym of a scroll
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+sim
+  Kind: @edge
+  Group: source
+  Word values present: 0
+  Description: similarity between lines, as a percentage of the common material wrt the combined material
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+sp
+  Kind: @node
+  Group: source
+  Word values present: 470845
+  Description: part of speech (morphology tag)
+  Source: Martin Abegg's data files, personal communication
+  Declared values: adjv, numr, pron, ptcl, subs, suff, unknown, verb
+
+sp_etcbc
+  Kind: @node
+  Group: derived_parsing
+  Word values present: 500995
+  Description: The part of speech (morphology tag)
+  Source: Automatic generated morphological parsing corrected by Thijs Amersfoort
+  Declared values: [not specified in this header]
+
+srcLn
+  Kind: @node
+  Group: source
+  Word values present: 500995
+  Description: the line number of the word in the source data file
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+st
+  Kind: @node
+  Group: source
+  Word values present: 107481
+  Description: state (morphology tag)
+  Source: Martin Abegg's data files, personal communication
+  Declared values: a, c, d, unknown
+
+type
+  Kind: @node
+  Group: source
+  Word values present: 500995
+  Description: type of sign or cluster
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+unc
+  Kind: @node
+  Group: source
+  Word values present: 0
+  Description: uncertain material in various degrees: higher degree is less certain
+  Source: Martin Abegg's data files, personal communication
+  Declared values: 1 2 3 4
+
+uvf_etcbc
+  Kind: @node
+  Group: derived_parsing
+  Word values present: 463070
+  Description: The consonantal representation of the univalent final consonant of a word in BHSA transliteration.
+  Source: Automatic generated morphological parsing corrected by Thijs Amersfoort
+  Declared values: [not specified in this header]
+
+vac
+  Kind: @node
+  Group: source
+  Word values present: 0
+  Description: empty, unwritten space
+  Source: Martin Abegg's data files, personal communication
+  Declared values: 1
+
+verse
+  Kind: @node
+  Group: source
+  Word values present: 218189
+  Description: label of the verse in which the word occurs
+  Source: Martin Abegg's data files, personal communication
+  Declared values: [not specified in this header]
+
+vs
+  Kind: @node
+  Group: source
+  Word values present: 66332
+  Description: verbal stem (morphology tag)
+  Source: Martin Abegg's data files, personal communication
+  Declared values: aphel, apoel, haphel, hifil, hishtafel, hishtaphel, hithaphel, hithpaal, hithpeel, hithpolel, hitopel, hitpael, hitpalpel, hitpoel, hofal, hophal, hotpaal, hpealal, ishtaphel, ithpaal, ithpeel, ithpoel, nifal, nitpael, pael, palel, passive, peal, peil, piel, pilpel, poal, poel, polal, polel, pual, pulal, qal, shaphel, tifil, unknown
+
+vs_etcbc
+  Kind: @node
+  Group: derived_model
+  Word values present: 500995
+  Description: Dead Sea Scrolls: additions based on BHSA and machine learning
+  Source: Martijn Naaijer's data files, personal communication
+  Declared values: [not specified in this header]
+
+vt
+  Kind: @node
+  Group: source
+  Word values present: 66317
+  Description: verbal tense/aspect (morphology tag)
+  Source: Martin Abegg's data files, personal communication
+  Declared values: impf, impv, infa, infc, perf, ptca, ptcp, unknown, wayy
+
+vt_etcbc
+  Kind: @node
+  Group: derived_model
+  Word values present: 500995
+  Description: Dead Sea Scrolls: additions based on BHSA and machine learning
+  Source: Martijn Naaijer's data files, personal communication
+  Declared values: [not specified in this header]
+

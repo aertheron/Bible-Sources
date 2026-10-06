@@ -1,0 +1,13 @@
+# Generated runtime caches and private plugin implementation do not belong here.
+*.sqlite
+*.db
+*.zip
+*.py
+*.pyc
+__pycache__/
+node_modules/
+.env
+.env.*
+skills/
+private/
+runtime/

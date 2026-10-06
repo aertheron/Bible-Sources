@@ -1,0 +1,2 @@
+# Preserve source bytes, Unicode mark order and all byte-based lookup offsets.
+* -text

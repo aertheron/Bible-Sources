@@ -1,0 +1,339 @@
+{
+  "status": "PASS",
+  "book_files": 52,
+  "verse_records": 28597,
+  "section_records": 3,
+  "paragraph_continuations_preserved": 196,
+  "markers": {
+    "id": 52,
+    "h": 51,
+    "toc3": 3,
+    "toc1": 53,
+    "toc2": 52,
+    "mt1": 52,
+    "c": 1104,
+    "p": 7040,
+    "v": 28597,
+    "nb": 23,
+    "m": 1,
+    "d": 150,
+    "ip": 1,
+    "is1": 1,
+    "s1": 1
+  },
+  "sqlite_integrity": "ok",
+  "files": [
+    {
+      "source_file": "02-GENgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "03-EXOgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "04-LEVgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "05-NUMgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "06-DEUgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "07-JOSgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "08-JDGgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "09-RUTgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "10-1SAgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "11-2SAgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "12-1KIgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "13-2KIgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "14-1CHgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "15-2CHgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "16-EZRgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "19-JOBgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "20-PSAgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "21-PROgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "22-ECCgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "23-SNGgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "24-ISAgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "25-JERgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "26-LAMgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "27-EZKgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "29-HOSgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "30-JOLgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "31-AMOgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "32-OBAgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "33-JONgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "34-MICgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "35-NAMgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "36-HABgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "37-ZEPgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "38-HAGgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "39-ZECgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "40-MALgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "41-TOBgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "42-JDTgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "43-ESGgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "45-WISgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "46-SIRgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "47-BARgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "48-LJEgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "50-SUSgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "51-BELgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "52-1MAgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "53-2MAgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "54-1ESgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "55-MANgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "57-3MAgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "59-4MAgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    },
+    {
+      "source_file": "66-DAGgrcbrent.usfm",
+      "verse_marker_preservation": "PASS",
+      "text_and_continuation_fidelity": "PASS",
+      "txt_round_trip": "PASS"
+    }
+  ]
+}

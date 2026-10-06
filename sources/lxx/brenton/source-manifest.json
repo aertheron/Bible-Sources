@@ -1,0 +1,3652 @@
+{
+  "source_id": "LXX-GRCBRENT-20260408",
+  "publisher": "eBible.org",
+  "publisher_id": "grcbrent",
+  "edition_label": "Greek Septuagint with Apocrypha, compiled by Sir Lancelot C. L. Brenton",
+  "rights_status": "Publisher explicitly declares the distributed text public domain",
+  "rights_url": "https://ebible.org/grcbrent/copyright.htm",
+  "source_page": "https://ebible.org/bible/details.php?id=grcbrent",
+  "download_url": "https://ebible.org/Scriptures/grcbrent_usfm.zip",
+  "publisher_source_date": "2026-04-08",
+  "prepared_utc": "2026-10-05T21:23:19.388366+00:00",
+  "archive_sha256": "cc6591b067fa69e0a922c82fc67a458462af6106af4bc4fea53307a5be2288e5",
+  "archive_bytes": 1725030,
+  "source_reference_system": "Native eBible grcbrent USFM numbering; mappings to MT remain to be validated",
+  "books": [
+    {
+      "book_id": "GEN",
+      "source_file": "02-GENgrcbrent.usfm",
+      "source_sha256": "ca88d6a58ce9813390be40afad9f93b1b1756a1e010f1d5857d12209ffd30835",
+      "verse_records": 1532,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "GEN",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΓΕΝΕΣΙΣ",
+          "source_file": "02-GENgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "GEN",
+          "chapter": null,
+          "marker": "toc3",
+          "text": "Genesis",
+          "source_file": "02-GENgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "GEN",
+          "chapter": null,
+          "marker": "toc3",
+          "text": "Genesis",
+          "source_file": "02-GENgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "GEN",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΓΕΝΕΣΙΣ",
+          "source_file": "02-GENgrcbrent.usfm",
+          "source_line": 5
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "GEN",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΓΕΝΕΣΙΣ",
+          "source_file": "02-GENgrcbrent.usfm",
+          "source_line": 6
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "GEN",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΓΕΝΕΣΙΣ",
+          "source_file": "02-GENgrcbrent.usfm",
+          "source_line": 7
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-GEN.txt"
+    },
+    {
+      "book_id": "EXO",
+      "source_file": "03-EXOgrcbrent.usfm",
+      "source_sha256": "a8a3255196adbf0382da118a62d618515dca4b09620adbfdb5004adfcfa53a22",
+      "verse_records": 1166,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "EXO",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΕΞΟΔΟΣ",
+          "source_file": "03-EXOgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "EXO",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΕΞΟΔΟΣ",
+          "source_file": "03-EXOgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "EXO",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΕΞΟΔΟΣ",
+          "source_file": "03-EXOgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "EXO",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΕΞΟΔΟΣ",
+          "source_file": "03-EXOgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-EXO.txt"
+    },
+    {
+      "book_id": "LEV",
+      "source_file": "04-LEVgrcbrent.usfm",
+      "source_sha256": "b1265594ff4dd7a0fa957f9d4c1772164b4695e2106c6973bc94fc629db2a1ba",
+      "verse_records": 859,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "LEV",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΛΕΥΙΤΙΚΟΝ",
+          "source_file": "04-LEVgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "LEV",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΛΕΥΙΤΙΚΟΝ",
+          "source_file": "04-LEVgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "LEV",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΛΕΥΙΤΙΚΟΝ",
+          "source_file": "04-LEVgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "LEV",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΛΕΥΙΤΙΚΟΝ",
+          "source_file": "04-LEVgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-LEV.txt"
+    },
+    {
+      "book_id": "NUM",
+      "source_file": "05-NUMgrcbrent.usfm",
+      "source_sha256": "bf21677259596e10c934517f1e82c42a15f45e311c92fec88264aaa5c4e2b82b",
+      "verse_records": 1288,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "NUM",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΑΡΙΘΜΟΙ",
+          "source_file": "05-NUMgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "NUM",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΑΡΙΘΜΟΙ",
+          "source_file": "05-NUMgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "NUM",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΑΡΙΘΜΟΙ",
+          "source_file": "05-NUMgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "NUM",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΑΡΙΘΜΟΙ",
+          "source_file": "05-NUMgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-NUM.txt"
+    },
+    {
+      "book_id": "DEU",
+      "source_file": "06-DEUgrcbrent.usfm",
+      "source_sha256": "de96841e8c16236d32de48af97f3dbd9d91e9435aeaf3e3515604f8553917984",
+      "verse_records": 958,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "DEU",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΔΕΥΤΕΡΟΝΟΜΙΟΝ",
+          "source_file": "06-DEUgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "DEU",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΔΕΥΤΕΡΟΝΟΜΙΟΝ",
+          "source_file": "06-DEUgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "DEU",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΔΕΥΤΕΡΟΝΟΜΙΟΝ",
+          "source_file": "06-DEUgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "DEU",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΔΕΥΤΕΡΟΝΟΜΙΟΝ",
+          "source_file": "06-DEUgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-DEU.txt"
+    },
+    {
+      "book_id": "JOS",
+      "source_file": "07-JOSgrcbrent.usfm",
+      "source_sha256": "eb0727d858861fb7be702c630abb9107e650b8c374cbec51153b07a6bfdab287",
+      "verse_records": 659,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JOS",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΙΗΣΟΥΣ",
+          "source_file": "07-JOSgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JOS",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΙΗΣΟΥΣ ΝΑΥΗ",
+          "source_file": "07-JOSgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JOS",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΙΗΣΟΥΣ",
+          "source_file": "07-JOSgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JOS",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΙΗΣΟΥΣ ΝΑΥΗ",
+          "source_file": "07-JOSgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-JOS.txt"
+    },
+    {
+      "book_id": "JDG",
+      "source_file": "08-JDGgrcbrent.usfm",
+      "source_sha256": "119228a5d0430181a2137c832c920c41bae5b54cd0f1bdb44829aa5c58286031",
+      "verse_records": 618,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JDG",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΚΡΙΤΑΙ",
+          "source_file": "08-JDGgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JDG",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΚΡΙΤΑΙ",
+          "source_file": "08-JDGgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JDG",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΚΡΙΤΑΙ",
+          "source_file": "08-JDGgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JDG",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΚΡΙΤΑΙ",
+          "source_file": "08-JDGgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-JDG.txt"
+    },
+    {
+      "book_id": "RUT",
+      "source_file": "09-RUTgrcbrent.usfm",
+      "source_sha256": "cb3e645635cdcf8165f2af9046d25585686c7ae5efd03b7eec3b357d48efe8f4",
+      "verse_records": 85,
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "RUT",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΡΟΥΘ",
+          "source_file": "09-RUTgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "RUT",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΡΟΥΘ",
+          "source_file": "09-RUTgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "RUT",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΡΟΥΘ",
+          "source_file": "09-RUTgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "RUT",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΡΟΥΘ",
+          "source_file": "09-RUTgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-RUT.txt"
+    },
+    {
+      "book_id": "1SA",
+      "source_file": "10-1SAgrcbrent.usfm",
+      "source_sha256": "3c81adf45f65a325ed1fe8c3b813f1518e262d55a9f12155803b36c0910efbca",
+      "verse_records": 772,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "1SA",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΒΑΣΙΛΕΙΩΝ Α",
+          "source_file": "10-1SAgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "1SA",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΒΑΣΙΛΕΙΩΝ Α",
+          "source_file": "10-1SAgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "1SA",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΒΑΣΙΛΕΙΩΝ Α",
+          "source_file": "10-1SAgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "1SA",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΒΑΣΙΛΕΙΩΝ Α",
+          "source_file": "10-1SAgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-1SA.txt"
+    },
+    {
+      "book_id": "2SA",
+      "source_file": "11-2SAgrcbrent.usfm",
+      "source_sha256": "6c1d62d3cf2d38ac4100e11ab21d4b9e85837f6b93d9318eb81107860cb5eadc",
+      "verse_records": 697,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "2SA",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΒΑΣΙΛΕΙΩΝ Β",
+          "source_file": "11-2SAgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "2SA",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΒΑΣΙΛΕΙΩΝ Β",
+          "source_file": "11-2SAgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "2SA",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΒΑΣΙΛΕΙΩΝ Β",
+          "source_file": "11-2SAgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "2SA",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΒΑΣΙΛΕΙΩΝ Β",
+          "source_file": "11-2SAgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-2SA.txt"
+    },
+    {
+      "book_id": "1KI",
+      "source_file": "12-1KIgrcbrent.usfm",
+      "source_sha256": "7c61dbbd7cf68a9d9102be7a72c7cd327503ba4c3d50e76492d60b8da7147bee",
+      "verse_records": 823,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "1KI",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΒΑΣΙΛΕΙΩΝ Γ",
+          "source_file": "12-1KIgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "1KI",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΒΑΣΙΛΕΙΩΝ Γ",
+          "source_file": "12-1KIgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "1KI",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΒΑΣΙΛΕΙΩΝ Γ",
+          "source_file": "12-1KIgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "1KI",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΒΑΣΙΛΕΙΩΝ Γ",
+          "source_file": "12-1KIgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-1KI.txt"
+    },
+    {
+      "book_id": "2KI",
+      "source_file": "13-2KIgrcbrent.usfm",
+      "source_sha256": "835b6a7c6ba59c292cd37c322090ef1be020673cbb00af34d2c125571c47516c",
+      "verse_records": 723,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "2KI",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΒΑΣΙΛΕΙΩΝ Δ",
+          "source_file": "13-2KIgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "2KI",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΒΑΣΙΛΕΙΩΝ Δ",
+          "source_file": "13-2KIgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "2KI",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΒΑΣΙΛΕΙΩΝ Δ",
+          "source_file": "13-2KIgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "2KI",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΒΑΣΙΛΕΙΩΝ Δ",
+          "source_file": "13-2KIgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-2KI.txt"
+    },
+    {
+      "book_id": "1CH",
+      "source_file": "14-1CHgrcbrent.usfm",
+      "source_sha256": "8dac15df509a3421fa033046437a29f84f5f518c5309e66e48f181735227feea",
+      "verse_records": 931,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "1CH",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΠΑΡΑΛΕΙΠΟΜΕΝΩΝ Α",
+          "source_file": "14-1CHgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "1CH",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΠΑΡΑΛΕΙΠΟΜΕΝΩΝ Α",
+          "source_file": "14-1CHgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "1CH",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΠΑΡΑΛΕΙΠΟΜΕΝΩΝ Α",
+          "source_file": "14-1CHgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "1CH",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΠΑΡΑΛΕΙΠΟΜΕΝΩΝ Α",
+          "source_file": "14-1CHgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-1CH.txt"
+    },
+    {
+      "book_id": "2CH",
+      "source_file": "15-2CHgrcbrent.usfm",
+      "source_sha256": "93e9a0093df36b7e25df7a12c3a1ab5cdf9477a1e6147a014b456b9b47e1ce3c",
+      "verse_records": 832,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "2CH",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΠΑΡΑΛΕΙΠΟΜΕΝΩΝ Β",
+          "source_file": "15-2CHgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "2CH",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΠΑΡΑΛΕΙΠΟΜΕΝΩΝ Β",
+          "source_file": "15-2CHgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "2CH",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΠΑΡΑΛΕΙΠΟΜΕΝΩΝ Β",
+          "source_file": "15-2CHgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "2CH",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΠΑΡΑΛΕΙΠΟΜΕΝΩΝ Β",
+          "source_file": "15-2CHgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-2CH.txt"
+    },
+    {
+      "book_id": "EZR",
+      "source_file": "16-EZRgrcbrent.usfm",
+      "source_sha256": "722193a5cfe90be0494d227fa05b5a956415dac37f3faa951cf22a39d14502dc",
+      "verse_records": 669,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "EZR",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΕΣΔΡΑΣ",
+          "source_file": "16-EZRgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "EZR",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΕΣΔΡΑΣ",
+          "source_file": "16-EZRgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "EZR",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΕΣΔΡΑΣ",
+          "source_file": "16-EZRgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "EZR",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΕΣΔΡΑΣ",
+          "source_file": "16-EZRgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-EZR.txt"
+    },
+    {
+      "book_id": "JOB",
+      "source_file": "19-JOBgrcbrent.usfm",
+      "source_sha256": "8430674a5b64b290f202116710a8718d3084c43bfc29f0cf0c35e798f5640974",
+      "verse_records": 1082,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JOB",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΙΩΒ",
+          "source_file": "19-JOBgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JOB",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΙΩΒ",
+          "source_file": "19-JOBgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JOB",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΙΩΒ",
+          "source_file": "19-JOBgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JOB",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΙΩΒ",
+          "source_file": "19-JOBgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-JOB.txt"
+    },
+    {
+      "book_id": "PSA",
+      "source_file": "20-PSAgrcbrent.usfm",
+      "source_sha256": "b6d0c62250a13c12c340bba97d41a6896e4c945e70377305b68c5071dc3c29e4",
+      "verse_records": 2535,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "PSA",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΨΑΛΜΟΙ",
+          "source_file": "20-PSAgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "PSA",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΨΑΛΜΟΙ",
+          "source_file": "20-PSAgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "PSA",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΨΑΛΜΟΙ",
+          "source_file": "20-PSAgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "PSA",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΨΑΛΜΟΙ",
+          "source_file": "20-PSAgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-PSA.txt"
+    },
+    {
+      "book_id": "PRO",
+      "source_file": "21-PROgrcbrent.usfm",
+      "source_sha256": "f92a65739deece7130047a1b5c73a7b5c6efaf5d14551a270e1950046c0431de",
+      "verse_records": 937,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        31
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "PRO",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΠΑΡΟΙΜΙΑΙ",
+          "source_file": "21-PROgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "PRO",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΠΑΡΟΙΜΙΑΙ ΕΑΛΩΜΩΝΤΟΣ",
+          "source_file": "21-PROgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "PRO",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΠΑΡΟΙΜΙΑΙ",
+          "source_file": "21-PROgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "PRO",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΠΑΡΟΙΜΙΑΙ ΕΑΛΩΜΩΝΤΟΣ",
+          "source_file": "21-PROgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-PRO.txt"
+    },
+    {
+      "book_id": "ECC",
+      "source_file": "22-ECCgrcbrent.usfm",
+      "source_sha256": "89154911ca8bf152b7d645e575007e21b5200f335b0c6b08bb5876846f8e7669",
+      "verse_records": 222,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "ECC",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΕΚΚΛΗΣΙΑΣΤΗΣ",
+          "source_file": "22-ECCgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "ECC",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΕΚΚΛΗΣΙΑΣΤΗΣ",
+          "source_file": "22-ECCgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "ECC",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΕΚΚΛΗΣΙΑΣΤΗΣ",
+          "source_file": "22-ECCgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "ECC",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΕΚΚΛΗΣΙΑΣΤΗΣ",
+          "source_file": "22-ECCgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-ECC.txt"
+    },
+    {
+      "book_id": "SNG",
+      "source_file": "23-SNGgrcbrent.usfm",
+      "source_sha256": "f7d889b5a2bbc3a9f6c002c6aaa599bd8571e100069c6fb2d5a5cf132aafd774",
+      "verse_records": 117,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "SNG",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΑΣΜΑ",
+          "source_file": "23-SNGgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "SNG",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΑΣΜΑ",
+          "source_file": "23-SNGgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "SNG",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΑΣΜΑ",
+          "source_file": "23-SNGgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "SNG",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΑΣΜΑ",
+          "source_file": "23-SNGgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-SNG.txt"
+    },
+    {
+      "book_id": "ISA",
+      "source_file": "24-ISAgrcbrent.usfm",
+      "source_sha256": "20ce3374bbc74b66a39b4c80ae91cf45066486d71be2a0e0ff0cb61492fdacf2",
+      "verse_records": 1289,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "ISA",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΗΣΑΙΑΣ",
+          "source_file": "24-ISAgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "ISA",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΗΣΑΙΑΣ",
+          "source_file": "24-ISAgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "ISA",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΗΣΑΙΑΣ",
+          "source_file": "24-ISAgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "ISA",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΗΣΑΙΑΣ",
+          "source_file": "24-ISAgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-ISA.txt"
+    },
+    {
+      "book_id": "JER",
+      "source_file": "25-JERgrcbrent.usfm",
+      "source_sha256": "4b5c9f43e1f3d04439d944875a88703120e6cb599a6d8c6c7ced464c432d3f7e",
+      "verse_records": 1299,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JER",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΙΕΡΕΜΙΑΣ",
+          "source_file": "25-JERgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JER",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΙΕΡΕΜΙΑΣ",
+          "source_file": "25-JERgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JER",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΙΕΡΕΜΙΑΣ",
+          "source_file": "25-JERgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JER",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΙΕΡΕΜΙΑΣ",
+          "source_file": "25-JERgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-JER.txt"
+    },
+    {
+      "book_id": "LAM",
+      "source_file": "26-LAMgrcbrent.usfm",
+      "source_sha256": "10f43972cb76bb04975864784e53a7d7e45f744596b02aa7273ef3c96e111765",
+      "verse_records": 153,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "LAM",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΘΡΗΝΟΙ",
+          "source_file": "26-LAMgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "LAM",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΘΡΗΝΟΙ ΙΕΡΕΜΙΟΥ",
+          "source_file": "26-LAMgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "LAM",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΘΡΗΝΟΙ",
+          "source_file": "26-LAMgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "LAM",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΘΡΗΝΟΙ ΙΕΡΕΜΙΟΥ",
+          "source_file": "26-LAMgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 1,
+      "txt_path": "books/LXX-Greek-Brenton-LAM.txt"
+    },
+    {
+      "book_id": "EZK",
+      "source_file": "27-EZKgrcbrent.usfm",
+      "source_sha256": "3b7eac8d4fc24c5ee4b8a226e7033f7e50a591e85408940be739a17795848fae",
+      "verse_records": 1265,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "EZK",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΙΕΖΕΚΙΗΛ",
+          "source_file": "27-EZKgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "EZK",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΙΕΖΕΚΙΗΛ",
+          "source_file": "27-EZKgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "EZK",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΙΕΖΕΚΙΗΛ",
+          "source_file": "27-EZKgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "EZK",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΙΕΖΕΚΙΗΛ",
+          "source_file": "27-EZKgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-EZK.txt"
+    },
+    {
+      "book_id": "HOS",
+      "source_file": "29-HOSgrcbrent.usfm",
+      "source_sha256": "e5082c781de54640aa3cff9ec30debcd6cfd3eaca1052a00b18af28d4e9d0c8c",
+      "verse_records": 197,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "HOS",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΩΣΗΕ. Αʹ",
+          "source_file": "29-HOSgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "HOS",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΩΣΗΕ. Αʹ",
+          "source_file": "29-HOSgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "HOS",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΩΣΗΕ. Αʹ",
+          "source_file": "29-HOSgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "HOS",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΩΣΗΕ. Αʹ",
+          "source_file": "29-HOSgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-HOS.txt"
+    },
+    {
+      "book_id": "JOL",
+      "source_file": "30-JOLgrcbrent.usfm",
+      "source_sha256": "6260b1b43c3e037c4bb5d7634369356d18a035c261c786856f1fbb489e61e835",
+      "verse_records": 73,
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JOL",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΙΩΗΛ. Δʹ",
+          "source_file": "30-JOLgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JOL",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΙΩΗΛ. Δʹ",
+          "source_file": "30-JOLgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JOL",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΙΩΗΛ. Δʹ",
+          "source_file": "30-JOLgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JOL",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΙΩΗΛ. Δʹ",
+          "source_file": "30-JOLgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-JOL.txt"
+    },
+    {
+      "book_id": "AMO",
+      "source_file": "31-AMOgrcbrent.usfm",
+      "source_sha256": "7cf9acffe4eaacceabde5ebc7420aa969aee978ac884a69b129305a1be27aa9b",
+      "verse_records": 146,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "AMO",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΑΜΩΣ. Βʹ",
+          "source_file": "31-AMOgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "AMO",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΑΜΩΣ. Βʹ",
+          "source_file": "31-AMOgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "AMO",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΑΜΩΣ. Βʹ",
+          "source_file": "31-AMOgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "AMO",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΑΜΩΣ. Βʹ",
+          "source_file": "31-AMOgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-AMO.txt"
+    },
+    {
+      "book_id": "OBA",
+      "source_file": "32-OBAgrcbrent.usfm",
+      "source_sha256": "1e9e3fa6e5205c7c16edded615a04871d2930207e5d91e97a5be88c7bfcf45ef",
+      "verse_records": 21,
+      "chapters": [
+        1
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "OBA",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΟΒΔΕΙΟΥ. Εʹ",
+          "source_file": "32-OBAgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "OBA",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΟΒΔΕΙΟΥ. Εʹ",
+          "source_file": "32-OBAgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "OBA",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΟΒΔΕΙΟΥ. Εʹ",
+          "source_file": "32-OBAgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "OBA",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΟΒΔΕΙΟΥ. Εʹ",
+          "source_file": "32-OBAgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-OBA.txt"
+    },
+    {
+      "book_id": "JON",
+      "source_file": "33-JONgrcbrent.usfm",
+      "source_sha256": "d7fcfbe681f0bb6e50c505bc20786f378346ad1f39eafc5a65f00a60ae2ec8b5",
+      "verse_records": 48,
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JON",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΙΩΝΑΣ. ϛʹ",
+          "source_file": "33-JONgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JON",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΙΩΝΑΣ. ϛʹ",
+          "source_file": "33-JONgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JON",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΙΩΝΑΣ. ϛʹ",
+          "source_file": "33-JONgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JON",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΙΩΝΑΣ. ϛʹ",
+          "source_file": "33-JONgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-JON.txt"
+    },
+    {
+      "book_id": "MIC",
+      "source_file": "34-MICgrcbrent.usfm",
+      "source_sha256": "ce5005f9b16d5ed7b38230398430a22d28fcecc3aff6c91adab2722af6bf1510",
+      "verse_records": 105,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "MIC",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΜΙΧΑΙΑΣ. Γʹ",
+          "source_file": "34-MICgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "MIC",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΜΙΧΑΙΑΣ. Γʹ",
+          "source_file": "34-MICgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "MIC",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΜΙΧΑΙΑΣ. Γʹ",
+          "source_file": "34-MICgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "MIC",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΜΙΧΑΙΑΣ. Γʹ",
+          "source_file": "34-MICgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-MIC.txt"
+    },
+    {
+      "book_id": "NAM",
+      "source_file": "35-NAMgrcbrent.usfm",
+      "source_sha256": "11510fda89bff3cb0a46e7282fa8bf6d10128b6eac13e624b0570d2e194599ea",
+      "verse_records": 47,
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "NAM",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΝΑΟΥΜ. Ζʹ",
+          "source_file": "35-NAMgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "NAM",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΝΑΟΥΜ. Ζʹ",
+          "source_file": "35-NAMgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "NAM",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΝΑΟΥΜ. Ζʹ",
+          "source_file": "35-NAMgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "NAM",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΝΑΟΥΜ. Ζʹ",
+          "source_file": "35-NAMgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-NAM.txt"
+    },
+    {
+      "book_id": "HAB",
+      "source_file": "36-HABgrcbrent.usfm",
+      "source_sha256": "6df326b51767fbe8b1d577f4c3183cc8aff5f82538081d82fcb765755ce75631",
+      "verse_records": 56,
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "HAB",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΑΜΒΑΚΟΥΜ. Ηʹ",
+          "source_file": "36-HABgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "HAB",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΑΜΒΑΚΟΥΜ. Ηʹ",
+          "source_file": "36-HABgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "HAB",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΑΜΒΑΚΟΥΜ. Ηʹ",
+          "source_file": "36-HABgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "HAB",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΑΜΒΑΚΟΥΜ. Ηʹ",
+          "source_file": "36-HABgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-HAB.txt"
+    },
+    {
+      "book_id": "ZEP",
+      "source_file": "37-ZEPgrcbrent.usfm",
+      "source_sha256": "94111b6f3ee079810e487bf69f76bbfe2062f79fd32905e93ea638dba0b6b9d1",
+      "verse_records": 53,
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "ZEP",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΣΟΦΟΝΙΑΣ. Θʹ",
+          "source_file": "37-ZEPgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "ZEP",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΣΟΦΟΝΙΑΣ. Θʹ",
+          "source_file": "37-ZEPgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "ZEP",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΣΟΦΟΝΙΑΣ. Θʹ",
+          "source_file": "37-ZEPgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "ZEP",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΣΟΦΟΝΙΑΣ. Θʹ",
+          "source_file": "37-ZEPgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-ZEP.txt"
+    },
+    {
+      "book_id": "HAG",
+      "source_file": "38-HAGgrcbrent.usfm",
+      "source_sha256": "7234193cff794125aaaeb128a2a507180cb4f7dcd9770d529abf89194850e05a",
+      "verse_records": 38,
+      "chapters": [
+        1,
+        2
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "HAG",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΑΓΓΑΙΟΣ. Ιʹ",
+          "source_file": "38-HAGgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "HAG",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΑΓΓΑΙΟΣ. Ιʹ",
+          "source_file": "38-HAGgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "HAG",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΑΓΓΑΙΟΣ. Ιʹ",
+          "source_file": "38-HAGgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "HAG",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΑΓΓΑΙΟΣ. Ιʹ",
+          "source_file": "38-HAGgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-HAG.txt"
+    },
+    {
+      "book_id": "ZEC",
+      "source_file": "39-ZECgrcbrent.usfm",
+      "source_sha256": "4a2120802007767b5d9c47ab72b54333ecde0380866470bf704a036403d7a370",
+      "verse_records": 211,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "ZEC",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΖΑΧΑΡΙΑΣ. ΙΑʹ",
+          "source_file": "39-ZECgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "ZEC",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΖΑΧΑΡΙΑΣ. ΙΑʹ",
+          "source_file": "39-ZECgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "ZEC",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΖΑΧΑΡΙΑΣ. ΙΑʹ",
+          "source_file": "39-ZECgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "ZEC",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΖΑΧΑΡΙΑΣ. ΙΑʹ",
+          "source_file": "39-ZECgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-ZEC.txt"
+    },
+    {
+      "book_id": "MAL",
+      "source_file": "40-MALgrcbrent.usfm",
+      "source_sha256": "ab7d7869bc12215eafd2f38d806524d61ca789c473895e8ff2d316d325a31a1b",
+      "verse_records": 55,
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "MAL",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΜΑΛΑΧΙΑΣ. ΙΒʹ",
+          "source_file": "40-MALgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "MAL",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΜΑΛΑΧΙΑΣ. ΙΒʹ",
+          "source_file": "40-MALgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "MAL",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΜΑΛΑΧΙΑΣ. ΙΒʹ",
+          "source_file": "40-MALgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "MAL",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΜΑΛΑΧΙΑΣ. ΙΒʹ",
+          "source_file": "40-MALgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-MAL.txt"
+    },
+    {
+      "book_id": "TOB",
+      "source_file": "41-TOBgrcbrent.usfm",
+      "source_sha256": "3a2b594d3f3e2fd3147c5ed7695ce69c4c199430f330fc0123ed70e493d85879",
+      "verse_records": 245,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "TOB",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΤΩΒΙΤ",
+          "source_file": "41-TOBgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "TOB",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΤΩΒΙΤ",
+          "source_file": "41-TOBgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "TOB",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΤΩΒΙΤ",
+          "source_file": "41-TOBgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "TOB",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΤΩΒΙΤ",
+          "source_file": "41-TOBgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-TOB.txt"
+    },
+    {
+      "book_id": "JDT",
+      "source_file": "42-JDTgrcbrent.usfm",
+      "source_sha256": "21538ecf2471cb32df2d9f71347b92ec5f49ce7d61c495cfa929a2a77353643e",
+      "verse_records": 339,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JDT",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΙΟΥΔΙΘ",
+          "source_file": "42-JDTgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JDT",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΙΟΥΔΙΘ",
+          "source_file": "42-JDTgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JDT",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΙΟΥΔΙΘ",
+          "source_file": "42-JDTgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "JDT",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΙΟΥΔΙΘ",
+          "source_file": "42-JDTgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-JDT.txt"
+    },
+    {
+      "book_id": "ESG",
+      "source_file": "43-ESGgrcbrent.usfm",
+      "source_sha256": "b0f3e7fb62d71075aaf8f7186c1b225cfe1970cb5d83498c9d788a63532d9cda",
+      "verse_records": 252,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "ESG",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΕΣΘΗΡ",
+          "source_file": "43-ESGgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "ESG",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΕΣΘΗΡ",
+          "source_file": "43-ESGgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "ESG",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΕΣΘΗΡ",
+          "source_file": "43-ESGgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "ESG",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΕΣΘΗΡ",
+          "source_file": "43-ESGgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-ESG.txt"
+    },
+    {
+      "book_id": "WIS",
+      "source_file": "45-WISgrcbrent.usfm",
+      "source_sha256": "6220e02d761c5faf8d7ec25b65ada9456733775db7f9096a4474e041152093d3",
+      "verse_records": 436,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "WIS",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΣΟΦΙΑ",
+          "source_file": "45-WISgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "WIS",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΣΟΦΙΑ ΣΑΛΩΜΩΝ",
+          "source_file": "45-WISgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "WIS",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΣΟΦΙΑ",
+          "source_file": "45-WISgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "WIS",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΣΟΦΙΑ ΣΑΛΩΜΩΝ",
+          "source_file": "45-WISgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-WIS.txt"
+    },
+    {
+      "book_id": "SIR",
+      "source_file": "46-SIRgrcbrent.usfm",
+      "source_sha256": "501230558d0179eb344e50d29cf2f00b21348c416caf36e21ad231a9b823fd22",
+      "verse_records": 1370,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "SIR",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΣΕΙΡΑΧ",
+          "source_file": "46-SIRgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "SIR",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΣΟΦΙΑ ΣΕΙΡΑΧ",
+          "source_file": "46-SIRgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "SIR",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΣΕΙΡΑΧ",
+          "source_file": "46-SIRgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "SIR",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΣΟΦΙΑ ΣΕΙΡΑΧ",
+          "source_file": "46-SIRgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 2,
+      "txt_path": "books/LXX-Greek-Brenton-SIR.txt"
+    },
+    {
+      "book_id": "BAR",
+      "source_file": "47-BARgrcbrent.usfm",
+      "source_sha256": "8189bfed284726351cfc179eae1582efa82e74e0178ee12dec4ba22b826fd63d",
+      "verse_records": 140,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "BAR",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΒΑΡΟΥΧ",
+          "source_file": "47-BARgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "BAR",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΒΑΡΟΥΧ",
+          "source_file": "47-BARgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "BAR",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΒΑΡΟΥΧ",
+          "source_file": "47-BARgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "BAR",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΒΑΡΟΥΧ",
+          "source_file": "47-BARgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-BAR.txt"
+    },
+    {
+      "book_id": "LJE",
+      "source_file": "48-LJEgrcbrent.usfm",
+      "source_sha256": "5104048e00761bcb6af8f0bc46d9753386c6c26aa4fa53d84229b48a7b9f89e5",
+      "verse_records": 73,
+      "chapters": [
+        1
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "LJE",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΕΠΙΣΤΟΛΗ ΙΕΡΕΜΙΟΥ",
+          "source_file": "48-LJEgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "LJE",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΕΠΙΣΤΟΛΗ ΙΕΡΕΜΙΟΥ",
+          "source_file": "48-LJEgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "LJE",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΕΠΙΣΤΟΛΗ ΙΕΡΕΜΙΟΥ",
+          "source_file": "48-LJEgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "LJE",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΕΠΙΣΤΟΛΗ ΙΕΡΕΜΙΟΥ",
+          "source_file": "48-LJEgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-LJE.txt"
+    },
+    {
+      "book_id": "SUS",
+      "source_file": "50-SUSgrcbrent.usfm",
+      "source_sha256": "23a11bbb43c30decce51eea9787e286497b4b3015d2e9ecb6893e7ca0c3f5514",
+      "verse_records": 64,
+      "chapters": [
+        1
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "SUS",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΣΩΣΑΝΝΑ",
+          "source_file": "50-SUSgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "SUS",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΣΩΣΑΝΝΑ",
+          "source_file": "50-SUSgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "SUS",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΣΩΣΑΝΝΑ",
+          "source_file": "50-SUSgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "SUS",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΣΩΣΑΝΝΑ",
+          "source_file": "50-SUSgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-SUS.txt"
+    },
+    {
+      "book_id": "BEL",
+      "source_file": "51-BELgrcbrent.usfm",
+      "source_sha256": "e76e64c4256fa415f5787a5a705e28d8e48fa0e61185bbb1d2251d58ff7230f3",
+      "verse_records": 42,
+      "chapters": [
+        1
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "BEL",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΒΗΛ",
+          "source_file": "51-BELgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "BEL",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΒΗΛ ΚΑΙ ΔΡΑΚΩΝ",
+          "source_file": "51-BELgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "BEL",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΒΗΛ",
+          "source_file": "51-BELgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "BEL",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΒΗΛ ΚΑΙ ΔΡΑΚΩΝ",
+          "source_file": "51-BELgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-BEL.txt"
+    },
+    {
+      "book_id": "1MA",
+      "source_file": "52-1MAgrcbrent.usfm",
+      "source_sha256": "a0b9b59b4d6c4dcdf545751fbea3e3756790c0e2e973bfbeb0a762d47cc4522f",
+      "verse_records": 924,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "1MA",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΜΑΚΚΑΒΑΙΩΝ Αʹ",
+          "source_file": "52-1MAgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "1MA",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΜΑΚΚΑΒΑΙΩΝ Αʹ",
+          "source_file": "52-1MAgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "1MA",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΜΑΚΚΑΒΑΙΩΝ Αʹ",
+          "source_file": "52-1MAgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "1MA",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΜΑΚΚΑΒΑΙΩΝ Αʹ",
+          "source_file": "52-1MAgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-1MA.txt"
+    },
+    {
+      "book_id": "2MA",
+      "source_file": "53-2MAgrcbrent.usfm",
+      "source_sha256": "315a027148398c7da4356aefba23e83ab6f2cdd541b4f580213cb6acc356fc19",
+      "verse_records": 555,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "2MA",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΜΑΚΚΑΒΑΙΩΝ Βʹ",
+          "source_file": "53-2MAgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "2MA",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΜΑΚΚΑΒΑΙΩΝ Βʹ",
+          "source_file": "53-2MAgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "2MA",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΜΑΚΚΑΒΑΙΩΝ Βʹ",
+          "source_file": "53-2MAgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "2MA",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΜΑΚΚΑΒΑΙΩΝ Βʹ",
+          "source_file": "53-2MAgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-2MA.txt"
+    },
+    {
+      "book_id": "1ES",
+      "source_file": "54-1ESgrcbrent.usfm",
+      "source_sha256": "c99aacb0ee01d4c3b9a26ec005e4c68c006ccc2de8bc139206fdeb9367558f38",
+      "verse_records": 448,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "1ES",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΕΣΔΡΑΣ. Αʹ",
+          "source_file": "54-1ESgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "1ES",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΕΣΔΡΑΣ. Αʹ",
+          "source_file": "54-1ESgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "1ES",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΕΣΔΡΑΣ. Αʹ",
+          "source_file": "54-1ESgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "1ES",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΕΣΔΡΑΣ. Αʹ",
+          "source_file": "54-1ESgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-1ES.txt"
+    },
+    {
+      "book_id": "MAN",
+      "source_file": "55-MANgrcbrent.usfm",
+      "source_sha256": "d488dabd6bac6f5456d1688cf8d4debc47afb2fb963700457ae649184ae424cd",
+      "verse_records": 15,
+      "chapters": [
+        1
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "MAN",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΠΡΟΣΕΥΧΗ",
+          "source_file": "55-MANgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "MAN",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΠΡΟΣΕΥΧΗ ΜΑΝΑΣΣΗ ΥΙΟΥ ΕΖΕΚΙΟΥ",
+          "source_file": "55-MANgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "MAN",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΠΡΟΣΕΥΧΗ",
+          "source_file": "55-MANgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "MAN",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΠΡΟΣΕΥΧΗ ΜΑΝΑΣΣΗ ΥΙΟΥ ΕΖΕΚΙΟΥ",
+          "source_file": "55-MANgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-MAN.txt"
+    },
+    {
+      "book_id": "3MA",
+      "source_file": "57-3MAgrcbrent.usfm",
+      "source_sha256": "7062fa7ffcfe8da17566fa6ba41d6eb799a58e2406d454fadadc7f222ba291b9",
+      "verse_records": 228,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "3MA",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΜΑΚΚΑΒΑΙΩΝ Γʹ",
+          "source_file": "57-3MAgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "3MA",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΜΑΚΚΑΒΑΙΩΝ Γʹ",
+          "source_file": "57-3MAgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "3MA",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΜΑΚΚΑΒΑΙΩΝ Γʹ",
+          "source_file": "57-3MAgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "3MA",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΜΑΚΚΑΒΑΙΩΝ Γʹ",
+          "source_file": "57-3MAgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-3MA.txt"
+    },
+    {
+      "book_id": "4MA",
+      "source_file": "59-4MAgrcbrent.usfm",
+      "source_sha256": "370bbbcd862b1300985b7821bb9f905d47d2dfa6f4ee47ea38ce4612499f58cf",
+      "verse_records": 483,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "4MA",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΜΑΚΚΑΒΑΙΩΝ Δʹ",
+          "source_file": "59-4MAgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "4MA",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΜΑΚΚΑΒΑΙΩΝ Δʹ",
+          "source_file": "59-4MAgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "4MA",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΜΑΚΚΑΒΑΙΩΝ Δʹ",
+          "source_file": "59-4MAgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "4MA",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΜΑΚΚΑΒΑΙΩΝ Δʹ",
+          "source_file": "59-4MAgrcbrent.usfm",
+          "source_line": 5
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-4MA.txt"
+    },
+    {
+      "book_id": "DAG",
+      "source_file": "66-DAGgrcbrent.usfm",
+      "source_sha256": "1adeff5c0321cb906545755946b071554e1916e8e038b9cc7adb5135e4dbb9c7",
+      "verse_records": 422,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "headers": [
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "DAG",
+          "chapter": null,
+          "marker": "h",
+          "text": "ΔΑΝΙΗΛ (Ελληνικά)",
+          "source_file": "66-DAGgrcbrent.usfm",
+          "source_line": 2
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "DAG",
+          "chapter": null,
+          "marker": "toc1",
+          "text": "ΔΑΝΙΗΛ (Ελληνικά)",
+          "source_file": "66-DAGgrcbrent.usfm",
+          "source_line": 3
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "DAG",
+          "chapter": null,
+          "marker": "toc2",
+          "text": "ΔΑΝΙΗΛ (Ελληνικά)",
+          "source_file": "66-DAGgrcbrent.usfm",
+          "source_line": 4
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "DAG",
+          "chapter": null,
+          "marker": "toc3",
+          "text": "ΔΑΝΙΗΛ",
+          "source_file": "66-DAGgrcbrent.usfm",
+          "source_line": 5
+        },
+        {
+          "source_id": "LXX-GRCBRENT-20260408",
+          "book_id": "DAG",
+          "chapter": null,
+          "marker": "mt1",
+          "text": "ΔΑΝΙΗΛ",
+          "source_file": "66-DAGgrcbrent.usfm",
+          "source_line": 6
+        }
+      ],
+      "section_records": 0,
+      "txt_path": "books/LXX-Greek-Brenton-DAG.txt"
+    }
+  ],
+  "limitations": [
+    "No critical apparatus or morphology in this download.",
+    "Not Rahlfs-Hanhart or the Goettingen critical editions.",
+    "Does not include Odes or Psalms of Solomon or all alternate Greek forms.",
+    "EZR contains 23 chapters, combining Ezra and Nehemiah; no inferred alignment is applied.",
+    "SIR 1:1-1g contains the prologue; SIR 1:1h begins the chapter text. Preserve these native labels.",
+    "DAG is the supplied Greek Daniel text; this build does not independently identify its recension.",
+    "Validation proves extraction fidelity, not a full collation against historical printed pages."
+  ]
+}

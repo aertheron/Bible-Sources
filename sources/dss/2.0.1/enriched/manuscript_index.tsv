@@ -1,0 +1,1002 @@
+scroll_node	manuscript	biblical_flag	word_nodes	physical_lines	records	mapped_book_codes	files
+1605868	CD		6113	414	414		other_material/DSS-Nonbiblical-01.txt
+1605869	1QS		5786	283	283		other_material/DSS-Nonbiblical-01.txt
+1605870	1QSa		841	51	51		other_material/DSS-Nonbiblical-01.txt
+1605871	1QSb		963	101	101		other_material/DSS-Nonbiblical-01.txt
+1605872	1QpHab		2023	206	219		other_material/DSS-Nonbiblical-01.txt
+1605873	1QM		6490	378	378		other_material/DSS-Nonbiblical-01.txt
+1605874	1QHa		12504	933	938		other_material/DSS-Nonbiblical-01.txt
+1605875	1Q14		415	55	61		other_material/DSS-Nonbiblical-02.txt
+1605876	1Q15		76	6	10		other_material/DSS-Nonbiblical-02.txt
+1605877	1Q16		187	30	30		other_material/DSS-Nonbiblical-02.txt
+1605878	1Q17		95	6	6		other_material/DSS-Nonbiblical-02.txt
+1605879	1Q18		84	10	10		other_material/DSS-Nonbiblical-02.txt
+1605880	1Q19		234	42	42		other_material/DSS-Nonbiblical-02.txt
+1605881	1Q19bis		38	6	6		other_material/DSS-Nonbiblical-02.txt
+1605882	1Q20		5785	466	774		other_material/DSS-Nonbiblical-02.txt
+1605883	1Q21		545	106	166		other_material/DSS-Nonbiblical-02.txt
+1605884	1Q22		937	84	84		other_material/DSS-Nonbiblical-02.txt
+1605885	1Q23		346	83	110		other_material/DSS-Nonbiblical-02.txt
+1605886	1Q24		150	27	35		other_material/DSS-Nonbiblical-02.txt
+1605887	1Q25		225	52	52		other_material/DSS-Nonbiblical-02.txt
+1605888	1Q26		128	19	19		other_material/DSS-Nonbiblical-02.txt
+1605889	1Q27		465	60	61		other_material/DSS-Nonbiblical-02.txt
+1605890	1Q29		229	41	41		other_material/DSS-Nonbiblical-02.txt
+1605891	1Q30		123	25	25		other_material/DSS-Nonbiblical-02.txt
+1605892	1Q31		29	7	7		other_material/DSS-Nonbiblical-02.txt
+1605893	1Q32		185	40	60		other_material/DSS-Nonbiblical-02.txt
+1605894	1Q34bis		269	24	24		other_material/DSS-Nonbiblical-02.txt
+1605895	1Q35		62	14	15		other_material/DSS-Nonbiblical-02.txt
+1605896	1Q36		313	65	65		other_material/DSS-Nonbiblical-02.txt
+1605897	1Q37		34	6	6		other_material/DSS-Nonbiblical-02.txt
+1605898	1Q38		71	12	12		other_material/DSS-Nonbiblical-02.txt
+1605899	1Q39		43	9	9		other_material/DSS-Nonbiblical-02.txt
+1605900	1Q40		65	14	14		other_material/DSS-Nonbiblical-02.txt
+1605901	1Q41		21	4	4		other_material/DSS-Nonbiblical-02.txt
+1605902	1Q42		27	7	7		other_material/DSS-Nonbiblical-02.txt
+1605903	1Q43		6	1	1		other_material/DSS-Nonbiblical-02.txt
+1605904	1Q44		13	3	3		other_material/DSS-Nonbiblical-02.txt
+1605905	1Q45		27	6	6		other_material/DSS-Nonbiblical-02.txt
+1605906	1Q46		45	10	10		other_material/DSS-Nonbiblical-02.txt
+1605907	1Q47		21	5	5		other_material/DSS-Nonbiblical-02.txt
+1605908	1Q49		12	3	3		other_material/DSS-Nonbiblical-02.txt
+1605909	1Q50		34	9	9		other_material/DSS-Nonbiblical-02.txt
+1605910	1Q51		32	4	4		other_material/DSS-Nonbiblical-02.txt
+1605911	1Q52		12	2	2		other_material/DSS-Nonbiblical-02.txt
+1605912	1Q53		17	3	3		other_material/DSS-Nonbiblical-02.txt
+1605913	1Q54		12	3	3		other_material/DSS-Nonbiblical-02.txt
+1605914	1Q55		18	3	3		other_material/DSS-Nonbiblical-02.txt
+1605915	1Q56		8	2	2		other_material/DSS-Nonbiblical-02.txt
+1605916	1Q57		11	3	3		other_material/DSS-Nonbiblical-02.txt
+1605917	1Q58		17	5	5		other_material/DSS-Nonbiblical-02.txt
+1605918	1Q62		5	1	1		other_material/DSS-Nonbiblical-02.txt
+1605919	1Q63		17	4	5		other_material/DSS-Nonbiblical-02.txt
+1605920	1Q64		14	3	4		other_material/DSS-Nonbiblical-02.txt
+1605921	1Q65		14	3	4		other_material/DSS-Nonbiblical-02.txt
+1605922	1Q66		20	5	6		other_material/DSS-Nonbiblical-02.txt
+1605923	1Q67		19	6	7		other_material/DSS-Nonbiblical-02.txt
+1605924	1Q68		55	14	15		other_material/DSS-Nonbiblical-02.txt
+1605925	1Q69		98	24	24		other_material/DSS-Nonbiblical-02.txt
+1605926	1Q70		127	32	32		other_material/DSS-Nonbiblical-02.txt
+1605927	1Q70bis		32	7	7		other_material/DSS-Nonbiblical-02.txt
+1605928	2Q18		131	15	15		other_material/DSS-Nonbiblical-02.txt
+1605929	2Q19		67	5	5		other_material/DSS-Nonbiblical-02.txt
+1605930	2Q20		81	11	11		other_material/DSS-Nonbiblical-02.txt
+1605931	2Q21		77	8	8		other_material/DSS-Nonbiblical-02.txt
+1605932	2Q22		66	8	8		other_material/DSS-Nonbiblical-02.txt
+1605933	2Q23		140	31	31		other_material/DSS-Nonbiblical-02.txt
+1605934	2Q24		404	56	80		other_material/DSS-Nonbiblical-02.txt
+1605935	2Q25		48	10	10		other_material/DSS-Nonbiblical-02.txt
+1605936	2Q26		37	4	5		other_material/DSS-Nonbiblical-02.txt
+1605937	2Q27		29	5	5		other_material/DSS-Nonbiblical-02.txt
+1605938	2Q28		50	12	12		other_material/DSS-Nonbiblical-02.txt
+1605939	2Q29	2	89	11	14	Num	books/DSS-Numbers.txt;other_material/DSS-Nonbiblical-02.txt
+1605940	2Q30		13	4	4		other_material/DSS-Nonbiblical-02.txt
+1605941	2Q31		12	3	3		other_material/DSS-Nonbiblical-02.txt
+1605942	2Q32		9	3	3		other_material/DSS-Nonbiblical-02.txt
+1605943	2Q33		98	24	24		other_material/DSS-Nonbiblical-02.txt
+1605944	3Q4		44	7	7		other_material/DSS-Nonbiblical-02.txt
+1605945	3Q5		104	21	21		other_material/DSS-Nonbiblical-02.txt
+1605946	3Q6		25	6	6		other_material/DSS-Nonbiblical-02.txt
+1605947	3Q7		66	18	18		other_material/DSS-Nonbiblical-03.txt
+1605948	3Q8		20	4	4		other_material/DSS-Nonbiblical-03.txt
+1605949	3Q9		44	11	11		other_material/DSS-Nonbiblical-03.txt
+1605950	3Q10		30	7	7		other_material/DSS-Nonbiblical-03.txt
+1605951	3Q11		37	8	8		other_material/DSS-Nonbiblical-03.txt
+1605952	3Q12		24	6	8		other_material/DSS-Nonbiblical-03.txt
+1605953	3Q13		44	12	17		other_material/DSS-Nonbiblical-03.txt
+1605954	3Q14		206	57	65		other_material/DSS-Nonbiblical-03.txt
+1605955	3Q15		1180	181	262		other_material/DSS-Nonbiblical-03.txt
+1605956	4Q88		255	47	47		other_material/DSS-Nonbiblical-03.txt
+1605957	4Q123		84	14	14		other_material/DSS-Nonbiblical-03.txt
+1605958	4Q124		382	105	106		other_material/DSS-Nonbiblical-03.txt
+1605959	4Q125		13	4	4		other_material/DSS-Nonbiblical-03.txt
+1605960	4Q156		166	14	35		other_material/DSS-Nonbiblical-03.txt
+1605961	4Q157		67	15	19		other_material/DSS-Nonbiblical-03.txt
+1605962	4Q158		776	94	94		other_material/DSS-Nonbiblical-03.txt
+1605963	4Q159		392	44	44		other_material/DSS-Nonbiblical-03.txt
+1605964	4Q160		227	27	27		other_material/DSS-Nonbiblical-03.txt
+1605965	4Q161		554	53	55		other_material/DSS-Nonbiblical-03.txt
+1605966	4Q162		265	25	25		other_material/DSS-Nonbiblical-03.txt
+1605967	4Q163		1657	256	257		other_material/DSS-Nonbiblical-03.txt
+1605968	4Q164		111	13	13		other_material/DSS-Nonbiblical-03.txt
+1605969	4Q165		345	35	36		other_material/DSS-Nonbiblical-03.txt
+1605970	4Q166		263	34	34		other_material/DSS-Nonbiblical-03.txt
+1605971	4Q167		478	97	97		other_material/DSS-Nonbiblical-03.txt
+1605972	4Q168		86	9	9		other_material/DSS-Nonbiblical-03.txt
+1605973	4Q169		833	60	61		other_material/DSS-Nonbiblical-03.txt
+1605974	4Q170		27	2	2		other_material/DSS-Nonbiblical-03.txt
+1605975	4Q171		1038	101	115		other_material/DSS-Nonbiblical-03.txt
+1605976	4Q172		158	35	35		other_material/DSS-Nonbiblical-03.txt
+1605977	4Q173		156	21	23		other_material/DSS-Nonbiblical-03.txt
+1605978	4Q174		842	96	97		other_material/DSS-Nonbiblical-03.txt
+1605979	4Q175		361	30	30		other_material/DSS-Nonbiblical-03.txt
+1605980	4Q176		1102	173	173		other_material/DSS-Nonbiblical-03.txt
+1605981	4Q176a		118	9	9		other_material/DSS-Nonbiblical-03.txt
+1605982	4Q177		1158	140	140		other_material/DSS-Nonbiblical-03.txt
+1605983	4Q178		201	46	46		other_material/DSS-Nonbiblical-03.txt
+1605984	4Q179		318	44	44		other_material/DSS-Nonbiblical-03.txt
+1605985	4Q180		211	34	36		other_material/DSS-Nonbiblical-03.txt
+1605986	4Q181		156	17	17		other_material/DSS-Nonbiblical-03.txt
+1605987	4Q182		52	7	7		other_material/DSS-Nonbiblical-04.txt
+1605988	4Q183		86	15	21		other_material/DSS-Nonbiblical-04.txt
+1605989	4Q184		422	41	41		other_material/DSS-Nonbiblical-04.txt
+1605990	4Q185		494	58	58		other_material/DSS-Nonbiblical-04.txt
+1605991	4Q186		251	41	41		other_material/DSS-Nonbiblical-04.txt
+1605992	4Q196		1268	166	267		other_material/DSS-Nonbiblical-04.txt
+1605993	4Q197		873	76	151		other_material/DSS-Nonbiblical-04.txt
+1605994	4Q198		145	19	29		other_material/DSS-Nonbiblical-04.txt
+1605995	4Q199		21	3	5		other_material/DSS-Nonbiblical-04.txt
+1605996	4Q200		558	65	65		other_material/DSS-Nonbiblical-04.txt
+1605997	4Q201		1193	93	177		other_material/DSS-Nonbiblical-04.txt
+1605998	4Q202		854	55	102		other_material/DSS-Nonbiblical-04.txt
+1605999	4Q203		431	81	105		other_material/DSS-Nonbiblical-04.txt
+1606000	4Q204		2219	126	282		other_material/DSS-Nonbiblical-04.txt
+1606001	4Q205		549	31	69		other_material/DSS-Nonbiblical-04.txt
+1606002	4Q206		1003	86	152		other_material/DSS-Nonbiblical-04.txt
+1606003	4Q207		102	6	10		other_material/DSS-Nonbiblical-04.txt
+1606004	4Q208		822	124	195		other_material/DSS-Nonbiblical-04.txt
+1606005	4Q209		2640	171	559		other_material/DSS-Nonbiblical-04.txt
+1606006	4Q210		529	25	66		other_material/DSS-Nonbiblical-05.txt
+1606007	4Q211		148	16	26		other_material/DSS-Nonbiblical-05.txt
+1606008	4Q212		691	55	97		other_material/DSS-Nonbiblical-05.txt
+1606009	4Q213		497	57	86		other_material/DSS-Nonbiblical-05.txt
+1606010	4Q213a		280	44	63		other_material/DSS-Nonbiblical-05.txt
+1606011	4Q213b		108	6	11		other_material/DSS-Nonbiblical-05.txt
+1606012	4Q214		207	33	48		other_material/DSS-Nonbiblical-05.txt
+1606013	4Q214a		123	17	23		other_material/DSS-Nonbiblical-05.txt
+1606014	4Q214b		205	23	36		other_material/DSS-Nonbiblical-05.txt
+1606015	4Q215		163	11	11		other_material/DSS-Nonbiblical-05.txt
+1606016	4Q215a		238	36	36		other_material/DSS-Nonbiblical-05.txt
+1606017	4Q216		1509	85	85		other_material/DSS-Nonbiblical-05.txt
+1606018	4Q217		184	41	41		other_material/DSS-Nonbiblical-05.txt
+1606019	4Q218		55	4	4		other_material/DSS-Nonbiblical-05.txt
+1606020	4Q219		583	45	45		other_material/DSS-Nonbiblical-05.txt
+1606021	4Q220		197	11	11		other_material/DSS-Nonbiblical-05.txt
+1606022	4Q221		868	84	84		other_material/DSS-Nonbiblical-05.txt
+1606023	4Q222		198	18	18		other_material/DSS-Nonbiblical-05.txt
+1606024	4Q223_224		2678	193	193		other_material/DSS-Nonbiblical-05.txt
+1606025	4Q225		463	49	49		other_material/DSS-Nonbiblical-05.txt
+1606026	4Q226		361	68	68		other_material/DSS-Nonbiblical-05.txt
+1606027	4Q227		79	12	12		other_material/DSS-Nonbiblical-05.txt
+1606028	4Q228		142	25	25		other_material/DSS-Nonbiblical-05.txt
+1606029	4Q230		189	44	46		other_material/DSS-Nonbiblical-05.txt
+1606030	4Q234		22	5	5		other_material/DSS-Nonbiblical-05.txt
+1606031	4Q235		25	4	5		other_material/DSS-Nonbiblical-05.txt
+1606032	4Q238		32	6	6		other_material/DSS-Nonbiblical-05.txt
+1606033	4Q242		167	14	16		other_material/DSS-Nonbiblical-05.txt
+1606034	4Q243		578	128	173		other_material/DSS-Nonbiblical-05.txt
+1606035	4Q244		176	35	48		other_material/DSS-Nonbiblical-05.txt
+1606036	4Q245		91	25	30		other_material/DSS-Nonbiblical-05.txt
+1606037	4Q246		178	18	39		other_material/DSS-Nonbiblical-05.txt
+1606038	4Q247		57	7	7		other_material/DSS-Nonbiblical-05.txt
+1606039	4Q248		89	10	10		other_material/DSS-Nonbiblical-05.txt
+1606040	4Q249		306	82	83		other_material/DSS-Nonbiblical-05.txt
+1606041	4Q249a		77	9	9		other_material/DSS-Nonbiblical-05.txt
+1606042	4Q249b		27	3	3		other_material/DSS-Nonbiblical-05.txt
+1606043	4Q249c		60	7	7		other_material/DSS-Nonbiblical-05.txt
+1606044	4Q249d		73	6	6		other_material/DSS-Nonbiblical-05.txt
+1606045	4Q249e		151	13	18		other_material/DSS-Nonbiblical-05.txt
+1606046	4Q249f		100	9	9		other_material/DSS-Nonbiblical-05.txt
+1606047	4Q249g		288	26	26		other_material/DSS-Nonbiblical-05.txt
+1606048	4Q249h		91	8	8		other_material/DSS-Nonbiblical-05.txt
+1606049	4Q249i		68	9	10		other_material/DSS-Nonbiblical-05.txt
+1606050	4Q249j	1	60	6	8	Lev	books/DSS-Leviticus.txt
+1606051	4Q249k		46	5	5		other_material/DSS-Nonbiblical-05.txt
+1606052	4Q249l		55	7	7		other_material/DSS-Nonbiblical-05.txt
+1606053	4Q249m		28	10	10		other_material/DSS-Nonbiblical-05.txt
+1606054	4Q249n		26	7	7		other_material/DSS-Nonbiblical-05.txt
+1606055	4Q249o		12	3	3		other_material/DSS-Nonbiblical-05.txt
+1606056	4Q249p		46	11	11		other_material/DSS-Nonbiblical-05.txt
+1606057	4Q249q		19	4	4		other_material/DSS-Nonbiblical-05.txt
+1606058	4Q249r		23	5	5		other_material/DSS-Nonbiblical-05.txt
+1606059	4Q249s		33	10	10		other_material/DSS-Nonbiblical-05.txt
+1606060	4Q249t		8	2	2		other_material/DSS-Nonbiblical-05.txt
+1606061	4Q249u		8	2	2		other_material/DSS-Nonbiblical-05.txt
+1606062	4Q249v		11	3	3		other_material/DSS-Nonbiblical-05.txt
+1606063	4Q249w		20	5	5		other_material/DSS-Nonbiblical-05.txt
+1606064	4Q249x		12	3	3		other_material/DSS-Nonbiblical-05.txt
+1606065	4Q249y		15	5	5		other_material/DSS-Nonbiblical-05.txt
+1606066	4Q249z		1421	407	408		other_material/DSS-Nonbiblical-05.txt
+1606067	4Q250		39	9	9		other_material/DSS-Nonbiblical-06.txt
+1606068	4Q250a		29	8	8		other_material/DSS-Nonbiblical-06.txt
+1606069	4Q250b		7	2	2		other_material/DSS-Nonbiblical-06.txt
+1606070	4Q250c		12	3	3		other_material/DSS-Nonbiblical-06.txt
+1606071	4Q250d		12	3	3		other_material/DSS-Nonbiblical-06.txt
+1606072	4Q250e		12	3	3		other_material/DSS-Nonbiblical-06.txt
+1606073	4Q250f		11	3	3		other_material/DSS-Nonbiblical-06.txt
+1606074	4Q250g		9	2	2		other_material/DSS-Nonbiblical-06.txt
+1606075	4Q250h		6	2	2		other_material/DSS-Nonbiblical-06.txt
+1606076	4Q250i		17	5	5		other_material/DSS-Nonbiblical-06.txt
+1606077	4Q250j		48	14	14		other_material/DSS-Nonbiblical-06.txt
+1606078	4Q251		812	95	95		other_material/DSS-Nonbiblical-06.txt
+1606079	4Q252		802	67	67		other_material/DSS-Nonbiblical-06.txt
+1606080	4Q253		65	12	12		other_material/DSS-Nonbiblical-06.txt
+1606081	4Q253a		96	9	9		other_material/DSS-Nonbiblical-06.txt
+1606082	4Q254		327	65	65		other_material/DSS-Nonbiblical-06.txt
+1606083	4Q254a		85	10	10		other_material/DSS-Nonbiblical-06.txt
+1606084	4Q255		197	25	25		other_material/DSS-Nonbiblical-06.txt
+1606085	4Q256		950	59	59		other_material/DSS-Nonbiblical-06.txt
+1606086	4Q257		595	44	44		other_material/DSS-Nonbiblical-06.txt
+1606087	4Q258		1628	86	90		other_material/DSS-Nonbiblical-06.txt
+1606088	4Q259		820	54	54		other_material/DSS-Nonbiblical-06.txt
+1606089	4Q260		336	27	27		other_material/DSS-Nonbiblical-06.txt
+1606090	4Q261		486	43	43		other_material/DSS-Nonbiblical-06.txt
+1606091	4Q262		84	13	13		other_material/DSS-Nonbiblical-06.txt
+1606092	4Q263		98	5	5		other_material/DSS-Nonbiblical-06.txt
+1606093	4Q264		187	10	10		other_material/DSS-Nonbiblical-06.txt
+1606094	4Q264a		147	16	16		other_material/DSS-Nonbiblical-06.txt
+1606095	4Q265		845	94	94		other_material/DSS-Nonbiblical-06.txt
+1606096	4Q266		4972	564	564		other_material/DSS-Nonbiblical-06.txt
+1606097	4Q267		1294	162	169		other_material/DSS-Nonbiblical-06.txt
+1606098	4Q268		269	23	25		other_material/DSS-Nonbiblical-06.txt
+1606099	4Q269		1443	111	112		other_material/DSS-Nonbiblical-06.txt
+1606100	4Q270		2272	194	194		other_material/DSS-Nonbiblical-06.txt
+1606101	4Q271		1222	90	90		other_material/DSS-Nonbiblical-06.txt
+1606102	4Q272		467	44	45		other_material/DSS-Nonbiblical-07.txt
+1606103	4Q273		257	37	37		other_material/DSS-Nonbiblical-07.txt
+1606104	4Q274		577	53	53		other_material/DSS-Nonbiblical-07.txt
+1606105	4Q275		132	22	22		other_material/DSS-Nonbiblical-07.txt
+1606106	4Q276		82	9	9		other_material/DSS-Nonbiblical-07.txt
+1606107	4Q277		248	22	22		other_material/DSS-Nonbiblical-07.txt
+1606108	4Q278		37	9	9		other_material/DSS-Nonbiblical-07.txt
+1606109	4Q279		118	19	19		other_material/DSS-Nonbiblical-07.txt
+1606110	4Q280		133	12	12		other_material/DSS-Nonbiblical-07.txt
+1606111	4Q281a		39	5	5		other_material/DSS-Nonbiblical-07.txt
+1606112	4Q281b		14	2	2		other_material/DSS-Nonbiblical-07.txt
+1606113	4Q281c		37	7	7		other_material/DSS-Nonbiblical-07.txt
+1606114	4Q281d		16	4	4		other_material/DSS-Nonbiblical-07.txt
+1606115	4Q281e		24	5	5		other_material/DSS-Nonbiblical-07.txt
+1606116	4Q281f		20	2	2		other_material/DSS-Nonbiblical-07.txt
+1606117	4Q282a		14	3	3		other_material/DSS-Nonbiblical-07.txt
+1606118	4Q282b		22	5	5		other_material/DSS-Nonbiblical-07.txt
+1606119	4Q282c		20	9	9		other_material/DSS-Nonbiblical-07.txt
+1606120	4Q282d		13	3	3		other_material/DSS-Nonbiblical-07.txt
+1606121	4Q282e		50	17	17		other_material/DSS-Nonbiblical-07.txt
+1606122	4Q282f		15	5	5		other_material/DSS-Nonbiblical-07.txt
+1606123	4Q282g		20	5	5		other_material/DSS-Nonbiblical-07.txt
+1606124	4Q282h		20	5	5		other_material/DSS-Nonbiblical-07.txt
+1606125	4Q282i		19	4	4		other_material/DSS-Nonbiblical-07.txt
+1606126	4Q282j		26	10	10		other_material/DSS-Nonbiblical-07.txt
+1606127	4Q282k		27	7	7		other_material/DSS-Nonbiblical-07.txt
+1606128	4Q282l		6	2	2		other_material/DSS-Nonbiblical-07.txt
+1606129	4Q282m		13	3	3		other_material/DSS-Nonbiblical-07.txt
+1606130	4Q282n		10	2	2		other_material/DSS-Nonbiblical-07.txt
+1606131	4Q282o		21	4	4		other_material/DSS-Nonbiblical-07.txt
+1606132	4Q282p		10	4	4		other_material/DSS-Nonbiblical-07.txt
+1606133	4Q282q		18	4	4		other_material/DSS-Nonbiblical-07.txt
+1606134	4Q282r		5	2	2		other_material/DSS-Nonbiblical-07.txt
+1606135	4Q282s		9	2	2		other_material/DSS-Nonbiblical-07.txt
+1606136	4Q282t		5	2	2		other_material/DSS-Nonbiblical-07.txt
+1606137	4Q284		268	46	46		other_material/DSS-Nonbiblical-07.txt
+1606138	4Q284a		135	20	20		other_material/DSS-Nonbiblical-07.txt
+1606139	4Q285		485	61	61		other_material/DSS-Nonbiblical-07.txt
+1606140	4Q286		900	119	119		other_material/DSS-Nonbiblical-07.txt
+1606141	4Q287		474	54	54		other_material/DSS-Nonbiblical-07.txt
+1606142	4Q288		91	14	14		other_material/DSS-Nonbiblical-07.txt
+1606143	4Q289		102	13	13		other_material/DSS-Nonbiblical-07.txt
+1606144	4Q290		21	3	3		other_material/DSS-Nonbiblical-07.txt
+1606145	4Q291		97	16	16		other_material/DSS-Nonbiblical-07.txt
+1606146	4Q292		48	10	10		other_material/DSS-Nonbiblical-07.txt
+1606147	4Q293		44	8	8		other_material/DSS-Nonbiblical-07.txt
+1606148	4Q294		20	5	5		other_material/DSS-Nonbiblical-07.txt
+1606149	4Q298		239	48	48		other_material/DSS-Nonbiblical-07.txt
+1606150	4Q299		2367	461	461		other_material/DSS-Nonbiblical-07.txt
+1606151	4Q300		530	65	66		other_material/DSS-Nonbiblical-07.txt
+1606152	4Q301		361	50	50		other_material/DSS-Nonbiblical-07.txt
+1606153	4Q302		494	120	120		other_material/DSS-Nonbiblical-07.txt
+1606154	4Q303		92	14	14		other_material/DSS-Nonbiblical-07.txt
+1606155	4Q304		18	3	3		other_material/DSS-Nonbiblical-07.txt
+1606156	4Q305		37	8	8		other_material/DSS-Nonbiblical-07.txt
+1606157	4Q306		140	21	21		other_material/DSS-Nonbiblical-07.txt
+1606158	4Q307		127	32	32		other_material/DSS-Nonbiblical-07.txt
+1606159	4Q313		50	4	4		other_material/DSS-Nonbiblical-07.txt
+1606160	4Q313a		7	3	3		other_material/DSS-Nonbiblical-07.txt
+1606161	4Q313b		8	2	2		other_material/DSS-Nonbiblical-07.txt
+1606162	4Q317		1959	347	363		other_material/DSS-Nonbiblical-07.txt
+1606163	4Q318		421	31	237		other_material/DSS-Nonbiblical-07.txt
+1606164	4Q319		1418	201	266		other_material/DSS-Nonbiblical-07.txt
+1606165	4Q320		905	129	399		other_material/DSS-Nonbiblical-08.txt
+1606166	4Q321		1505	57	57		other_material/DSS-Nonbiblical-08.txt
+1606167	4Q321a		977	65	65		other_material/DSS-Nonbiblical-08.txt
+1606168	4Q322		70	7	10		other_material/DSS-Nonbiblical-08.txt
+1606169	4Q322a		87	21	21		other_material/DSS-Nonbiblical-08.txt
+1606170	4Q323		49	5	5		other_material/DSS-Nonbiblical-08.txt
+1606171	4Q324		101	9	9		other_material/DSS-Nonbiblical-08.txt
+1606172	4Q324a		101	20	20		other_material/DSS-Nonbiblical-08.txt
+1606173	4Q324b		40	13	13		other_material/DSS-Nonbiblical-08.txt
+1606174	4Q324c		27	6	6		other_material/DSS-Nonbiblical-08.txt
+1606175	4Q324d		193	39	40		other_material/DSS-Nonbiblical-08.txt
+1606176	4Q324e		116	31	31		other_material/DSS-Nonbiblical-08.txt
+1606177	4Q324f		27	7	7		other_material/DSS-Nonbiblical-08.txt
+1606178	4Q324g		9	2	2		other_material/DSS-Nonbiblical-08.txt
+1606179	4Q324h		57	15	15		other_material/DSS-Nonbiblical-08.txt
+1606180	4Q324i		30	8	8		other_material/DSS-Nonbiblical-08.txt
+1606181	4Q325		226	19	19		other_material/DSS-Nonbiblical-08.txt
+1606182	4Q326		76	5	21		other_material/DSS-Nonbiblical-08.txt
+1606183	4Q328		53	6	6		other_material/DSS-Nonbiblical-08.txt
+1606184	4Q329		89	9	9		other_material/DSS-Nonbiblical-08.txt
+1606185	4Q329a		58	6	6		other_material/DSS-Nonbiblical-08.txt
+1606186	4Q330		63	12	12		other_material/DSS-Nonbiblical-08.txt
+1606187	4Q331		141	40	40		other_material/DSS-Nonbiblical-08.txt
+1606188	4Q332		115	17	17		other_material/DSS-Nonbiblical-08.txt
+1606189	4Q332a		5	1	1		other_material/DSS-Nonbiblical-08.txt
+1606190	4Q333		34	9	9		other_material/DSS-Nonbiblical-08.txt
+1606191	4Q334		167	22	22		other_material/DSS-Nonbiblical-08.txt
+1606192	4Q337		13	4	4		other_material/DSS-Nonbiblical-08.txt
+1606193	4Q338		8	2	2		other_material/DSS-Nonbiblical-08.txt
+1606194	4Q339		36	9	10		other_material/DSS-Nonbiblical-08.txt
+1606195	4Q340		15	6	6		other_material/DSS-Nonbiblical-08.txt
+1606196	4Q341		32	13	13		other_material/DSS-Nonbiblical-08.txt
+1606197	4Q342		24	4	5		other_material/DSS-Nonbiblical-08.txt
+1606198	4Q343		74	15	17		other_material/DSS-Nonbiblical-08.txt
+1606199	4Q344		52	8	10		other_material/DSS-Nonbiblical-08.txt
+1606200	4Q345		68	21	25		other_material/DSS-Nonbiblical-08.txt
+1606201	4Q346		66	11	16		other_material/DSS-Nonbiblical-08.txt
+1606202	4Q346a		7	1	2		other_material/DSS-Nonbiblical-08.txt
+1606203	4Q347		21	4	5		other_material/DSS-Nonbiblical-08.txt
+1606204	4Q348		136	18	24		other_material/DSS-Nonbiblical-08.txt
+1606205	4Q351		13	4	9		other_material/DSS-Nonbiblical-08.txt
+1606206	4Q352		59	15	52		other_material/DSS-Nonbiblical-08.txt
+1606207	4Q352a		27	8	20		other_material/DSS-Nonbiblical-08.txt
+1606208	4Q353		5	1	3		other_material/DSS-Nonbiblical-08.txt
+1606209	4Q354		3	1	3		other_material/DSS-Nonbiblical-08.txt
+1606210	4Q356		11	2	5		other_material/DSS-Nonbiblical-08.txt
+1606211	4Q357		10	2	7		other_material/DSS-Nonbiblical-08.txt
+1606212	4Q358		15	4	7		other_material/DSS-Nonbiblical-08.txt
+1606213	4Q359		16	3	5		other_material/DSS-Nonbiblical-08.txt
+1606214	4Q360		24	8	8		other_material/DSS-Nonbiblical-08.txt
+1606215	4Q360a		85	21	37		other_material/DSS-Nonbiblical-08.txt
+1606216	4Q364		4111	405	406		other_material/DSS-Nonbiblical-08.txt
+1606217	4Q365		4484	321	321		other_material/DSS-Nonbiblical-08.txt
+1606218	4Q365a		578	53	53		other_material/DSS-Nonbiblical-08.txt
+1606219	4Q366		738	49	49		other_material/DSS-Nonbiblical-09.txt
+1606220	4Q367		517	45	45		other_material/DSS-Nonbiblical-09.txt
+1606221	4Q368		628	75	75		other_material/DSS-Nonbiblical-09.txt
+1606222	4Q369		327	50	50		other_material/DSS-Nonbiblical-09.txt
+1606223	4Q370		247	19	19		other_material/DSS-Nonbiblical-09.txt
+1606224	4Q371		297	43	43		other_material/DSS-Nonbiblical-09.txt
+1606225	4Q372		1178	141	141		other_material/DSS-Nonbiblical-09.txt
+1606226	4Q373		79	10	10		other_material/DSS-Nonbiblical-09.txt
+1606227	4Q373a		86	6	6		other_material/DSS-Nonbiblical-09.txt
+1606228	4Q374		353	68	68		other_material/DSS-Nonbiblical-09.txt
+1606229	4Q375		201	16	16		other_material/DSS-Nonbiblical-09.txt
+1606230	4Q376		135	12	12		other_material/DSS-Nonbiblical-09.txt
+1606231	4Q377		433	44	44		other_material/DSS-Nonbiblical-09.txt
+1606232	4Q378		824	155	155		other_material/DSS-Nonbiblical-09.txt
+1606233	4Q379		1050	187	187		other_material/DSS-Nonbiblical-09.txt
+1606234	4Q380		248	47	47		other_material/DSS-Nonbiblical-09.txt
+1606235	4Q381		2648	370	371		other_material/DSS-Nonbiblical-09.txt
+1606236	4Q382		2040	452	452		other_material/DSS-Nonbiblical-09.txt
+1606237	4Q383		161	30	30		other_material/DSS-Nonbiblical-09.txt
+1606238	4Q384		325	81	81		other_material/DSS-Nonbiblical-09.txt
+1606239	4Q385		448	44	44		other_material/DSS-Nonbiblical-09.txt
+1606240	4Q385a		1030	167	167		other_material/DSS-Nonbiblical-09.txt
+1606241	4Q385b		69	7	7		other_material/DSS-Nonbiblical-09.txt
+1606242	4Q385c		81	20	20		other_material/DSS-Nonbiblical-10.txt
+1606243	4Q386		325	36	36		other_material/DSS-Nonbiblical-10.txt
+1606244	4Q387		532	54	54		other_material/DSS-Nonbiblical-10.txt
+1606245	4Q387a		157	33	33		other_material/DSS-Nonbiblical-10.txt
+1606246	4Q388		209	38	38		other_material/DSS-Nonbiblical-10.txt
+1606247	4Q388a		378	67	67		other_material/DSS-Nonbiblical-10.txt
+1606248	4Q389		447	56	56		other_material/DSS-Nonbiblical-10.txt
+1606249	4Q390		463	51	51		other_material/DSS-Nonbiblical-10.txt
+1606250	4Q391		964	200	200		other_material/DSS-Nonbiblical-10.txt
+1606251	4Q392		363	40	40		other_material/DSS-Nonbiblical-10.txt
+1606252	4Q393		362	51	51		other_material/DSS-Nonbiblical-10.txt
+1606253	4Q394		917	146	146		other_material/DSS-Nonbiblical-10.txt
+1606254	4Q395		142	12	12		other_material/DSS-Nonbiblical-10.txt
+1606255	4Q396		487	39	39		other_material/DSS-Nonbiblical-10.txt
+1606256	4Q397		778	55	55		other_material/DSS-Nonbiblical-10.txt
+1606257	4Q398		414	43	43		other_material/DSS-Nonbiblical-10.txt
+1606258	4Q399		90	8	8		other_material/DSS-Nonbiblical-10.txt
+1606259	4Q400		566	93	93		other_material/DSS-Nonbiblical-10.txt
+1606260	4Q401		579	126	126		other_material/DSS-Nonbiblical-10.txt
+1606261	4Q402		398	78	78		other_material/DSS-Nonbiblical-10.txt
+1606262	4Q403		1385	103	103		other_material/DSS-Nonbiblical-10.txt
+1606263	4Q404		401	86	86		other_material/DSS-Nonbiblical-10.txt
+1606264	4Q405		2444	345	346		other_material/DSS-Nonbiblical-10.txt
+1606265	4Q406		86	18	19		other_material/DSS-Nonbiblical-10.txt
+1606266	4Q407		28	9	9		other_material/DSS-Nonbiblical-10.txt
+1606267	4Q408		392	55	59		other_material/DSS-Nonbiblical-10.txt
+1606268	4Q409		142	26	26		other_material/DSS-Nonbiblical-10.txt
+1606269	4Q410		136	19	19		other_material/DSS-Nonbiblical-10.txt
+1606270	4Q411		72	18	18		other_material/DSS-Nonbiblical-10.txt
+1606271	4Q412		148	23	23		other_material/DSS-Nonbiblical-10.txt
+1606272	4Q413		67	5	8		other_material/DSS-Nonbiblical-10.txt
+1606273	4Q414		606	124	124		other_material/DSS-Nonbiblical-10.txt
+1606274	4Q415		632	126	126		other_material/DSS-Nonbiblical-10.txt
+1606275	4Q416		1386	137	137		other_material/DSS-Nonbiblical-11.txt
+1606276	4Q417		1506	196	197		other_material/DSS-Nonbiblical-11.txt
+1606277	4Q418		6521	1060	1064		other_material/DSS-Nonbiblical-11.txt
+1606278	4Q418a		385	86	86		other_material/DSS-Nonbiblical-11.txt
+1606279	4Q418b		40	7	7		other_material/DSS-Nonbiblical-11.txt
+1606280	4Q418c		54	10	10		other_material/DSS-Nonbiblical-11.txt
+1606281	4Q419		301	59	59		other_material/DSS-Nonbiblical-11.txt
+1606282	4Q420		203	32	32		other_material/DSS-Nonbiblical-11.txt
+1606283	4Q421		454	66	66		other_material/DSS-Nonbiblical-11.txt
+1606284	4Q422		739	84	88		other_material/DSS-Nonbiblical-11.txt
+1606285	4Q423		773	98	100		other_material/DSS-Nonbiblical-11.txt
+1606286	4Q424		378	36	36		other_material/DSS-Nonbiblical-11.txt
+1606287	4Q425		213	37	39		other_material/DSS-Nonbiblical-11.txt
+1606288	4Q426		345	70	71		other_material/DSS-Nonbiblical-11.txt
+1606289	4Q427		1425	136	136		other_material/DSS-Nonbiblical-11.txt
+1606290	4Q428		1426	189	189		other_material/DSS-Nonbiblical-12.txt
+1606291	4Q429		637	58	58		other_material/DSS-Nonbiblical-12.txt
+1606292	4Q430		106	7	7		other_material/DSS-Nonbiblical-12.txt
+1606293	4Q431		197	18	18		other_material/DSS-Nonbiblical-12.txt
+1606294	4Q432		578	60	60		other_material/DSS-Nonbiblical-12.txt
+1606295	4Q433		109	17	17		other_material/DSS-Nonbiblical-12.txt
+1606296	4Q433a		215	31	32		other_material/DSS-Nonbiblical-12.txt
+1606297	4Q434		601	66	66		other_material/DSS-Nonbiblical-12.txt
+1606298	4Q435		259	29	29		other_material/DSS-Nonbiblical-12.txt
+1606299	4Q436		237	19	19		other_material/DSS-Nonbiblical-12.txt
+1606300	4Q437		460	48	48		other_material/DSS-Nonbiblical-12.txt
+1606301	4Q438		249	38	39		other_material/DSS-Nonbiblical-12.txt
+1606302	4Q439		77	11	11		other_material/DSS-Nonbiblical-12.txt
+1606303	4Q440		142	25	25		other_material/DSS-Nonbiblical-12.txt
+1606304	4Q440a		41	7	7		other_material/DSS-Nonbiblical-12.txt
+1606305	4Q440b		22	4	4		other_material/DSS-Nonbiblical-12.txt
+1606306	4Q441		29	9	9		other_material/DSS-Nonbiblical-12.txt
+1606307	4Q442		17	4	4		other_material/DSS-Nonbiblical-12.txt
+1606308	4Q443		321	73	73		other_material/DSS-Nonbiblical-12.txt
+1606309	4Q444		133	18	18		other_material/DSS-Nonbiblical-12.txt
+1606310	4Q445		118	28	28		other_material/DSS-Nonbiblical-12.txt
+1606311	4Q446		93	14	14		other_material/DSS-Nonbiblical-12.txt
+1606312	4Q447		13	3	3		other_material/DSS-Nonbiblical-12.txt
+1606313	4Q448		147	28	28		other_material/DSS-Nonbiblical-12.txt
+1606314	4Q449		75	12	12		other_material/DSS-Nonbiblical-12.txt
+1606315	4Q450		38	7	7		other_material/DSS-Nonbiblical-12.txt
+1606316	4Q451		29	4	4		other_material/DSS-Nonbiblical-12.txt
+1606317	4Q452		15	3	3		other_material/DSS-Nonbiblical-12.txt
+1606318	4Q453		7	2	2		other_material/DSS-Nonbiblical-12.txt
+1606319	4Q454		32	8	8		other_material/DSS-Nonbiblical-12.txt
+1606320	4Q455		26	4	4		other_material/DSS-Nonbiblical-12.txt
+1606321	4Q456		25	7	7		other_material/DSS-Nonbiblical-12.txt
+1606322	4Q457a		61	21	21		other_material/DSS-Nonbiblical-12.txt
+1606323	4Q457b		76	17	17		other_material/DSS-Nonbiblical-12.txt
+1606324	4Q458		293	63	64		other_material/DSS-Nonbiblical-12.txt
+1606325	4Q459		28	6	6		other_material/DSS-Nonbiblical-12.txt
+1606326	4Q460		348	53	53		other_material/DSS-Nonbiblical-12.txt
+1606327	4Q461		137	23	23		other_material/DSS-Nonbiblical-12.txt
+1606328	4Q462		253	29	29		other_material/DSS-Nonbiblical-12.txt
+1606329	4Q463		108	17	17		other_material/DSS-Nonbiblical-12.txt
+1606330	4Q464		298	67	67		other_material/DSS-Nonbiblical-12.txt
+1606331	4Q464a		29	6	6		other_material/DSS-Nonbiblical-12.txt
+1606332	4Q464b		17	4	4		other_material/DSS-Nonbiblical-12.txt
+1606333	4Q465		29	7	7		other_material/DSS-Nonbiblical-12.txt
+1606334	4Q466		24	5	5		other_material/DSS-Nonbiblical-12.txt
+1606335	4Q467		30	3	3		other_material/DSS-Nonbiblical-12.txt
+1606336	4Q468a		28	5	5		other_material/DSS-Nonbiblical-12.txt
+1606337	4Q468b		46	7	7		other_material/DSS-Nonbiblical-12.txt
+1606338	4Q468c		42	12	12		other_material/DSS-Nonbiblical-12.txt
+1606339	4Q468e		19	3	3		other_material/DSS-Nonbiblical-12.txt
+1606340	4Q468f		21	6	6		other_material/DSS-Nonbiblical-12.txt
+1606341	4Q468g		29	6	6		other_material/DSS-Nonbiblical-12.txt
+1606342	4Q468i		31	6	6		other_material/DSS-Nonbiblical-12.txt
+1606343	4Q468j		19	6	6		other_material/DSS-Nonbiblical-12.txt
+1606344	4Q468k		23	6	6		other_material/DSS-Nonbiblical-12.txt
+1606345	4Q468l		16	2	2		other_material/DSS-Nonbiblical-12.txt
+1606346	4Q468m		14	3	3		other_material/DSS-Nonbiblical-12.txt
+1606347	4Q468n		17	3	3		other_material/DSS-Nonbiblical-12.txt
+1606348	4Q468o		9	2	2		other_material/DSS-Nonbiblical-12.txt
+1606349	4Q468p		17	3	3		other_material/DSS-Nonbiblical-12.txt
+1606350	4Q468q		8	2	2		other_material/DSS-Nonbiblical-12.txt
+1606351	4Q468r		18	4	4		other_material/DSS-Nonbiblical-12.txt
+1606352	4Q468s		10	3	3		other_material/DSS-Nonbiblical-12.txt
+1606353	4Q468t		7	2	2		other_material/DSS-Nonbiblical-12.txt
+1606354	4Q468u		4	1	1		other_material/DSS-Nonbiblical-12.txt
+1606355	4Q468v		4	1	1		other_material/DSS-Nonbiblical-12.txt
+1606356	4Q468w		8	2	2		other_material/DSS-Nonbiblical-12.txt
+1606357	4Q468x		7	2	2		other_material/DSS-Nonbiblical-12.txt
+1606358	4Q468y		15	4	4		other_material/DSS-Nonbiblical-12.txt
+1606359	4Q468z		7	3	3		other_material/DSS-Nonbiblical-12.txt
+1606360	4Q468aa		14	4	4		other_material/DSS-Nonbiblical-12.txt
+1606361	4Q468bb		10	2	2		other_material/DSS-Nonbiblical-12.txt
+1606362	4Q468cc		52	8	8		other_material/DSS-Nonbiblical-12.txt
+1606363	4Q468dd		23	3	3		other_material/DSS-Nonbiblical-12.txt
+1606364	4Q469		140	31	31		other_material/DSS-Nonbiblical-12.txt
+1606365	4Q470		127	18	18		other_material/DSS-Nonbiblical-12.txt
+1606366	4Q471		184	24	24		other_material/DSS-Nonbiblical-12.txt
+1606367	4Q471a		62	8	8		other_material/DSS-Nonbiblical-12.txt
+1606368	4Q471b		115	10	10		other_material/DSS-Nonbiblical-12.txt
+1606369	4Q471c		43	8	8		other_material/DSS-Nonbiblical-12.txt
+1606370	4Q472		88	15	15		other_material/DSS-Nonbiblical-12.txt
+1606371	4Q472a		27	5	5		other_material/DSS-Nonbiblical-12.txt
+1606372	4Q473		89	12	12		other_material/DSS-Nonbiblical-12.txt
+1606373	4Q474		108	15	15		other_material/DSS-Nonbiblical-12.txt
+1606374	4Q475		94	9	9		other_material/DSS-Nonbiblical-12.txt
+1606375	4Q476		91	24	24		other_material/DSS-Nonbiblical-12.txt
+1606376	4Q476a		22	5	5		other_material/DSS-Nonbiblical-12.txt
+1606377	4Q477		158	18	18		other_material/DSS-Nonbiblical-12.txt
+1606378	4Q478		25	5	5		other_material/DSS-Nonbiblical-12.txt
+1606379	4Q479		59	17	17		other_material/DSS-Nonbiblical-12.txt
+1606380	4Q480		30	10	10		other_material/DSS-Nonbiblical-12.txt
+1606381	4Q481		28	6	6		other_material/DSS-Nonbiblical-12.txt
+1606382	4Q481a		103	14	14		other_material/DSS-Nonbiblical-12.txt
+1606383	4Q481b		30	6	6		other_material/DSS-Nonbiblical-12.txt
+1606384	4Q481c		63	10	10		other_material/DSS-Nonbiblical-12.txt
+1606385	4Q481d		119	29	29		other_material/DSS-Nonbiblical-12.txt
+1606386	4Q481e		25	3	3		other_material/DSS-Nonbiblical-12.txt
+1606387	4Q482		103	25	25		other_material/DSS-Nonbiblical-12.txt
+1606388	4Q483	1	82	5	7	Gen	books/DSS-Genesis.txt
+1606389	4Q484		109	28	28		other_material/DSS-Nonbiblical-12.txt
+1606390	4Q485		73	16	16		other_material/DSS-Nonbiblical-12.txt
+1606391	4Q486		23	9	9		other_material/DSS-Nonbiblical-12.txt
+1606392	4Q487		759	184	184		other_material/DSS-Nonbiblical-12.txt
+1606393	4Q488		38	9	15		other_material/DSS-Nonbiblical-12.txt
+1606394	4Q489		49	12	20		other_material/DSS-Nonbiblical-12.txt
+1606395	4Q490		73	18	34		other_material/DSS-Nonbiblical-12.txt
+1606396	4Q491		2428	196	196		other_material/DSS-Nonbiblical-12.txt
+1606397	4Q492		272	19	19		other_material/DSS-Nonbiblical-12.txt
+1606398	4Q493		213	14	14		other_material/DSS-Nonbiblical-13.txt
+1606399	4Q494		103	6	6		other_material/DSS-Nonbiblical-13.txt
+1606400	4Q495		83	6	6		other_material/DSS-Nonbiblical-13.txt
+1606401	4Q496		1182	266	268		other_material/DSS-Nonbiblical-13.txt
+1606402	4Q497		508	138	138		other_material/DSS-Nonbiblical-13.txt
+1606403	4Q498		131	32	34		other_material/DSS-Nonbiblical-13.txt
+1606404	4Q499		594	152	152		other_material/DSS-Nonbiblical-13.txt
+1606405	4Q500		85	19	19		other_material/DSS-Nonbiblical-13.txt
+1606406	4Q501		118	9	9		other_material/DSS-Nonbiblical-13.txt
+1606407	4Q502		3350	793	793		other_material/DSS-Nonbiblical-13.txt
+1606408	4Q503		3512	655	659		other_material/DSS-Nonbiblical-13.txt
+1606409	4Q504		2242	363	363		other_material/DSS-Nonbiblical-13.txt
+1606410	4Q505		167	32	32		other_material/DSS-Nonbiblical-14.txt
+1606411	4Q506		536	127	127		other_material/DSS-Nonbiblical-14.txt
+1606412	4Q507		64	10	10		other_material/DSS-Nonbiblical-14.txt
+1606413	4Q508		553	100	100		other_material/DSS-Nonbiblical-14.txt
+1606414	4Q509		3403	822	822		other_material/DSS-Nonbiblical-14.txt
+1606415	4Q510		240	33	33		other_material/DSS-Nonbiblical-14.txt
+1606416	4Q511		3372	671	671		other_material/DSS-Nonbiblical-14.txt
+1606417	4Q512		2391	530	530		other_material/DSS-Nonbiblical-14.txt
+1606418	4Q513		719	144	144		other_material/DSS-Nonbiblical-15.txt
+1606419	4Q514		197	23	23		other_material/DSS-Nonbiblical-15.txt
+1606420	4Q515		137	32	32		other_material/DSS-Nonbiblical-15.txt
+1606421	4Q516		48	12	12		other_material/DSS-Nonbiblical-15.txt
+1606422	4Q517		496	122	122		other_material/DSS-Nonbiblical-15.txt
+1606423	4Q518		231	57	57		other_material/DSS-Nonbiblical-15.txt
+1606424	4Q519		257	65	65		other_material/DSS-Nonbiblical-15.txt
+1606425	4Q520		267	67	67		other_material/DSS-Nonbiblical-15.txt
+1606426	4Q521		525	101	103		other_material/DSS-Nonbiblical-15.txt
+1606427	4Q522		727	90	90		other_material/DSS-Nonbiblical-15.txt
+1606428	4Q523		88	20	20		other_material/DSS-Nonbiblical-15.txt
+1606429	4Q524		1174	78	78		other_material/DSS-Nonbiblical-15.txt
+1606430	4Q525		1712	295	295		other_material/DSS-Nonbiblical-15.txt
+1606431	4Q526		14	2	2		other_material/DSS-Nonbiblical-15.txt
+1606432	4Q527		20	3	3		other_material/DSS-Nonbiblical-15.txt
+1606433	4Q528		45	6	6		other_material/DSS-Nonbiblical-15.txt
+1606434	4Q529		217	19	29		other_material/DSS-Nonbiblical-15.txt
+1606435	4Q530		742	74	128		other_material/DSS-Nonbiblical-15.txt
+1606436	4Q531		1118	195	260		other_material/DSS-Nonbiblical-15.txt
+1606437	4Q532		150	36	43		other_material/DSS-Nonbiblical-15.txt
+1606438	4Q533		119	26	35		other_material/DSS-Nonbiblical-15.txt
+1606439	4Q534		397	51	80		other_material/DSS-Nonbiblical-15.txt
+1606440	4Q535		93	12	15		other_material/DSS-Nonbiblical-15.txt
+1606441	4Q536		219	25	45		other_material/DSS-Nonbiblical-15.txt
+1606442	4Q537		486	62	92		other_material/DSS-Nonbiblical-15.txt
+1606443	4Q538		147	14	27		other_material/DSS-Nonbiblical-15.txt
+1606444	4Q539		170	19	33		other_material/DSS-Nonbiblical-15.txt
+1606445	4Q540		87	9	14		other_material/DSS-Nonbiblical-15.txt
+1606446	4Q541		684	118	159		other_material/DSS-Nonbiblical-15.txt
+1606447	4Q542		465	39	64		other_material/DSS-Nonbiblical-15.txt
+1606448	4Q543		748	123	183		other_material/DSS-Nonbiblical-16.txt
+1606449	4Q544		489	24	62		other_material/DSS-Nonbiblical-16.txt
+1606450	4Q545		560	76	107		other_material/DSS-Nonbiblical-16.txt
+1606451	4Q546		581	103	130		other_material/DSS-Nonbiblical-16.txt
+1606452	4Q547		499	59	90		other_material/DSS-Nonbiblical-16.txt
+1606453	4Q548		237	23	33		other_material/DSS-Nonbiblical-16.txt
+1606454	4Q549		122	14	21		other_material/DSS-Nonbiblical-16.txt
+1606455	4Q550		850	59	123		other_material/DSS-Nonbiblical-16.txt
+1606456	4Q551		97	18	22		other_material/DSS-Nonbiblical-16.txt
+1606457	4Q552		322	41	75		other_material/DSS-Nonbiblical-16.txt
+1606458	4Q553		202	21	42		other_material/DSS-Nonbiblical-16.txt
+1606459	4Q553a		163	38	51		other_material/DSS-Nonbiblical-16.txt
+1606460	4Q554		1283	106	249		other_material/DSS-Nonbiblical-16.txt
+1606461	4Q554a		246	14	40		other_material/DSS-Nonbiblical-16.txt
+1606462	4Q555		92	21	27		other_material/DSS-Nonbiblical-16.txt
+1606463	4Q556		83	10	11		other_material/DSS-Nonbiblical-16.txt
+1606464	4Q556a		319	68	81		other_material/DSS-Nonbiblical-16.txt
+1606465	4Q557		68	13	15		other_material/DSS-Nonbiblical-16.txt
+1606466	4Q558		1480	341	489		other_material/DSS-Nonbiblical-16.txt
+1606467	4Q558a		60	15	22		other_material/DSS-Nonbiblical-16.txt
+1606468	4Q559		364	46	126		other_material/DSS-Nonbiblical-16.txt
+1606469	4Q560		115	16	19		other_material/DSS-Nonbiblical-16.txt
+1606470	4Q561		222	41	50		other_material/DSS-Nonbiblical-16.txt
+1606471	4Q562		226	37	48		other_material/DSS-Nonbiblical-16.txt
+1606472	4Q563		90	13	16		other_material/DSS-Nonbiblical-16.txt
+1606473	4Q564		27	5	7		other_material/DSS-Nonbiblical-16.txt
+1606474	4Q565		40	7	8		other_material/DSS-Nonbiblical-16.txt
+1606475	4Q566		40	9	11		other_material/DSS-Nonbiblical-16.txt
+1606476	4Q567		15	3	4		other_material/DSS-Nonbiblical-16.txt
+1606477	4Q568		34	2	3		other_material/DSS-Nonbiblical-16.txt
+1606478	4Q569		140	18	25		other_material/DSS-Nonbiblical-16.txt
+1606479	4Q570		720	169	216		other_material/DSS-Nonbiblical-16.txt
+1606480	4Q571		62	5	6		other_material/DSS-Nonbiblical-17.txt
+1606481	4Q572		23	4	5		other_material/DSS-Nonbiblical-17.txt
+1606482	4Q573		26	9	10		other_material/DSS-Nonbiblical-17.txt
+1606483	4Q574		35	9	10		other_material/DSS-Nonbiblical-17.txt
+1606484	4Q575		44	8	9		other_material/DSS-Nonbiblical-17.txt
+1606485	4Q575a		26	5	7		other_material/DSS-Nonbiblical-17.txt
+1606486	4Q577		132	31	31		other_material/DSS-Nonbiblical-17.txt
+1606487	4Q578		16	4	5		other_material/DSS-Nonbiblical-17.txt
+1606488	4Q579		41	8	8		other_material/DSS-Nonbiblical-17.txt
+1606489	4Q580		341	81	98		other_material/DSS-Nonbiblical-17.txt
+1606490	4Q581		132	18	20		other_material/DSS-Nonbiblical-17.txt
+1606491	4Q582		92	21	26		other_material/DSS-Nonbiblical-17.txt
+1606492	4Q583		51	4	8		other_material/DSS-Nonbiblical-17.txt
+1606493	4Q584		368	82	110		other_material/DSS-Nonbiblical-17.txt
+1606494	4Q585		228	58	88		other_material/DSS-Nonbiblical-17.txt
+1606495	4Q586		162	37	51		other_material/DSS-Nonbiblical-17.txt
+1606496	4Q587		41	8	10		other_material/DSS-Nonbiblical-17.txt
+1606497	5Q9		98	19	19		other_material/DSS-Nonbiblical-17.txt
+1606498	5Q10		51	9	9		other_material/DSS-Nonbiblical-17.txt
+1606499	5Q11		34	12	12		other_material/DSS-Nonbiblical-17.txt
+1606500	5Q12		28	5	5		other_material/DSS-Nonbiblical-17.txt
+1606501	5Q13		338	70	70		other_material/DSS-Nonbiblical-17.txt
+1606502	5Q14		39	5	5		other_material/DSS-Nonbiblical-17.txt
+1606503	5Q15		918	71	150		other_material/DSS-Nonbiblical-17.txt
+1606504	5Q16		120	25	25		other_material/DSS-Nonbiblical-17.txt
+1606505	5Q17		78	19	19		other_material/DSS-Nonbiblical-17.txt
+1606506	5Q18		60	15	15		other_material/DSS-Nonbiblical-17.txt
+1606507	5Q19		44	9	9		other_material/DSS-Nonbiblical-17.txt
+1606508	5Q20		32	7	7		other_material/DSS-Nonbiblical-17.txt
+1606509	5Q22		15	5	5		other_material/DSS-Nonbiblical-17.txt
+1606510	5Q23		5	1	1		other_material/DSS-Nonbiblical-17.txt
+1606511	5Q24		11	3	4		other_material/DSS-Nonbiblical-17.txt
+1606512	5Q25		86	21	21		other_material/DSS-Nonbiblical-17.txt
+1606513	6Q8		320	68	103		other_material/DSS-Nonbiblical-17.txt
+1606514	6Q9		601	151	151		other_material/DSS-Nonbiblical-17.txt
+1606515	6Q10		217	63	63		other_material/DSS-Nonbiblical-17.txt
+1606516	6Q11		38	6	6		other_material/DSS-Nonbiblical-17.txt
+1606517	6Q12		35	5	5		other_material/DSS-Nonbiblical-17.txt
+1606518	6Q13		46	9	9		other_material/DSS-Nonbiblical-17.txt
+1606519	6Q14		59	12	14		other_material/DSS-Nonbiblical-17.txt
+1606520	6Q15		223	21	25		other_material/DSS-Nonbiblical-17.txt
+1606521	6Q16		57	13	13		other_material/DSS-Nonbiblical-17.txt
+1606522	6Q17		14	3	4		other_material/DSS-Nonbiblical-17.txt
+1606523	6Q18		334	78	84		other_material/DSS-Nonbiblical-17.txt
+1606524	6Q19		13	4	4		other_material/DSS-Nonbiblical-17.txt
+1606525	6Q20		32	11	11		other_material/DSS-Nonbiblical-17.txt
+1606526	6Q21		9	3	3		other_material/DSS-Nonbiblical-17.txt
+1606527	6Q22		17	4	4		other_material/DSS-Nonbiblical-17.txt
+1606528	6Q23		32	8	12		other_material/DSS-Nonbiblical-17.txt
+1606529	6Q24		23	7	7		other_material/DSS-Nonbiblical-17.txt
+1606530	6Q26		100	27	48		other_material/DSS-Nonbiblical-17.txt
+1606531	6Q27		39	11	11		other_material/DSS-Nonbiblical-17.txt
+1606532	6Q28		27	6	6		other_material/DSS-Nonbiblical-17.txt
+1606533	6Q29		10	2	2		other_material/DSS-Nonbiblical-17.txt
+1606534	6Q30		24	6	6		other_material/DSS-Nonbiblical-17.txt
+1606535	6Q31		95	25	43		other_material/DSS-Nonbiblical-17.txt
+1606536	8Q5		78	10	10		other_material/DSS-Nonbiblical-17.txt
+1606537	9Q1		11	3	3		other_material/DSS-Nonbiblical-17.txt
+1606538	10Q1		3	1	1		other_material/DSS-Nonbiblical-17.txt
+1606539	11Q5		1243	100	138		other_material/DSS-Nonbiblical-17.txt
+1606540	11Q6		195	18	18		other_material/DSS-Nonbiblical-17.txt
+1606541	11Q10		3198	429	1033		other_material/DSS-Nonbiblical-17.txt
+1606542	11Q11		747	96	96		other_material/DSS-Nonbiblical-18.txt
+1606543	11Q12		631	56	56		other_material/DSS-Nonbiblical-18.txt
+1606544	11Q13		647	76	76		other_material/DSS-Nonbiblical-18.txt
+1606545	11Q14		255	34	34		other_material/DSS-Nonbiblical-18.txt
+1606546	11Q15		73	13	13		other_material/DSS-Nonbiblical-18.txt
+1606547	11Q16		63	11	11		other_material/DSS-Nonbiblical-18.txt
+1606548	11Q17		1198	126	127		other_material/DSS-Nonbiblical-18.txt
+1606549	11Q18		1345	246	291		other_material/DSS-Nonbiblical-18.txt
+1606550	11Q19		14045	1068	1068		other_material/DSS-Nonbiblical-18.txt
+1606551	11Q20		3063	252	253		other_material/DSS-Nonbiblical-18.txt
+1606552	11Q21		98	15	15		other_material/DSS-Nonbiblical-19.txt
+1606553	11Q22		69	13	13		other_material/DSS-Nonbiblical-19.txt
+1606554	11Q23		24	6	6		other_material/DSS-Nonbiblical-19.txt
+1606555	11Q25		64	16	16		other_material/DSS-Nonbiblical-19.txt
+1606556	11Q26		19	5	5		other_material/DSS-Nonbiblical-19.txt
+1606557	11Q27		9	2	2		other_material/DSS-Nonbiblical-19.txt
+1606558	11Q29		30	3	3		other_material/DSS-Nonbiblical-19.txt
+1606559	11Q30		130	32	32		other_material/DSS-Nonbiblical-19.txt
+1606560	PAM43660		21	5	5		other_material/DSS-Nonbiblical-19.txt
+1606561	PAM43661		55	13	13		other_material/DSS-Nonbiblical-19.txt
+1606562	PAM43663		90	24	24		other_material/DSS-Nonbiblical-19.txt
+1606563	PAM43664		52	14	14		other_material/DSS-Nonbiblical-19.txt
+1606564	PAM43665		37	9	9		other_material/DSS-Nonbiblical-19.txt
+1606565	PAM43666		37	9	9		other_material/DSS-Nonbiblical-19.txt
+1606566	PAM43667		13	3	3		other_material/DSS-Nonbiblical-19.txt
+1606567	PAM43668		86	25	25		other_material/DSS-Nonbiblical-19.txt
+1606568	PAM43669		20	5	5		other_material/DSS-Nonbiblical-19.txt
+1606569	PAM43670		94	23	23		other_material/DSS-Nonbiblical-19.txt
+1606570	PAM43671		21	6	6		other_material/DSS-Nonbiblical-19.txt
+1606571	PAM43672		75	19	19		other_material/DSS-Nonbiblical-19.txt
+1606572	PAM43673		126	28	28		other_material/DSS-Nonbiblical-19.txt
+1606573	PAM43674		163	42	42		other_material/DSS-Nonbiblical-19.txt
+1606574	PAM43675		136	36	36		other_material/DSS-Nonbiblical-19.txt
+1606575	PAM43676		278	60	60		other_material/DSS-Nonbiblical-19.txt
+1606576	PAM43677		263	60	60		other_material/DSS-Nonbiblical-19.txt
+1606577	PAM43678		360	87	87		other_material/DSS-Nonbiblical-19.txt
+1606578	PAM43679		180	42	42		other_material/DSS-Nonbiblical-19.txt
+1606579	PAM43680		287	65	66		other_material/DSS-Nonbiblical-19.txt
+1606580	PAM43682		247	66	66		other_material/DSS-Nonbiblical-19.txt
+1606581	PAM43683		74	18	18		other_material/DSS-Nonbiblical-19.txt
+1606582	PAM43684		99	22	22		other_material/DSS-Nonbiblical-19.txt
+1606583	PAM43685		167	42	42		other_material/DSS-Nonbiblical-19.txt
+1606584	PAM43686		142	33	33		other_material/DSS-Nonbiblical-19.txt
+1606585	PAM43688		130	29	29		other_material/DSS-Nonbiblical-19.txt
+1606586	PAM43689		87	20	20		other_material/DSS-Nonbiblical-19.txt
+1606587	PAM43690		82	20	20		other_material/DSS-Nonbiblical-19.txt
+1606588	PAM43691		144	33	33		other_material/DSS-Nonbiblical-19.txt
+1606589	PAM43692		221	49	49		other_material/DSS-Nonbiblical-19.txt
+1606590	PAM43693		78	19	19		other_material/DSS-Nonbiblical-19.txt
+1606591	PAM43694		68	16	16		other_material/DSS-Nonbiblical-19.txt
+1606592	PAM43695		60	12	12		other_material/DSS-Nonbiblical-19.txt
+1606593	PAM43696		104	25	25		other_material/DSS-Nonbiblical-19.txt
+1606594	PAM43697		101	23	23		other_material/DSS-Nonbiblical-19.txt
+1606595	PAM43698		223	49	49		other_material/DSS-Nonbiblical-19.txt
+1606596	PAM43699		111	25	25		other_material/DSS-Nonbiblical-19.txt
+1606597	PAM43700		126	28	28		other_material/DSS-Nonbiblical-19.txt
+1606598	PAM43701		16	3	3		other_material/DSS-Nonbiblical-19.txt
+1606599	PAM44102		242	56	56		other_material/DSS-Nonbiblical-19.txt
+1606600	KhQ1		76	15	15		other_material/DSS-Nonbiblical-19.txt
+1606601	KhQ2		16	4	4		other_material/DSS-Nonbiblical-19.txt
+1606602	KhQ3		29	4	4		other_material/DSS-Nonbiblical-19.txt
+1606603	XQ6		24	5	6		other_material/DSS-Nonbiblical-19.txt
+1606604	XQ7		22	6	6		other_material/DSS-Nonbiblical-19.txt
+1606605	XQ8		92	5	12		other_material/DSS-Nonbiblical-19.txt
+1606606	1Q1	1	409	41	51	Gen	books/DSS-Genesis.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606607	1Q2	1	296	29	37	Ex	books/DSS-Exodus.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606608	1Q3	1	591	64	84	Lev,Num	books/DSS-Leviticus.txt;books/DSS-Numbers.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606609	1Q4	1	955	100	117	Deut	books/DSS-Deuteronomy.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606610	1Q5	1	1745	125	172	Deut	books/DSS-Deuteronomy.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606611	1Q6	1	678	83	97	Judg	books/DSS-Judges.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606612	1Q7	1	309	16	24	1Sam,2Sam	books/DSS-1-Samuel.txt;books/DSS-2-Samuel.txt
+1606613	1Qisaa	1	24078	1605	2590	Is	books/DSS-Isaiah.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606614	1Q8	1	8784	565	947	Is	books/DSS-Isaiah.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606615	1Q9	1	81	7	9	Ezek	books/DSS-Ezekiel.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606616	1Q10	1	350	48	54	Ps	books/DSS-Psalms.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606617	1Q11	1	99	9	14	Ps	books/DSS-Psalms.txt
+1606618	1Q12	1	116	10	16	Ps	books/DSS-Psalms.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606619	1Q13	1	1007	95	129	Deut,Ex	books/DSS-Deuteronomy.txt;books/DSS-Exodus.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606620	1Q71	1	230	18	31	Dan	books/DSS-Daniel.txt
+1606621	1Q72	1	274	16	32	Dan	books/DSS-Daniel.txt
+1606622	2Q1	1	106	11	15	Gen	books/DSS-Genesis.txt
+1606623	2Q2	1	793	62	87	Ex	books/DSS-Exodus.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606624	2Q3	1	403	45	66	Ex	books/DSS-Exodus.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606625	2Q4	1	54	3	4	Ex	books/DSS-Exodus.txt
+1606626	2Q5	1	154	9	15	Lev	books/DSS-Leviticus.txt
+1606627	2Q6	1	166	19	22	Num	books/DSS-Numbers.txt
+1606628	2Q7	1	117	7	11	Num	books/DSS-Numbers.txt
+1606629	2Q8	1	19	2	2	Num	books/DSS-Numbers.txt
+1606630	2Q9	1	37	3	4	Num	books/DSS-Numbers.txt
+1606631	2Q10	1	80	5	7	Deut	books/DSS-Deuteronomy.txt
+1606632	2Q11	1	80	5	7	Deut	books/DSS-Deuteronomy.txt
+1606633	2Q12	1	151	9	11	Deut	books/DSS-Deuteronomy.txt
+1606634	2Q13	1	1084	95	127	Jer	books/DSS-Jeremiah.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606635	2Q14	1	164	10	20	Ps	books/DSS-Psalms.txt
+1606636	2Q15	1	35	3	5	Job	books/DSS-Job.txt
+1606637	2Q16	1	434	38	53	Ruth	books/DSS-Ruth.txt
+1606638	2Q17	1	121	9	14	Ruth	books/DSS-Ruth.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606639	3Q1	1	44	3	5	Ezek	books/DSS-Ezekiel.txt
+1606640	3Q2	1	23	3	3	Ps	books/DSS-Psalms.txt
+1606641	3Q3	1	148	7	16	Lam	books/DSS-Lamentations.txt
+1606642	4Q1	1	3643	250	388	Gen,Ex	books/DSS-Exodus.txt;books/DSS-Genesis.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606643	4Q2	1	906	59	92	Gen	books/DSS-Genesis.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606644	4Q3	1	346	21	39	Gen	books/DSS-Genesis.txt
+1606645	4Q4	1	213	11	18	Gen	books/DSS-Genesis.txt
+1606646	4Q5	1	830	56	86	Gen	books/DSS-Genesis.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606647	4Q6	1	248	20	31	Gen	books/DSS-Genesis.txt
+1606648	4Q7	1	420	27	42	Gen	books/DSS-Genesis.txt
+1606649	4Q8a	1	41	4	5	Gen	books/DSS-Genesis.txt
+1606650	4Q8b	1	24	2	3	Gen	books/DSS-Genesis.txt
+1606651	4Q8c	1	12	2	2	Gen	books/DSS-Genesis.txt
+1606652	4Q8d	1	3	1	1	Gen	books/DSS-Genesis.txt
+1606653	4Q9	1	984	83	122	Gen	books/DSS-Genesis.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606654	4Q10	1	213	16	23	Gen	books/DSS-Genesis.txt
+1606655	4Q11	1	3628	301	423	Gen,Ex	books/DSS-Exodus.txt;books/DSS-Genesis.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606656	4Q12	1	136	8	15	Gen	books/DSS-Genesis.txt
+1606657	4Q12a	1	29	2	3	Gen	books/DSS-Genesis.txt
+1606658	4Q13	1	1243	70	113	Ex	books/DSS-Exodus.txt
+1606659	4Q14	1	3798	202	336	Ex	books/DSS-Exodus.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606660	4Q15	1	89	5	6	Ex	books/DSS-Exodus.txt
+1606661	4Q16	1	83	8	9	Ex	books/DSS-Exodus.txt
+1606662	4Q17	1	1000	80	118	Ex,Lev	books/DSS-Exodus.txt;books/DSS-Leviticus.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606663	4Q18	1	157	9	12	Ex	books/DSS-Exodus.txt
+1606664	4Q19	1	66	4	7	Ex	books/DSS-Exodus.txt
+1606665	4Q20	1	96	12	15	Ex	books/DSS-Exodus.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606666	4Q21	1	38	3	3	Ex	books/DSS-Exodus.txt
+1606667	4Q22	1	9251	684	1015	Ex	books/DSS-Exodus.txt
+1606668	4Q23	1	5144	321	515	Lev,Num	books/DSS-Leviticus.txt;books/DSS-Numbers.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606669	4Q24	1	2496	139	235	Lev	books/DSS-Leviticus.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606670	4Q25	1	586	44	66	Lev	books/DSS-Leviticus.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606671	4Q26	1	532	33	48	Lev	books/DSS-Leviticus.txt
+1606672	4Q26a	1	698	45	70	Lev	books/DSS-Leviticus.txt
+1606673	4Q26b	1	154	9	15	Lev	books/DSS-Leviticus.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606674	4Q26c	1	206	17	26	Lev	books/DSS-Leviticus.txt
+1606675	4Q27	1	6923	449	701	Num	books/DSS-Numbers.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606676	4Q28	1	211	13	19	Deut	books/DSS-Deuteronomy.txt
+1606677	4Q29	1	808	39	66	Deut	books/DSS-Deuteronomy.txt
+1606678	4Q30	1	2492	197	264	Deut	books/DSS-Deuteronomy.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606679	4Q31	1	638	34	59	Deut	books/DSS-Deuteronomy.txt
+1606680	4Q32	1	502	43	59	Deut	books/DSS-Deuteronomy.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606681	4Q33	1	2012	127	198	Deut	books/DSS-Deuteronomy.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606682	4Q34	1	686	41	68	Deut	books/DSS-Deuteronomy.txt
+1606683	4Q35	1	1368	66	121	Deut	books/DSS-Deuteronomy.txt
+1606684	4Q36	1	564	40	63	Deut	books/DSS-Deuteronomy.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606685	4Q37	1	1445	133	177	Deut,Ex	books/DSS-Deuteronomy.txt;books/DSS-Exodus.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606686	4Q38	1	346	27	41	Deut	books/DSS-Deuteronomy.txt
+1606687	4Q38a	1	893	53	89	Deut	books/DSS-Deuteronomy.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606688	4Q38b	1	40	5	7	Deut	books/DSS-Deuteronomy.txt
+1606689	4Q38c	1	82	6	8	Deut	books/DSS-Deuteronomy.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606690	4Q38d	1	50	3	4	Deut	books/DSS-Deuteronomy.txt
+1606691	4Q39	1	273	19	28	Deut	books/DSS-Deuteronomy.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606692	4Q40	1	296	17	26	Deut	books/DSS-Deuteronomy.txt
+1606693	4Q41	1	840	68	98	Deut,Ex	books/DSS-Deuteronomy.txt;books/DSS-Exodus.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606694	4Q42	1	818	47	76	Deut	books/DSS-Deuteronomy.txt
+1606695	4Q43	1	128	8	14	Deut	books/DSS-Deuteronomy.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606696	4Q44	1	144	24	25	Deut	books/DSS-Deuteronomy.txt
+1606697	4Q45	1	1780	173	225	Deut	books/DSS-Deuteronomy.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606698	4Q46	1	58	4	5	Deut	books/DSS-Deuteronomy.txt
+1606699	4Q47	1	947	58	86	Josh	books/DSS-Joshua.txt
+1606700	4Q48	1	504	39	52	Josh	books/DSS-Joshua.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606701	4Q49	1	171	9	15	Judg	books/DSS-Judges.txt
+1606702	4Q50	1	359	17	30	Judg	books/DSS-Judges.txt
+1606703	4Q51	1	13607	888	1312	1Sam,2Sam	books/DSS-1-Samuel.txt;books/DSS-2-Samuel.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606704	Pam43113	1	452	119	119		other_material/DSS-Unmapped-Biblical-01.txt
+1606705	Pam43124	1	116	31	31		other_material/DSS-Unmapped-Biblical-01.txt
+1606706	4Q52	1	1523	60	115	1Sam	books/DSS-1-Samuel.txt
+1606707	4Q53	1	1149	74	111	1Sam,2Sam	books/DSS-1-Samuel.txt;books/DSS-2-Samuel.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606708	4Q54	1	760	42	67	1Kgs	books/DSS-1-Kings.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606709	4Q55	1	1624	88	162	Is	books/DSS-Isaiah.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606710	4Q56	1	4147	275	440	Is	books/DSS-Isaiah.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606711	4Q57	1	3707	307	616	Is	books/DSS-Isaiah.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606712	4Q58	1	1490	110	171	Is	books/DSS-Isaiah.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606713	4Q59	1	1184	61	117	Is	books/DSS-Isaiah.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606714	4Q60	1	1542	129	182	Is	books/DSS-Isaiah.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606715	4Q61	1	399	26	47	Is	books/DSS-Isaiah.txt
+1606716	4Q62	1	133	10	15	Is	books/DSS-Isaiah.txt
+1606717	4Q62a	1	100	6	9	Is	books/DSS-Isaiah.txt
+1606718	4Q63	1	107	9	14	Is	books/DSS-Isaiah.txt
+1606719	4Q64	1	232	12	22	Is	books/DSS-Isaiah.txt
+1606720	4Q65	1	80	6	10	Is	books/DSS-Isaiah.txt
+1606721	4Q66	1	168	10	17	Is	books/DSS-Isaiah.txt
+1606722	4Q67	1	61	6	6	Is	books/DSS-Isaiah.txt
+1606723	4Q68	1	112	12	17	Is	books/DSS-Isaiah.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606724	4Q69	1	47	4	5	Is	books/DSS-Isaiah.txt
+1606725	4Q69a	1	49	4	6	Is	books/DSS-Isaiah.txt
+1606726	4Q69b	1	19	2	2	Is	books/DSS-Isaiah.txt
+1606727	4Q70	1	2830	180	274	Jer	books/DSS-Jeremiah.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606728	4Q71	1	399	13	36	Jer	books/DSS-Jeremiah.txt
+1606729	4Q72	1	2361	226	293	Jer	books/DSS-Jeremiah.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606730	4Q72a	1	177	9	15	Jer	books/DSS-Jeremiah.txt
+1606731	4Q72b	1	59	4	6	Jer	books/DSS-Jeremiah.txt
+1606732	4Q73	1	777	53	79	Ezek	books/DSS-Ezekiel.txt
+1606733	4Q74	1	280	33	41	Ezek	books/DSS-Ezekiel.txt
+1606734	4Q75	1	49	3	4	Ezek	books/DSS-Ezekiel.txt
+1606735	4Q76	1	1050	102	133	Zech,Mal,Jonah	books/DSS-Jonah.txt;books/DSS-Malachi.txt;books/DSS-Zechariah.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606736	4Q77	1	290	25	31	Zeph,Hag	books/DSS-Haggai.txt;books/DSS-Zephaniah.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606737	4Q78	1	2411	162	274	Hos,Joel,Amos,Zeph,Mal	books/DSS-Amos.txt;books/DSS-Hosea.txt;books/DSS-Joel.txt;books/DSS-Malachi.txt;books/DSS-Zephaniah.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606738	4Q79	1	156	13	20	Hos	books/DSS-Hosea.txt
+1606739	4Q80	1	1048	87	116	Hag,Zech	books/DSS-Haggai.txt;books/DSS-Zechariah.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606740	4Q81	1	289	21	28	Jonah,Mic	books/DSS-Jonah.txt;books/DSS-Micah.txt
+1606741	4Q82	1	5128	374	568	Hos,Joel,Amos,Obad,Jonah,Mic,Nah,Hab,Zeph,Zech	books/DSS-Amos.txt;books/DSS-Habakkuk.txt;books/DSS-Hosea.txt;books/DSS-Joel.txt;books/DSS-Jonah.txt;books/DSS-Micah.txt;books/DSS-Nahum.txt;books/DSS-Obadiah.txt;books/DSS-Zechariah.txt;books/DSS-Zephaniah.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606742	4Q83	1	1540	105	213	Ps	books/DSS-Psalms.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606743	4Q84	1	1066	202	203	Ps	books/DSS-Psalms.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606744	4Q85	1	1121	129	175	Ps	books/DSS-Psalms.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606745	4Q86	1	298	45	56	Ps	books/DSS-Psalms.txt
+1606746	4Q87	1	874	81	137	Ps	books/DSS-Psalms.txt
+1606747	4Q88	2	459	86	112	Ps	books/DSS-Psalms.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606748	4Q89	1	189	24	24	Ps	books/DSS-Psalms.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606749	4Q90	1	97	12	12	Ps	books/DSS-Psalms.txt
+1606750	4Q91	1	268	22	39	Ps	books/DSS-Psalms.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606751	4Q92	1	193	8	20	Ps	books/DSS-Psalms.txt
+1606752	4Q93	1	52	11	11	Ps	books/DSS-Psalms.txt
+1606753	4Q94	1	183	17	27	Ps	books/DSS-Psalms.txt
+1606754	4Q95	1	127	9	15	Ps	books/DSS-Psalms.txt
+1606755	4Q96	1	138	10	22	Ps	books/DSS-Psalms.txt
+1606756	4Q97	1	77	7	13	Ps	books/DSS-Psalms.txt
+1606757	4Q98	1	414	22	53	Ps	books/DSS-Psalms.txt
+1606758	4Q98a	1	119	12	21	Ps	books/DSS-Psalms.txt
+1606759	4Q98b	1	80	6	10	Ps	books/DSS-Psalms.txt
+1606760	4Q98c	1	19	2	4	Ps	books/DSS-Psalms.txt
+1606761	4Q98d	1	23	2	2	Ps	books/DSS-Psalms.txt
+1606762	4Q98e	1	13	1	1	Ps	books/DSS-Psalms.txt
+1606763	4Q98f	1	98	6	10	Ps	books/DSS-Psalms.txt
+1606764	4Q98g	1	62	8	14	Ps	books/DSS-Psalms.txt
+1606765	4Q99	1	547	66	72	Job	books/DSS-Job.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606766	4Q100	1	92	10	14	Job	books/DSS-Job.txt
+1606767	4Q101	1	145	18	21	Job	books/DSS-Job.txt
+1606768	4Q102	1	74	8	13	Prov	books/DSS-Proverbs.txt
+1606769	4Q103	1	370	36	51	Prov	books/DSS-Proverbs.txt
+1606770	4Q103a	1	44	4	6	Prov	books/DSS-Proverbs.txt
+1606771	4Q104	1	255	14	25	Ruth	books/DSS-Ruth.txt
+1606772	4Q105	1	158	11	19	Ruth	books/DSS-Ruth.txt
+1606773	4Q106	1	353	35	48	Song	books/DSS-Song-of-Songs.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606774	4Q107	1	415	47	61	Song	books/DSS-Song-of-Songs.txt
+1606775	4Q108	1	21	2	3	Song	books/DSS-Song-of-Songs.txt
+1606776	4Q109	1	385	36	54	Eccl	books/DSS-Ecclesiastes.txt
+1606777	4Q110	1	179	11	19	Eccl	books/DSS-Ecclesiastes.txt
+1606778	4Q111	1	365	33	49	Lam	books/DSS-Lamentations.txt
+1606779	4Q112	1	1862	107	219	Dan	books/DSS-Daniel.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606780	4Q113	1	1285	102	196	Dan	books/DSS-Daniel.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606781	4Q114	1	538	37	55	Dan	books/DSS-Daniel.txt
+1606782	4Q115	1	606	59	106	Dan	books/DSS-Daniel.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606783	4Q116	1	141	18	21	Dan	books/DSS-Daniel.txt
+1606784	4Q117	1	349	19	39	Ezra	books/DSS-Ezra.txt
+1606785	4Q118	1	87	9	12	2Chr	books/DSS-2-Chronicles.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606786	4Q128	1	1480	53	112	Deut,Ex	books/DSS-Deuteronomy.txt;books/DSS-Exodus.txt
+1606787	4Q129	1	917	30	72	Deut,Ex	books/DSS-Deuteronomy.txt;books/DSS-Exodus.txt
+1606788	4Q130	1	631	29	55	Ex,Deut	books/DSS-Deuteronomy.txt;books/DSS-Exodus.txt
+1606789	4Q131	1	88	11	12	Deut	books/DSS-Deuteronomy.txt
+1606790	4Q132	1	115	8	12	Ex	books/DSS-Exodus.txt
+1606791	4Q133	1	145	11	14	Ex	books/DSS-Exodus.txt
+1606792	4Q134	1	424	29	49	Deut,Ex	books/DSS-Deuteronomy.txt;books/DSS-Exodus.txt
+1606793	4Q135	1	464	20	38	Deut,Ex	books/DSS-Deuteronomy.txt;books/DSS-Exodus.txt
+1606794	4Q136	1	572	20	48	Deut,Ex	books/DSS-Deuteronomy.txt;books/DSS-Exodus.txt
+1606795	4Q137	1	712	61	91	Deut	books/DSS-Deuteronomy.txt
+1606796	4Q138	1	538	34	54	Deut	books/DSS-Deuteronomy.txt
+1606797	4Q139	1	345	14	31	Deut	books/DSS-Deuteronomy.txt
+1606798	4Q140	1	473	33	51	Ex,Deut	books/DSS-Deuteronomy.txt;books/DSS-Exodus.txt
+1606799	4Q141	1	131	24	29	Deut	books/DSS-Deuteronomy.txt
+1606800	4Q142	1	384	18	32	Deut	books/DSS-Deuteronomy.txt
+1606801	4Q143	1	182	15	22	Deut	books/DSS-Deuteronomy.txt
+1606802	4Q144	1	270	15	23	Deut,Ex	books/DSS-Deuteronomy.txt;books/DSS-Exodus.txt
+1606803	4Q145	1	211	19	28	Ex	books/DSS-Exodus.txt
+1606804	4Q146	1	50	16	17	Deut	books/DSS-Deuteronomy.txt
+1606805	4Q149	1	120	8	12	Ex	books/DSS-Exodus.txt
+1606806	4Q150	1	168	9	20	Deut	books/DSS-Deuteronomy.txt
+1606807	4Q151	1	473	23	47	Deut	books/DSS-Deuteronomy.txt
+1606808	4Q152	1	58	4	7	Deut	books/DSS-Deuteronomy.txt
+1606809	4Q153	1	64	4	6	Deut	books/DSS-Deuteronomy.txt
+1606810	4Q154	1	72	6	9	Ex	books/DSS-Exodus.txt
+1606811	4Q155	1	146	15	19	Ex	books/DSS-Exodus.txt
+1606812	4Q483	1	19	2	2	Gen	books/DSS-Genesis.txt
+1606813	4Q576	1	100	5	9	Gen	books/DSS-Genesis.txt
+1606814	5Q1	1	567	23	43	Deut	books/DSS-Deuteronomy.txt
+1606815	5Q2	1	314	16	25	1Kgs	books/DSS-1-Kings.txt
+1606816	5Q3	1	55	4	6	Is	books/DSS-Isaiah.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606817	5Q4	1	123	19	22	Amos	books/DSS-Amos.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606818	5Q5	1	149	22	22	Ps	books/DSS-Psalms.txt
+1606819	5Q6	1	446	58	81	Lam	books/DSS-Lamentations.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606820	5Q7	1	61	5	6	Lam	books/DSS-Lamentations.txt
+1606821	6Q1	1	210	10	18	Gen	books/DSS-Genesis.txt
+1606822	6Q2	1	33	4	5	Lev	books/DSS-Leviticus.txt
+1606823	6Q3	1	30	2	2	Deut	books/DSS-Deuteronomy.txt
+1606824	6Q4	1	1119	151	168	1Kgs,2Kgs	books/DSS-1-Kings.txt;books/DSS-2-Kings.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606825	6Q5	1	26	3	4	Ps	books/DSS-Psalms.txt
+1606826	6Q6	1	105	12	17	Song	books/DSS-Song-of-Songs.txt
+1606827	6Q7	1	444	37	50	Dan	books/DSS-Daniel.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606828	8Q1	1	340	17	31	Gen	books/DSS-Genesis.txt
+1606829	8Q2	1	168	20	24	Ps	books/DSS-Psalms.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606830	8Q3	1	1861	183	247	Ex,Deut	books/DSS-Deuteronomy.txt;books/DSS-Exodus.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606831	8Q4	1	715	42	72	Deut	books/DSS-Deuteronomy.txt
+1606832	11Q1	1	2576	175	275	Lev	books/DSS-Leviticus.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606833	11Q2	1	318	31	51	Lev	books/DSS-Leviticus.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606834	11Q3	1	105	17	20	Deut	books/DSS-Deuteronomy.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606835	11Q4	1	399	24	35	Ezek	books/DSS-Ezekiel.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606836	11Q5	2	4521	424	915	Ps,2Sam	books/DSS-2-Samuel.txt;books/DSS-Psalms.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606837	11Q6	2	221	22	33	Ps	books/DSS-Psalms.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606838	11Q7	1	809	58	111	Ps	books/DSS-Psalms.txt
+1606839	11Q8	1	704	70	116	Ps	books/DSS-Psalms.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606840	11Q9	1	57	4	9	Ps	books/DSS-Psalms.txt
+1606841	Xq1	1	516	26	50	Ex,Deut	books/DSS-Deuteronomy.txt;books/DSS-Exodus.txt
+1606842	Xq2	1	466	26	43	Deut	books/DSS-Deuteronomy.txt
+1606843	Xq3	1	513	37	60	Deut,Ex	books/DSS-Deuteronomy.txt;books/DSS-Exodus.txt
+1606844	Mur1	1	666	67	92	Gen,Ex,Num	books/DSS-Exodus.txt;books/DSS-Genesis.txt;books/DSS-Numbers.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606845	Mur2	1	145	10	14	Deut	books/DSS-Deuteronomy.txt
+1606846	Mur3	1	157	21	30	Is	books/DSS-Isaiah.txt
+1606847	Mur4	1	624	130	146	Ex,Deut	books/DSS-Deuteronomy.txt;books/DSS-Exodus.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606848	Mur88	1	8139	655	975	Joel,Amos,Obad,Jonah,Mic,Nah,Hab,Zeph,Hag,Zech	books/DSS-Amos.txt;books/DSS-Habakkuk.txt;books/DSS-Haggai.txt;books/DSS-Joel.txt;books/DSS-Jonah.txt;books/DSS-Micah.txt;books/DSS-Nahum.txt;books/DSS-Obadiah.txt;books/DSS-Zechariah.txt;books/DSS-Zephaniah.txt;other_material/DSS-Unmapped-Biblical-01.txt
+1606849	Murx	1	84	8	13	Gen	books/DSS-Genesis.txt
+1606850	Sdeir1	1	430	38	57	Gen	books/DSS-Genesis.txt
+1606851	5/6hev1a	1	71	6	9	Num	books/DSS-Numbers.txt;other_material/DSS-Unmapped-Biblical-02.txt
+1606852	5/6hev1b	1	1580	161	210	Ps	books/DSS-Psalms.txt;other_material/DSS-Unmapped-Biblical-02.txt
+1606853	Xhev/se2	1	267	31	39	Num	books/DSS-Numbers.txt;other_material/DSS-Unmapped-Biblical-02.txt
+1606854	Xhev/se3	1	149	13	18	Deut	books/DSS-Deuteronomy.txt
+1606855	Xhev/se5	1	612	21	51	Ex,Deut	books/DSS-Deuteronomy.txt;books/DSS-Exodus.txt
+1606856	34Se1	1	351	22	35	Ex	books/DSS-Exodus.txt
+1606857	34Se2	1	10	2	2	Num	books/DSS-Numbers.txt
+1606858	Mas1	1	58	5	8	Gen	books/DSS-Genesis.txt
+1606859	Mas1a	1	181	8	14	Lev	books/DSS-Leviticus.txt
+1606860	Mas1b	1	1488	104	160	Lev	books/DSS-Leviticus.txt
+1606861	Mas1c	1	229	19	30	Deut	books/DSS-Deuteronomy.txt
+1606862	Mas1d	1	1396	131	178	Ezek	books/DSS-Ezekiel.txt
+1606863	Mas1e	1	651	74	109	Ps	books/DSS-Psalms.txt;other_material/DSS-Unmapped-Biblical-02.txt
+1606864	Mas1f	1	75	12	16	Ps	books/DSS-Psalms.txt
+1606865	Arugleviticus	1	144	17	22	Lev	books/DSS-Leviticus.txt
+1606866	Xjoshua	1	121	12	14	Josh	books/DSS-Joshua.txt;other_material/DSS-Unmapped-Biblical-02.txt
+1606867	Xjudges	1	217	23	31	Judg	books/DSS-Judges.txt;other_material/DSS-Unmapped-Biblical-02.txt
+1606868	X4	1	19	5	5		other_material/DSS-Unmapped-Biblical-02.txt

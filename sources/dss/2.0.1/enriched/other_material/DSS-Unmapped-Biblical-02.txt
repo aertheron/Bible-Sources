@@ -1,0 +1,434 @@
+DSS TF 2.0.1 — ENRICHED SOURCE EXPORT
+Attribution: Martin G. Abegg, Jr., James E. Bowley, and Edward M. Cook
+Conversion: Jarod Jacobs, Martijn Naaijer and Dirk Roorda
+Source licence: Creative Commons Attribution-NonCommercial 4.0 International License; http://creativecommons.org/licenses/by-nc/4.0/
+Repository: https://github.com/ETCBC/dss
+Status describes TF annotations; unmarked letters have not been independently verified as secure ink.
+Totals describe supplied sign slots, not how much of an entire biblical verse survives.
+Lexeme vowels and grammar are analyses; reconstructed letters are editorial readings.
+Read README.txt and DSS_SOURCE_USAGE.txt before interpretation.
+
+## Manuscript: 5/6hev1a | source scroll node 1606851
+
+### No identified biblical passage | 5/6hev1a | fragment f4 | line 1
+Record: L1605207-R001
+Physical: scroll=5/6hev1a; scroll_node=1606851; fragment=f4; line=1; line_node=1605207
+Source locator: {"book":"5/6Hev1a","chapter":"f4","verse":"1","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":4,"sign_slots":11,"letter_slots":4,"reconstructed_letter_slots":0,"uncertain_letter_slots":1,"unmarked_letter_slots":3,"reconstructed_sign_slots":4,"uncertain_sign_slots":1,"missing_sign_slots":2,"empty_sign_slots":3,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"2":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2100312-2100315
+Unicode: ε  ]פני׳ה#[  ε ׃ 
+Source: -- [pny/h«] -- . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2100312	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1407234","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1407235","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2100313	" ]פני׳ה#[ "	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	1	0	[{"slots":"1407236-1407238","type":"cons","glyphs_unicode":["פ","נ","י"]},{"slots":"1407239","type":"sep","glyphs_unicode":["׳"]},{"slots":"1407240","type":"cons","glyphs_unicode":["ה"],"unc":2}]
+2100314	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1407241","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1407242","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2100315	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1407243","type":"empty","glyphs_unicode":[""]},{"slots":"1407244","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+
+## Manuscript: 5/6hev1b | source scroll node 1606852
+
+### No identified biblical passage | 5/6hev1b | fragment f1i | line 16
+Record: L1605215-R001
+Physical: scroll=5/6hev1b; scroll_node=1606852; fragment=f1i; line=16; line_node=1605215
+Source locator: {"book":null,"chapter":null,"verse":null,"halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":0,"sign_slots":0,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 
+Unicode: 
+Source: 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1407447,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f1i","line":"16","line_node":1605215,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"rec":1},"clusters":[{"node":1530100,"type":"rec","slots":"1407447"}],"previous_word":null,"next_word":null}
+  {"slot":1407448,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f1i","line":"16","line_node":1605215,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"vac":1},"clusters":[{"node":1530101,"type":"vac","slots":"1407448"}],"previous_word":null,"next_word":null}
+  {"slot":1407449,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f1i","line":"16","line_node":1605215,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":null,"next_word":null}
+
+### No identified biblical passage | 5/6hev1b | fragment f1ii | line 22
+Record: L1605234-R001
+Physical: scroll=5/6hev1b; scroll_node=1606852; fragment=f1ii; line=22; line_node=1605234
+Source locator: {"book":null,"chapter":null,"verse":null,"halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":0,"sign_slots":0,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 
+Unicode: 
+Source: 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1408095,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f1ii","line":"22","line_node":1605234,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"rec":1},"clusters":[{"node":1530155,"type":"rec","slots":"1408095"}],"previous_word":null,"next_word":null}
+  {"slot":1408096,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f1ii","line":"22","line_node":1605234,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"vac":1},"clusters":[{"node":1530156,"type":"vac","slots":"1408096"}],"previous_word":null,"next_word":null}
+  {"slot":1408097,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f1ii","line":"22","line_node":1605234,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"rec":1},"clusters":[{"node":1530157,"type":"rec","slots":"1408097"}],"previous_word":null,"next_word":null}
+  {"slot":1408098,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f1ii","line":"22","line_node":1605234,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"vac":1},"clusters":[{"node":1530158,"type":"vac","slots":"1408098"}],"previous_word":null,"next_word":null}
+  {"slot":1408099,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f1ii","line":"22","line_node":1605234,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"rec":1},"clusters":[{"node":1530159,"type":"rec","slots":"1408099"}],"previous_word":null,"next_word":null}
+  {"slot":1408100,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f1ii","line":"22","line_node":1605234,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"vac":1},"clusters":[{"node":1530160,"type":"vac","slots":"1408100"}],"previous_word":null,"next_word":null}
+  {"slot":1408101,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f1ii","line":"22","line_node":1605234,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"rec":1},"clusters":[{"node":1530161,"type":"rec","slots":"1408101"}],"previous_word":null,"next_word":null}
+  {"slot":1408102,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f1ii","line":"22","line_node":1605234,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":null,"next_word":null}
+
+### No identified biblical passage | 5/6hev1b | fragment f1iii+2 | line 16
+Record: L1605247-R001
+Physical: scroll=5/6hev1b; scroll_node=1606852; fragment=f1iii+2; line=16; line_node=1605247
+Source locator: {"book":null,"chapter":null,"verse":null,"halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":0,"sign_slots":0,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 
+Unicode: 
+Source: 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1408495,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f1iii+2","line":"16","line_node":1605247,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"vac":1},"clusters":[{"node":1530195,"type":"vac","slots":"1408495"}],"previous_word":null,"next_word":null}
+  {"slot":1408496,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f1iii+2","line":"16","line_node":1605247,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"rec":1},"clusters":[{"node":1530196,"type":"rec","slots":"1408496"}],"previous_word":null,"next_word":null}
+  {"slot":1408497,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f1iii+2","line":"16","line_node":1605247,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":null,"next_word":null}
+
+### No identified biblical passage | 5/6hev1b | fragment f1iv+3 | line 10
+Record: L1605261-R001
+Physical: scroll=5/6hev1b; scroll_node=1606852; fragment=f1iv+3; line=10; line_node=1605261
+Source locator: {"book":null,"chapter":null,"verse":null,"halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":0,"sign_slots":0,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 
+Unicode: 
+Source: 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1408904,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f1iv+3","line":"10","line_node":1605261,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"vac":1},"clusters":[{"node":1530216,"type":"vac","slots":"1408904"}],"previous_word":null,"next_word":null}
+  {"slot":1408905,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f1iv+3","line":"10","line_node":1605261,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"rec":1},"clusters":[{"node":1530217,"type":"rec","slots":"1408905"}],"previous_word":null,"next_word":null}
+  {"slot":1408906,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f1iv+3","line":"10","line_node":1605261,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":null,"next_word":null}
+
+### No identified biblical passage | 5/6hev1b | fragment f4 | line 7
+Record: L1605276-R001
+Physical: scroll=5/6hev1b; scroll_node=1606852; fragment=f4; line=7; line_node=1605276
+Source locator: {"book":null,"chapter":null,"verse":null,"halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":0,"sign_slots":0,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 
+Unicode: 
+Source: 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1409332,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f4","line":"7","line_node":1605276,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"rec":1},"clusters":[{"node":1530242,"type":"rec","slots":"1409332"}],"previous_word":null,"next_word":null}
+  {"slot":1409333,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f4","line":"7","line_node":1605276,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"vac":1},"clusters":[{"node":1530243,"type":"vac","slots":"1409333"}],"previous_word":null,"next_word":null}
+  {"slot":1409334,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f4","line":"7","line_node":1605276,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"rec":1},"clusters":[{"node":1530244,"type":"rec","slots":"1409334"}],"previous_word":null,"next_word":null}
+  {"slot":1409335,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f4","line":"7","line_node":1605276,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":null,"next_word":null}
+
+### No identified biblical passage | 5/6hev1b | fragment f10_12 | line 8
+Record: L1605333-R001
+Physical: scroll=5/6hev1b; scroll_node=1606852; fragment=f10_12; line=8; line_node=1605333
+Source locator: {"book":null,"chapter":null,"verse":null,"halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":0,"sign_slots":0,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 
+Unicode: 
+Source: 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1411306,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f10_12","line":"8","line_node":1605333,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"rec":1,"vac":1},"clusters":[{"node":1530337,"type":"vac","slots":"1411306"},{"node":1530336,"type":"rec","slots":"1411306"}],"previous_word":null,"next_word":null}
+  {"slot":1411307,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f10_12","line":"8","line_node":1605333,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":null,"next_word":null}
+
+### No identified biblical passage | 5/6hev1b | fragment f14 | line 1
+Record: L1605368-R001
+Physical: scroll=5/6hev1b; scroll_node=1606852; fragment=f14; line=1; line_node=1605368
+Source locator: {"book":"5/6Hev1b","chapter":"f14","verse":"1","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":4,"sign_slots":10,"letter_slots":2,"reconstructed_letter_slots":0,"uncertain_letter_slots":2,"unmarked_letter_slots":0,"reconstructed_sign_slots":4,"uncertain_sign_slots":4,"missing_sign_slots":2,"empty_sign_slots":3,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"3":1,"4":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2101892-2101895
+Unicode: ε  ] # י#?ש## # [  ε ׃ 
+Source: -- [\y»C|\] -- . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2101892	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1412542","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1412543","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2101893	" ] # י#?ש## # [ "	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	2	0	[{"slots":"1412544","type":"unc","glyphs_unicode":[" # "]},{"slots":"1412545","type":"cons","glyphs_unicode":["י"],"unc":3},{"slots":"1412546","type":"cons","glyphs_unicode":["ש"],"unc":4},{"slots":"1412547","type":"unc","glyphs_unicode":[" # "]}]
+2101894	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1412548","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1412549","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2101895	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1412550","type":"empty","glyphs_unicode":[""]},{"slots":"1412551","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1412552,"scroll":"5/6hev1b","scroll_node":1606852,"fragment":"f14","line":"1","line_node":1605368,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2101895,"next_word":null}
+
+## Manuscript: Xhev/se2 | source scroll node 1606853
+
+### No identified biblical passage | Xhev/se2 | fragment 1 | line 29
+Record: L1605377-R001
+Physical: scroll=Xhev/se2; scroll_node=1606853; fragment=1; line=29; line_node=1605377
+Source locator: {"book":null,"chapter":null,"verse":null,"halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":0,"sign_slots":0,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 
+Unicode: 
+Source: 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1412787,"scroll":"Xhev/se2","scroll_node":1606853,"fragment":"1","line":"29","line_node":1605377,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"rec":1},"clusters":[{"node":1530410,"type":"rec","slots":"1412787"}],"previous_word":null,"next_word":null}
+  {"slot":1412788,"scroll":"Xhev/se2","scroll_node":1606853,"fragment":"1","line":"29","line_node":1605377,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"vac":1},"clusters":[{"node":1530411,"type":"vac","slots":"1412788"}],"previous_word":null,"next_word":null}
+  {"slot":1412789,"scroll":"Xhev/se2","scroll_node":1606853,"fragment":"1","line":"29","line_node":1605377,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":null,"next_word":null}
+
+### No identified biblical passage | Xhev/se2 | fragment f1 | line 1
+Record: L1605397-R001
+Physical: scroll=Xhev/se2; scroll_node=1606853; fragment=f1; line=1; line_node=1605397
+Source locator: {"book":"XHev/Se2","chapter":"f1","verse":"1","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":2,"sign_slots":3,"letter_slots":1,"reconstructed_letter_slots":0,"uncertain_letter_slots":1,"unmarked_letter_slots":0,"reconstructed_sign_slots":2,"uncertain_sign_slots":1,"missing_sign_slots":1,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2102153-2102154
+Unicode: א##[  ε 
+Source: a|] -- 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2102153	"א##[ "	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	1	0	[{"slots":"1413315","type":"cons","glyphs_unicode":["א"],"unc":4}]
+2102154	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1413316","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1413317","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+End critical word annotations
+
+### No identified biblical passage | Xhev/se2 | fragment f1 | line 2
+Record: L1605398-R001
+Physical: scroll=Xhev/se2; scroll_node=1606853; fragment=f1; line=2; line_node=1605398
+Source locator: {"book":"XHev/Se2","chapter":"f1","verse":"2","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":2,"sign_slots":6,"letter_slots":4,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":4,"reconstructed_sign_slots":2,"uncertain_sign_slots":0,"missing_sign_slots":1,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2102155-2102156
+Unicode: ילדה ε 
+Source: yldh -- 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2102155	"ילדה"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1413318-1413321","type":"cons","glyphs_unicode":["י","ל","ד","ה"]}]
+2102156	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1413322","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1413323","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+End critical word annotations
+
+### No identified biblical passage | Xhev/se2 | fragment f1 | line 3
+Record: L1605399-R001
+Physical: scroll=Xhev/se2; scroll_node=1606853; fragment=f1; line=3; line_node=1605399
+Source locator: {"book":"XHev/Se2","chapter":"f1","verse":"3","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":6,"sign_slots":12,"letter_slots":8,"reconstructed_letter_slots":0,"uncertain_letter_slots":2,"unmarked_letter_slots":6,"reconstructed_sign_slots":2,"uncertain_sign_slots":2,"missing_sign_slots":1,"empty_sign_slots":2,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":1,"3":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2102157-2102162
+Unicode: א##ת יעלם ו#?א[  ε ׃ 
+Source: a|t yolM w»a] -- . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2102157	"א##ת"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	1	0	[{"slots":"1413324","type":"cons","glyphs_unicode":["א"],"unc":4},{"slots":"1413325","type":"cons","glyphs_unicode":["ת"]}]
+2102158	"יעלם"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1413326-1413329","type":"cons","glyphs_unicode":["י","ע","ל","ם"]}]
+2102159	"ו#?"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	1	0	[{"slots":"1413330","type":"cons","glyphs_unicode":["ו"],"unc":3}]
+2102160	"א[ "	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1413331","type":"cons","glyphs_unicode":["א"]}]
+2102161	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1413332","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1413333","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2102162	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1413334","type":"empty","glyphs_unicode":[""]},{"slots":"1413335","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+
+## Manuscript: Mas1e | source scroll node 1606863
+
+### No identified biblical passage | Mas1e | fragment 2 | line 13
+Record: L1605753-R001
+Physical: scroll=Mas1e; scroll_node=1606863; fragment=2; line=13; line_node=1605753
+Source locator: {"book":null,"chapter":null,"verse":null,"halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":0,"sign_slots":0,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 
+Unicode: 
+Source: 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1427148,"scroll":"Mas1e","scroll_node":1606863,"fragment":"2","line":"13","line_node":1605753,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"vac":1},"clusters":[{"node":1531121,"type":"vac","slots":"1427148"}],"previous_word":null,"next_word":null}
+  {"slot":1427149,"scroll":"Mas1e","scroll_node":1606863,"fragment":"2","line":"13","line_node":1605753,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":null,"next_word":null}
+
+### No identified biblical passage | Mas1e | fragment 3 | line 4
+Record: L1605773-R001
+Physical: scroll=Mas1e; scroll_node=1606863; fragment=3; line=4; line_node=1605773
+Source locator: {"book":null,"chapter":null,"verse":null,"halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":0,"sign_slots":0,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 
+Unicode: 
+Source: 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1427773,"scroll":"Mas1e","scroll_node":1606863,"fragment":"3","line":"4","line_node":1605773,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"vac":1},"clusters":[{"node":1531152,"type":"vac","slots":"1427773"}],"previous_word":null,"next_word":null}
+  {"slot":1427774,"scroll":"Mas1e","scroll_node":1606863,"fragment":"3","line":"4","line_node":1605773,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"rec":1},"clusters":[{"node":1531153,"type":"rec","slots":"1427774"}],"previous_word":null,"next_word":null}
+  {"slot":1427775,"scroll":"Mas1e","scroll_node":1606863,"fragment":"3","line":"4","line_node":1605773,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":null,"next_word":null}
+
+### No identified biblical passage | Mas1e | fragment 3 | line 23
+Record: L1605792-R001
+Physical: scroll=Mas1e; scroll_node=1606863; fragment=3; line=23; line_node=1605792
+Source locator: {"book":null,"chapter":null,"verse":null,"halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":0,"sign_slots":0,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 
+Unicode: 
+Source: 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1428319,"scroll":"Mas1e","scroll_node":1606863,"fragment":"3","line":"23","line_node":1605792,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"vac":1},"clusters":[{"node":1531193,"type":"vac","slots":"1428319"}],"previous_word":null,"next_word":null}
+  {"slot":1428320,"scroll":"Mas1e","scroll_node":1606863,"fragment":"3","line":"23","line_node":1605792,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"rec":1},"clusters":[{"node":1531194,"type":"rec","slots":"1428320"}],"previous_word":null,"next_word":null}
+  {"slot":1428321,"scroll":"Mas1e","scroll_node":1606863,"fragment":"3","line":"23","line_node":1605792,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":null,"next_word":null}
+
+## Manuscript: Xjoshua | source scroll node 1606866
+
+### No identified biblical passage | Xjoshua | fragment 1 | line 3
+Record: L1605830-R001
+Physical: scroll=Xjoshua; scroll_node=1606866; fragment=1; line=3; line_node=1605830
+Source locator: {"book":null,"chapter":null,"verse":null,"halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":0,"sign_slots":0,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 
+Unicode: 
+Source: 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1429273,"scroll":"Xjoshua","scroll_node":1606866,"fragment":"1","line":"3","line_node":1605830,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"vac":1},"clusters":[{"node":1531259,"type":"vac","slots":"1429273"}],"previous_word":null,"next_word":null}
+  {"slot":1429274,"scroll":"Xjoshua","scroll_node":1606866,"fragment":"1","line":"3","line_node":1605830,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"rec":1},"clusters":[{"node":1531260,"type":"rec","slots":"1429274"}],"previous_word":null,"next_word":null}
+  {"slot":1429275,"scroll":"Xjoshua","scroll_node":1606866,"fragment":"1","line":"3","line_node":1605830,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":null,"next_word":null}
+
+## Manuscript: Xjudges | source scroll node 1606867
+
+### No identified biblical passage | Xjudges | fragment f3_7ii | line 1
+Record: L1605862-R001
+Physical: scroll=Xjudges; scroll_node=1606867; fragment=f3_7ii; line=1; line_node=1605862
+Source locator: {"book":"XJudges","chapter":"f3_7ii","verse":"1","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":3,"sign_slots":5,"letter_slots":1,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":1,"reconstructed_sign_slots":2,"uncertain_sign_slots":0,"missing_sign_slots":1,"empty_sign_slots":2,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2107842-2107844
+Unicode: א[  ε ׃ 
+Source: a] -- . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2107842	"א[ "	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1430182","type":"cons","glyphs_unicode":["א"]}]
+2107843	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1430183","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1430184","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2107844	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1430185","type":"empty","glyphs_unicode":[""]},{"slots":"1430186","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1430187,"scroll":"Xjudges","scroll_node":1606867,"fragment":"f3_7ii","line":"1","line_node":1605862,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2107844,"next_word":null}
+
+## Manuscript: X4 | source scroll node 1606868
+
+### No identified biblical passage | X4 | fragment f1 | line 1
+Record: L1605863-R001
+Physical: scroll=X4; scroll_node=1606868; fragment=f1; line=1; line_node=1605863
+Source locator: {"book":"X4","chapter":"f1","verse":"1","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":5,"sign_slots":17,"letter_slots":5,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":5,"reconstructed_sign_slots":4,"uncertain_sign_slots":7,"missing_sign_slots":2,"empty_sign_slots":3,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2107845-2107849
+Unicode: ε  ]לא אלך  #  #  #  #  #  #  # [  ε 
+Source: -- [la alK \\\\\\\] -- 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2107845	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1430188","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1430189","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2107846	" ]לא"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1430190-1430191","type":"cons","glyphs_unicode":["ל","א"]}]
+2107847	"אלך"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1430192-1430194","type":"cons","glyphs_unicode":["א","ל","ך"]}]
+2107848	" #  #  #  #  #  #  # [ "	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1430195","type":"empty","glyphs_unicode":[""]},{"slots":"1430196-1430202","type":"unc","glyphs_unicode":[" # "," # "," # "," # "," # "," # "," # "]}]
+2107849	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1430203","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1430204","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1430205,"scroll":"X4","scroll_node":1606868,"fragment":"f1","line":"1","line_node":1605863,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2107849,"next_word":null}
+
+### No identified biblical passage | X4 | fragment f1 | line 2
+Record: L1605864-R001
+Physical: scroll=X4; scroll_node=1606868; fragment=f1; line=2; line_node=1605864
+Source locator: {"book":"X4","chapter":"f1","verse":"2","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":4,"sign_slots":7,"letter_slots":1,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":1,"reconstructed_sign_slots":4,"uncertain_sign_slots":0,"missing_sign_slots":2,"empty_sign_slots":3,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2107850-2107853
+Unicode: ε  ]ל ε ׃ 
+Source: -- [l -- . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2107850	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1430206","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1430207","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2107851	" ]ל"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1430208","type":"cons","glyphs_unicode":["ל"]}]
+2107852	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1430209","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1430210","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2107853	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1430211","type":"empty","glyphs_unicode":[""]},{"slots":"1430212","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1430213,"scroll":"X4","scroll_node":1606868,"fragment":"f1","line":"2","line_node":1605864,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2107853,"next_word":null}
+
+### No identified biblical passage | X4 | fragment f2 | line 1
+Record: L1605865-R001
+Physical: scroll=X4; scroll_node=1606868; fragment=f2; line=1; line_node=1605865
+Source locator: {"book":"X4","chapter":"f2","verse":"1","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":3,"sign_slots":9,"letter_slots":5,"reconstructed_letter_slots":1,"uncertain_letter_slots":1,"unmarked_letter_slots":3,"reconstructed_sign_slots":5,"uncertain_sign_slots":1,"missing_sign_slots":2,"empty_sign_slots":2,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2107854-2107856
+Unicode: ε מ ]ל##קוש[  ε 
+Source: -- m[l|qwC] -- 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2107854	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1430214","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1430215","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2107855	"מ ]ל##קוש[ "	"PARTLY_RECONSTRUCTED"	5	1	1	0	[{"slots":"1430216","type":"cons","glyphs_unicode":["מ"],"rec":1},{"slots":"1430217","type":"cons","glyphs_unicode":["ל"],"unc":4},{"slots":"1430218-1430220","type":"cons","glyphs_unicode":["ק","ו","ש"]}]
+2107856	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1430221","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1430222","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1430223,"scroll":"X4","scroll_node":1606868,"fragment":"f2","line":"1","line_node":1605865,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2107856,"next_word":null}
+
+### No identified biblical passage | X4 | fragment f2 | line 2
+Record: L1605866-R001
+Physical: scroll=X4; scroll_node=1606868; fragment=f2; line=2; line_node=1605866
+Source locator: {"book":"X4","chapter":"f2","verse":"2","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":3,"sign_slots":7,"letter_slots":3,"reconstructed_letter_slots":0,"uncertain_letter_slots":1,"unmarked_letter_slots":2,"reconstructed_sign_slots":4,"uncertain_sign_slots":1,"missing_sign_slots":2,"empty_sign_slots":2,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2107857-2107859
+Unicode: ε  ]ע##בל ε 
+Source: -- [o|bl -- 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2107857	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1430224","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1430225","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2107858	" ]ע##בל"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	1	0	[{"slots":"1430226","type":"cons","glyphs_unicode":["ע"],"unc":4},{"slots":"1430227-1430228","type":"cons","glyphs_unicode":["ב","ל"]}]
+2107859	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1430229","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1430230","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1430231,"scroll":"X4","scroll_node":1606868,"fragment":"f2","line":"2","line_node":1605866,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2107859,"next_word":null}
+
+### No identified biblical passage | X4 | fragment f2 | line 3
+Record: L1605867-R001
+Physical: scroll=X4; scroll_node=1606868; fragment=f2; line=3; line_node=1605867
+Source locator: {"book":"X4","chapter":"f2","verse":"3","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":4,"sign_slots":9,"letter_slots":3,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":3,"reconstructed_sign_slots":4,"uncertain_sign_slots":0,"missing_sign_slots":2,"empty_sign_slots":3,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2107860-2107863
+Unicode: ε  ]אלה[  ε ׃ 
+Source: -- [alh] -- . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2107860	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1430232","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1430233","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2107861	" ]אלה[ "	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1430234-1430236","type":"cons","glyphs_unicode":["א","ל","ה"]}]
+2107862	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1430237","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1430238","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2107863	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1430239","type":"empty","glyphs_unicode":[""]},{"slots":"1430240","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1430241,"scroll":"X4","scroll_node":1606868,"fragment":"f2","line":"3","line_node":1605867,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2107863,"next_word":null}
+

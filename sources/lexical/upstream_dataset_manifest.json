@@ -1,0 +1,62 @@
+[
+  {
+    "file": "TBESG.txt",
+    "source_filename": "TBESG - Translators Brief lexicon of Extended Strongs for Greek - STEPBible.org CC BY.txt",
+    "url": "https://raw.githubusercontent.com/STEPBible/STEPBible-Data/1f3423d42400f59f1f30fe08f74e38fcd3bbf7bc/Lexicons/TBESG%20-%20Translators%20Brief%20lexicon%20of%20Extended%20Strongs%20for%20Greek%20-%20STEPBible.org%20CC%20BY.txt",
+    "blob_sha": "efe271a1dbb73fa01f8fa6e0f164c6687757a9ae",
+    "sha256": "312f723d7b8ef263bbdfb0451c9b8057125804dfff390b6f8544cff2a84b57f4",
+    "bytes": 4736912,
+    "commit": "1f3423d42400f59f1f30fe08f74e38fcd3bbf7bc"
+  },
+  {
+    "file": "TBESH.txt",
+    "source_filename": "TBESH - Translators Brief lexicon of Extended Strongs for Hebrew - STEPBible.org CC BY.txt",
+    "url": "https://raw.githubusercontent.com/STEPBible/STEPBible-Data/1f3423d42400f59f1f30fe08f74e38fcd3bbf7bc/Lexicons/TBESH%20-%20Translators%20Brief%20lexicon%20of%20Extended%20Strongs%20for%20Hebrew%20-%20STEPBible.org%20CC%20BY.txt",
+    "blob_sha": "a64990a674d13245ae1e9ed426bc69197c2fbad5",
+    "sha256": "464dccadd95fd8620dd05fa0d7a4caba58ec3c4d5db3ebf38e43d046ca25b591",
+    "bytes": 3288045,
+    "commit": "1f3423d42400f59f1f30fe08f74e38fcd3bbf7bc"
+  },
+  {
+    "file": "TFLSJ.txt",
+    "source_filename": "TFLSJ  0-5624 - Translators Formatted full LSJ Bible lexicon - STEPBible.org CC BY.txt",
+    "url": "https://raw.githubusercontent.com/STEPBible/STEPBible-Data/1f3423d42400f59f1f30fe08f74e38fcd3bbf7bc/Lexicons/TFLSJ%20%200-5624%20-%20Translators%20Formatted%20full%20LSJ%20Bible%20lexicon%20-%20STEPBible.org%20CC%20BY.txt",
+    "blob_sha": "db44789a0b3523ad00ba2c93c6fe78ad3db1b4bb",
+    "sha256": "fcc2845412132a7bb91fc3dbb5a544c807daf57e4791c4d9af61efe209e97691",
+    "bytes": 23831837,
+    "commit": "1f3423d42400f59f1f30fe08f74e38fcd3bbf7bc"
+  },
+  {
+    "file": "TFLSJ-extra.txt",
+    "source_filename": "TFLSJ extra - Translators Formatted full LSJ Bible lexicon - STEPBible.org CC BY.txt",
+    "url": "https://raw.githubusercontent.com/STEPBible/STEPBible-Data/1f3423d42400f59f1f30fe08f74e38fcd3bbf7bc/Lexicons/TFLSJ%20extra%20-%20Translators%20Formatted%20full%20LSJ%20Bible%20lexicon%20-%20STEPBible.org%20CC%20BY.txt",
+    "blob_sha": "cee6c1207d68beac2fcd66a7dbbd798803658e73",
+    "sha256": "fdb2840067faa11301b208a343a9453fbe40b367e94eac981071261626201bc2",
+    "bytes": 8377070,
+    "commit": "1f3423d42400f59f1f30fe08f74e38fcd3bbf7bc"
+  },
+  {
+    "file": "BrownDriverBriggs.xml",
+    "url": "https://raw.githubusercontent.com/openscriptures/HebrewLexicon/master/BrownDriverBriggs.xml",
+    "sha256": "2b52658a4323d91674cda4090ab8b3ebddfff640f4f18143c28300e80b2c38f8",
+    "bytes": 2911253,
+    "access_date": "2026-10-05",
+    "version_note": "Retrieved master bytes identified by SHA-256; no unverified commit attribution"
+  },
+  {
+    "file": "HebrewStrong.xml",
+    "url": "https://raw.githubusercontent.com/openscriptures/HebrewLexicon/master/HebrewStrong.xml",
+    "sha256": "a628f4f89f8bdaf2483fd3faf1abc8653cc6717758dfc9f24beb7571d9bdd0c4",
+    "bytes": 2749042,
+    "access_date": "2026-10-05",
+    "version_note": "Retrieved master bytes identified by SHA-256; no unverified commit attribution"
+  },
+  {
+    "file": "LexicalIndex.xml",
+    "url": "https://raw.githubusercontent.com/openscriptures/HebrewLexicon/master/LexicalIndex.xml",
+    "sha256": "8f7a605c58899d2f44430149c143c00903976e1e91232476677972a69e5bc85f",
+    "bytes": 1782592,
+    "access_date": "2026-10-05",
+    "version_note": "Retrieved master bytes identified by SHA-256; no unverified commit attribution"
+  }
+]

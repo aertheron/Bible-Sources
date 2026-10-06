@@ -1,0 +1,60 @@
+{
+  "resources": [
+    {
+      "id": "BIBLEPROJECT",
+      "name": "BibleProject",
+      "url": "https://bibleproject.com/",
+      "use": "Book overview, literary design, vocabulary, exegesis and canonical development",
+      "content_status": "Linked research source; collection not mirrored"
+    },
+    {
+      "id": "BIBLEPROJECT-STUDY-NOTES",
+      "name": "BibleProject study notes",
+      "url": "https://bibleproject.com/articles/study-notes-for-the-bible/",
+      "use": "Research and teaching notes",
+      "content_status": "Research lead; no full content reproduced"
+    },
+    {
+      "id": "CANONICAL-THEOLOGY",
+      "name": "Canonical Theology by Mark Gatzen",
+      "url": "https://canonical-theology.com/",
+      "use": "Project working-theology arguments and vocabulary leads",
+      "content_status": "Linked project source; exact claim profile remains separate"
+    },
+    {
+      "id": "YALE-COURSES",
+      "name": "Open Yale Religious Studies",
+      "url": "https://oyc.yale.edu/religious-studies",
+      "use": "Historical and literary background",
+      "content_status": "Linked source; no course corpus imported"
+    },
+    {
+      "id": "YALE-BIBLE-STUDY",
+      "name": "Yale Bible Study",
+      "url": "https://yalebiblestudy.org/",
+      "use": "Book and passage context",
+      "content_status": "Linked source; no guide corpus imported"
+    },
+    {
+      "id": "BIBLE-ODYSSEY",
+      "name": "SBL Bible Odyssey",
+      "url": "https://www.bibleodyssey.org/",
+      "use": "Scholar-authored background articles",
+      "content_status": "Linked research venue; individual claims/reuse require review"
+    },
+    {
+      "id": "JHS",
+      "name": "Journal of Hebrew Scriptures",
+      "url": "https://jhsonline.org/",
+      "use": "Focused peer-reviewed Hebrew Bible research",
+      "content_status": "Linked research venue; individual papers not imported"
+    },
+    {
+      "id": "THETORAH",
+      "name": "TheTorah.com",
+      "url": "https://www.thetorah.com/",
+      "use": "Focused academic background essays",
+      "content_status": "Linked research venue; individual claims/reuse require review"
+    }
+  ]
+}

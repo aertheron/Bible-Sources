@@ -1,0 +1,113 @@
+[
+  {
+    "args": [
+      "--book",
+      "GEN",
+      "--chapter",
+      "35",
+      "--verse",
+      "22"
+    ],
+    "exit_code": 0,
+    "chars": 974,
+    "source": "LXX-GRCBRENT-20260408",
+    "availability": "present",
+    "record_count": 1,
+    "error": null,
+    "reference_notes": [
+      "Native eBible grcbrent references; no automatic alignment to MT or another LXX edition."
+    ]
+  },
+  {
+    "args": [
+      "--book",
+      "PSA",
+      "--chapter",
+      "151"
+    ],
+    "exit_code": 0,
+    "chars": 2921,
+    "source": "LXX-GRCBRENT-20260408",
+    "availability": "present",
+    "record_count": 7,
+    "error": null,
+    "reference_notes": [
+      "Native eBible grcbrent references; no automatic alignment to MT or another LXX edition."
+    ]
+  },
+  {
+    "args": [
+      "--book",
+      "1KI",
+      "--chapter",
+      "12",
+      "--verse",
+      "24f"
+    ],
+    "exit_code": 0,
+    "chars": 985,
+    "source": "LXX-GRCBRENT-20260408",
+    "availability": "present",
+    "record_count": 1,
+    "error": null,
+    "reference_notes": [
+      "Native eBible grcbrent references; no automatic alignment to MT or another LXX edition."
+    ]
+  },
+  {
+    "args": [
+      "--book",
+      "GEN",
+      "--chapter",
+      "1",
+      "--verse",
+      "999"
+    ],
+    "exit_code": 0,
+    "chars": 455,
+    "source": "LXX-GRCBRENT-20260408",
+    "availability": "not_present_in_source",
+    "record_count": 0,
+    "error": null,
+    "reference_notes": [
+      "Native eBible grcbrent references; no automatic alignment to MT or another LXX edition."
+    ]
+  },
+  {
+    "args": [
+      "--book",
+      "SIR",
+      "--chapter",
+      "1",
+      "--verse",
+      "1h"
+    ],
+    "exit_code": 0,
+    "chars": 1178,
+    "source": "LXX-GRCBRENT-20260408",
+    "availability": "present",
+    "record_count": 1,
+    "error": null,
+    "reference_notes": [
+      "Native eBible grcbrent references; no automatic alignment to MT or another LXX edition.",
+      "Source labels 1 through 1g contain the prologue; native 1h begins the chapter text."
+    ]
+  },
+  {
+    "args": [
+      "--book",
+      "PSA",
+      "--chapter",
+      "118",
+      "--max-chars",
+      "1000"
+    ],
+    "exit_code": 2,
+    "chars": 204,
+    "source": null,
+    "availability": null,
+    "record_count": 0,
+    "error": "output_budget_exceeded",
+    "reference_notes": null
+  }
+]

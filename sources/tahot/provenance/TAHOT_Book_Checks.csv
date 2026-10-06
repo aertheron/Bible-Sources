@@ -1,0 +1,40 @@
+book,code,status,word_rows,verse_references,first_ref,last_ref,all_17_cells_identical_to_full_source,all_nonempty_book_body_lines_identical,seven_shared_columns_match_clean_rich,duplicate_refs,meaning_variant_rows,spelling_variant_rows,aramaic_grammar_rows,alternate_numbering_rows,uploaded_bytes
+Genesis,Gen,PASS,20614,1533,Gen.1.1#01=L,Gen.50.26#11=L,True,True,True,0,21,36,0,453,4706863
+Exodus,Exo,PASS,16713,1213,Exo.1.1#01=L,Exo.40.38#16=L,True,True,True,0,13,72,0,849,3825476
+Leviticus,Lev,PASS,11950,859,Lev.1.1#01=L,Lev.27.34#12=L,True,True,True,0,5,7,0,411,2727847
+Numbers,Num,PASS,16413,1288,Num.1.1#01=L,Num.36.13#16=L,True,True,True,0,11,13,0,661,3812125
+Deuteronomy,Deu,PASS,14300,959,Deu.1.1#01=L,Deu.34.12#12=L,True,True,True,0,12,105,0,1126,3302977
+Joshua,Jos,PASS,10051,658,Jos.1.1#01=L,Jos.24.33#14=L,True,True,True,0,27,35,0,0,2337259
+Judges,Jdg,PASS,9901,618,Jdg.1.1#01=L,Jdg.21.25#09=L,True,True,True,0,19,38,0,0,2266297
+Ruth,Rut,PASS,1294,85,Rut.1.1#01=L,Rut.4.22#08=L,True,True,True,0,11,19,0,0,303950
+1 Samuel,1Sa,PASS,13323,810,1Sa.1.1#01=L,1Sa.31.13#10=L,True,True,True,0,56,80,0,656,3031995
+2 Samuel,2Sa,PASS,11054,695,2Sa.1.1#01=L,2Sa.24.25#15=L,True,True,True,0,81,97,0,817,2520117
+1 Kings,1Ki,PASS,13140,816,1Ki.1.1#01=L,1Ki.22.53(22.54)#14=L,True,True,True,0,39,46,0,660,2971122
+2 Kings,2Ki,PASS,12282,719,2Ki.1.1#01=L,2Ki.25.30#13=L,True,True,True,0,62,79,0,362,2784770
+1 Chronicles,1Ch,PASS,10774,942,1Ch.1.1#01=L,1Ch.29.30#14=L,True,True,True,0,38,43,0,1222,2604841
+2 Chronicles,2Ch,PASS,13314,822,2Ch.1.1#01=L,2Ch.36.23#30=L,True,True,True,0,28,44,0,569,3100695
+Ezra,Ezr,PASS,3755,280,Ezr.1.1#01=L,Ezr.10.44#10=L,True,True,True,0,27,42,1212,0,897223
+Nehemiah,Neh,PASS,5319,406,Neh.1.1#01=L,Neh.13.31#09=L,True,True,True,0,19,23,0,763,1293754
+Esther,Est,PASS,3052,167,Est.1.1#01=L,Est.10.3#18=L,True,True,True,0,4,14,0,0,698259
+Job,Job,PASS,8343,1070,Job.1.1#01=L,Job.42.17#05=L,True,True,True,0,43,58,0,226,2027878
+Psalms,Psa,PASS,19595,2577,Psa.1.1#01=L,Psa.150.6#06=L,True,True,True,0,56,81,0,8459,4972915
+Proverbs,Pro,PASS,6915,915,Pro.1.1#01=L,Pro.31.31#07=L,True,True,True,0,64,76,0,0,1681953
+Ecclesiastes,Ecc,PASS,2988,222,Ecc.1.1#01=L,Ecc.12.14#14=L,True,True,True,0,10,16,0,283,667909
+Song of Solomon,Sng,PASS,1249,117,Sng.1.1#01=L,Sng.8.14#11=L,True,True,True,0,5,10,0,139,310444
+Isaiah,Isa,PASS,16931,1292,Isa.1.1#01=L,Isa.66.24#17=L,True,True,True,0,48,61,0,422,3892491
+Jeremiah,Jer,PASS,21835,1364,Jer.1.1#01=L,Jer.52.34#17=L,True,True,True,0,123,148,15,389,4931108
+Lamentations,Lam,PASS,1542,154,Lam.1.1#01=L,Lam.5.22#08=L,True,True,True,0,24,30,0,0,379182
+Ezekiel,Ezk,PASS,18730,1273,Ezk.1.1#01=L,Ezk.48.35#09=L,True,True,True,0,117,148,0,530,4326286
+Daniel,Dan,PASS,5920,357,Dan.1.1#01=L,Dan.12.13#08=L,True,True,True,0,48,124,3600,1185,1361945
+Hosea,Hos,PASS,2381,197,Hos.1.1#01=L,Hos.14.9(14.10)#16=L,True,True,True,0,3,7,0,614,564710
+Joel,Jol,PASS,957,73,Jol.1.1#01=L,Jol.3.21(4.21)#07=L,True,True,True,0,1,1,0,337,233083
+Amos,Amo,PASS,2042,146,Amo.1.1#01=L,Amo.9.15#14=L,True,True,True,0,3,9,0,0,468641
+Obadiah,Oba,PASS,291,21,Oba.1.1#01=L,Oba.1.21#11=L,True,True,True,0,1,2,0,0,78365
+Jonah,Jon,PASS,688,48,Jon.1.1#01=L,Jon.4.11#23=L,True,True,True,0,0,0,0,112,166622
+Micah,Mic,PASS,1396,105,Mic.1.1#01=L,Mic.7.20#10=L,True,True,True,0,3,7,0,186,334004
+Nahum,Nam,PASS,558,47,Nam.1.1#01=L,Nam.3.19#18=L,True,True,True,0,3,4,0,173,142404
+Habakkuk,Hab,PASS,671,56,Hab.1.1#01=L,Hab.3.19#11=L,True,True,True,0,2,3,0,0,164093
+Zephaniah,Zep,PASS,767,53,Zep.1.1#01=L,Zep.3.20#21=L,True,True,True,0,2,3,0,0,183668
+Haggai,Hag,PASS,600,38,Hag.1.1#01=L,Hag.2.23#20=L,True,True,True,0,1,2,0,0,145451
+Zechariah,Zec,PASS,3128,211,Zec.1.1#01=L,Zec.14.21#24=L,True,True,True,0,5,9,0,220,720617
+Malachi,Mal,PASS,876,55,Mal.1.1#01=L,Mal.4.6(3.24)#15=L,True,True,True,0,0,0,0,94,206568

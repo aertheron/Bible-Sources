@@ -1,0 +1,40 @@
+source_book_code	book	word_nodes	source_scroll_records	status	file
+Gen	Genesis	7902	27	mapped material present	books/DSS-Genesis.txt
+Ex	Exodus	27822	40	mapped material present	books/DSS-Exodus.txt
+Lev	Leviticus	11820	17	mapped material present	books/DSS-Leviticus.txt
+Num	Numbers	10651	12	mapped material present	books/DSS-Numbers.txt
+Deut	Deuteronomy	30043	62	mapped material present	books/DSS-Deuteronomy.txt
+Josh	Joshua	1552	3	mapped material present	books/DSS-Joshua.txt
+Judg	Judges	1194	4	mapped material present	books/DSS-Judges.txt
+Ruth	Ruth	958	4	mapped material present	books/DSS-Ruth.txt
+1Sam	1 Samuel	7435	4	mapped material present	books/DSS-1-Samuel.txt
+2Sam	2 Samuel	9153	4	mapped material present	books/DSS-2-Samuel.txt
+1Kgs	1 Kings	1268	3	mapped material present	books/DSS-1-Kings.txt
+2Kgs	2 Kings	473	1	mapped material present	books/DSS-2-Kings.txt
+1Chr	1 Chronicles	0	0	no material mapped to this book in supplied dataset	
+2Chr	2 Chronicles	78	1	mapped material present	books/DSS-2-Chronicles.txt
+Ezra	Ezra	349	1	mapped material present	books/DSS-Ezra.txt
+Neh	Nehemiah	0	0	no material mapped to this book in supplied dataset	
+Esth	Esther	0	0	no material mapped to this book in supplied dataset	
+Job	Job	786	4	mapped material present	books/DSS-Job.txt
+Ps	Psalms	16941	39	mapped material present	books/DSS-Psalms.txt
+Prov	Proverbs	488	3	mapped material present	books/DSS-Proverbs.txt
+Eccl	Ecclesiastes	564	2	mapped material present	books/DSS-Ecclesiastes.txt
+Song	Song of Songs	886	4	mapped material present	books/DSS-Song-of-Songs.txt
+Is	Isaiah	47932	22	mapped material present	books/DSS-Isaiah.txt
+Jer	Jeremiah	6577	6	mapped material present	books/DSS-Jeremiah.txt
+Lam	Lamentations	939	4	mapped material present	books/DSS-Lamentations.txt
+Ezek	Ezekiel	3001	7	mapped material present	books/DSS-Ezekiel.txt
+Dan	Daniel	5236	8	mapped material present	books/DSS-Daniel.txt
+Hos	Hosea	2456	3	mapped material present	books/DSS-Hosea.txt
+Joel	Joel	1840	3	mapped material present	books/DSS-Joel.txt
+Amos	Amos	3332	4	mapped material present	books/DSS-Amos.txt
+Obad	Obadiah	680	2	mapped material present	books/DSS-Obadiah.txt
+Jonah	Jonah	2129	4	mapped material present	books/DSS-Jonah.txt
+Mic	Micah	2233	3	mapped material present	books/DSS-Micah.txt
+Nah	Nahum	921	2	mapped material present	books/DSS-Nahum.txt
+Hab	Habakkuk	785	2	mapped material present	books/DSS-Habakkuk.txt
+Zeph	Zephaniah	1116	4	mapped material present	books/DSS-Zephaniah.txt
+Hag	Haggai	1013	3	mapped material present	books/DSS-Haggai.txt
+Zech	Zechariah	1086	4	mapped material present	books/DSS-Zechariah.txt
+Mal	Malachi	735	2	mapped material present	books/DSS-Malachi.txt

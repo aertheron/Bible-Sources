@@ -1,0 +1,1539 @@
+{
+  "profile": "DSS_ENRICHED_V1",
+  "source_repository": "https://github.com/ETCBC/dss",
+  "source_version_label": "2.0.1",
+  "text_fabric_version": "13.1.0",
+  "base_manifest": {
+    "source_version_label": "2.0.1",
+    "text_fabric_version": "13.1.0",
+    "source_metadata": {
+      "acronym": "dss",
+      "convertedBy": "Jarod Jacobs, Martijn Naaijer and Dirk Roorda",
+      "createdBy": "Martin G. Abegg, Jr., James E. Bowley, and Edward M. Cook",
+      "createdDate": "2015",
+      "dateWritten": "2020-12-29T15:01:57Z",
+      "description": "full transcription (Unicode) of a word including flags and brackets",
+      "license": "Creative Commons Attribution-NonCommercial 4.0 International License",
+      "licenseUrl": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "Martin Abegg's data files, personal communication",
+      "valueType": "str",
+      "writtenBy": "Text-Fabric"
+    },
+    "source_files": [
+      {
+        "name": "after.tf",
+        "bytes": 5192280,
+        "sha256": "8032b08c993a20ce3516c7a9058a26db452c008aaa096506a60243cfd94c705e"
+      },
+      {
+        "name": "alt.tf",
+        "bytes": 4028,
+        "sha256": "f2d661f9a273a338a09067d23a9eade17e93319309f7e5a6e3df9c99f124c389"
+      },
+      {
+        "name": "biblical.tf",
+        "bytes": 536438,
+        "sha256": "7a91352439ceb3ac422d879febf232a0717023003e3c70fcfe7691e0d1f5ac69"
+      },
+      {
+        "name": "book.tf",
+        "bytes": 856457,
+        "sha256": "8f075ca9c34167260a911c6bc33fe09088a6cb6abfa19fe50592df58a546d773"
+      },
+      {
+        "name": "book_etcbc.tf",
+        "bytes": 3665019,
+        "sha256": "1e9b8428169cbade5c296771fec69dfce7aa1bf8ec7473425274dd09e0d0f7cc"
+      },
+      {
+        "name": "chapter.tf",
+        "bytes": 599762,
+        "sha256": "4b25d3fef227f30b85ba203f10145e0ae072be7547fed6282c64aeddfc78b4f8"
+      },
+      {
+        "name": "cl.tf",
+        "bytes": 2175309,
+        "sha256": "a4a64789c78941cc86bd2e860fa829a347dd5bba848e6d14fa2cd4921c5c9410"
+      },
+      {
+        "name": "cl2.tf",
+        "bytes": 14004,
+        "sha256": "c6156fc07aea3b101138704ab5b22241ed18b712e16713ee35adbe682e1ead92"
+      },
+      {
+        "name": "cor.tf",
+        "bytes": 24721,
+        "sha256": "fd1f6897a43b242b5ca75823cadb8adfd9a74bff92aaec0a4412dd3c7a11b2d7"
+      },
+      {
+        "name": "fragment.tf",
+        "bytes": 268441,
+        "sha256": "5d1a3177113f4623cb7960af4a589c3a7f375d611f24660d20ff6f74af570bae"
+      },
+      {
+        "name": "full.tf",
+        "bytes": 3586074,
+        "sha256": "951ed95573ff1f78c468e6fa1b1f1750631287564534155bd5f9f0c8ae6d5542"
+      },
+      {
+        "name": "fulle.tf",
+        "bytes": 2435222,
+        "sha256": "d7051b5699bf870146f2f55550522d709153c9670eb94e87f5b8f4c583389f1f"
+      },
+      {
+        "name": "fullo.tf",
+        "bytes": 2178599,
+        "sha256": "ac4cab1dfe869f117a1d1ee0a97d6b250850e961adb992baf4e1d30162b10d10"
+      },
+      {
+        "name": "g_cons.tf",
+        "bytes": 56950,
+        "sha256": "25883ff487be8be091fffb6090fac5573759cd0758a3a97d7a6ee13ab518cb27"
+      },
+      {
+        "name": "g_lex_etcbc.tf",
+        "bytes": 268619,
+        "sha256": "3809a418026b82f5226d5fff0d904e46bcd2998cafb44e44f1dd264e70a77d8e"
+      },
+      {
+        "name": "g_nme_etcbc.tf",
+        "bytes": 561156,
+        "sha256": "535fe15ff655529053303d5e201e524f6fd6ea523133bc01f88c68e9e98e5be6"
+      },
+      {
+        "name": "g_pfm_etcbc.tf",
+        "bytes": 28085,
+        "sha256": "ab045e74ff77194dc0eb4f2cf3016278985b39b26815a7c5d02c4eb1b0c16e44"
+      },
+      {
+        "name": "g_prs_etcbc.tf",
+        "bytes": 1494654,
+        "sha256": "27dca01afa44b150b504a457cc95a01adcdcc5e7674e8ec5a8b7074fe4ed8f10"
+      },
+      {
+        "name": "g_vbe_etcbc.tf",
+        "bytes": 24529,
+        "sha256": "52c92b663a0e8c74113d3da604b8df5d5f3cead8c554672e5a766cfb6b8f1391"
+      },
+      {
+        "name": "g_vbs_etcbc.tf",
+        "bytes": 8135,
+        "sha256": "79c268bc35c782a11ac4e4a4effcac80992fdce156fee2247414718c7e3cbaa7"
+      },
+      {
+        "name": "glex.tf",
+        "bytes": 4035131,
+        "sha256": "8c2e2d0b9b949e8ef5bb1825a8c4497627188fe89eeb6117980f9ffb3460b119"
+      },
+      {
+        "name": "glexe.tf",
+        "bytes": 2405984,
+        "sha256": "ebdaeb83449406d00331efe3943c802af34d0b043e5ec9516499a39ac57c3d1a"
+      },
+      {
+        "name": "glexo.tf",
+        "bytes": 2678473,
+        "sha256": "97ab45e1df979ae79bc9601a5d4dd7c29bb20d9e3613c67c6c465635b15a55a4"
+      },
+      {
+        "name": "glyph.tf",
+        "bytes": 7358405,
+        "sha256": "b6dc988801e7145791db68c3004c0c39f30544c97bf3a473a3e18ab96e8d2b92"
+      },
+      {
+        "name": "glyphe.tf",
+        "bytes": 5002693,
+        "sha256": "b0c0acbf9c368702527d3c7e2a2175990d9a61e186b4cda20a089cc06311aee3"
+      },
+      {
+        "name": "glypho.tf",
+        "bytes": 4888699,
+        "sha256": "ce0cb87a74ad538ddf30e22327c2e1acafa3bbb7adacadf878ec3846265694bc"
+      },
+      {
+        "name": "gn.tf",
+        "bytes": 1451933,
+        "sha256": "92943e26cd77dc1dd1ce87defe7ee53f1c3cd66df0479877f3986832861d8f6a"
+      },
+      {
+        "name": "gn2.tf",
+        "bytes": 427081,
+        "sha256": "ce03bde422fd8630d92a60fea66bcff078cf2d9cb743c66bf0edc857971b60e5"
+      },
+      {
+        "name": "gn3.tf",
+        "bytes": 696,
+        "sha256": "f5776790af7c5950068573e3613a729f9666d42bcb4c9cba71cf0ae19e91e222"
+      },
+      {
+        "name": "gn_etcbc.tf",
+        "bytes": 693422,
+        "sha256": "2dadef35729b1a05c0779c83bfb63eb90514ce46fb6753a4b4b47dceee98e4c8"
+      },
+      {
+        "name": "halfverse.tf",
+        "bytes": 2552,
+        "sha256": "e5689f4bb2982075b5f7181174f58cec7bde4286c5e59a8d4a24f5e9f8542cca"
+      },
+      {
+        "name": "intl.tf",
+        "bytes": 4993,
+        "sha256": "fc75c7d077fa2a48c878c6685b2fbfb5f97e8c5f58839c3a5b0e675f61f931b6"
+      },
+      {
+        "name": "lang.tf",
+        "bytes": 418353,
+        "sha256": "5695457678db1aa14a384b986f78b691c19156c8214c058333b5f560f89a8220"
+      },
+      {
+        "name": "lang_etcbc.tf",
+        "bytes": 13704218,
+        "sha256": "2fe1b35f3c25ac3be987c41761b01d274cd0640ec5f864ef76954eba74f7b277"
+      },
+      {
+        "name": "lex.tf",
+        "bytes": 4452296,
+        "sha256": "e7759a9fb82e1b8329359619e4cb103b35635d9d600080707b3624165bae1eda"
+      },
+      {
+        "name": "lex_etcbc.tf",
+        "bytes": 1829113,
+        "sha256": "7e3caf1ab3d193bfbf90b3a22e8daf84fa8695693f78a482a4c7d0d55f67e990"
+      },
+      {
+        "name": "lex_utf8_etcbc.tf",
+        "bytes": 3711990,
+        "sha256": "2ef15f65c959872315c4b6bc2860dcee834115c8749ebe1ccaff74c1d49bc700"
+      },
+      {
+        "name": "lexe.tf",
+        "bytes": 2823149,
+        "sha256": "02e0fb271debe403b09c00404e89097a707b3cd30bf3993b13106a88a1689694"
+      },
+      {
+        "name": "lexo.tf",
+        "bytes": 2964336,
+        "sha256": "3d8503ff5f2173392fe1167487ce56faf1d99208c0ace36ad945dba2430735f6"
+      },
+      {
+        "name": "line.tf",
+        "bytes": 119086,
+        "sha256": "41c82b80c5230491dc4081e266c7c2ebe01ce3ecfb12c696f3eda82ac1c39f0b"
+      },
+      {
+        "name": "md.tf",
+        "bytes": 26309,
+        "sha256": "e45450270ea73ef045c0ee794186e95db3f3738fd7894ff3cfc9499dda1f80cf"
+      },
+      {
+        "name": "merr.tf",
+        "bytes": 555,
+        "sha256": "9815ec962c8b75059f41e38efc5c075eef45babaa63eafc8ba3beca3c623b100"
+      },
+      {
+        "name": "morph_etcbc.tf",
+        "bytes": 233010,
+        "sha256": "1fbc3a29ebfde81e7abaa4300e1f6c840713fb6384309d41ec4901f7fe30d15e"
+      },
+      {
+        "name": "morpho.tf",
+        "bytes": 2369611,
+        "sha256": "04150c4c0ed936da55dae9571d8e3226a5cd02494cd320bc04d080dc0c2cac61"
+      },
+      {
+        "name": "note_etcbc.tf",
+        "bytes": 3191,
+        "sha256": "a42af01ef56bd41c737987454984be4e412edbf9cc824d24f75b01ab99267fd1"
+      },
+      {
+        "name": "nr.tf",
+        "bytes": 2042,
+        "sha256": "4dabcb634e463103b0791efb5a17bed47e477ec26173006ee641e4e5b9dccf51"
+      },
+      {
+        "name": "nu.tf",
+        "bytes": 1451288,
+        "sha256": "97ca00176915499392e1ac017a208f40d822211ae43a57200c88c97989ed5f1f"
+      },
+      {
+        "name": "nu2.tf",
+        "bytes": 426998,
+        "sha256": "e84276af13302ae7674dcfaa11eb651e1c55b03a12a9319541336472114d10b8"
+      },
+      {
+        "name": "nu3.tf",
+        "bytes": 690,
+        "sha256": "8c96c1c065a5523da3795ffc114df14f40370b3204efb5a16c0677f5d4a8c72c"
+      },
+      {
+        "name": "nu_etcbc.tf",
+        "bytes": 1508893,
+        "sha256": "c8906217c693ecfab110ce7542d3d21f058c10f4efc44a32d5180750a6c2280e"
+      },
+      {
+        "name": "occ.tf",
+        "bytes": 3761189,
+        "sha256": "9de75fdc51ca6b5766c09daabe0d7106b9d8db8ab510dbc24043bddf0633f7d1"
+      },
+      {
+        "name": "oslots.tf",
+        "bytes": 14394455,
+        "sha256": "582165e4f8450677d457816b78225a2d35ad1617e9e97fb98abd9d70ebfd3818"
+      },
+      {
+        "name": "otext.tf",
+        "bytes": 1139,
+        "sha256": "f1cd4e29530058b30c64a5a5b985efb5107efecd035b0f97e22bfe25404eb4f7"
+      },
+      {
+        "name": "otype.tf",
+        "bytes": 750,
+        "sha256": "4f313ee84bb61c9a3adb1fa15acddac781807b7fa59df9d02fb38014174e069a"
+      },
+      {
+        "name": "ps.tf",
+        "bytes": 481024,
+        "sha256": "73f51c0385fbc357f876b464814dc6dc1c092a3d594cb5beac7172eb035f918f"
+      },
+      {
+        "name": "ps2.tf",
+        "bytes": 426950,
+        "sha256": "69c7d7f105be5ba75612d646c80eb4dcd289bc472f8dcab276222a1e7edd7b0a"
+      },
+      {
+        "name": "ps3.tf",
+        "bytes": 696,
+        "sha256": "db72adaa3ae7d0aca21710b9aebd1c712234df02e17a88528c4e40bf386538bc"
+      },
+      {
+        "name": "ps_etcbc.tf",
+        "bytes": 1505988,
+        "sha256": "98315a7fa1714d4d2fddd368250c57982232af7ddcb60463f69007851ae2564f"
+      },
+      {
+        "name": "punc.tf",
+        "bytes": 329665,
+        "sha256": "63233337408716657c936b611b090ec8fa3d8ba16247c751604d609906cd9d7a"
+      },
+      {
+        "name": "punce.tf",
+        "bytes": 329679,
+        "sha256": "e912dc5d29d41e542cccd6ae9fb3ec810b5fc81bb502ff60bb45d9fd682fef72"
+      },
+      {
+        "name": "punco.tf",
+        "bytes": 299728,
+        "sha256": "67238e84e93180cd2990bd103f2da22261598fd1aa66fc5f1ff8b95de85a1793"
+      },
+      {
+        "name": "rec.tf",
+        "bytes": 1886681,
+        "sha256": "6ff8311ff809584081f9dd66c5570e353a552b16583bcb30a6c245b5e6fcf335"
+      },
+      {
+        "name": "rem.tf",
+        "bytes": 10396,
+        "sha256": "921e78e2dca9607254675b432faca8e44742e7aec571267c8ce9c4cb2326cdf9"
+      },
+      {
+        "name": "script.tf",
+        "bytes": 61876,
+        "sha256": "4eeca3597b5e8e01076bba867d7028c9879cf12f5189fcf848f6b2523b1b8ea2"
+      },
+      {
+        "name": "scroll.tf",
+        "bytes": 378532,
+        "sha256": "e39d8d38b3f616a4054af682c6191ce1b9acd977f3369fb8f567b6182dbeaf2a"
+      },
+      {
+        "name": "sim.tf",
+        "bytes": 561541,
+        "sha256": "0122bc778c51f5afa294f6bc84c8214c697f2b191d1d17b6c277ba8d3ce806de"
+      },
+      {
+        "name": "sp.tf",
+        "bytes": 2836506,
+        "sha256": "4d60bd36ead607c4a633bf4eafc37214855749c12a4653270249c3535b4cda27"
+      },
+      {
+        "name": "sp_etcbc.tf",
+        "bytes": 1285662,
+        "sha256": "b7406d5021f3fa053c497b5455489579987e7d40afe59c2a7598d77369885c9d"
+      },
+      {
+        "name": "srcLn.tf",
+        "bytes": 3314603,
+        "sha256": "e5b2a650f13f059b7e475173d403b38a6ab30759d3237447f43b82bf21376d35"
+      },
+      {
+        "name": "st.tf",
+        "bytes": 871409,
+        "sha256": "8602cc98754376f38d39e2d44b0a063fbc965fd8c8564f4f5d39562e0982961d"
+      },
+      {
+        "name": "type.tf",
+        "bytes": 10781272,
+        "sha256": "0df955242141dc68f2cf161e7abacf2758adad072196019d38990e23712e7a49"
+      },
+      {
+        "name": "unc.tf",
+        "bytes": 652154,
+        "sha256": "cc7a591edc46c0b38c3aa279fb23051cf2701bccee46cd1f451f0e0cccbb952e"
+      },
+      {
+        "name": "uvf_etcbc.tf",
+        "bytes": 465869,
+        "sha256": "1beaf84fa362551e7b04289104889fcd95ab95b17a82ecbb11116796ac0cf43c"
+      },
+      {
+        "name": "vac.tf",
+        "bytes": 32498,
+        "sha256": "f193cf146850d34030e6c12e19f7b6f8cf3f96eb586214532f554ed7c92555f9"
+      },
+      {
+        "name": "verse.tf",
+        "bytes": 563822,
+        "sha256": "d8ad61f1cb0690792b31115c24105d240a4fc5fb0cbea719c1d7a8adc4eab251"
+      },
+      {
+        "name": "vs.tf",
+        "bytes": 819020,
+        "sha256": "0eac6e1db03c3ead475b2c0caad3dc39a0a6a9fbcf98adeff64fd80433ca07bc"
+      },
+      {
+        "name": "vs_etcbc.tf",
+        "bytes": 1586041,
+        "sha256": "020a79f87e09066ae0facdc9ae6dc5a18e84b09e3413b3f1834dcf2fe78a6daa"
+      },
+      {
+        "name": "vt.tf",
+        "bytes": 838258,
+        "sha256": "f264591e1d8c8f40527d70b290c54256126fadb5e4497478fff763a38b023e7b"
+      },
+      {
+        "name": "vt_etcbc.tf",
+        "bytes": 1637168,
+        "sha256": "1d564b6df576730dba78a58595b8ace9bfa7a48a0999038d4d48e78c0d23a7f5"
+      }
+    ],
+    "node_counts": {
+      "scroll": 1001,
+      "lex": 10450,
+      "fragment": 11182,
+      "line": 52895,
+      "clause": 125,
+      "cluster": 101099,
+      "phrase": 315,
+      "word": 500995,
+      "sign": 1430241
+    },
+    "distinct_manuscript_labels": 997,
+    "repeated_manuscript_labels": {
+      "4Q88": [
+        1605956,
+        1606747
+      ],
+      "4Q483": [
+        1606388,
+        1606812
+      ],
+      "11Q5": [
+        1606539,
+        1606836
+      ],
+      "11Q6": [
+        1606540,
+        1606837
+      ]
+    },
+    "mapped_book_count": 36,
+    "mapped_book_word_counts": {
+      "Num": 10651,
+      "Lev": 11820,
+      "Gen": 7902,
+      "Ex": 27822,
+      "Deut": 30043,
+      "Judg": 1194,
+      "1Sam": 7435,
+      "2Sam": 9153,
+      "Is": 47932,
+      "Ezek": 3001,
+      "Ps": 16941,
+      "Dan": 5236,
+      "Jer": 6577,
+      "Job": 786,
+      "Ruth": 958,
+      "Lam": 939,
+      "Josh": 1552,
+      "1Kgs": 1268,
+      "Zech": 1086,
+      "Mal": 735,
+      "Jonah": 2129,
+      "Zeph": 1116,
+      "Hag": 1013,
+      "Hos": 2456,
+      "Joel": 1840,
+      "Amos": 3332,
+      "Mic": 2233,
+      "Obad": 680,
+      "Nah": 921,
+      "Hab": 785,
+      "Prov": 488,
+      "Song": 886,
+      "Eccl": 564,
+      "Ezra": 349,
+      "2Chr": 78,
+      "2Kgs": 473
+    },
+    "category_word_counts": {
+      "nonbiblical": 282806,
+      "biblical_book": 212374,
+      "unmapped_biblical": 5815
+    },
+    "standalone_signs": 20261,
+    "source_language_word_counts": {
+      "Hebrew (source default)": 451584,
+      "a": 49404,
+      "g": 7
+    },
+    "standalone_sign_types": {
+      "empty": 4178,
+      "term": 15531,
+      "unc": 552
+    },
+    "records": 66557,
+    "corpus_files": {
+      "other_material/DSS-Nonbiblical-01.txt": 2384,
+      "other_material/DSS-Nonbiblical-02.txt": 2188,
+      "books/DSS-Numbers.txt": 1046,
+      "other_material/DSS-Nonbiblical-03.txt": 2144,
+      "other_material/DSS-Nonbiblical-04.txt": 2336,
+      "other_material/DSS-Nonbiblical-05.txt": 2192,
+      "books/DSS-Leviticus.txt": 1188,
+      "other_material/DSS-Nonbiblical-06.txt": 1946,
+      "other_material/DSS-Nonbiblical-07.txt": 2418,
+      "other_material/DSS-Nonbiblical-08.txt": 1945,
+      "other_material/DSS-Nonbiblical-09.txt": 2119,
+      "other_material/DSS-Nonbiblical-10.txt": 2212,
+      "other_material/DSS-Nonbiblical-11.txt": 2128,
+      "other_material/DSS-Nonbiblical-12.txt": 2134,
+      "books/DSS-Genesis.txt": 842,
+      "other_material/DSS-Nonbiblical-13.txt": 2461,
+      "other_material/DSS-Nonbiblical-14.txt": 2325,
+      "other_material/DSS-Nonbiblical-15.txt": 2143,
+      "other_material/DSS-Nonbiblical-16.txt": 2406,
+      "other_material/DSS-Nonbiblical-17.txt": 2715,
+      "other_material/DSS-Nonbiblical-18.txt": 2025,
+      "other_material/DSS-Nonbiblical-19.txt": 1303,
+      "other_material/DSS-Unmapped-Biblical-01.txt": 1589,
+      "books/DSS-Exodus.txt": 2893,
+      "books/DSS-Deuteronomy.txt": 3019,
+      "books/DSS-Judges.txt": 116,
+      "books/DSS-1-Samuel.txt": 682,
+      "books/DSS-2-Samuel.txt": 875,
+      "books/DSS-Isaiah.txt": 5313,
+      "books/DSS-Ezekiel.txt": 345,
+      "books/DSS-Psalms.txt": 2782,
+      "books/DSS-Daniel.txt": 671,
+      "books/DSS-Jeremiah.txt": 656,
+      "books/DSS-Job.txt": 104,
+      "books/DSS-Ruth.txt": 109,
+      "books/DSS-Lamentations.txt": 130,
+      "books/DSS-Joshua.txt": 142,
+      "books/DSS-1-Kings.txt": 110,
+      "books/DSS-Zechariah.txt": 113,
+      "books/DSS-Malachi.txt": 95,
+      "books/DSS-Jonah.txt": 220,
+      "books/DSS-Zephaniah.txt": 123,
+      "books/DSS-Haggai.txt": 115,
+      "books/DSS-Hosea.txt": 275,
+      "books/DSS-Joel.txt": 203,
+      "books/DSS-Amos.txt": 362,
+      "books/DSS-Micah.txt": 256,
+      "books/DSS-Obadiah.txt": 81,
+      "books/DSS-Nahum.txt": 113,
+      "books/DSS-Habakkuk.txt": 89,
+      "books/DSS-Proverbs.txt": 70,
+      "books/DSS-Song-of-Songs.txt": 124,
+      "books/DSS-Ecclesiastes.txt": 73,
+      "books/DSS-Ezra.txt": 39,
+      "books/DSS-2-Chronicles.txt": 9,
+      "books/DSS-2-Kings.txt": 39,
+      "other_material/DSS-Unmapped-Biblical-02.txt": 22
+    },
+    "export_scope": "Both full marked word transcriptions, reference/location metadata, and standalone sign records; not a serialization of all TF features or edges.",
+    "validation": {
+      "all_words_exported_exactly_once": true,
+      "all_physical_lines_exported_exactly_once": true,
+      "all_scrolls_exported": true,
+      "all_standalone_signs_exported_exactly_once": true,
+      "unicode_formatter_line_checks": 52895,
+      "source_formatter_line_checks": 52895,
+      "serialized_record_buffer_checks": 66557,
+      "saved_record_readback_checks": 66557,
+      "saved_unique_word_nodes": 500995,
+      "saved_unique_standalone_signs": 20261,
+      "saved_physical_lines": 52895,
+      "saved_scroll_nodes": 1001,
+      "saved_manuscript_labels": 997
+    },
+    "input_archive": {
+      "filename": "DSS TF 2.0.1.zip",
+      "bytes": 28850083,
+      "sha256": "b750b19c84e17d8c70d366fb652a42e9bbc31b90abcf9ce2c667128d81126f03"
+    }
+  },
+  "source_files": [
+    {
+      "name": "after.tf",
+      "bytes": 5192280,
+      "sha256": "8032b08c993a20ce3516c7a9058a26db452c008aaa096506a60243cfd94c705e"
+    },
+    {
+      "name": "alt.tf",
+      "bytes": 4028,
+      "sha256": "f2d661f9a273a338a09067d23a9eade17e93319309f7e5a6e3df9c99f124c389"
+    },
+    {
+      "name": "biblical.tf",
+      "bytes": 536438,
+      "sha256": "7a91352439ceb3ac422d879febf232a0717023003e3c70fcfe7691e0d1f5ac69"
+    },
+    {
+      "name": "book.tf",
+      "bytes": 856457,
+      "sha256": "8f075ca9c34167260a911c6bc33fe09088a6cb6abfa19fe50592df58a546d773"
+    },
+    {
+      "name": "book_etcbc.tf",
+      "bytes": 3665019,
+      "sha256": "1e9b8428169cbade5c296771fec69dfce7aa1bf8ec7473425274dd09e0d0f7cc"
+    },
+    {
+      "name": "chapter.tf",
+      "bytes": 599762,
+      "sha256": "4b25d3fef227f30b85ba203f10145e0ae072be7547fed6282c64aeddfc78b4f8"
+    },
+    {
+      "name": "cl.tf",
+      "bytes": 2175309,
+      "sha256": "a4a64789c78941cc86bd2e860fa829a347dd5bba848e6d14fa2cd4921c5c9410"
+    },
+    {
+      "name": "cl2.tf",
+      "bytes": 14004,
+      "sha256": "c6156fc07aea3b101138704ab5b22241ed18b712e16713ee35adbe682e1ead92"
+    },
+    {
+      "name": "cor.tf",
+      "bytes": 24721,
+      "sha256": "fd1f6897a43b242b5ca75823cadb8adfd9a74bff92aaec0a4412dd3c7a11b2d7"
+    },
+    {
+      "name": "fragment.tf",
+      "bytes": 268441,
+      "sha256": "5d1a3177113f4623cb7960af4a589c3a7f375d611f24660d20ff6f74af570bae"
+    },
+    {
+      "name": "full.tf",
+      "bytes": 3586074,
+      "sha256": "951ed95573ff1f78c468e6fa1b1f1750631287564534155bd5f9f0c8ae6d5542"
+    },
+    {
+      "name": "fulle.tf",
+      "bytes": 2435222,
+      "sha256": "d7051b5699bf870146f2f55550522d709153c9670eb94e87f5b8f4c583389f1f"
+    },
+    {
+      "name": "fullo.tf",
+      "bytes": 2178599,
+      "sha256": "ac4cab1dfe869f117a1d1ee0a97d6b250850e961adb992baf4e1d30162b10d10"
+    },
+    {
+      "name": "g_cons.tf",
+      "bytes": 56950,
+      "sha256": "25883ff487be8be091fffb6090fac5573759cd0758a3a97d7a6ee13ab518cb27"
+    },
+    {
+      "name": "g_lex_etcbc.tf",
+      "bytes": 268619,
+      "sha256": "3809a418026b82f5226d5fff0d904e46bcd2998cafb44e44f1dd264e70a77d8e"
+    },
+    {
+      "name": "g_nme_etcbc.tf",
+      "bytes": 561156,
+      "sha256": "535fe15ff655529053303d5e201e524f6fd6ea523133bc01f88c68e9e98e5be6"
+    },
+    {
+      "name": "g_pfm_etcbc.tf",
+      "bytes": 28085,
+      "sha256": "ab045e74ff77194dc0eb4f2cf3016278985b39b26815a7c5d02c4eb1b0c16e44"
+    },
+    {
+      "name": "g_prs_etcbc.tf",
+      "bytes": 1494654,
+      "sha256": "27dca01afa44b150b504a457cc95a01adcdcc5e7674e8ec5a8b7074fe4ed8f10"
+    },
+    {
+      "name": "g_vbe_etcbc.tf",
+      "bytes": 24529,
+      "sha256": "52c92b663a0e8c74113d3da604b8df5d5f3cead8c554672e5a766cfb6b8f1391"
+    },
+    {
+      "name": "g_vbs_etcbc.tf",
+      "bytes": 8135,
+      "sha256": "79c268bc35c782a11ac4e4a4effcac80992fdce156fee2247414718c7e3cbaa7"
+    },
+    {
+      "name": "glex.tf",
+      "bytes": 4035131,
+      "sha256": "8c2e2d0b9b949e8ef5bb1825a8c4497627188fe89eeb6117980f9ffb3460b119"
+    },
+    {
+      "name": "glexe.tf",
+      "bytes": 2405984,
+      "sha256": "ebdaeb83449406d00331efe3943c802af34d0b043e5ec9516499a39ac57c3d1a"
+    },
+    {
+      "name": "glexo.tf",
+      "bytes": 2678473,
+      "sha256": "97ab45e1df979ae79bc9601a5d4dd7c29bb20d9e3613c67c6c465635b15a55a4"
+    },
+    {
+      "name": "glyph.tf",
+      "bytes": 7358405,
+      "sha256": "b6dc988801e7145791db68c3004c0c39f30544c97bf3a473a3e18ab96e8d2b92"
+    },
+    {
+      "name": "glyphe.tf",
+      "bytes": 5002693,
+      "sha256": "b0c0acbf9c368702527d3c7e2a2175990d9a61e186b4cda20a089cc06311aee3"
+    },
+    {
+      "name": "glypho.tf",
+      "bytes": 4888699,
+      "sha256": "ce0cb87a74ad538ddf30e22327c2e1acafa3bbb7adacadf878ec3846265694bc"
+    },
+    {
+      "name": "gn.tf",
+      "bytes": 1451933,
+      "sha256": "92943e26cd77dc1dd1ce87defe7ee53f1c3cd66df0479877f3986832861d8f6a"
+    },
+    {
+      "name": "gn2.tf",
+      "bytes": 427081,
+      "sha256": "ce03bde422fd8630d92a60fea66bcff078cf2d9cb743c66bf0edc857971b60e5"
+    },
+    {
+      "name": "gn3.tf",
+      "bytes": 696,
+      "sha256": "f5776790af7c5950068573e3613a729f9666d42bcb4c9cba71cf0ae19e91e222"
+    },
+    {
+      "name": "gn_etcbc.tf",
+      "bytes": 693422,
+      "sha256": "2dadef35729b1a05c0779c83bfb63eb90514ce46fb6753a4b4b47dceee98e4c8"
+    },
+    {
+      "name": "halfverse.tf",
+      "bytes": 2552,
+      "sha256": "e5689f4bb2982075b5f7181174f58cec7bde4286c5e59a8d4a24f5e9f8542cca"
+    },
+    {
+      "name": "intl.tf",
+      "bytes": 4993,
+      "sha256": "fc75c7d077fa2a48c878c6685b2fbfb5f97e8c5f58839c3a5b0e675f61f931b6"
+    },
+    {
+      "name": "lang.tf",
+      "bytes": 418353,
+      "sha256": "5695457678db1aa14a384b986f78b691c19156c8214c058333b5f560f89a8220"
+    },
+    {
+      "name": "lang_etcbc.tf",
+      "bytes": 13704218,
+      "sha256": "2fe1b35f3c25ac3be987c41761b01d274cd0640ec5f864ef76954eba74f7b277"
+    },
+    {
+      "name": "lex.tf",
+      "bytes": 4452296,
+      "sha256": "e7759a9fb82e1b8329359619e4cb103b35635d9d600080707b3624165bae1eda"
+    },
+    {
+      "name": "lex_etcbc.tf",
+      "bytes": 1829113,
+      "sha256": "7e3caf1ab3d193bfbf90b3a22e8daf84fa8695693f78a482a4c7d0d55f67e990"
+    },
+    {
+      "name": "lex_utf8_etcbc.tf",
+      "bytes": 3711990,
+      "sha256": "2ef15f65c959872315c4b6bc2860dcee834115c8749ebe1ccaff74c1d49bc700"
+    },
+    {
+      "name": "lexe.tf",
+      "bytes": 2823149,
+      "sha256": "02e0fb271debe403b09c00404e89097a707b3cd30bf3993b13106a88a1689694"
+    },
+    {
+      "name": "lexo.tf",
+      "bytes": 2964336,
+      "sha256": "3d8503ff5f2173392fe1167487ce56faf1d99208c0ace36ad945dba2430735f6"
+    },
+    {
+      "name": "line.tf",
+      "bytes": 119086,
+      "sha256": "41c82b80c5230491dc4081e266c7c2ebe01ce3ecfb12c696f3eda82ac1c39f0b"
+    },
+    {
+      "name": "md.tf",
+      "bytes": 26309,
+      "sha256": "e45450270ea73ef045c0ee794186e95db3f3738fd7894ff3cfc9499dda1f80cf"
+    },
+    {
+      "name": "merr.tf",
+      "bytes": 555,
+      "sha256": "9815ec962c8b75059f41e38efc5c075eef45babaa63eafc8ba3beca3c623b100"
+    },
+    {
+      "name": "morph_etcbc.tf",
+      "bytes": 233010,
+      "sha256": "1fbc3a29ebfde81e7abaa4300e1f6c840713fb6384309d41ec4901f7fe30d15e"
+    },
+    {
+      "name": "morpho.tf",
+      "bytes": 2369611,
+      "sha256": "04150c4c0ed936da55dae9571d8e3226a5cd02494cd320bc04d080dc0c2cac61"
+    },
+    {
+      "name": "note_etcbc.tf",
+      "bytes": 3191,
+      "sha256": "a42af01ef56bd41c737987454984be4e412edbf9cc824d24f75b01ab99267fd1"
+    },
+    {
+      "name": "nr.tf",
+      "bytes": 2042,
+      "sha256": "4dabcb634e463103b0791efb5a17bed47e477ec26173006ee641e4e5b9dccf51"
+    },
+    {
+      "name": "nu.tf",
+      "bytes": 1451288,
+      "sha256": "97ca00176915499392e1ac017a208f40d822211ae43a57200c88c97989ed5f1f"
+    },
+    {
+      "name": "nu2.tf",
+      "bytes": 426998,
+      "sha256": "e84276af13302ae7674dcfaa11eb651e1c55b03a12a9319541336472114d10b8"
+    },
+    {
+      "name": "nu3.tf",
+      "bytes": 690,
+      "sha256": "8c96c1c065a5523da3795ffc114df14f40370b3204efb5a16c0677f5d4a8c72c"
+    },
+    {
+      "name": "nu_etcbc.tf",
+      "bytes": 1508893,
+      "sha256": "c8906217c693ecfab110ce7542d3d21f058c10f4efc44a32d5180750a6c2280e"
+    },
+    {
+      "name": "occ.tf",
+      "bytes": 3761189,
+      "sha256": "9de75fdc51ca6b5766c09daabe0d7106b9d8db8ab510dbc24043bddf0633f7d1"
+    },
+    {
+      "name": "oslots.tf",
+      "bytes": 14394455,
+      "sha256": "582165e4f8450677d457816b78225a2d35ad1617e9e97fb98abd9d70ebfd3818"
+    },
+    {
+      "name": "otext.tf",
+      "bytes": 1139,
+      "sha256": "f1cd4e29530058b30c64a5a5b985efb5107efecd035b0f97e22bfe25404eb4f7"
+    },
+    {
+      "name": "otype.tf",
+      "bytes": 750,
+      "sha256": "4f313ee84bb61c9a3adb1fa15acddac781807b7fa59df9d02fb38014174e069a"
+    },
+    {
+      "name": "ps.tf",
+      "bytes": 481024,
+      "sha256": "73f51c0385fbc357f876b464814dc6dc1c092a3d594cb5beac7172eb035f918f"
+    },
+    {
+      "name": "ps2.tf",
+      "bytes": 426950,
+      "sha256": "69c7d7f105be5ba75612d646c80eb4dcd289bc472f8dcab276222a1e7edd7b0a"
+    },
+    {
+      "name": "ps3.tf",
+      "bytes": 696,
+      "sha256": "db72adaa3ae7d0aca21710b9aebd1c712234df02e17a88528c4e40bf386538bc"
+    },
+    {
+      "name": "ps_etcbc.tf",
+      "bytes": 1505988,
+      "sha256": "98315a7fa1714d4d2fddd368250c57982232af7ddcb60463f69007851ae2564f"
+    },
+    {
+      "name": "punc.tf",
+      "bytes": 329665,
+      "sha256": "63233337408716657c936b611b090ec8fa3d8ba16247c751604d609906cd9d7a"
+    },
+    {
+      "name": "punce.tf",
+      "bytes": 329679,
+      "sha256": "e912dc5d29d41e542cccd6ae9fb3ec810b5fc81bb502ff60bb45d9fd682fef72"
+    },
+    {
+      "name": "punco.tf",
+      "bytes": 299728,
+      "sha256": "67238e84e93180cd2990bd103f2da22261598fd1aa66fc5f1ff8b95de85a1793"
+    },
+    {
+      "name": "rec.tf",
+      "bytes": 1886681,
+      "sha256": "6ff8311ff809584081f9dd66c5570e353a552b16583bcb30a6c245b5e6fcf335"
+    },
+    {
+      "name": "rem.tf",
+      "bytes": 10396,
+      "sha256": "921e78e2dca9607254675b432faca8e44742e7aec571267c8ce9c4cb2326cdf9"
+    },
+    {
+      "name": "script.tf",
+      "bytes": 61876,
+      "sha256": "4eeca3597b5e8e01076bba867d7028c9879cf12f5189fcf848f6b2523b1b8ea2"
+    },
+    {
+      "name": "scroll.tf",
+      "bytes": 378532,
+      "sha256": "e39d8d38b3f616a4054af682c6191ce1b9acd977f3369fb8f567b6182dbeaf2a"
+    },
+    {
+      "name": "sim.tf",
+      "bytes": 561541,
+      "sha256": "0122bc778c51f5afa294f6bc84c8214c697f2b191d1d17b6c277ba8d3ce806de"
+    },
+    {
+      "name": "sp.tf",
+      "bytes": 2836506,
+      "sha256": "4d60bd36ead607c4a633bf4eafc37214855749c12a4653270249c3535b4cda27"
+    },
+    {
+      "name": "sp_etcbc.tf",
+      "bytes": 1285662,
+      "sha256": "b7406d5021f3fa053c497b5455489579987e7d40afe59c2a7598d77369885c9d"
+    },
+    {
+      "name": "srcLn.tf",
+      "bytes": 3314603,
+      "sha256": "e5b2a650f13f059b7e475173d403b38a6ab30759d3237447f43b82bf21376d35"
+    },
+    {
+      "name": "st.tf",
+      "bytes": 871409,
+      "sha256": "8602cc98754376f38d39e2d44b0a063fbc965fd8c8564f4f5d39562e0982961d"
+    },
+    {
+      "name": "type.tf",
+      "bytes": 10781272,
+      "sha256": "0df955242141dc68f2cf161e7abacf2758adad072196019d38990e23712e7a49"
+    },
+    {
+      "name": "unc.tf",
+      "bytes": 652154,
+      "sha256": "cc7a591edc46c0b38c3aa279fb23051cf2701bccee46cd1f451f0e0cccbb952e"
+    },
+    {
+      "name": "uvf_etcbc.tf",
+      "bytes": 465869,
+      "sha256": "1beaf84fa362551e7b04289104889fcd95ab95b17a82ecbb11116796ac0cf43c"
+    },
+    {
+      "name": "vac.tf",
+      "bytes": 32498,
+      "sha256": "f193cf146850d34030e6c12e19f7b6f8cf3f96eb586214532f554ed7c92555f9"
+    },
+    {
+      "name": "verse.tf",
+      "bytes": 563822,
+      "sha256": "d8ad61f1cb0690792b31115c24105d240a4fc5fb0cbea719c1d7a8adc4eab251"
+    },
+    {
+      "name": "vs.tf",
+      "bytes": 819020,
+      "sha256": "0eac6e1db03c3ead475b2c0caad3dc39a0a6a9fbcf98adeff64fd80433ca07bc"
+    },
+    {
+      "name": "vs_etcbc.tf",
+      "bytes": 1586041,
+      "sha256": "020a79f87e09066ae0facdc9ae6dc5a18e84b09e3413b3f1834dcf2fe78a6daa"
+    },
+    {
+      "name": "vt.tf",
+      "bytes": 838258,
+      "sha256": "f264591e1d8c8f40527d70b290c54256126fadb5e4497478fff763a38b023e7b"
+    },
+    {
+      "name": "vt_etcbc.tf",
+      "bytes": 1637168,
+      "sha256": "1d564b6df576730dba78a58595b8ace9bfa7a48a0999038d4d48e78c0d23a7f5"
+    }
+  ],
+  "populated_word_features": [
+    "after",
+    "biblical",
+    "book",
+    "chapter",
+    "cl",
+    "cl2",
+    "full",
+    "fulle",
+    "fullo",
+    "glex",
+    "glexe",
+    "glexo",
+    "glyph",
+    "glyphe",
+    "glypho",
+    "gn",
+    "gn2",
+    "gn3",
+    "halfverse",
+    "intl",
+    "lang",
+    "lex",
+    "lexe",
+    "lexo",
+    "md",
+    "merr",
+    "morpho",
+    "nu",
+    "nu2",
+    "nu3",
+    "otype",
+    "ps",
+    "ps2",
+    "ps3",
+    "punc",
+    "punce",
+    "punco",
+    "script",
+    "sp",
+    "srcLn",
+    "st",
+    "type",
+    "verse",
+    "vs",
+    "vt",
+    "book_etcbc",
+    "lang_etcbc",
+    "gn_etcbc",
+    "nu_etcbc",
+    "ps_etcbc",
+    "vs_etcbc",
+    "vt_etcbc",
+    "g_cons",
+    "g_lex_etcbc",
+    "g_nme_etcbc",
+    "g_pfm_etcbc",
+    "g_prs_etcbc",
+    "g_vbe_etcbc",
+    "g_vbs_etcbc",
+    "lex_etcbc",
+    "lex_utf8_etcbc",
+    "morph_etcbc",
+    "note_etcbc",
+    "sp_etcbc",
+    "uvf_etcbc"
+  ],
+  "word_feature_columns": [
+    "word_node",
+    "lexeme_nodes",
+    "clause_nodes",
+    "phrase_nodes",
+    "source.after",
+    "source.biblical",
+    "source.book",
+    "source.chapter",
+    "source.cl",
+    "source.cl2",
+    "source.full",
+    "source.fulle",
+    "source.fullo",
+    "source.glex",
+    "source.glexe",
+    "source.glexo",
+    "source.glyph",
+    "source.glyphe",
+    "source.glypho",
+    "source.gn",
+    "source.gn2",
+    "source.gn3",
+    "source.halfverse",
+    "source.intl",
+    "source.lang",
+    "source.lex",
+    "source.lexe",
+    "source.lexo",
+    "source.md",
+    "source.merr",
+    "source.morpho",
+    "source.nu",
+    "source.nu2",
+    "source.nu3",
+    "source.otype",
+    "source.ps",
+    "source.ps2",
+    "source.ps3",
+    "source.punc",
+    "source.punce",
+    "source.punco",
+    "source.script",
+    "source.sp",
+    "source.srcLn",
+    "source.st",
+    "source.type",
+    "source.verse",
+    "source.vs",
+    "source.vt",
+    "derived_bhsa.book_etcbc",
+    "derived_bhsa.lang_etcbc",
+    "derived_model.gn_etcbc",
+    "derived_model.nu_etcbc",
+    "derived_model.ps_etcbc",
+    "derived_model.vs_etcbc",
+    "derived_model.vt_etcbc",
+    "derived_parsing.g_cons",
+    "derived_parsing.g_lex_etcbc",
+    "derived_parsing.g_nme_etcbc",
+    "derived_parsing.g_pfm_etcbc",
+    "derived_parsing.g_prs_etcbc",
+    "derived_parsing.g_vbe_etcbc",
+    "derived_parsing.g_vbs_etcbc",
+    "derived_parsing.lex_etcbc",
+    "derived_parsing.lex_utf8_etcbc",
+    "derived_parsing.morph_etcbc",
+    "derived_parsing.note_etcbc",
+    "derived_parsing.sp_etcbc",
+    "derived_parsing.uvf_etcbc"
+  ],
+  "word_feature_counts": {
+    "after": 389180,
+    "alt": 0,
+    "biblical": 218189,
+    "book": 218189,
+    "book_etcbc": 500995,
+    "chapter": 218189,
+    "cl": 312839,
+    "cl2": 1334,
+    "cor": 0,
+    "fragment": 0,
+    "full": 500995,
+    "fulle": 500995,
+    "fullo": 500995,
+    "g_cons": 12808,
+    "g_lex_etcbc": 35566,
+    "g_nme_etcbc": 468345,
+    "g_pfm_etcbc": 2776,
+    "g_prs_etcbc": 376106,
+    "g_vbe_etcbc": 2385,
+    "g_vbs_etcbc": 760,
+    "glex": 405736,
+    "glexe": 405736,
+    "glexo": 405736,
+    "glyph": 408125,
+    "glyphe": 408125,
+    "glypho": 408125,
+    "gn": 194777,
+    "gn2": 44408,
+    "gn3": 14,
+    "gn_etcbc": 197922,
+    "halfverse": 932,
+    "intl": 443,
+    "lang": 49411,
+    "lang_etcbc": 500995,
+    "lex": 470845,
+    "lex_etcbc": 498456,
+    "lex_utf8_etcbc": 382905,
+    "lexe": 470845,
+    "lexo": 470845,
+    "line": 0,
+    "md": 1984,
+    "merr": 1,
+    "morph_etcbc": 35584,
+    "morpho": 470845,
+    "note_etcbc": 42,
+    "nr": 0,
+    "nu": 194670,
+    "nu2": 44406,
+    "nu3": 14,
+    "nu_etcbc": 500995,
+    "otype": 500995,
+    "ps": 49100,
+    "ps2": 44409,
+    "ps3": 14,
+    "ps_etcbc": 500995,
+    "punc": 29927,
+    "punce": 29927,
+    "punco": 29927,
+    "rec": 0,
+    "rem": 0,
+    "script": 796,
+    "scroll": 0,
+    "sp": 470845,
+    "sp_etcbc": 500995,
+    "srcLn": 500995,
+    "st": 107481,
+    "type": 500995,
+    "unc": 0,
+    "uvf_etcbc": 463070,
+    "vac": 0,
+    "verse": 218189,
+    "vs": 66332,
+    "vs_etcbc": 500995,
+    "vt": 66317,
+    "vt_etcbc": 500995
+  },
+  "critical_columns": [
+    "word_node",
+    "surface_unicode",
+    "letter_reconstruction",
+    "letter_slots",
+    "reconstructed_letter_slots",
+    "uncertain_letter_slots",
+    "missing_sign_slots",
+    "sign_runs"
+  ],
+  "critical_flags": [
+    "alt",
+    "cor",
+    "rec",
+    "rem",
+    "unc",
+    "vac"
+  ],
+  "records": 66557,
+  "mapped_witness_verses": 11910,
+  "word_nodes": 500995,
+  "word_sign_slots": 1409980,
+  "standalone_sign_slots": 20261,
+  "all_sign_slots": 1430241,
+  "critical_totals_word_signs": {
+    "word_nodes": 500995,
+    "sign_slots": 1409980,
+    "letter_slots": 1156796,
+    "reconstructed_letter_slots": 507334,
+    "uncertain_letter_slots": 92081,
+    "unmarked_letter_slots": 552468,
+    "reconstructed_sign_slots": 659884,
+    "uncertain_sign_slots": 118873,
+    "missing_sign_slots": 53864,
+    "empty_sign_slots": 94229,
+    "vacat_sign_slots": 24,
+    "corrected_sign_slots": 5662,
+    "removed_sign_slots": 2256,
+    "alternative_sign_slots": 563,
+    "uncertainty_levels": {
+      "1": 10324,
+      "2": 27146,
+      "4": 40167,
+      "3": 14629
+    },
+    "correction_levels": {
+      "1": 284,
+      "3": 3993,
+      "2": 1385
+    },
+    "removal_levels": {
+      "1": 343,
+      "2": 1913
+    }
+  },
+  "auxiliary_node_counts": {
+    "lex": 10450,
+    "clause": 125,
+    "phrase": 315
+  },
+  "source_morphology_parse_errors": [
+    {
+      "word_node": 1747115,
+      "record_id": "L1567805-R001",
+      "morpho": "0vnPfpa",
+      "merr": "vnPfpa",
+      "scroll": "4Q365a",
+      "scroll_node": "1606218"
+    }
+  ],
+  "linguistic_streams": {
+    "linguistics/other_material/DSS-Nonbiblical-01-Linguistics.txt": {
+      "words": 34720,
+      "sha256": "cd2ddd291fb5447b4a6633410e7e6491628ec530210e2e6a7a8643a9f87cae5d"
+    },
+    "linguistics/other_material/DSS-Nonbiblical-02-Linguistics.txt": {
+      "words": 13330,
+      "sha256": "8de3eb63c72fa1348600bd65ba35a1e74ce7bc358b6ca8c62a875f829dbf61e0"
+    },
+    "linguistics/books/DSS-Numbers-Linguistics.txt": {
+      "words": 10651,
+      "sha256": "7d02abd60d4c11acf803ce4d2773c3d19a59d20895e20ab81c58de101b1ccbda"
+    },
+    "linguistics/other_material/DSS-Nonbiblical-03-Linguistics.txt": {
+      "words": 14451,
+      "sha256": "9a46110aca249c83452ab46dabb4eb5f3d0fa3ee8c787c00d318fb64ec6c1a68"
+    },
+    "linguistics/other_material/DSS-Nonbiblical-04-Linguistics.txt": {
+      "words": 13983,
+      "sha256": "f714b708b9c47dede761760ca8cd523d562f89069cc323a0da6ad02de2175b1f"
+    },
+    "linguistics/other_material/DSS-Nonbiblical-05-Linguistics.txt": {
+      "words": 15134,
+      "sha256": "b80a17bb589d98b93292982ac5fe289bb562247b518bb3731db4d8dc8a5a1eba"
+    },
+    "linguistics/books/DSS-Leviticus-Linguistics.txt": {
+      "words": 11820,
+      "sha256": "14579d5701e5bc312266ec8ce7cfacac239df13fbff448f4da72dd7dae74bcfc"
+    },
+    "linguistics/other_material/DSS-Nonbiblical-06-Linguistics.txt": {
+      "words": 20234,
+      "sha256": "215e6535f397290202a8328c91c25e7debb18d7ffa4ab5b4edc1799d95ea0c4d"
+    },
+    "linguistics/other_material/DSS-Nonbiblical-07-Linguistics.txt": {
+      "words": 13497,
+      "sha256": "3d96f3117fc8fe19ea0c55ba6c1e54cf80c42fe16e3dd6b7ec7d9b904d33891e"
+    },
+    "linguistics/other_material/DSS-Nonbiblical-08-Linguistics.txt": {
+      "words": 15314,
+      "sha256": "046b9e489fac236cd9fc29a154e2536bf882119ae5ef57018af358fe85b86f3c"
+    },
+    "linguistics/other_material/DSS-Nonbiblical-09-Linguistics.txt": {
+      "words": 14062,
+      "sha256": "f46b57e02effce1e2ed41b1fcda40413fb6837b91b23d868d66d3fa789b80084"
+    },
+    "linguistics/other_material/DSS-Nonbiblical-10-Linguistics.txt": {
+      "words": 15191,
+      "sha256": "c9bfeb0d74f4d4a3e430dba3ce9df2c998933cb02e3a5c7a57e28b1fb62bdf23"
+    },
+    "linguistics/other_material/DSS-Nonbiblical-11-Linguistics.txt": {
+      "words": 14723,
+      "sha256": "392456eef5b2dc49c17524589d48052d8791196d34dd5e24a85ad52555443f3a"
+    },
+    "linguistics/other_material/DSS-Nonbiblical-12-Linguistics.txt": {
+      "words": 14480,
+      "sha256": "e994bc2867e5eae68e54941c3480f2f486af8bd10904a35e8e891610bcb97e41"
+    },
+    "linguistics/books/DSS-Genesis-Linguistics.txt": {
+      "words": 7902,
+      "sha256": "a36321859d6cd9c1b91163871e495b42973717ccea71bd692429baaa498b3076"
+    },
+    "linguistics/other_material/DSS-Nonbiblical-13-Linguistics.txt": {
+      "words": 12121,
+      "sha256": "7020959427f976eda5abe96d07b50f65f0d3a1b587884feabb59a6ce7c5e7918"
+    },
+    "linguistics/other_material/DSS-Nonbiblical-14-Linguistics.txt": {
+      "words": 10726,
+      "sha256": "28ff4a48a04a10c4254f8b77be15d7f3ee772b0fa28a48697ce4db8a9b57dd49"
+    },
+    "linguistics/other_material/DSS-Nonbiblical-15-Linguistics.txt": {
+      "words": 11751,
+      "sha256": "5e26bda939aeb0558c623f32bb3f5e9aef5b5af6a9a5d3af1fccda0113c62065"
+    },
+    "linguistics/other_material/DSS-Nonbiblical-16-Linguistics.txt": {
+      "words": 10534,
+      "sha256": "a1d07b5ebf63730be18939364cf38ea5cf160f3fd0e7d086fc7b38ebc91d7a2d"
+    },
+    "linguistics/other_material/DSS-Nonbiblical-17-Linguistics.txt": {
+      "words": 10870,
+      "sha256": "4b66d33e352011f03f6b3a80842904e42604763e138dc7b8bcef18ed797fb551"
+    },
+    "linguistics/other_material/DSS-Nonbiblical-18-Linguistics.txt": {
+      "words": 22067,
+      "sha256": "3993a752ce1518e08c2cfb1a74aeace55c4a1d34ceeaa7e422635e30f603f47f"
+    },
+    "linguistics/other_material/DSS-Nonbiblical-19-Linguistics.txt": {
+      "words": 5618,
+      "sha256": "7d62f772e6f7b9fb2eafc7f7db07c4bd88d5098103e456195650e8f8440f1ec1"
+    },
+    "linguistics/other_material/DSS-Unmapped-Biblical-01-Linguistics.txt": {
+      "words": 5775,
+      "sha256": "b568fdc4a97d602899ce03f7f5298854a1af4d2aa006a89600f0a4ea42ef1ded"
+    },
+    "linguistics/books/DSS-Exodus-Linguistics.txt": {
+      "words": 27822,
+      "sha256": "d01a4b793f3b40cc4b02682f75dfe3b4d709bd664a01ed5e6df0476e966df886"
+    },
+    "linguistics/books/DSS-Deuteronomy-Linguistics.txt": {
+      "words": 30043,
+      "sha256": "4fb151dcf9926e0f20ad9ee9e6be2d495a15deae406607f4158ff007497338b4"
+    },
+    "linguistics/books/DSS-Judges-Linguistics.txt": {
+      "words": 1194,
+      "sha256": "cb30cb51c9fcd0dbb09400c0eef3678016d96822b754a3787bb542466f4e9c2f"
+    },
+    "linguistics/books/DSS-1-Samuel-Linguistics.txt": {
+      "words": 7435,
+      "sha256": "1b840f730220299db77877943d636b04e55514b745a64050a4ae568877e280ff"
+    },
+    "linguistics/books/DSS-2-Samuel-Linguistics.txt": {
+      "words": 9153,
+      "sha256": "64c1a1549c8c0e5b2ed7b8bbc336f7a78a5f6da9f30edfc2467730fe37aebca2"
+    },
+    "linguistics/books/DSS-Isaiah-Linguistics.txt": {
+      "words": 47932,
+      "sha256": "7a26e10af90aa3a786d1b044d65ebe72f7e1db23550ddfd90b434dd3289ea0f8"
+    },
+    "linguistics/books/DSS-Ezekiel-Linguistics.txt": {
+      "words": 3001,
+      "sha256": "6371687b8df6d1557e354f49e3e91b3b837443ca9774295c8f9cc2961e710438"
+    },
+    "linguistics/books/DSS-Psalms-Linguistics.txt": {
+      "words": 16941,
+      "sha256": "7872a3e103e2b85710b47d9ab1cadedd7993e796414a269768a09e7cfc52bfdc"
+    },
+    "linguistics/books/DSS-Daniel-Linguistics.txt": {
+      "words": 5236,
+      "sha256": "fc5bf5fdc0a8dcf9f027a6542fa26b304f7027c8621ce91c0120f318c6016be2"
+    },
+    "linguistics/books/DSS-Jeremiah-Linguistics.txt": {
+      "words": 6577,
+      "sha256": "f05739bb6ed2a635987798b6c4e8537beb8bd7dcbcfa7bf1abea0e020f3df264"
+    },
+    "linguistics/books/DSS-Job-Linguistics.txt": {
+      "words": 786,
+      "sha256": "de4795e9e2ddb9880588cb83064398ba68888caf384e484bc473e437f85a22c5"
+    },
+    "linguistics/books/DSS-Ruth-Linguistics.txt": {
+      "words": 958,
+      "sha256": "3d9d879c9cca164e98a8f136b39fe7abf5500a41f32165fd3f3f3c5e723f26b6"
+    },
+    "linguistics/books/DSS-Lamentations-Linguistics.txt": {
+      "words": 939,
+      "sha256": "30ccf11a51a48ea2b018abe73926a060d136fb5d543c9afd9c5104558bf94e35"
+    },
+    "linguistics/books/DSS-Joshua-Linguistics.txt": {
+      "words": 1552,
+      "sha256": "72ab8bc456a9939575a2326238f72e835870a918ddc135a7b347ec10609decfa"
+    },
+    "linguistics/books/DSS-1-Kings-Linguistics.txt": {
+      "words": 1268,
+      "sha256": "668c1a245160da2359ef69d58b16f54d4ec868aa05ade446bb00f2032ed10334"
+    },
+    "linguistics/books/DSS-Zechariah-Linguistics.txt": {
+      "words": 1086,
+      "sha256": "04ab22559601a89a076983e1df3186c0b9e75a04b3494de8d1b1993d3e3c5376"
+    },
+    "linguistics/books/DSS-Malachi-Linguistics.txt": {
+      "words": 735,
+      "sha256": "34a61d0748f7867ec9dcc7bdb984e38db39d2fca4d7aeb7365197b462af61e71"
+    },
+    "linguistics/books/DSS-Jonah-Linguistics.txt": {
+      "words": 2129,
+      "sha256": "009f344aa17b14a14a875e0b0f9f9d3ba4a0b8527895ec171591137b0a4f8cb0"
+    },
+    "linguistics/books/DSS-Zephaniah-Linguistics.txt": {
+      "words": 1116,
+      "sha256": "f1a1e36c7873677e91dc7935517c8bfbc3a1de8001940c72283c6a6961e34553"
+    },
+    "linguistics/books/DSS-Haggai-Linguistics.txt": {
+      "words": 1013,
+      "sha256": "fd98e36128f5e5df2c843c9dc3fc0e253a397559b32ae81653f57639b98d318d"
+    },
+    "linguistics/books/DSS-Hosea-Linguistics.txt": {
+      "words": 2456,
+      "sha256": "fd47e6e7470fa31ebb01210f2a54abb979c05e26c633e3f95ba08904bde16e41"
+    },
+    "linguistics/books/DSS-Joel-Linguistics.txt": {
+      "words": 1840,
+      "sha256": "f11767e102537d427e68dd8228a886fb303881f6c92244f879b7128d6aade88e"
+    },
+    "linguistics/books/DSS-Amos-Linguistics.txt": {
+      "words": 3332,
+      "sha256": "0234a2d24ff60486facf708387373aa653c44c460167d7b24c18e2aa5175f4aa"
+    },
+    "linguistics/books/DSS-Micah-Linguistics.txt": {
+      "words": 2233,
+      "sha256": "1e9b59d3cce61c2fa4e812b8e20913b6a2052415a24b7a84b16d60bf9d5eb2b2"
+    },
+    "linguistics/books/DSS-Obadiah-Linguistics.txt": {
+      "words": 680,
+      "sha256": "0fc7d58bde80ce067f00a50e5cfad41754b63066a0556bf39956cd818582bb10"
+    },
+    "linguistics/books/DSS-Nahum-Linguistics.txt": {
+      "words": 921,
+      "sha256": "bd314ece85b43d3f7f3ccd5a5dbab0ee4ab7dc7f723752f769881611dc06f5af"
+    },
+    "linguistics/books/DSS-Habakkuk-Linguistics.txt": {
+      "words": 785,
+      "sha256": "8d4f9f2a5ebe79afb28d6c22f0058049a33dc7949fe47f951640f96f8f046149"
+    },
+    "linguistics/books/DSS-Proverbs-Linguistics.txt": {
+      "words": 488,
+      "sha256": "54d52de9ef1bf6dc2a41d3cfe81468cf24e1776b663eab73576b48c45f8dc7e3"
+    },
+    "linguistics/books/DSS-Song-of-Songs-Linguistics.txt": {
+      "words": 886,
+      "sha256": "f08495d3c144a5417e91969818596717811bdc5cc0973641561b67dd7d021e8a"
+    },
+    "linguistics/books/DSS-Ecclesiastes-Linguistics.txt": {
+      "words": 564,
+      "sha256": "221bd5cc50a66c2d2cce2cc33d364c246879212d97872517f6c9b97b1c526446"
+    },
+    "linguistics/books/DSS-Ezra-Linguistics.txt": {
+      "words": 349,
+      "sha256": "ee32ee4e88121f5f730931c93d6026d1832350ccd14705bcb15561f6cbd7a197"
+    },
+    "linguistics/books/DSS-2-Chronicles-Linguistics.txt": {
+      "words": 78,
+      "sha256": "b5fd7fa44a1a67e65ae63dae1fb992552bf620f11c7130530917348c0a4cefa2"
+    },
+    "linguistics/books/DSS-2-Kings-Linguistics.txt": {
+      "words": 473,
+      "sha256": "092ed2503ce6d5400f059bc4af5376b5a7690f3eb693eca9d0370c7ba3e0f406"
+    },
+    "linguistics/other_material/DSS-Unmapped-Biblical-02-Linguistics.txt": {
+      "words": 40,
+      "sha256": "d2b5a1f753aafd35ee1c5c5ef841ce9ae1af10dad932324eb53ad816a58cb819"
+    }
+  },
+  "validation": {
+    "all_base_source_feature_hashes_verified": true,
+    "all_base_records_read_and_verified": true,
+    "all_word_nodes_enriched_exactly_once": true,
+    "all_sign_slots_accounted_for": true,
+    "all_word_sign_critical_flags_and_glyphs_verified": true,
+    "all_saved_record_critical_counts_verified_against_tf": true,
+    "all_populated_word_feature_streams_verified": true,
+    "sampled_word_feature_rows_checked_cell_by_cell": 5016,
+    "bracket_boundary_regression_checked": true,
+    "compact_critical_status_preserved": true
+  },
+  "compact_packaging": {
+    "reading_sign_glyph_encoding": "Unicode",
+    "all_word_feature_encodings_retained": true,
+    "critical_words_checked": 500995,
+    "critical_word_signs_checked": 1409980,
+    "critical_flags_unicode_glyphs_slots_languages_scripts_preserved": true,
+    "compressed_jsonl": [
+      {
+        "file": "record_status.jsonl.gz",
+        "original_bytes": 36868705,
+        "compressed_bytes": 1050380,
+        "uncompressed_sha256": "8fd9bc94cc8c389b5b67ba65a6940f8e798939db4d28bdc71b15ec82f94d5764"
+      },
+      {
+        "file": "other_linguistic_nodes.jsonl.gz",
+        "original_bytes": 11742739,
+        "compressed_bytes": 4141881,
+        "uncompressed_sha256": "7e2e1a3bec8f0350c141c665b2fb42742d4daade7b14caa79d89037a0fe139f5"
+      },
+      {
+        "file": "standalone_signs.jsonl.gz",
+        "original_bytes": 5614104,
+        "compressed_bytes": 336323,
+        "uncompressed_sha256": "9a116b04cfaadc29faea0092dc862c80e98abb9fb83fe23f25b1d0badd542efd"
+      }
+    ],
+    "before_bytes": 525132734,
+    "after_bytes": 437521314
+  }
+}

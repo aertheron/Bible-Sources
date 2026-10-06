@@ -1,0 +1,15 @@
+{
+  "unicode_normalization": "None",
+  "original_source_bytes": "Retained for every included original file",
+  "leningrad_jsonl": "Split by book; UXLC duplicate original_line omitted because exact TXT is retained; WLC duplicate source_events omitted because exact XML and source_words/structured_notes are retained.",
+  "brenton_jsonl": "Split by book without changing field values",
+  "dss_lookup_indexes": "Additional per-book TSVs with identical header/row bytes; existing reading and linguistic offsets remain relative to the enriched directory.",
+  "lexical_records": "606 selected upstream-derived records; no full standalone STEP lexicon mirror; no TBESH definition/gloss prose.",
+  "private_or_pending": [
+    "Rahlfs/CCAT source excluded",
+    "Plugin code and skill instructions excluded",
+    "Project study drafts and unpublished editorial corrections excluded",
+    "Swete ingestion/verification remains pending",
+    "Reviewed cross-edition maps and live retrieval API remain pending"
+  ]
+}

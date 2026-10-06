@@ -1,0 +1,224 @@
+DSS TF 2.0.1 — ENRICHED SOURCE EXPORT
+Attribution: Martin G. Abegg, Jr., James E. Bowley, and Edward M. Cook
+Conversion: Jarod Jacobs, Martijn Naaijer and Dirk Roorda
+Source licence: Creative Commons Attribution-NonCommercial 4.0 International License; http://creativecommons.org/licenses/by-nc/4.0/
+Repository: https://github.com/ETCBC/dss
+Status describes TF annotations; unmarked letters have not been independently verified as secure ink.
+Totals describe supplied sign slots, not how much of an entire biblical verse survives.
+Lexeme vowels and grammar are analyses; reconstructed letters are editorial readings.
+Read README.txt and DSS_SOURCE_USAGE.txt before interpretation.
+
+RICH LINGUISTIC TABLE: tab-delimited JSON values; null=absent; empty string and NA remain distinct.
+source.* = Abegg source/TF conversion; derived_* = added BHSA analyses with distinct provenance.
+Field meanings and exact source metadata are in feature_guide.txt and feature_catalog.json.
+COLUMNS
+word_node	lexeme_nodes	clause_nodes	phrase_nodes	source.after	source.biblical	source.book	source.chapter	source.cl	source.cl2	source.full	source.fulle	source.fullo	source.glex	source.glexe	source.glexo	source.glyph	source.glyphe	source.glypho	source.gn	source.gn2	source.gn3	source.halfverse	source.intl	source.lang	source.lex	source.lexe	source.lexo	source.md	source.merr	source.morpho	source.nu	source.nu2	source.nu3	source.otype	source.ps	source.ps2	source.ps3	source.punc	source.punce	source.punco	source.script	source.sp	source.srcLn	source.st	source.type	source.verse	source.vs	source.vt	derived_bhsa.book_etcbc	derived_bhsa.lang_etcbc	derived_model.gn_etcbc	derived_model.nu_etcbc	derived_model.ps_etcbc	derived_model.vs_etcbc	derived_model.vt_etcbc	derived_parsing.g_cons	derived_parsing.g_lex_etcbc	derived_parsing.g_nme_etcbc	derived_parsing.g_pfm_etcbc	derived_parsing.g_prs_etcbc	derived_parsing.g_vbe_etcbc	derived_parsing.g_vbs_etcbc	derived_parsing.lex_etcbc	derived_parsing.lex_utf8_etcbc	derived_parsing.morph_etcbc	derived_parsing.note_etcbc	derived_parsing.sp_etcbc	derived_parsing.uvf_etcbc
+
+## Manuscript: 5/6hev1a | source scroll node 1606851
+
+### No identified biblical passage | 5/6hev1a | fragment f4 | line 1
+Record: L1605207-R001
+Physical: scroll=5/6hev1a; scroll_node=1606851; fragment=f4; line=1; line_node=1605207
+Source locator: {"book":"5/6Hev1a","chapter":"f4","verse":"1","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Schema: COLUMNS in this file's header; values retain source/derived prefixes.
+2100312	[1543187]	[]	[]	" "	1	"5/6Hev1a"	"f4"	null	null	"ε"	" 0 "	"--"	null	null	null	null	null	null	null	null	null	null	null	null	" # "	" # "	"\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	234586	null	"glyph"	"1"	null	null	"5/6Hev1a"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	"<DH/"	null	null	null	""	""
+2100313	[1542545]	[]	[]	" "	1	"5/6Hev1a"	"f4"	"cmn"	null	" ]פני׳ה#[ "	" ]PNJ'H#[ "	"[pny/h«]"	"פָּנֶה"	"P.@NEH"	"pÚDn‰h"	"פני׳ה"	"PNJ'H"	"pny/h"	"b"	"f"	null	null	null	null	"פָּנֶה"	"P.@NEH"	"pÚDn‰h"	null	null	"ncbpcX3fs"	"p"	"s"	null	"word"	null	"3"	null	null	null	null	null	"suff"	234587	"c"	"glyph"	"1"	null	null	"5/6Hev1a"	"Hebrew"	null	"pl"	"NA"	"NA"	"NA"	null	null	""	null	"H"	null	null	"PNH/"	"פָּנֶה"	null	null	""	""
+2100314	[1543187]	[]	[]	" "	1	"5/6Hev1a"	"f4"	null	null	"ε"	" 0 "	"--"	null	null	null	null	null	null	null	null	null	null	null	null	" # "	" # "	"\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	234588	null	"glyph"	"1"	null	null	"5/6Hev1a"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	"PNH/"	null	null	null	""	""
+2100315	[]	[]	[]	" "	1	"5/6Hev1a"	"f4"	null	null	"׃"	"00"	"."	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	"word"	null	null	null	"׃"	"00"	"."	null	null	234590	null	"punct"	"1"	null	null	"5/6Hev1a"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	""	null	null	null	""	""
+
+## Manuscript: 5/6hev1b | source scroll node 1606852
+
+### No identified biblical passage | 5/6hev1b | fragment f1i | line 16
+Record: L1605215-R001
+Physical: scroll=5/6hev1b; scroll_node=1606852; fragment=f1i; line=16; line_node=1605215
+Source locator: {"book":null,"chapter":null,"verse":null,"halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Schema: COLUMNS in this file's header; values retain source/derived prefixes.
+
+### No identified biblical passage | 5/6hev1b | fragment f1ii | line 22
+Record: L1605234-R001
+Physical: scroll=5/6hev1b; scroll_node=1606852; fragment=f1ii; line=22; line_node=1605234
+Source locator: {"book":null,"chapter":null,"verse":null,"halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Schema: COLUMNS in this file's header; values retain source/derived prefixes.
+
+### No identified biblical passage | 5/6hev1b | fragment f1iii+2 | line 16
+Record: L1605247-R001
+Physical: scroll=5/6hev1b; scroll_node=1606852; fragment=f1iii+2; line=16; line_node=1605247
+Source locator: {"book":null,"chapter":null,"verse":null,"halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Schema: COLUMNS in this file's header; values retain source/derived prefixes.
+
+### No identified biblical passage | 5/6hev1b | fragment f1iv+3 | line 10
+Record: L1605261-R001
+Physical: scroll=5/6hev1b; scroll_node=1606852; fragment=f1iv+3; line=10; line_node=1605261
+Source locator: {"book":null,"chapter":null,"verse":null,"halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Schema: COLUMNS in this file's header; values retain source/derived prefixes.
+
+### No identified biblical passage | 5/6hev1b | fragment f4 | line 7
+Record: L1605276-R001
+Physical: scroll=5/6hev1b; scroll_node=1606852; fragment=f4; line=7; line_node=1605276
+Source locator: {"book":null,"chapter":null,"verse":null,"halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Schema: COLUMNS in this file's header; values retain source/derived prefixes.
+
+### No identified biblical passage | 5/6hev1b | fragment f10_12 | line 8
+Record: L1605333-R001
+Physical: scroll=5/6hev1b; scroll_node=1606852; fragment=f10_12; line=8; line_node=1605333
+Source locator: {"book":null,"chapter":null,"verse":null,"halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Schema: COLUMNS in this file's header; values retain source/derived prefixes.
+
+### No identified biblical passage | 5/6hev1b | fragment f14 | line 1
+Record: L1605368-R001
+Physical: scroll=5/6hev1b; scroll_node=1606852; fragment=f14; line=1; line_node=1605368
+Source locator: {"book":"5/6Hev1b","chapter":"f14","verse":"1","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Schema: COLUMNS in this file's header; values retain source/derived prefixes.
+2101892	[1543187]	[]	[]	" "	1	"5/6Hev1b"	"f14"	null	null	"ε"	" 0 "	"--"	null	null	null	null	null	null	null	null	null	null	null	null	" # "	" # "	"\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	236405	null	"glyph"	"1"	null	null	"5/6Hev1b"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	"MYWR==/"	null	null	null	""	""
+2101893	[1551764]	[]	[]	" "	1	"5/6Hev1b"	"f14"	null	null	" ] # י#?ש## # [ "	" ] # J#?### # [ "	"[\\y»C|\\]"	"יש"	"J#"	"yC"	"יש"	"J#"	"yC"	null	null	null	null	null	null	" # יש # "	" # J# # "	"\\yC\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	236406	null	"glyph"	"1"	null	null	"5/6Hev1b"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	"NA"	null	null	""	"יש"	null	null	""	""
+2101894	[1543187]	[]	[]	" "	1	"5/6Hev1b"	"f14"	null	null	"ε"	" 0 "	"--"	null	null	null	null	null	null	null	null	null	null	null	null	" # "	" # "	"\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	236407	null	"glyph"	"1"	null	null	"5/6Hev1b"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	""	null	null	null	""	""
+2101895	[]	[]	[]	" "	1	"5/6Hev1b"	"f14"	null	null	"׃"	"00"	"."	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	"word"	null	null	null	"׃"	"00"	"."	null	null	236409	null	"punct"	"1"	null	null	"5/6Hev1b"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	""	null	null	null	""	""
+
+## Manuscript: Xhev/se2 | source scroll node 1606853
+
+### No identified biblical passage | Xhev/se2 | fragment 1 | line 29
+Record: L1605377-R001
+Physical: scroll=Xhev/se2; scroll_node=1606853; fragment=1; line=29; line_node=1605377
+Source locator: {"book":null,"chapter":null,"verse":null,"halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Schema: COLUMNS in this file's header; values retain source/derived prefixes.
+
+### No identified biblical passage | Xhev/se2 | fragment f1 | line 1
+Record: L1605397-R001
+Physical: scroll=Xhev/se2; scroll_node=1606853; fragment=f1; line=1; line_node=1605397
+Source locator: {"book":"XHev/Se2","chapter":"f1","verse":"1","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Schema: COLUMNS in this file's header; values retain source/derived prefixes.
+2102153	[1543286]	[]	[]	" "	1	"XHev/Se2"	"f1"	null	null	"א##[ "	">##[ "	"a|]"	"א"	">"	"a"	"א"	">"	"a"	null	null	null	null	null	null	"א #  # "	"> #  # "	"a\\\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	236704	null	"glyph"	"1"	null	null	"XHev/Se2"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	"NA"	null	null	""	"א"	null	null	""	""
+2102154	[1543187]	[]	[]	" "	1	"XHev/Se2"	"f1"	null	null	"ε"	" 0 "	"--"	null	null	null	null	null	null	null	null	null	null	null	null	" # "	" # "	"\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	236705	null	"glyph"	"1"	null	null	"XHev/Se2"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	""	null	null	null	""	""
+
+### No identified biblical passage | Xhev/se2 | fragment f1 | line 2
+Record: L1605398-R001
+Physical: scroll=Xhev/se2; scroll_node=1606853; fragment=f1; line=2; line_node=1605398
+Source locator: {"book":"XHev/Se2","chapter":"f1","verse":"2","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Schema: COLUMNS in this file's header; values retain source/derived prefixes.
+2102155	[1542960]	[]	[]	" "	1	"XHev/Se2"	"f1"	null	null	"ילדה"	"JLDH"	"yldh"	"ילד"	"JLD"	"yld"	"ילדה"	"JLDH"	"yldh"	"f"	null	null	null	null	null	"ילד"	"JLD"	"yld"	null	null	"vqp3fs"	"s"	null	null	"word"	"3"	null	null	null	null	null	null	"verb"	236707	null	"glyph"	"2"	"qal"	"perf"	"XHev/Se2"	"Hebrew"	null	"sg"	"p3"	"qal"	"perf"	null	null	""	null	"NA"	null	null	"JLD["	"ילד"	null	null	"verb"	""
+2102156	[1543187]	[]	[]	" "	1	"XHev/Se2"	"f1"	null	null	"ε"	" 0 "	"--"	null	null	null	null	null	null	null	null	null	null	null	null	" # "	" # "	"\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	236709	null	"glyph"	"2"	null	null	"XHev/Se2"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	"JLD["	null	null	null	"verb"	""
+
+### No identified biblical passage | Xhev/se2 | fragment f1 | line 3
+Record: L1605399-R001
+Physical: scroll=Xhev/se2; scroll_node=1606853; fragment=f1; line=3; line_node=1605399
+Source locator: {"book":"XHev/Se2","chapter":"f1","verse":"3","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Schema: COLUMNS in this file's header; values retain source/derived prefixes.
+2102157	[1542564]	[]	[]	" "	1	"XHev/Se2"	"f1"	"objm"	null	"א##ת"	">##T"	"a|t"	"אֵת"	">;T"	"aEt"	"את"	">T"	"at"	null	null	null	null	null	null	"אֵת_1"	">;T_1"	"aEt_1"	null	null	"Po"	null	null	null	"word"	null	null	null	null	null	null	null	"ptcl"	236711	null	"glyph"	"3"	null	null	"XHev/Se2"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	"NA"	null	null	">T"	"אֵת"	null	null	""	""
+2102158	[1551510]	[]	[]	" "	1	"XHev/Se2"	"f1"	"prp"	null	"יעלם"	"J<Lm"	"yolM"	"יַעְלָם"	"JA<:L@m"	"yÅoVlDM"	"יעלם"	"J<Lm"	"yolM"	null	null	null	null	null	null	"יַעְלָם"	"JA<:L@m"	"yÅoVlDM"	null	null	"np"	null	null	null	"word"	null	null	null	null	null	null	null	"subs"	236712	null	"glyph"	"3"	null	null	"XHev/Se2"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	"NA"	null	null	"J<LM/"	"יַעְלָם"	null	null	""	""
+2102159	[1542523]	[]	[]	null	1	"XHev/Se2"	"f1"	"conj"	null	"ו#?"	"W#?"	"w»"	"וְ"	"W:"	"w◊"	"ו"	"W"	"w"	null	null	null	null	null	null	"וְ"	"W:"	"w◊"	null	null	"Pc"	null	null	null	"word"	null	null	null	null	null	null	null	"ptcl"	236713	null	"glyph"	"3"	null	null	"XHev/Se2"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	"NA"	null	null	"W"	"וְ"	null	null	""	""
+2102160	[1542564]	[]	[]	" "	1	"XHev/Se2"	"f1"	"objm"	null	"א[ "	">[ "	"a]"	"אֵת"	">;T"	"aEt"	"א"	">"	"a"	null	null	null	null	null	null	"אֵת_1"	">;T_1"	"aEt_1"	null	null	"Po"	null	null	null	"word"	null	null	null	null	null	null	null	"ptcl"	236714	null	"glyph"	"3"	null	null	"XHev/Se2"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	"NA"	null	null	">T"	"אֵת"	null	null	""	""
+2102161	[1543187]	[]	[]	" "	1	"XHev/Se2"	"f1"	null	null	"ε"	" 0 "	"--"	null	null	null	null	null	null	null	null	null	null	null	null	" # "	" # "	"\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	236715	null	"glyph"	"3"	null	null	"XHev/Se2"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	">T"	null	null	null	""	""
+2102162	[]	[]	[]	" "	1	"XHev/Se2"	"f1"	null	null	"׃"	"00"	"."	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	"word"	null	null	null	"׃"	"00"	"."	null	null	236717	null	"punct"	"3"	null	null	"XHev/Se2"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	""	null	null	null	""	""
+
+## Manuscript: Mas1e | source scroll node 1606863
+
+### No identified biblical passage | Mas1e | fragment 2 | line 13
+Record: L1605753-R001
+Physical: scroll=Mas1e; scroll_node=1606863; fragment=2; line=13; line_node=1605753
+Source locator: {"book":null,"chapter":null,"verse":null,"halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Schema: COLUMNS in this file's header; values retain source/derived prefixes.
+
+### No identified biblical passage | Mas1e | fragment 3 | line 4
+Record: L1605773-R001
+Physical: scroll=Mas1e; scroll_node=1606863; fragment=3; line=4; line_node=1605773
+Source locator: {"book":null,"chapter":null,"verse":null,"halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Schema: COLUMNS in this file's header; values retain source/derived prefixes.
+
+### No identified biblical passage | Mas1e | fragment 3 | line 23
+Record: L1605792-R001
+Physical: scroll=Mas1e; scroll_node=1606863; fragment=3; line=23; line_node=1605792
+Source locator: {"book":null,"chapter":null,"verse":null,"halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Schema: COLUMNS in this file's header; values retain source/derived prefixes.
+
+## Manuscript: Xjoshua | source scroll node 1606866
+
+### No identified biblical passage | Xjoshua | fragment 1 | line 3
+Record: L1605830-R001
+Physical: scroll=Xjoshua; scroll_node=1606866; fragment=1; line=3; line_node=1605830
+Source locator: {"book":null,"chapter":null,"verse":null,"halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Schema: COLUMNS in this file's header; values retain source/derived prefixes.
+
+## Manuscript: Xjudges | source scroll node 1606867
+
+### No identified biblical passage | Xjudges | fragment f3_7ii | line 1
+Record: L1605862-R001
+Physical: scroll=Xjudges; scroll_node=1606867; fragment=f3_7ii; line=1; line_node=1605862
+Source locator: {"book":"XJudges","chapter":"f3_7ii","verse":"1","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Schema: COLUMNS in this file's header; values retain source/derived prefixes.
+2107842	[1543081]	[]	[]	" "	1	"XJudges"	"f3_7ii"	null	null	"א[ "	">[ "	"a]"	null	null	null	"א"	">"	"a"	null	null	null	null	null	null	" #  #  # "	" #  #  # "	"\\\\\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	243117	null	"glyph"	"1"	null	null	"XJudges"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	"NA"	null	null	"DRK/"	null	null	null	""	""
+2107843	[1543187]	[]	[]	" "	1	"XJudges"	"f3_7ii"	null	null	"ε"	" 0 "	"--"	null	null	null	null	null	null	null	null	null	null	null	null	" # "	" # "	"\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	243118	null	"glyph"	"1"	null	null	"XJudges"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	"DRK/"	null	null	null	""	""
+2107844	[]	[]	[]	" "	1	"XJudges"	"f3_7ii"	null	null	"׃"	"00"	"."	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	"word"	null	null	null	"׃"	"00"	"."	null	null	243120	null	"punct"	"1"	null	null	"XJudges"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	""	null	null	null	""	""
+
+## Manuscript: X4 | source scroll node 1606868
+
+### No identified biblical passage | X4 | fragment f1 | line 1
+Record: L1605863-R001
+Physical: scroll=X4; scroll_node=1606868; fragment=f1; line=1; line_node=1605863
+Source locator: {"book":"X4","chapter":"f1","verse":"1","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Schema: COLUMNS in this file's header; values retain source/derived prefixes.
+2107845	[1543187]	[]	[]	" "	1	"X4"	"f1"	null	null	"ε"	" 0 "	"--"	null	null	null	null	null	null	null	null	null	null	null	null	" # "	" # "	"\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	243123	null	"glyph"	"1"	null	null	"X4"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	"DRK/"	null	null	null	""	""
+2107846	[1542556]	[]	[]	" "	1	"X4"	"f1"	"nega"	null	" ]לא"	" ]L>"	"[la"	"לֹא"	"LO>"	"løa"	"לא"	"L>"	"la"	null	null	null	null	null	null	"לֹא"	"LO>"	"løa"	null	null	"Pn"	null	null	null	"word"	null	null	null	null	null	null	null	"ptcl"	243124	null	"glyph"	"1"	null	null	"X4"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	"NA"	null	null	"L>"	"לֹא"	null	null	""	""
+2107847	[1542646]	[]	[]	" "	1	"X4"	"f1"	null	null	"אלך"	">Lk"	"alK"	"הלך"	"HLk"	"hlK"	"אלך"	">Lk"	"alK"	"c"	null	null	null	null	null	"הלך"	"HLk"	"hlK"	null	null	"vqi1cs"	"s"	null	null	"word"	"1"	null	null	null	null	null	null	"verb"	243125	null	"glyph"	"1"	"qal"	"impf"	"X4"	"Hebrew"	null	"sg"	"p1"	"qal"	"impf"	null	null	""	null	"NA"	null	null	"HLK["	"הלך"	null	null	"verb"	""
+2107848	[1543081]	[]	[]	" "	1	"X4"	"f1"	null	null	" #  #  #  #  #  #  # [ "	" #  #  #  #  #  #  # [ "	"\\\\\\\\\\\\\\]"	null	null	null	null	null	null	null	null	null	null	null	null	" #  #  # "	" #  #  # "	"\\\\\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	243126	null	"glyph"	"1"	null	null	"X4"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	"HLK["	null	null	null	"verb"	""
+2107849	[1543187]	[]	[]	" "	1	"X4"	"f1"	null	null	"ε"	" 0 "	"--"	null	null	null	null	null	null	null	null	null	null	null	null	" # "	" # "	"\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	243127	null	"glyph"	"1"	null	null	"X4"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	"HLK["	null	null	null	"verb"	""
+
+### No identified biblical passage | X4 | fragment f1 | line 2
+Record: L1605864-R001
+Physical: scroll=X4; scroll_node=1606868; fragment=f1; line=2; line_node=1605864
+Source locator: {"book":"X4","chapter":"f1","verse":"2","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Schema: COLUMNS in this file's header; values retain source/derived prefixes.
+2107850	[1543187]	[]	[]	" "	1	"X4"	"f1"	null	null	"ε"	" 0 "	"--"	null	null	null	null	null	null	null	null	null	null	null	null	" # "	" # "	"\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	243131	null	"glyph"	"2"	null	null	"X4"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	"HLK["	null	null	null	"verb"	""
+2107851	[1543630]	[]	[]	" "	1	"X4"	"f1"	null	null	" ]ל"	" ]L"	"[l"	"ל"	"L"	"l"	"ל"	"L"	"l"	null	null	null	null	null	null	" #  # ל"	" #  # L"	"\\\\l"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	243132	null	"glyph"	"2"	null	null	"X4"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	"NA"	null	null	""	"ל"	null	null	""	""
+2107852	[1543187]	[]	[]	" "	1	"X4"	"f1"	null	null	"ε"	" 0 "	"--"	null	null	null	null	null	null	null	null	null	null	null	null	" # "	" # "	"\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	243134	null	"glyph"	"2"	null	null	"X4"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	""	null	null	null	""	""
+2107853	[]	[]	[]	" "	1	"X4"	"f1"	null	null	"׃"	"00"	"."	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	"word"	null	null	null	"׃"	"00"	"."	null	null	243136	null	"punct"	"2"	null	null	"X4"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	""	null	null	null	""	""
+
+### No identified biblical passage | X4 | fragment f2 | line 1
+Record: L1605865-R001
+Physical: scroll=X4; scroll_node=1606868; fragment=f2; line=1; line_node=1605865
+Source locator: {"book":"X4","chapter":"f2","verse":"1","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Schema: COLUMNS in this file's header; values retain source/derived prefixes.
+2107854	[1543187]	[]	[]	" "	1	"X4"	"f2"	null	null	"ε"	" 0 "	"--"	null	null	null	null	null	null	null	null	null	null	null	null	" # "	" # "	"\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	243139	null	"glyph"	"1"	null	null	"X4"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	""	null	null	null	""	""
+2107855	[1547339]	[]	[]	" "	1	"X4"	"f2"	"cmn"	null	"מ ]ל##קוש[ "	"M ]L##QW#[ "	"m[l|qwC]"	"מַלְקֹושׁ"	"MAL:QOWC"	"mAlVqøwv"	"מלקוש"	"MLQW#"	"mlqwC"	"m"	null	null	null	null	null	"מַלְקֹושׁ"	"MAL:QOWC"	"mAlVqøwv"	null	null	"ncms"	"s"	null	null	"word"	null	null	null	null	null	null	null	"subs"	243140	null	"glyph"	"1"	null	null	"X4"	"Hebrew"	null	"sg"	"NA"	"NA"	"NA"	null	null	""	null	"NA"	null	null	"MLQWC/"	"מַלְקֹושׁ"	null	null	""	""
+2107856	[1543187]	[]	[]	" "	1	"X4"	"f2"	null	null	"ε"	" 0 "	"--"	null	null	null	null	null	null	null	null	null	null	null	null	" # "	" # "	"\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	243141	null	"glyph"	"1"	null	null	"X4"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	"MLQWC/"	null	null	null	""	""
+
+### No identified biblical passage | X4 | fragment f2 | line 2
+Record: L1605866-R001
+Physical: scroll=X4; scroll_node=1606868; fragment=f2; line=2; line_node=1605866
+Source locator: {"book":"X4","chapter":"f2","verse":"2","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Schema: COLUMNS in this file's header; values retain source/derived prefixes.
+2107857	[1543187]	[]	[]	" "	1	"X4"	"f2"	null	null	"ε"	" 0 "	"--"	null	null	null	null	null	null	null	null	null	null	null	null	" # "	" # "	"\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	243145	null	"glyph"	"2"	null	null	"X4"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	"MLQWC/"	null	null	null	""	""
+2107858	[1552972]	[]	[]	" "	1	"X4"	"f2"	null	null	" ]ע##בל"	" ]<##BL"	"[o|bl"	"עבל"	"<BL"	"obl"	"עבל"	"<BL"	"obl"	null	null	null	null	null	null	" # עבל"	" # <BL"	"\\obl"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	243146	null	"glyph"	"2"	null	null	"X4"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	"NA"	null	null	""	"עבל"	null	null	""	""
+2107859	[1543187]	[]	[]	" "	1	"X4"	"f2"	null	null	"ε"	" 0 "	"--"	null	null	null	null	null	null	null	null	null	null	null	null	" # "	" # "	"\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	243148	null	"glyph"	"2"	null	null	"X4"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	""	null	null	null	""	""
+
+### No identified biblical passage | X4 | fragment f2 | line 3
+Record: L1605867-R001
+Physical: scroll=X4; scroll_node=1606868; fragment=f2; line=3; line_node=1605867
+Source locator: {"book":"X4","chapter":"f2","verse":"3","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Schema: COLUMNS in this file's header; values retain source/derived prefixes.
+2107860	[1543187]	[]	[]	" "	1	"X4"	"f2"	null	null	"ε"	" 0 "	"--"	null	null	null	null	null	null	null	null	null	null	null	null	" # "	" # "	"\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	243152	null	"glyph"	"3"	null	null	"X4"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	""	null	null	null	""	""
+2107861	[1552759]	[]	[]	" "	1	"X4"	"f2"	null	null	" ]אלה[ "	" ]>LH[ "	"[alh]"	"אלה"	">LH"	"alh"	"אלה"	">LH"	"alh"	null	null	null	null	null	null	" # אלה # "	" # >LH # "	"\\alh\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	243153	null	"glyph"	"3"	null	null	"X4"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	"NA"	null	null	">LH["	"אלה"	null	null	"verb"	""
+2107862	[1543187]	[]	[]	" "	1	"X4"	"f2"	null	null	"ε"	" 0 "	"--"	null	null	null	null	null	null	null	null	null	null	null	null	" # "	" # "	"\\"	null	null	"0"	null	null	null	"word"	null	null	null	null	null	null	null	"unknown"	243154	null	"glyph"	"3"	null	null	"X4"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	">LH["	null	null	null	"verb"	""
+2107863	[]	[]	[]	" "	1	"X4"	"f2"	null	null	"׃"	"00"	"."	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	"word"	null	null	null	"׃"	"00"	"."	null	null	243156	null	"punct"	"3"	null	null	"X4"	"Hebrew"	null	"NA"	"NA"	"NA"	"NA"	null	null	""	null	null	null	null	""	null	null	null	""	""
+

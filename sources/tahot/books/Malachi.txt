@@ -1,0 +1,1562 @@
+	==============================================================															
+	Data created by www.STEPBible.org based on work at Tyndale House Cambridge (CC BY 4.0)															
+	==============================================================															
+	This licence allows you to:															
+	* Include any part of this data in software or publications without requesting permission 															
+	* Download the data and reformat it for your application, without changing the data															
+	* Send any proposed corrections to STEPBibleATGmail.com. to be verified 															
+	  (You MAY make changes yourself, but you should include a note of changes that can be viewed by those who use your new data)															
+	* Refer others to github.com/STEPBible as the source of the data. Please do not redistribute it yourself. 															
+	  (Updates or corrections are easier to implement when the data is distributed from a single source)															
+	* We'd love to hear about your project when you make it available. Email us at STEPBibleATGmail.com..															
+	==============================================================															
+																
+Translators Amalgamated Hebrew OT tagged with disambiguated Strongs extended for BDB including tags for prefixes & suffixes, with ETCBC morphology																
+This data is based on the exact Leningrad codex. Divergences from other important Hebrew manuscripts are recorded as variants. (see the list of abbreviaitons below). Each verse is displayed as word-per-line and also in  interlinear format. 
+This data aims to represents the text actually used by Bible translators, which is occasionally is different to that found in the Leningrad codex. Therefore this text deviates from Leningrad when it 1) follows the Qere, 2) Restores missing text and 3) Adds words preserved in the LXX if they are used by translators.  																
+1) The Qere ('spoken') is the scribal marginal corrections which are generally followed by the KJV and all subsequent translators. The Ketiv (ie the text that  the Qere replaces) is recorded as a variant.  These are recorded as "Q" & "K", with "L" recording the actual text of Leningrad which consists of the letters of K with the pointing of Q																
+The Qere recorded here are all those in the Leningrad condex plus some from others manuscripts that are listed in the BHS apparatus (ie Gen.9.21#07; Gen.12.8#08; Gen.33.4#07; Gen.35.21#04; Exo.32.17#06; Exo.35.11#12; Lev.23.13#11; Num.3.51#05; Deu.27.10#07; Jdg.19.13#03; Jdg.19.21#03; 1Sa.18.14#04; 1Sa.18.22#04; 2Sa.13.33#15; 1Ki.17.15; 2Ki.19.23#21; 2Ki.20.13#08; 2Ch.35.4#01; 2Ch.36.14#07; Ezr.4.11#10; Est.4.4#01; Psa.21.2#07; Psa.123.4#08; Pro.6.13#02; Pro.6.13#04; Pro.23.3#02; Isa.58.14#07; Jer.2.3#05; Jer.15.8#03; Jer.22.18#24; Jer.27.20; Lam.3.25#03; Ezk.3.20#18; Ezk.31.18#25; Ezk.32.32#15; Ezk.39.11#24; Ezk.40.31#01; Ezk.43.11#12; Ezk.43.15#04; Ezk.44.3#07; Dan.2.29#01; Dan.2.31#01; Dan.2.37#01; Dan.2.38#14; Dan.4.22#21; Dan.4.22#27; Dan.4.29#22; Dan.6.1#02; Hab.3.4#09; Zec.2.8#02)
+2) Restoration of text is necessary at Jos.21.36-37 & Neh.7.67b because these are missing in the Leningrad codex. They are restored from the text of 1Ch.6.63-64 and Ezr.2.66. They are marked as "R". 
+3) Additional words or phrases preserved in the LXX are converted back to Hebrew as in the apparatus of BHS & BHK. These are marked as "X". They occur at Gen.4.8; Num.26.40; Deu.30.16; Jdg.16.13,14; 1Sa.10.1; 13.1; 13.15; 1Sa.14.41; 2Sa.12.16; 13.34; 2Sa.15.8; 23.33; 2Sa.24.17; 2Ki.25.3; 1Ch.4.13; 6.27; 1Ch.6.28,59; 1Ch.6.60,77; 1Ch.7.25; 8.29; 1Ch.8.30; 9.41; 1Ch.21.17; 25.9; 2Ch.15.8; Ezr.8.5,10; Est.3.7; Psa.25.21; 56.7; Psa.145.13; Ecc.9.2;    																
+									
+																
+FIELD DESCRIPTIONS:																
+==============																
+Ref: Eng (+Heb)#Heb.words	Bible reference in English Bibles, as defined by the NRSV (with Heb refs in brackets when they are different). Word numbers of the Hebrew Ketiv text, dividing words by spaces and metheg. [Exception: at Gen.014.017#09 the name Kedorlaomer is uncharacteristically divided as Kedorlaomer ( כְּדָרְ\־לָעֹ֔מֶר ) except in Aleppo, so this is counted as one word despite the metheg.]
+	English verses occasionally start a verse on a different word - i.e. Num.26.1; 1Sa.21.1; 1Ki.18.33; 20.3; 22.22; 22.43; 1Ch.12.4; Isa.64.1; and Psalm Titles (v.0).															
+Text type: 	L=Leningrad text; Q=Qere scribal corrections; K=original text; R=Restored text (ie Jos.21.36-37; Neh.7.67b); X=extra text from LXX as reconstructed in BHS or BHK. Other letters are used for variants - see the list below. Brackets indicate a variant  which is in lower case if it might not affect the translation.  
+	Translators normally follow L, and when this presents a choice between Q and K they follow Q, so K is presented as a variant. If there is more than one variant they are separated by "+" - eg:Neh.2.13#17=Q(K+B) indicates that this Hebrew word follows the Qere and has two variants: the Ketiv (which in this case is upper case "K" to indicate it is different enough to affect the translation), and the BHS which records the Leningrad text differently than Tyndale scholars, and this affects the translation.  If two sources record the same variant they simply follow each other - eg "=LA(HC+b) indicates the text follows Leningrad which is identical to Aleppo while there is a significant variant that is found in both Ben Haim and Cairensis and a different variant in BHS that is non-significant - ie it isn't sufficiently different to change the meaning so it is recorded in lower case. 
+Hebrew	Full Hebrew including pointing, cantillation and punctuation  with forward slash ( / ) separating prefixes and suffixes from the root word and backward slash ( \ ) separating punctuation. 															
+	This Hebrew was derived from Westminster Leningrad text WLC 4.20 via OpenScriptures, checked against the Stugartensia electronic text, then occasionally corrections towards the Leningrad Codex by BHS or by Tyndale scholars. It is, essentially, a corrected version of BHS. 															
+English translation:  	Forward slash ( / ) separates the translation to mirror the prefixes, root and suffixes in Hebrew. This means the order of English words follows the order within the Hebrew word.  															
+	Words in <angle brackets> are in the Hebrew but are best not  included in a translation. Words in [square brackets] aren't in the Hebrew but are implied and are best included in a translation. 															
+dStrongs	Lexical tags for each element of the Hebrew words, including prefixes and suffixes, with the Root in {curly brackets}. A "+" indicates the same tag also covers the next Hebrew word. These disambiguated Strong numbers (dStrong)  are defined at TinyURL.com/STEP-Disambiguated. 
+Grammar	Morphology is from ETCBC, with Ketiv forms parsed by Tyndale scholars - see e.g. Deu.33.2-15.   For the source of ETCBC and conversion method by Tyndale House, see https://goo.gl/yKaXQq#HebMorph2															
+	Morphology codes follow the form defined by OpenScriptures at http://openscriptures.github.io/morphhb/parsing/HebrewMorphologyCodes.html#vt with some adaptations - see TinyURL.com/HebMorph															
+Meaning variant	These are significant variants that are adopted by standard Bible translations which can result in a different translation.  															
+	The difference may not be reflected in translations. For example, Ruth 3.14 has Ketiv "his foot" replaced by Qere "his feet" (because single 'foot' is a euphamism for penis). This verse also has "before" spelled as בִּ/טְרוֹם in Ketiv and בְּ/טֶ֛רֶם in Qere. Both are recorded in detail even though they make little or no difference in most translations.  															
+Spelling variants	These spelling differences have no effect on the meaning, and are not recorded in the Interlinear layout. 															
+sStrong+Instance	Simple Strongs (sStrongs) are the original Strong numbers in 4-digits, without the appended "A", "B" etc for by which OpenScripture.org mirrored the BDB lexicon, and without the "A", "B" etc of disambiguation.  
+	They are appended with Instance markerss (eg  "_A" etc) to allow these to be upgraded to disambiguated tags with full morphology - see the methodology at www.TinyURL.com/UpgradingTags															
+Alt Strongs	Alternate ways to tag the same word using Strongs tags. Differences are usually due to different interpretations of the Hebrew root. The purpose of this and the sStrong+Instance is to help line up this data with other tagged Bibles.  														
+Conjoin word	Not yet implemented															
+Expanded Strong tags 	A copy of the dStrong tags with additional tags for punctuation elements. Each tag is accompanied by the lexical form in Heberew, an English gloss, and its sub-meaning after " » " where appropriate. 															
+	People and place names have unique IDs such as "Abram»Abraham@Gen.11.26-1Pe" which means: in this location the name given is Abram but the most common name is Abraham. This individual occurs first at Gen.11.26 and last in 1Peter. The ID and the accompanying dStrong number belongs to only one individual who is distinct from anyone else who shares any of their names. 															
+
+Abbreviations for sources of each word: 																
+=========================																
+L= Leningrad manuscript																
+R= restored text based on Leningrad parallels - ie Jos.21.36-37 from 1Ch.6.63-64 and Neh.7.67b from Ezr.2.66																
+X= "based on Greek sources" - ie extra words based on LXX, expressed in Hebrew as in the apparatus of BHS pr BHK - eg 1Sa.13.1 Saul was שְׁלֹשִׁים שָׁנָ֖ה ('a thirty year-old') not שָׁנָ֖ה ('a year-old') 																
+Q= "a Scribal corrections" ie the Qere ('spoken') corrections by scribes. This is made up of the letters in the margin and the pointing in the text.																
+    K= "the uncorrected text" - ie the Ketiv  ('written') is noted as a variant. This is made up of the letters in the text, pointed by Tyndale scholars. 																
+    L - the letters of K with pointing of Q, as found in Leningrad is recorded as a spelling variant. 																
+ - eg Gen.27.3 L= צָיִדה, K= צֵידָה ('food'), Q= צָיִד ('wild game')																
+																
+Abbreviations for other variants - in brackets after the source. If the variant doesn't change the meaning, it is noted in lower case, eg L(a) means this is the form found in Leningrad, where Aleppo is different but still has the same meaning. 																
+====================																
+A= "in the Aleppo manuscript" - eg Isa.27.2 חֶ֖מֶר ('wine') for חֶ֖מֶד ('delight')																
+B= "in the Biblia Hebraica Stuttgartensia" - ie BHS edition when it deviates from MT - eg Num.7.59 פְּדָה־צֽוּר (Pedah-zur') for פְּדָהצֽוּר ('Pedahzur')																
+C= "in the Cairensis manuscript" - eg 2Sa.11.1 הַמְּלָכִ֗ים ('kings') for הַמַּלְאֿכִ֗ים ('messengers')																
+D= "in a Dead Sea or Judean Desert manuscript"  - eg Psa.22.16(17) כָּ֝אֲרוּ ('they dug') for כָּ֝אֲרִ֗י ('like a lion')																
+E=  "an emendation of ancient sources" - ie a scholarly guess at the original when the Hebrew looks garbled  - eg Gen.37.36 וְהַמִדְיָנִים (and the Midianites) for וְהַמְּדָנִים ('and the Medanites)																
+F= "formatting the text differently" - ie changing  pointing or word divisions without changing any letters - eg 1Ch.24.26,27 בְנוֹ ('his son') for בְנוֹ ('Beno')																
+H= "in the Ben Chaim edition" - ie the Second Rabbinic Bible - eg Gen.25.15 חֲדַ֣ר ('Hadar') for חֲדַ֣ד ('Hadad')																
+P= "with alternate punctuation" - as marked in major manuscripts  - eg in Gen.35.22  "Israel heard of it; and Jacob had 12 son" for "the concubine of his father; and Israel heard of it. And Jacob had 12 sons. 																
+S= "in Scribal traditions" - ie  in Itture Sopherim, Tiqqune Sopherim, Masora etc based on On the correction of the text of the Hebrew Scriptures by Heimann Jolowicz at https://www.google.co.uk/books/edition/On_the_Correction_of_the_Text_of_the_Heb/fmfE-R0b2UgC - eg Gen.18.22 "Yahweh.. before Abraham" for "Abraham... before Yahweh". 																
+V = "a variant in some manuscripts" - ie variants in Hebrew manuscripts other than those above - eg Zep.3.15 תִרְאִי ('you will see') for תִירְאִי ('you will fear')																
+(Most of these variants are yet to be added. )		
+
+# Mal.1.1	ma.Sa' (מַשָּׂ֥א)	de.var- (דְבַר־)	Yah.weh (יְהוָ֖ה)	'el- (אֶל־)	Yis.ra.'El (יִשְׂרָאֵ֑ל)	be.Yad (בְּיַ֖ד)	mal.'a.Khi (מַלְאָכִֽי׃)									
+#_Translation	[the] oracle of	[the] word of	Yahweh	to	Israel	by/ [the] hand of	Malachi									
+#_Word+Grammar	H4853B=HNcmsc	H1697G=HNcmsc	H3068G=HNpt	H0413=HR	H3478=HNpl	H9003/H3027J=HR/Ncbsc	H4401=HNpm									
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.1.1#01=L	מַשָּׂ֥א	ma.Sa'	[the] oracle of	{H4853B}	HNcmsc			H4853B			{H4853B=מַשָּׂא=oracle}					
+Mal.1.1#02=L	דְבַר\־	de.var-	[the] word of	{H1697G}\H9014	HNcmsc			H1697G			{H1697G=דָּבָר=: word»word:1_word;_speech;_command}\H9014=־=link					
+Mal.1.1#03=L	יְהוָ֖ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.1.1#04=L	אֶל\־	'el-	to	{H0413}\H9014	HR			H0413			{H0413=אֶל=to(wards)}\H9014=־=link					
+Mal.1.1#05=L	יִשְׂרָאֵ֑ל	Yis.ra.'El	Israel	{H3478}	HNpl			H3478			{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}					
+Mal.1.1#06=L	בְּ/יַ֖ד	be./Yad	by/ [the] hand of	H9003/{H3027J}	HR/Ncbsc			H3027J			H9003=ב=in/{H3027J=יָד=: by»hand:4_by;_though[hand_of](AGENT)}					
+Mal.1.1#07=L	מַלְאָכִֽי\׃	mal.'a.Khi	Malachi	{H4401}\H9016	HNpm			H4401			{H4401=מַלְאָכִי=Malachi»Malachi@Mal.1.1}\H9016=׃=verseEnd					
+																
+# Mal.1.2	'a.Hav.ti (אָהַ֤בְתִּי)	'et.Khem (אֶתְכֶם֙)	'a.Mar (אָמַ֣ר)	Yah.weh (יְהוָ֔ה)	va.'a.mar.Tem (וַאֲמַרְתֶּ֖ם)	ba.Mah (בַּמָּ֣ה)	'a.hav.Ta.nu (אֲהַבְתָּ֑נוּ)	ha.lo'- (הֲלוֹא־)	'ach (אָ֨ח)	'e.Sav (עֵשָׂ֤ו)						
+#_Translation	I have loved	<obj.>/ you	he says	Yahweh	and/ you say	<in>/ how?	have you loved/ us	¿/ not	[did] a brother	Esau						
+#_Word+Grammar	H0157G=HVqp1cs	H0853/H9036=HTo/Sp2mp	H0559=HVqp3ms	H3068G=HNpt	H9001/H0559=Hc/Vqq2mp	H9003/H4100=HR/Pi	H0157G/H9035=HVqp2ms/Sp1bp	H9008/H3808=HTi/Tn	H0251G=HNcmsa	H6215H=HNpm						
+#_Significant variant																
+#_Mal.1.2	le.ya.'a.Ko (לְיַֽעֲקֹב֙)	ne.'um- (נְאֻם־)	Yah.weh (יְהוָ֔ה)	va.'o.Hav (וָאֹהַ֖ב)	'et- (אֶֽת־)	ya.'a.Ko (יַעֲקֹֽב׃)										
+#_Translation	[belong] to/ Jacob	[the] utterance of	Yahweh	and/ I loved	<obj.>	Jacob										
+#_Word+Grammar	H9005/H3290=HR/Npm	H5002=HNcmsc	H3068G=HNpt	H9001/H0157G=Hc/Vqw1cs	H0853=HTo	H3290=HNpm										
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.1.2#01=L	אָהַ֤בְתִּי	'a.Hav.ti	I have loved	{H0157G}	HVqp1cs			H0157G_A			{H0157G=אָהֵב=: lover»to love:1_lover}					
+Mal.1.2#02=L	אֶתְ/כֶם֙	'et./Khem	<obj.>/ you	{H0853}/H9036	HTo/Sp2mp			H0853_A			{H0853=אֵת=[Obj.]}/H9036=Op2m=you					
+Mal.1.2#03=L	אָמַ֣ר	'a.Mar	he says	{H0559}	HVqp3ms			H0559_A			{H0559=אָמַר=to say}					
+Mal.1.2#04=L	יְהוָ֔ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G_A			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.1.2#05=L	וַ/אֲמַרְתֶּ֖ם	va./'a.mar.Tem	and/ you say	H9001/{H0559}	Hc/Vqq2mp			H0559_B			H9001=ו=&/{H0559=אָמַר=to say}					
+Mal.1.2#06=L	בַּ/מָּ֣ה	ba./Mah	<in>/ how?	H9003/{H4100}	HR/Pi			H4100			H9003=ב=in/{H4100=מָה=what?}					
+Mal.1.2#07=L	אֲהַבְתָּ֑/נוּ	'a.hav.Ta./nu	have you loved/ us	{H0157G}/H9035	HVqp2ms/Sp1bp			H0157G_B			{H0157G=אָהֵב=: lover»to love:1_lover}/H9035=Op1c=us					
+Mal.1.2#08=L	הֲ/לוֹא\־	ha./lo'-	¿/ not	H9008/{H3808}\H9014	HTi/Tn			H3808			H9008=ה=¿/{H3808=לֹא=not}\H9014=־=link					
+Mal.1.2#09=L	אָ֨ח	'ach	[did] a brother	{H0251G}	HNcmsa			H0251G			{H0251G=אָח=: male-sibling»brother:1_male-sibling}					
+Mal.1.2#10=L	עֵשָׂ֤ו	'e.Sav	Esau	{H6215H}	HNpm			H6215H			{H6215H=עֵשָׂו=Esau»Edom@Gen.36.40-Mal}					
+Mal.1.2#11=L	לְ/יַֽעֲקֹב֙	le./ya.'a.Ko	[belong] to/ Jacob	H9005/{H3290}	HR/Npm			H3290_A			H9005=ל=to/{H3290=יַעֲקֹב=Jacob»Israel@Gen.25.26-Rev}					
+Mal.1.2#12=L	נְאֻם\־	ne.'um-	[the] utterance of	{H5002}\H9014	HNcmsc			H5002			{H5002=נְאֻם=utterance}\H9014=־=link					
+Mal.1.2#13=L	יְהוָ֔ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G_B			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.1.2#14=L	וָ/אֹהַ֖ב	va./'o.Hav	and/ I loved	H9001/{H0157G}	Hc/Vqw1cs			H0157G_C			H9001=ו=&/{H0157G=אָהֵב=: lover»to love:1_lover}					
+Mal.1.2#15=L	אֶֽת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853_B			{H0853=אֵת=[Obj.]}\H9014=־=link					
+Mal.1.2#16=L	יַעֲקֹֽב\׃	ya.'a.Ko	Jacob	{H3290}\H9016	HNpm			H3290_B			{H3290=יַעֲקֹב=Jacob»Israel@Gen.25.26-Rev}\H9016=׃=verseEnd					
+																
+# Mal.1.3	ve.'Et (וְאֶת־)	'e.Sav (עֵשָׂ֖ו)	sa.Ne.ti (שָׂנֵ֑אתִי)	va.'a.Sim (וָאָשִׂ֤ים)	'et- (אֶת־)	ha.Rav (הָרָיו֙)	she.ma.Mah (שְׁמָמָ֔ה)	ve.'Et (וְאֶת־)	na.cha.la.To (נַחֲלָת֖וֹ)	le.ta.Not (לְתַנּ֥וֹת)						
+#_Translation	and/ <obj.>	Esau	I hated	and/ I have made	<obj.>	mountains/ his	a waste	and/ <obj.>	inheritance/ his	for/ jackals of						
+#_Word+Grammar	H9002/H0853=HC/To	H6215H=HNpm	H8130=HVqp1cs	H9001/H7760A=Hc/Vqw1cs	H0853=HTo	H2022G/H9023=HNcmpc/Sp3ms	H8077A=HNcfsa	H9002/H0853=HC/To	H5159/H9023=HNcfsc/Sp3ms	H9005/H8577A=HR/Ncfpc						
+#_Significant variant																
+#_Mal.1.3	mid.Bar (מִדְבָּֽר׃)															
+#_Translation	[the] wilderness															
+#_Word+Grammar	H4057B=HNcmsa															
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.1.3#01=L	וְ/אֶת\־	ve./'Et	and/ <obj.>	H9002/{H0853}\H9014	HC/To			H0853_A			H9002=ו=and/{H0853=אֵת=[Obj.]}\H9014=־=link					
+Mal.1.3#02=L	עֵשָׂ֖ו	'e.Sav	Esau	{H6215H}	HNpm			H6215H			{H6215H=עֵשָׂו=Esau»Edom@Gen.36.40-Mal}					
+Mal.1.3#03=L	שָׂנֵ֑אתִי	sa.Ne.ti	I hated	{H8130}	HVqp1cs			H8130			{H8130=שָׂנֵא=to hate}					
+Mal.1.3#04=L	וָ/אָשִׂ֤ים	va./'a.Sim	and/ I have made	H9001/{H7760A}	Hc/Vqw1cs			H7760A			H9001=ו=&/{H7760A=שׂוּם=: make»to set:1_make;_establish}					
+Mal.1.3#05=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853_B			{H0853=אֵת=[Obj.]}\H9014=־=link					
+Mal.1.3#06=L	הָרָי/ו֙	ha.Ra/v	mountains/ his	{H2022G}/H9023	HNcmpc/Sp3ms			H2022G			{H2022G=הַר=: mount»mountain:1_mount;_hill}/H9023=Ps3m=his					
+Mal.1.3#07=L	שְׁמָמָ֔ה	she.ma.Mah	a waste	{H8077A}	HNcfsa			H8077A			{H8077A=שְׁמָמָה=devastation}					
+Mal.1.3#08=L	וְ/אֶת\־	ve./'Et	and/ <obj.>	H9002/{H0853}\H9014	HC/To			H0853_C			H9002=ו=and/{H0853=אֵת=[Obj.]}\H9014=־=link					
+Mal.1.3#09=L	נַחֲלָת֖/וֹ	na.cha.la.T/o	inheritance/ his	{H5159}/H9023	HNcfsc/Sp3ms			H5159			{H5159=נַחֲלָה=inheritance}/H9023=Ps3m=his					
+Mal.1.3#10=L	לְ/תַנּ֥וֹת	le./ta.Not	for/ jackals of	H9005/{H8577A}	HR/Ncfpc			H8577A	H8568		H9005=ל=to/{H8577A=תַּן=jackal}					
+Mal.1.3#11=L	מִדְבָּֽר\׃	mid.Bar	[the] wilderness	{H4057B}\H9016	HNcmsa			H4057B			{H4057B=מִדְבָּר=wilderness}\H9016=׃=verseEnd					
+																
+# Mal.1.4	ki- (כִּֽי־)	to.Mar (תֹאמַ֨ר)	'e.Dom (אֱד֜וֹם)	ru.Shash.nu (רֻשַּׁ֗שְׁנוּ)	ve.na.Shuv (וְנָשׁוּב֙)	ve.niv.Neh (וְנִבְנֶ֣ה)	cho.ra.Vot (חֳרָב֔וֹת)	koh (כֹּ֤ה)	'a.Mar (אָמַר֙)	Yah.weh (יְהוָ֣ה)						
+#_Translation	for	it will say	Edom	we have been shattered	and/ we may return	so/ we may rebuild	[the] ruins	thus	he says	Yahweh						
+#_Word+Grammar	H3588A=HTc	H0559=HVqi3fs	H0123G=HNpm	H7567=HVPp1cp	H9002/H7725H=HC/Vqu1cp	H9002/H1129=HC/Vqu1cp	H2723=HNcfpa	H3541=HD	H0559=HVqp3ms	H3068G=HNpt						
+#_Significant variant																
+#_Mal.1.4	tze.va.'ot (צְבָא֔וֹת)	He.mah (הֵ֥מָּה)	yiv.Nu (יִבְנ֖וּ)	va.'a.Ni (וַאֲנִ֣י)	'e.he.Ros (אֶהֱר֑וֹס)	ve.ka.re.'U (וְקָרְא֤וּ)	la.Hem (לָהֶם֙)	ge.Vul (גְּב֣וּל)	rish.'Ah (רִשְׁעָ֔ה)	ve.ha.'Am (וְהָעָ֛ם)						
+#_Translation	of hosts	they	they will build	and/ I	I will tear down	and/ people will call	<to>/ them	a territory of	wickedness	and/ the/ people						
+#_Word+Grammar	H6635B=HNcfpa	H1992=HPp3mp	H1129=HVqi3mp	H9002/H0589=HC/Pp1bs	H2040=HVqi1cs	H9001/H7121H=Hc/Vqq3cp	H9005/H9038=HR/Sp3mp	H1366H=HNcmsc	H7564=HNcfsa	H9002/H9009/H5971A=HC/Td/Ncmsa						
+#_Significant variant																
+#_Mal.1.4	'a.Sher- (אֲשֶׁר־)	za.'Am (זָעַ֥ם)	Yah.weh (יְהוָ֖ה)	'ad- (עַד־)	o.Lam (עוֹלָֽם׃)											
+#_Translation	which	he was indignant	Yahweh	until	perpetuity											
+#_Word+Grammar	H0834A=HTr	H2194=HVqp3ms	H3068G=HNpt	H5704=HR	H5769G=HNcmsa											
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.1.4#01=L	כִּֽי\־	ki-	for	{H3588A}\H9014	HTc			H3588A			{H3588A=כִּי=for}\H9014=־=link					
+Mal.1.4#02=L	תֹאמַ֨ר	to.Mar	it will say	{H0559}	HVqi3fs			H0559_A			{H0559=אָמַר=to say}					
+Mal.1.4#03=L	אֱד֜וֹם	'e.Dom	Edom	{H0123G}	HNpm			H0123G			{H0123G=אֱדוֹם=Edom»Edom@Gen.36.40-Mal}					
+Mal.1.4#04=L	רֻשַּׁ֗שְׁנוּ	ru.Shash.nu	we have been shattered	{H7567}	HVPp1cp			H7567			{H7567=רָשַׁשׁ=to beat}					
+Mal.1.4#05=L	וְ/נָשׁוּב֙	ve./na.Shuv	and/ we may return	H9002/{H7725H}	HC/Vqu1cp			H7725H			H9002=ו=and/{H7725H=שׁוּב=: rescue»to return:2_rescue;_restore}					
+Mal.1.4#06=L	וְ/נִבְנֶ֣ה	ve./niv.Neh	so/ we may rebuild	H9002/{H1129}	HC/Vqu1cp			H1129_A			H9002=ו=and/{H1129=בָּנָה=to build}					
+Mal.1.4#07=L	חֳרָב֔וֹת	cho.ra.Vot	[the] ruins	{H2723}	HNcfpa			H2723			{H2723=חׇרְבָּה=desolation}					
+Mal.1.4#08=L	כֹּ֤ה	koh	thus	{H3541}	HD			H3541			{H3541=כֹּה=thus}					
+Mal.1.4#09=L	אָמַר֙	'a.Mar	he says	{H0559}	HVqp3ms			H0559_B			{H0559=אָמַר=to say}					
+Mal.1.4#10=L	יְהוָ֣ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G_A			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.1.4#11=L	צְבָא֔וֹת	tze.va.'ot	of hosts	{H6635B}	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}					
+Mal.1.4#12=L	הֵ֥מָּה	He.mah	they	{H1992}	HPp3mp			H1992			{H1992=הֵ֫מָּה=they(masc.)}					
+Mal.1.4#13=L	יִבְנ֖וּ	yiv.Nu	they will build	{H1129}	HVqi3mp			H1129_B			{H1129=בָּנָה=to build}					
+Mal.1.4#14=L	וַ/אֲנִ֣י	va./'a.Ni	and/ I	H9002/{H0589}	HC/Pp1bs			H0589			H9002=ו=and/{H0589=אֲנִי, אָֽנֹכִ֫י=I}					
+Mal.1.4#15=L	אֶהֱר֑וֹס	'e.he.Ros	I will tear down	{H2040}	HVqi1cs			H2040			{H2040=הָרַס=to overthrow}					
+Mal.1.4#16=L	וְ/קָרְא֤וּ	ve./ka.re.'U	and/ people will call	H9001/{H7121H}	Hc/Vqq3cp			H7121H			H9001=ו=&/{H7121H=קָרָא=: call_by»to call:2_call_by;_name}					
+Mal.1.4#17=L	לָ/הֶם֙	la./Hem	<to>/ them	H9005/{H9038}	HR/Sp3mp			H9038			H9005=ל=to/{H9038=Op3m=them}					
+Mal.1.4#18=L	גְּב֣וּל	ge.Vul	a territory of	{H1366H}	HNcmsc			H1366H			{H1366H=גְּבוּל=: area»border:2_area}					
+Mal.1.4#19=L	רִשְׁעָ֔ה	rish.'Ah	wickedness	{H7564}	HNcfsa			H7564			{H7564=רִשְׁעָה=wickedness}					
+Mal.1.4#20=L	וְ/הָ/עָ֛ם	ve./ha./'Am	and/ the/ people	H9002/H9009/{H5971A}	HC/Td/Ncmsa			H5971A			H9002=ו=and/H9009=ה=the/{H5971A=עַם=: people»people:1_people;_nation}					
+Mal.1.4#21=L	אֲשֶׁר\־	'a.Sher-	which	{H0834A}\H9014	HTr			H0834A			{H0834A=אֲשֶׁר=which}\H9014=־=link					
+Mal.1.4#22=L	זָעַ֥ם	za.'Am	he was indignant	{H2194}	HVqp3ms			H2194			{H2194=זָעַם=be indignant}					
+Mal.1.4#23=L	יְהוָ֖ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G_B			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.1.4#24=L	עַד\־	'ad-	until	{H5704}\H9014	HR			H5704			{H5704=עַד=till}\H9014=־=link					
+Mal.1.4#25=L	עוֹלָֽם\׃	o.Lam	perpetuity	{H5769G}\H9016	HNcmsa			H5769G			{H5769G=עוֹלָם=: enduring»forever:1_enduring;_eternal}\H9016=׃=verseEnd					
+																
+# Mal.1.5	ve.'ei.nei.Khem (וְעֵינֵיכֶ֖ם)	tir.'Ei.nah (תִּרְאֶ֑ינָה)	ve.'a.Tem (וְאַתֶּ֤ם)	to.me.Ru (תֹּֽאמְרוּ֙)	yig.Dal (יִגְדַּ֣ל)	Yah.weh (יְהוָ֔ה)	me.'Al (מֵעַ֖ל)	lig.Vul (לִגְב֥וּל)	Yis.ra.'El (יִשְׂרָאֵֽל׃)							
+#_Translation	and/ eyes/ your	they will see	and/ you	you will say	he is great	Yahweh	<from>/ over	<to>/ [the] border of	Israel							
+#_Word+Grammar	H9002/H5869A/H9026=HC/Ncfdc/Sp2mp	H7200G=HVqi3fp	H9002/H0859D=HC/Pp2mp	H0559=HVqi2mp	H1431=HVqi3ms	H3068G=HNpt	H9006/H5921A=HR/R	H9005/H1366G=HR/Ncmsc	H3478=HNpl							
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.1.5#01=L	וְ/עֵינֵי/כֶ֖ם	ve./'ei.nei./Khem	and/ eyes/ your	H9002/{H5869A}/H9026	HC/Ncfdc/Sp2mp			H5869A			H9002=ו=and/{H5869A=עַ֫יִן=: eye»eye:1_eye}/H9026=Pp2m=your					
+Mal.1.5#02=L	תִּרְאֶ֑ינָה	tir.'Ei.nah	they will see	{H7200G}	HVqi3fp			H7200G			{H7200G=רָאָה=: see»to see:1_see;_show}					
+Mal.1.5#03=L	וְ/אַתֶּ֤ם	ve./'a.Tem	and/ you	H9002/{H0859D}	HC/Pp2mp			H0859D			H9002=ו=and/{H0859D=אַתֶּם=you(m.p.)}					
+Mal.1.5#04=L	תֹּֽאמְרוּ֙	to.me.Ru	you will say	{H0559}	HVqi2mp			H0559			{H0559=אָמַר=to say}					
+Mal.1.5#05=L	יִגְדַּ֣ל	yig.Dal	he is great	{H1431}	HVqi3ms			H1431			{H1431=גָּדַל=to magnify}					
+Mal.1.5#06=L	יְהוָ֔ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.1.5#07=L	מֵ/עַ֖ל	me./'Al	<from>/ over	H9006/{H5921A}	HR/R			H5921A			H9006=מ=from/{H5921A=עַל=upon}					
+Mal.1.5#08=L	לִ/גְב֥וּל	li/g.Vul	<to>/ [the] border of	H9005/{H1366G}	HR/Ncmsc			H1366G			H9005=ל=to/{H1366G=גְּבוּל=: boundary»border:1_boundary}					
+Mal.1.5#09=L	יִשְׂרָאֵֽל\׃	Yis.ra.'El	Israel	{H3478}\H9016	HNpl			H3478			{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}\H9016=׃=verseEnd					
+																
+# Mal.1.6	ben (בֵּ֛ן)	ye.kha.Bed (יְכַבֵּ֥ד)	'av (אָ֖ב)	ve.'E.ved (וְעֶ֣בֶד)	'a.do.Nav (אֲדֹנָ֑יו)	ve.'im- (וְאִם־)	'av (אָ֣ב)	'A.ni (אָ֣נִי)	'ai.Yeh (אַיֵּ֣ה)	khe.vo.Di (כְבוֹדִ֡י)						
+#_Translation	a son	he honors	a father	and/ a servant	master<s>/ his	and/ if	[am] a father	I	where?	[is] honor/ my						
+#_Word+Grammar	H1121A=HNcmsa	H3513G=HVpi3ms	H0001G=HNcmsa	H9002/H5650=HC/Ncmsa	H0113/H9023=HNcmpc/Sp3ms	H9002/H0518A=HC/Tc	H0001G=HNcmsa	H0589=HPp1bs	H0346=HTi	H3519/H9020=HNcbsc/Sp1ms						
+#_Significant variant																
+#_Mal.1.6	ve.'im- (וְאִם־)	'a.do.Nim (אֲדוֹנִ֣ים)	'a.Ni (אָנִי֩)	'ai.Yeh (אַיֵּ֨ה)	mo.ra.'I (מוֹרָאִ֜י)	'a.Mar (אָמַ֣ר׀)	Yah.weh (יְהוָ֣ה)	tze.va.'ot (צְבָא֗וֹת)	la.Khem (לָכֶם֙)	ha.ko.ha.Nim (הַכֹּֽהֲנִים֙)						
+#_Translation	and/ if	[am] a master<s>	I	where?	[is] fear/ my	he says	Yahweh	of hosts	to/ you	O/ priests						
+#_Word+Grammar	H9002/H0518A=HC/Tc	H0113=HNcmpa	H0589=HPp1bs	H0346=HTi	H4172A/H9020=HNcmsc/Sp1bs	H0559=HVqp3ms	H3068G=HNpt	H6635B=HNcfpa	H9005/H9036=HR/Sp2mp	H9009/H3548=HTd/Ncmpa						
+#_Significant variant																
+#_Mal.1.6	bo.Zei (בּוֹזֵ֣י)	she.Mi (שְׁמִ֔י)	va.'a.mar.Tem (וַאֲמַרְתֶּ֕ם)	ba.Meh (בַּמֶּ֥ה)	va.Zi.nu (בָזִ֖ינוּ)	'et- (אֶת־)	she.Me.kha (שְׁמֶֽךָ׃)									
+#_Translation	[who] despise	<of> name/ my	and/ you say	<in>/ how?	have we despised	<obj.>	name/ your									
+#_Word+Grammar	H0959=HVqrmpc	H8034/H9020=HNcmsc/Sp1bs	H9001/H0559=Hc/Vqq2mp	H9003/H4100=HR/Pi	H0959=HVqp1cp	H0853=HTo	H8034/H9021=HNcmsc/Sp2ms									
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.1.6#01=L	בֵּ֛ן	ben	a son	{H1121A}	HNcmsa			H1121A			{H1121A=בֵּן=: child»son:1_child;_son}					
+Mal.1.6#02=L	יְכַבֵּ֥ד	ye.kha.Bed	he honors	{H3513G}	HVpi3ms			H3513G			{H3513G=כָּבֵד=: honour»to honor:1_honour;_glory}					
+Mal.1.6#03=L	אָ֖ב	'av	a father	{H0001G}	HNcmsa			H0001G_A			{H0001G=אָב=father}					
+Mal.1.6#04=L	וְ/עֶ֣בֶד	ve./'E.ved	and/ a servant	H9002/{H5650}	HC/Ncmsa			H5650			H9002=ו=and/{H5650=עֶ֫בֶד=servant;_slave}					
+Mal.1.6#05=L	אֲדֹנָ֑י/ו	'a.do.Na/v	master<s>/ his	{H0113}/H9023	HNcmpc/Sp3ms			H0113_A			{H0113=אָדוֹן=lord}/H9023=Ps3m=his					
+Mal.1.6#06=L	וְ/אִם\־	ve./'im-	and/ if	H9002/{H0518A}\H9014	HC/Tc			H0518A_A			H9002=ו=and/{H0518A=אִם=: if»if:1_if;_whether_or;_though}\H9014=־=link					
+Mal.1.6#07=L	אָ֣ב	'av	[am] a father	{H0001G}	HNcmsa			H0001G_B			{H0001G=אָב=father}					
+Mal.1.6#08=L	אָ֣נִי	'A.ni	I	{H0589}	HPp1bs			H0589_A			{H0589=אֲנִי, אָֽנֹכִ֫י=I}					
+Mal.1.6#09=L	אַיֵּ֣ה	'ai.Yeh	where?	{H0346}	HTi			H0346_A			{H0346=אַיֵּה=where?}					
+Mal.1.6#10=L	כְבוֹדִ֡/י	khe.vo.D/i	[is] honor/ my	{H3519}/H9020	HNcbsc/Sp1ms			H3519			{H3519=כָּבוֹד=glory}/H9020=Ps1c=my					
+Mal.1.6#11=L	וְ/אִם\־	ve./'im-	and/ if	H9002/{H0518A}\H9014	HC/Tc			H0518A_B			H9002=ו=and/{H0518A=אִם=: if»if:1_if;_whether_or;_though}\H9014=־=link					
+Mal.1.6#12=L	אֲדוֹנִ֣ים	'a.do.Nim	[am] a master<s>	{H0113}	HNcmpa			H0113_B			{H0113=אָדוֹן=lord}					
+Mal.1.6#13=L	אָנִי֩	'a.Ni	I	{H0589}	HPp1bs			H0589_B			{H0589=אֲנִי, אָֽנֹכִ֫י=I}					
+Mal.1.6#14=L	אַיֵּ֨ה	'ai.Yeh	where?	{H0346}	HTi			H0346_B			{H0346=אַיֵּה=where?}					
+Mal.1.6#15=L	מוֹרָאִ֜/י	mo.ra.'/I	[is] fear/ my	{H4172A}/H9020	HNcmsc/Sp1bs			H4172A			{H4172A=מוֹרָא=fear}/H9020=Ps1c=my					
+Mal.1.6#16=L	אָמַ֣ר\׀	'a.Mar	he says	{H0559}\H9015	HVqp3ms			H0559_A			{H0559=אָמַר=to say}\H9015=׀=separate					
+Mal.1.6#17=L	יְהוָ֣ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.1.6#18=L	צְבָא֗וֹת	tze.va.'ot	of hosts	{H6635B}	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}					
+Mal.1.6#19=L	לָ/כֶם֙	la./Khem	to/ you	H9005/{H9036}	HR/Sp2mp			H9036			H9005=ל=to/{H9036=Op2m=you}					
+Mal.1.6#20=L	הַ/כֹּֽהֲנִים֙	ha./ko.ha.Nim	O/ priests	H9009/{H3548}	HTd/Ncmpa			H3548			H9009=ה=the/{H3548=כֹּהֵן=priest}					
+Mal.1.6#21=L	בּוֹזֵ֣י	bo.Zei	[who] despise	{H0959}	HVqrmpc			H0959_A			{H0959=בָּזָה=to despise}					
+Mal.1.6#22=L	שְׁמִ֔/י	she.M/i	<of> name/ my	{H8034}/H9020	HNcmsc/Sp1bs			H8034_A			{H8034=שֵׁם=name}/H9020=Ps1c=my					
+Mal.1.6#23=L	וַ/אֲמַרְתֶּ֕ם	va./'a.mar.Tem	and/ you say	H9001/{H0559}	Hc/Vqq2mp			H0559_B			H9001=ו=&/{H0559=אָמַר=to say}					
+Mal.1.6#24=L	בַּ/מֶּ֥ה	ba./Meh	<in>/ how?	H9003/{H4100}	HR/Pi			H4100			H9003=ב=in/{H4100=מָה=what?}					
+Mal.1.6#25=L	בָזִ֖ינוּ	va.Zi.nu	have we despised	{H0959}	HVqp1cp			H0959_B			{H0959=בָּזָה=to despise}					
+Mal.1.6#26=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853			{H0853=אֵת=[Obj.]}\H9014=־=link					
+Mal.1.6#27=L	שְׁמֶֽ/ךָ\׃	she.Me./kha	name/ your	{H8034}/H9021\H9016	HNcmsc/Sp2ms			H8034_B			{H8034=שֵׁם=name}/H9021=Ps2m=your\H9016=׃=verseEnd					
+																
+# Mal.1.7	ma.gi.Shim (מַגִּישִׁ֤ים)	'al- (עַֽל־)	miz.be.Chi (מִזְבְּחִי֙)	Le.chem (לֶ֣חֶם)	me.go.'Al (מְגֹאָ֔ל)	va.'a.mar.Tem (וַאֲמַרְתֶּ֖ם)	ba.Meh (בַּמֶּ֣ה)	ge.'al.Nu.kha (גֵֽאַלְנ֑וּךָ)	be.'e.ma.re.Khem (בֶּאֱמָרְכֶ֕ם)	shul.Chan (שֻׁלְחַ֥ן)						
+#_Translation	[you are] bringing near	on	altar/ my	food	defiled	and/ you say	<in>/ how?	have we defiled/ you	by/ saying/ you	[the] table of						
+#_Word+Grammar	H5066H=HVhrmpa	H5921A=HR	H4196/H9020=HNcmsc/Sp1bs	H3899G=HNcmsa	H1351=HVPsmsa	H9001/H0559=Hc/Vqq2mp	H9003/H4100=HR/Pi	H1351/H9031=HVpp1cp/Sp2ms	H9003/H0559/H9046=HR/Vqcc/Sp2mp	H7979=HNcmsc						
+#_Significant variant																
+#_Mal.1.7	Yah.weh (יְהוָ֖ה)	niv.Zeh (נִבְזֶ֥ה)	Hu' (הֽוּא׃)													
+#_Translation	Yahweh	[is] despicable	it													
+#_Word+Grammar	H3068G=HNpt	H0959=HVNrmsa	H1931=HPp3ms													
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.1.7#01=L	מַגִּישִׁ֤ים	ma.gi.Shim	[you are] bringing near	{H5066H}	HVhrmpa			H5066H			{H5066H=נָגַשׁ=: bring»to approach:2_bring;_offer}					
+Mal.1.7#02=L	עַֽל\־	'al-	on	{H5921A}\H9014	HR			H5921A			{H5921A=עַל=upon}\H9014=־=link					
+Mal.1.7#03=L	מִזְבְּחִ/י֙	miz.be.Ch/i	altar/ my	{H4196}/H9020	HNcmsc/Sp1bs			H4196			{H4196=מִזְבֵּחַ=altar}/H9020=Ps1c=my					
+Mal.1.7#04=L	לֶ֣חֶם	Le.chem	food	{H3899G}	HNcmsa			H3899G			{H3899G=לֶ֫חֶם=: food(eating)»food:1_food(eating)}					
+Mal.1.7#05=L	מְגֹאָ֔ל	me.go.'Al	defiled	{H1351}	HVPsmsa			H1351_A			{H1351=גָּאַל=to defile}					
+Mal.1.7#06=L	וַ/אֲמַרְתֶּ֖ם	va./'a.mar.Tem	and/ you say	H9001/{H0559}	Hc/Vqq2mp			H0559_A			H9001=ו=&/{H0559=אָמַר=to say}					
+Mal.1.7#07=L	בַּ/מֶּ֣ה	ba./Meh	<in>/ how?	H9003/{H4100}	HR/Pi			H4100			H9003=ב=in/{H4100=מָה=what?}					
+Mal.1.7#08=L	גֵֽאַלְנ֑וּ/ךָ	ge.'al.Nu./kha	have we defiled/ you	{H1351}/H9031	HVpp1cp/Sp2ms			H1351_B			{H1351=גָּאַל=to defile}/H9031=Os2m=you					
+Mal.1.7#09=L	בֶּ/אֱמָרְ/כֶ֕ם	be./'e.ma.re./Khem	by/ saying/ you	H9003/{H0559}/H9046	HR/Vqcc/Sp2mp			H0559_B			H9003=ב=in/{H0559=אָמַר=to say}/H9046=Sp2m=you					
+Mal.1.7#10=L	שֻׁלְחַ֥ן	shul.Chan	[the] table of	{H7979}	HNcmsc			H7979			{H7979=שֻׁלְחָן=table}					
+Mal.1.7#11=L	יְהוָ֖ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.1.7#12=L	נִבְזֶ֥ה	niv.Zeh	[is] despicable	{H0959}	HVNrmsa			H0959			{H0959=בָּזָה=to despise}					
+Mal.1.7#13=L	הֽוּא\׃	Hu'	it	{H1931}\H9016	HPp3ms			H1931			{H1931=הוּא=he;_she;_it}\H9016=׃=verseEnd					
+																
+# Mal.1.8	ve.khi- (וְכִֽי־)	ta.gi.Shun (תַגִּשׁ֨וּן)	'i.Ver (עִוֵּ֤ר)	liz.Bo.ach (לִזְבֹּ֙חַ֙)	'ein (אֵ֣ין)	Ra' (רָ֔ע)	ve.Khi (וְכִ֥י)	ta.Gi.shu (תַגִּ֛ישׁוּ)	pi.Se.ach (פִּסֵּ֥חַ)	ve.cho.Leh (וְחֹלֶ֖ה)						
+#_Translation	and/ if	you bring near/ !	a blind [animal]	to/ sacrifice	not?	[is it] evil	and/ if	you bring near	a lame [animal]	and/ a sick [animal]						
+#_Word+Grammar	H9002/H3588A=HC/Tc	H5066H/H9013=HVhi2mp/Sn	H5787=HAamsa	H9005/H2076=HR/Vqcc	H0369=HNcmsc	H7451H=HAamsa	H9002/H3588A=HC/Tc	H5066H=HVhi2mp	H6455=HAamsa	H9002/H2470H=HC/Vqrmsa						
+#_Significant variant																
+#_Mal.1.8	'ein (אֵ֣ין)	Ra' (רָ֑ע)	hak.ri.Ve.hu (הַקְרִיבֵ֨הוּ)	na' (נָ֜א)	le.fe.cha.Te.kha (לְפֶחָתֶ֗ךָ)	ha.yir.tze.Kha (הֲיִרְצְךָ֙)	'o (א֚וֹ)	ha.yi.Sa' (הֲיִשָּׂ֣א)	fa.Nei.kha (פָנֶ֔יךָ)	'a.Mar (אָמַ֖ר)						
+#_Translation	[is it] not?	evil	bring near/ it	please	to/ governor/ your	¿/ will he be pleased with/ you	or	¿/ will he lift up	face/ your	he says						
+#_Word+Grammar	H0369=HNcmsc	H7451H=HAamsa	H7126H/H9033=HVhv2ms/Sp3ms	H4994=HTj	H9005/H6346/H9021=HR/Ncfsc/Sp2ms	H9008/H7521/H9031=HTi/Vqi3ms/Sp2ms	H0176A=HC	H9008/H5375Q=HTi/Vqi3ms	H6440N/H9021=HNcmpc/Sp2ms	H0559=HVqp3ms						
+#_Significant variant																
+#_Mal.1.8	Yah.weh (יְהוָ֥ה)	tze.va.'ot (צְבָאֽוֹת׃)														
+#_Translation	Yahweh	of hosts														
+#_Word+Grammar	H3068G=HNpt	H6635B=HNcfpa														
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.1.8#01=L	וְ/כִֽי\־	ve./khi-	and/ if	H9002/{H3588A}\H9014	HC/Tc			H3588A_A			H9002=ו=and/{H3588A=כִּי=for}\H9014=־=link					
+Mal.1.8#02=L	תַגִּשׁ֨וּ/ן	ta.gi.Shu/n	you bring near/ !	{H5066H}/H9013	HVhi2mp/Sn			H5066H_A			{H5066H=נָגַשׁ=: bring»to approach:2_bring;_offer}/H9013=נ=emph.					
+Mal.1.8#03=L	עִוֵּ֤ר	'i.Ver	a blind [animal]	{H5787}	HAamsa			H5787			{H5787=עִוֵּר=blind}					
+Mal.1.8#04=L	לִ/זְבֹּ֙חַ֙	li/z.Bo.ach	to/ sacrifice	H9005/{H2076}	HR/Vqcc			H2076			H9005=ל=to/{H2076=זָבַח=to sacrifice}					
+Mal.1.8#05=L	אֵ֣ין	'ein	not?	{H0369}	HNcmsc			H0369_A			{H0369=אַ֫יִן=nothing}					
+Mal.1.8#06=L	רָ֔ע	Ra'	[is it] evil	{H7451H}	HAamsa			H7451H_A			{H7451H=רַע=: evil»bad:2_evil}					
+Mal.1.8#07=L	וְ/כִ֥י	ve./Khi	and/ if	H9002/{H3588A}	HC/Tc			H3588A_B			H9002=ו=and/{H3588A=כִּי=for}					
+Mal.1.8#08=L	תַגִּ֛ישׁוּ	ta.Gi.shu	you bring near	{H5066H}	HVhi2mp			H5066H_B			{H5066H=נָגַשׁ=: bring»to approach:2_bring;_offer}					
+Mal.1.8#09=L	פִּסֵּ֥חַ	pi.Se.ach	a lame [animal]	{H6455}	HAamsa			H6455			{H6455=פִּסֵּחַ=lame}					
+Mal.1.8#10=L	וְ/חֹלֶ֖ה	ve./cho.Leh	and/ a sick [animal]	H9002/{H2470H}	HC/Vqrmsa			H2470H			H9002=ו=and/{H2470H=חָלָה=: ill»be weak:2_ill;_injured}					
+Mal.1.8#11=L	אֵ֣ין	'ein	[is it] not?	{H0369}	HNcmsc			H0369_B			{H0369=אַ֫יִן=nothing}					
+Mal.1.8#12=L	רָ֑ע	Ra'	evil	{H7451H}	HAamsa			H7451H_B			{H7451H=רַע=: evil»bad:2_evil}					
+Mal.1.8#13=L	הַקְרִיבֵ֨/הוּ	hak.ri.Ve./hu	bring near/ it	{H7126H}/H9033	HVhv2ms/Sp3ms			H7126H			{H7126H=קָרַב=: bring»to present:2_bring;_offer}/H9033=Os3m=him					
+Mal.1.8#14=L	נָ֜א	na'	please	{H4994}	HTj			H4994			{H4994=נָא=please}					
+Mal.1.8#15=L	לְ/פֶחָתֶ֗/ךָ	le./fe.cha.Te./kha	to/ governor/ your	H9005/{H6346}/H9021	HR/Ncfsc/Sp2ms			H6346			H9005=ל=to/{H6346=פֶּחָה=governor}/H9021=Ps2m=your					
+Mal.1.8#16=L	הֲ/יִרְצְ/ךָ֙	ha./yir.tze./Kha	¿/ will he be pleased with/ you	H9008/{H7521}/H9031	HTi/Vqi3ms/Sp2ms			H7521			H9008=ה=¿/{H7521=רָצָה=to accept}/H9031=Os2m=you					
+Mal.1.8#17=L	א֚וֹ	'o	or	{H0176A}	HC			H0176A			{H0176A=אוֹ=or}					
+Mal.1.8#18=L	הֲ/יִשָּׂ֣א	ha./yi.Sa'	¿/ will he lift up	H9008/{H5375Q}	HTi/Vqi3ms			H5375Q			H9008=ה=¿/{H5375Q=נָשָׂא=: kindness»to lift:11_kindness;_honour;_favour;_lift(head;_face)}					
+Mal.1.8#19=L	פָנֶ֔י/ךָ	fa.Nei./kha	face/ your	{H6440N}/H9021	HNcmpc/Sp2ms			H6440N			{H6440N=פָּנֶה=: kindness»face:8_kindness;_honour;_favour;_lift(head;_face)}/H9021=Ps2m=your					
+Mal.1.8#20=L	אָמַ֖ר	'a.Mar	he says	{H0559}	HVqp3ms			H0559			{H0559=אָמַר=to say}					
+Mal.1.8#21=L	יְהוָ֥ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.1.8#22=L	צְבָאֽוֹת\׃	tze.va.'ot	of hosts	{H6635B}\H9016	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}\H9016=׃=verseEnd					
+																
+# Mal.1.9	ve.'a.Tah (וְעַתָּ֛ה)	cha.lu- (חַלּוּ־)	na' (נָ֥א)	fe.nei- (פְנֵי־)	'el (אֵ֖ל)	vi.cha.Ne.nu (וִֽיחָנֵ֑נוּ)	mi.yed.Khem (מִיֶּדְכֶם֙)	Ha.ye.tah (הָ֣יְתָה)	Zot (זֹּ֔את)	ha.yi.Sa' (הֲיִשָּׂ֤א)						
+#_Translation	and/ now	entreat	please	[the] face of	God	so/ he may show favor to/ us	from/ hand/ your	it was	this	¿/ will he lift up						
+#_Word+Grammar	H9002/H6258=HC/D	H2470B=HVpv2mp	H4994=HTj	H6440L=HNcmpc	H0410G=HNcmsa	H9002/H2603A/H9035=HC/Vqu3ms/Sp1bp	H9006/H3027H/H9026=HR/Ncbsc/Sp2mp	H1961=HVqp3fs	H2063=HTm	H9008/H5375Q=HTi/Vqi3ms						
+#_Significant variant																
+#_Mal.1.9	mi.Kem (מִכֶּם֙)	pa.Nim (פָּנִ֔ים)	'a.Mar (אָמַ֖ר)	Yah.weh (יְהוָ֥ה)	tze.va.'ot (צְבָאֽוֹת׃)											
+#_Translation	any of <the>/ you	face	he says	Yahweh	of hosts											
+#_Word+Grammar	H9006/H9036=HRd/Sp2mp	H6440N=HNcmpa	H0559=HVqp3ms	H3068G=HNpt	H6635B=HNcfpa											
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.1.9#01=L	וְ/עַתָּ֛ה	ve./'a.Tah	and/ now	H9002/{H6258}	HC/D			H6258			H9002=ו=and/{H6258=עַתָּ֫ה=now}					
+Mal.1.9#02=L	חַלּוּ\־	cha.lu-	entreat	{H2470B}\H9014	HVpv2mp			H2470B			{H2470B=חָלָה=to beg}\H9014=־=link					
+Mal.1.9#03=L	נָ֥א	na'	please	{H4994}	HTj			H4994			{H4994=נָא=please}					
+Mal.1.9#04=L	פְנֵי\־	fe.nei-	[the] face of	{H6440L}\H9014	HNcmpc			H6440L_A			{H6440L=פָּנֶה=: PERSON»face:6_(PERSON_eg_'his_face' ie 'him')[face]}\H9014=־=link					
+Mal.1.9#05=L	אֵ֖ל	'el	God	{H0410G}	HNcmsa			H0410G			{H0410G=אֵל=God»LORD@Gen.1.1-Heb}					
+Mal.1.9#06=L	וִֽ/יחָנֵ֑/נוּ	vi./cha.Ne./nu	so/ he may show favor to/ us	H9002/{H2603A}/H9035	HC/Vqu3ms/Sp1bp			H2603A			H9002=ו=and/{H2603A=חָנַן=be gracious}/H9035=Op1c=us					
+Mal.1.9#07=L	מִ/יֶּדְ/כֶם֙	mi./yed./Khem	from/ hand/ your	H9006/{H3027H}/H9026	HR/Ncbsc/Sp2mp			H3027H			H9006=מ=from/{H3027H=יָד=: power»hand:2_power;_rule;_ownership}/H9026=Pp2m=your					
+Mal.1.9#08=L	הָ֣יְתָה	Ha.ye.tah	it was	{H1961}	HVqp3fs			H1961			{H1961=הָיָה=to be}					
+Mal.1.9#09=L	זֹּ֔את	Zot	this	{H2063}	HTm			H2063			{H2063=זֹאת=this}					
+Mal.1.9#10=L	הֲ/יִשָּׂ֤א	ha./yi.Sa'	¿/ will he lift up	H9008/{H5375Q}	HTi/Vqi3ms			H5375Q			H9008=ה=¿/{H5375Q=נָשָׂא=: kindness»to lift:11_kindness;_honour;_favour;_lift(head;_face)}					
+Mal.1.9#11=L	מִ/כֶּם֙	mi./Kem	any of <the>/ you	H9006/{H9036}	HRd/Sp2mp			H9036			H9006=מ=from/{H9036=Op2m=you}					
+Mal.1.9#12=L	פָּנִ֔ים	pa.Nim	face	{H6440N}	HNcmpa			H6440N			{H6440N=פָּנֶה=: kindness»face:8_kindness;_honour;_favour;_lift(head;_face)}					
+Mal.1.9#13=L	אָמַ֖ר	'a.Mar	he says	{H0559}	HVqp3ms			H0559			{H0559=אָמַר=to say}					
+Mal.1.9#14=L	יְהוָ֥ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.1.9#15=L	צְבָאֽוֹת\׃	tze.va.'ot	of hosts	{H6635B}\H9016	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}\H9016=׃=verseEnd					
+																
+# Mal.1.10	mi (מִ֤י)	gam- (גַם־)	ba.Khem (בָּכֶם֙)	ve.yis.Gor (וְיִסְגֹּ֣ר)	de.la.Ta.yim (דְּלָתַ֔יִם)	ve.lo'- (וְלֹֽא־)	ta.'I.ru (תָאִ֥ירוּ)	miz.be.Chi (מִזְבְּחִ֖י)	chi.Nam (חִנָּ֑ם)	'ein- (אֵֽין־)						
+#_Translation	who?	also	[is] among/ you	so/ he may shut	[the] doors	and/ not	you will set light to	altar/ my	in vain	not						
+#_Word+Grammar	H4310=HPi	H1571=HD	H9003/H9036=HR/Sp2mp	H9002/H5462=HC/Vqu3ms	H1817C=HNcfda	H9002/H3808=HC/Tn	H0215=HVhi2mp	H4196/H9020=HNcmsc/Sp1bs	H2600=HD	H0369=HNcmsc						
+#_Significant variant																
+#_Mal.1.10	li (לִ֨י)	Che.fetz (חֵ֜פֶץ)	ba.Khem (בָּכֶ֗ם)	'a.Mar (אָמַר֙)	Yah.weh (יְהוָ֣ה)	tze.va.'ot (צְבָא֔וֹת)	u.min.Chah (וּמִנְחָ֖ה)	lo'- (לֹֽא־)	'er.Tzeh (אֶרְצֶ֥ה)	mi.yed.Khem (מִיֶּדְכֶֽם׃)						
+#_Translation	[belongs] to/ me	pleasure	in/ you	he says	Yahweh	of hosts	and/ an offering	not	I will accept	from/ hand/ your						
+#_Word+Grammar	H9005/H9030=HR/Sp1bs	H2656=HNcmsa	H9003/H9036=HR/Sp2mp	H0559=HVqp3ms	H3068G=HNpt	H6635B=HNcfpa	H9002/H4503G=HC/Ncfsa	H3808=HTn	H7521=HVqi1cs	H9006/H3027H/H9026=HR/Ncbsc/Sp2mp						
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.1.10#01=L	מִ֤י	mi	who?	{H4310}	HPi			H4310			{H4310=מִי=who?}					
+Mal.1.10#02=L	גַם\־	gam-	also	{H1571}\H9014	HD			H1571			{H1571=גַּם=also}\H9014=־=link					
+Mal.1.10#03=L	בָּ/כֶם֙	ba./Khem	[is] among/ you	H9003/{H9036}	HR/Sp2mp			H9036_A			H9003=ב=in/{H9036=Op2m=you}					
+Mal.1.10#04=L	וְ/יִסְגֹּ֣ר	ve./yis.Gor	so/ he may shut	H9002/{H5462}	HC/Vqu3ms			H5462			H9002=ו=and/{H5462=סָגַר=to shut}					
+Mal.1.10#05=L	דְּלָתַ֔יִם	de.la.Ta.yim	[the] doors	{H1817C}	HNcfda			H1817C			{H1817C=דֶּ֫לֶת=door}					
+Mal.1.10#06=L	וְ/לֹֽא\־	ve./lo'-	and/ not	H9002/{H3808}\H9014	HC/Tn			H3808_A			H9002=ו=and/{H3808=לֹא=not}\H9014=־=link					
+Mal.1.10#07=L	תָאִ֥ירוּ	ta.'I.ru	you will set light to	{H0215}	HVhi2mp			H0215			{H0215=אוֹר=to light}					
+Mal.1.10#08=L	מִזְבְּחִ֖/י	miz.be.Ch/i	altar/ my	{H4196}/H9020	HNcmsc/Sp1bs			H4196			{H4196=מִזְבֵּחַ=altar}/H9020=Ps1c=my					
+Mal.1.10#09=L	חִנָּ֑ם	chi.Nam	in vain	{H2600}	HD			H2600			{H2600=חִנָּם=for nothing}					
+Mal.1.10#10=L	אֵֽין\־	'ein-	not	{H0369}\H9014	HNcmsc			H0369			{H0369=אַ֫יִן=nothing}\H9014=־=link					
+Mal.1.10#11=L	לִ֨/י	l/i	[belongs] to/ me	H9005/{H9030}	HR/Sp1bs			H9030			H9005=ל=to/{H9030=Os1c=me}					
+Mal.1.10#12=L	חֵ֜פֶץ	Che.fetz	pleasure	{H2656}	HNcmsa			H2656			{H2656=חֵ֫פֶץ=pleasure}					
+Mal.1.10#13=L	בָּ/כֶ֗ם	ba./Khem	in/ you	H9003/{H9036}	HR/Sp2mp			H9036_B			H9003=ב=in/{H9036=Op2m=you}					
+Mal.1.10#14=L	אָמַר֙	'a.Mar	he says	{H0559}	HVqp3ms			H0559			{H0559=אָמַר=to say}					
+Mal.1.10#15=L	יְהוָ֣ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.1.10#16=L	צְבָא֔וֹת	tze.va.'ot	of hosts	{H6635B}	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}					
+Mal.1.10#17=L	וּ/מִנְחָ֖ה	u./min.Chah	and/ an offering	H9002/{H4503G}	HC/Ncfsa			H4503G			H9002=ו=and/{H4503G=מִנְחָה=: offering»offering:1_offering;_sacrifice}					
+Mal.1.10#18=L	לֹֽא\־	lo'-	not	{H3808}\H9014	HTn			H3808_B			{H3808=לֹא=not}\H9014=־=link					
+Mal.1.10#19=L	אֶרְצֶ֥ה	'er.Tzeh	I will accept	{H7521}	HVqi1cs			H7521			{H7521=רָצָה=to accept}					
+Mal.1.10#20=L	מִ/יֶּדְ/כֶֽם\׃	mi./yed./Khem	from/ hand/ your	H9006/{H3027H}/H9026\H9016	HR/Ncbsc/Sp2mp			H3027H			H9006=מ=from/{H3027H=יָד=: power»hand:2_power;_rule;_ownership}/H9026=Pp2m=your\H9016=׃=verseEnd					
+																
+# Mal.1.11	ki (כִּ֣י)	mi.miz.rach- (מִמִּזְרַח־)	She.mesh (שֶׁ֜מֶשׁ)	ve.'ad- (וְעַד־)	me.vo.'O (מְבוֹא֗וֹ)	ga.Dol (גָּד֤וֹל)	she.Mi (שְׁמִי֙)	ba.go.Yim (בַּגּוֹיִ֔ם)	u.ve.Khol- (וּבְכָל־)	ma.Kom (מָק֗וֹם)						
+#_Translation	for	from/ [the] rising of	[the] sun	and/ to	setting/ its	[is] great	name/ my	among the/ nations	and/ in/ every	place						
+#_Word+Grammar	H3588A=HTc	H9006/H4217H=HR/Ncmsc	H8121=HNcbsa	H9002/H5704=HC/R	H3996/H9023=HNcmsc/Sp3ms	H1419A=HAamsa	H8034/H9020=HNcmsc/Sp1bs	H9003/H1471A=HRd/Ncmpa	H9002/H9003/H3605=HC/R/Ncmsc	H4725=HNcmsa						
+#_Significant variant																
+#_Mal.1.11	muk.Tar (מֻקְטָ֥ר)	mu.Gash (מֻגָּ֛שׁ)	lish.Mi (לִשְׁמִ֖י)	u.min.Chah (וּמִנְחָ֣ה)	te.ho.Rah (טְהוֹרָ֑ה)	ki- (כִּֽי־)	ga.Dol (גָד֤וֹל)	she.Mi (שְׁמִי֙)	ba.go.Yim (בַּגּוֹיִ֔ם)	'a.Mar (אָמַ֖ר)						
+#_Translation	incense	[is being] brought near	to/ name/ my	and/ an offering	a pure	for	[is] great	name/ my	among the/ nations	he says						
+#_Word+Grammar	H6999B=HVHsmsa	H5066H=HVHsmsa	H9005/H8034/H9020=HR/Ncmsc/Sp1bs	H9002/H4503G=HC/Ncfsa	H2889=HAafsa	H3588A=HTc	H1419A=HAamsa	H8034/H9020=HNcmsc/Sp1bs	H9003/H1471A=HRd/Ncmpa	H0559=HVqp3ms						
+#_Significant variant																
+#_Mal.1.11	Yah.weh (יְהוָ֥ה)	tze.va.'ot (צְבָאֽוֹת׃)														
+#_Translation	Yahweh	of hosts														
+#_Word+Grammar	H3068G=HNpt	H6635B=HNcfpa														
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.1.11#01=L	כִּ֣י	ki	for	{H3588A}	HTc			H3588A_A			{H3588A=כִּי=for}					
+Mal.1.11#02=L	מִ/מִּזְרַח\־	mi./miz.rach-	from/ [the] rising of	H9006/{H4217H}\H9014	HR/Ncmsc			H4217H			H9006=מ=from/{H4217H=מִזְרָח=east}\H9014=־=link					
+Mal.1.11#03=L	שֶׁ֜מֶשׁ	She.mesh	[the] sun	{H8121}	HNcbsa			H8121			{H8121=שֶׁ֫מֶשׁ=sun}					
+Mal.1.11#04=L	וְ/עַד\־	ve./'ad-	and/ to	H9002/{H5704}\H9014	HC/R			H5704			H9002=ו=and/{H5704=עַד=till}\H9014=־=link					
+Mal.1.11#05=L	מְבוֹא֗/וֹ	me.vo.'/O	setting/ its	{H3996}/H9023	HNcmsc/Sp3ms			H3996			{H3996=מָבוֹא=entrance}/H9023=Ps3m=his					
+Mal.1.11#06=L	גָּד֤וֹל	ga.Dol	[is] great	{H1419A}	HAamsa			H1419A_A			{H1419A=גַּל=: large»great:1_large}					
+Mal.1.11#07=L	שְׁמִ/י֙	she.M/i	name/ my	{H8034}/H9020	HNcmsc/Sp1bs			H8034_A			{H8034=שֵׁם=name}/H9020=Ps1c=my					
+Mal.1.11#08=L	בַּ/גּוֹיִ֔ם	ba./go.Yim	among the/ nations	H9003/{H1471A}	HRd/Ncmpa			H1471A_A			H9003=ב=in/{H1471A=גּוֹי=nation}					
+Mal.1.11#09=L	וּ/בְ/כָל\־	u./ve./Khol-	and/ in/ every	H9002/H9003/{H3605}\H9014	HC/R/Ncmsc			H3605			H9002=ו=and/H9003=ב=in/{H3605=כֹּל=all}\H9014=־=link					
+Mal.1.11#10=L	מָק֗וֹם	ma.Kom	place	{H4725}	HNcmsa			H4725			{H4725=מָקוֹם=standing place}					
+Mal.1.11#11=L	מֻקְטָ֥ר	muk.Tar	incense	{H6999B}	HVHsmsa			H6999B			{H6999B=מֻקְטָר=incense}					
+Mal.1.11#12=L	מֻגָּ֛שׁ	mu.Gash	[is being] brought near	{H5066H}	HVHsmsa			H5066H			{H5066H=נָגַשׁ=: bring»to approach:2_bring;_offer}					
+Mal.1.11#13=L	לִ/שְׁמִ֖/י	li/sh.M/i	to/ name/ my	H9005/{H8034}/H9020	HR/Ncmsc/Sp1bs			H8034_B			H9005=ל=to/{H8034=שֵׁם=name}/H9020=Ps1c=my					
+Mal.1.11#14=L	וּ/מִנְחָ֣ה	u./min.Chah	and/ an offering	H9002/{H4503G}	HC/Ncfsa			H4503G			H9002=ו=and/{H4503G=מִנְחָה=: offering»offering:1_offering;_sacrifice}					
+Mal.1.11#15=L	טְהוֹרָ֑ה	te.ho.Rah	a pure	{H2889}	HAafsa			H2889			{H2889=טָהוֹר=clean}					
+Mal.1.11#16=L	כִּֽי\־	ki-	for	{H3588A}\H9014	HTc			H3588A_B			{H3588A=כִּי=for}\H9014=־=link					
+Mal.1.11#17=L	גָד֤וֹל	ga.Dol	[is] great	{H1419A}	HAamsa			H1419A_B			{H1419A=גַּל=: large»great:1_large}					
+Mal.1.11#18=L	שְׁמִ/י֙	she.M/i	name/ my	{H8034}/H9020	HNcmsc/Sp1bs			H8034_C			{H8034=שֵׁם=name}/H9020=Ps1c=my					
+Mal.1.11#19=L	בַּ/גּוֹיִ֔ם	ba./go.Yim	among the/ nations	H9003/{H1471A}	HRd/Ncmpa			H1471A_B			H9003=ב=in/{H1471A=גּוֹי=nation}					
+Mal.1.11#20=L	אָמַ֖ר	'a.Mar	he says	{H0559}	HVqp3ms			H0559			{H0559=אָמַר=to say}					
+Mal.1.11#21=L	יְהוָ֥ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.1.11#22=L	צְבָאֽוֹת\׃	tze.va.'ot	of hosts	{H6635B}\H9016	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}\H9016=׃=verseEnd					
+																
+# Mal.1.12	ve.'a.Tem (וְאַתֶּ֖ם)	me.cha.le.Lim (מְחַלְּלִ֣ים)	'o.To (אוֹת֑וֹ)	be.'e.ma.re.Khem (בֶּאֱמָרְכֶ֗ם)	shul.Chan (שֻׁלְחַ֤ן)	'a.do.Nai (אֲדֹנָי֙)	me.go.'Al (מְגֹאָ֣ל)	Hu' (ה֔וּא)	ve.ni.Vo (וְנִיב֖וֹ)	niv.Zeh (נִבְזֶ֥ה)						
+#_Translation	and/ you	[are] profaning	<obj.>/ it	by/ saying/ you	[the] table of	[the] Lord	[is] defiled	it	and/ fruit/ its	[is] despicable						
+#_Word+Grammar	H9002/H0859D=HC/Pp2mp	H2490H=HVprmpa	H0853/H9033=HTo/Sp3ms	H9003/H0559/H9046=HR/Vqcc/Sp2mp	H7979=HNcmsc	H0136=HNpt	H1351=HVPsmsa	H1931=HPp3ms	H9002/H5108B/H9023=HC/Ncmsc/Sp3ms	H0959=HVNrmsa						
+#_Significant variant																
+#_Mal.1.12	'a.khe.Lo (אָכְלֽוֹ׃)															
+#_Translation	food/ its															
+#_Word+Grammar	H0400/H9023=HNcmsc/Sp3ms															
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.1.12#01=L	וְ/אַתֶּ֖ם	ve./'a.Tem	and/ you	H9002/{H0859D}	HC/Pp2mp			H0859D			H9002=ו=and/{H0859D=אַתֶּם=you(m.p.)}					
+Mal.1.12#02=L	מְחַלְּלִ֣ים	me.cha.le.Lim	[are] profaning	{H2490H}	HVprmpa			H2490H			{H2490H=חָלַל=: profane»to profane;_begin:2_profane}					
+Mal.1.12#03=L	אוֹת֑/וֹ	'o.T/o	<obj.>/ it	{H0853}/H9033	HTo/Sp3ms			H0853			{H0853=אֵת=[Obj.]}/H9033=Os3m=him					
+Mal.1.12#04=L	בֶּ/אֱמָרְ/כֶ֗ם	be./'e.ma.re./Khem	by/ saying/ you	H9003/{H0559}/H9046	HR/Vqcc/Sp2mp			H0559			H9003=ב=in/{H0559=אָמַר=to say}/H9046=Sp2m=you					
+Mal.1.12#05=L	שֻׁלְחַ֤ן	shul.Chan	[the] table of	{H7979}	HNcmsc			H7979			{H7979=שֻׁלְחָן=table}					
+Mal.1.12#06=L	אֲדֹנָי֙	'a.do.Nai	[the] Lord	{H0136}	HNpt			H0136			{H0136=אֲדֹנָי=Lord»LORD@Gen.1.1-Heb}					
+Mal.1.12#07=L	מְגֹאָ֣ל	me.go.'Al	[is] defiled	{H1351}	HVPsmsa			H1351			{H1351=גָּאַל=to defile}					
+Mal.1.12#08=L	ה֔וּא	Hu'	it	{H1931}	HPp3ms			H1931			{H1931=הוּא=he;_she;_it}					
+Mal.1.12#09=L	וְ/נִיב֖/וֹ	ve./ni.V/o	and/ fruit/ its	H9002/{H5108B}/H9023	HC/Ncmsc/Sp3ms			H5108B			H9002=ו=and/{H5108B=נִיב=fruit}/H9023=Ps3m=his					
+Mal.1.12#10=L	נִבְזֶ֥ה	niv.Zeh	[is] despicable	{H0959}	HVNrmsa			H0959			{H0959=בָּזָה=to despise}					
+Mal.1.12#11=L	אָכְלֽ/וֹ\׃	'a.khe.L/o	food/ its	{H0400}/H9023\H9016	HNcmsc/Sp3ms			H0400			{H0400=אֹ֫כֶל=food}/H9023=Ps3m=his\H9016=׃=verseEnd					
+																
+# Mal.1.13	va.'a.mar.Tem (וַאֲמַרְתֶּם֩)	hi.Neh (הִנֵּ֨ה)	ma.te.la.'Ah (מַתְּלָאָ֜ה)	ve.hi.pach.Tem (וְהִפַּחְתֶּ֣ם)	'o.To (אוֹת֗וֹ)	'a.Mar (אָמַר֙)	Yah.weh (יְהוָ֣ה)	tze.va.'ot (צְבָא֔וֹת)	va.ha.ve.Tem (וַהֲבֵאתֶ֣ם)	ga.Zul (גָּז֗וּל)						
+#_Translation	and/ you say	there!	what/ weariness!	and/ you sniff at	<obj.>/ it	he says	Yahweh	of hosts	and/ you bring	a stolen [animal]						
+#_Word+Grammar	H9001/H0559=Hc/Vqq2mp	H2009=HTj	H4100/H8513=HPi/Ncfsa	H9001/H5301=Hc/Vhq2mp	H0853/H9033=HTo/Sp3ms	H0559=HVqp3ms	H3068G=HNpt	H6635B=HNcfpa	H9001/H0935P=Hc/Vhq2mp	H1497=HVqsmsa						
+#_Significant variant																
+#_Mal.1.13	ve.'Et (וְאֶת־)	ha.pi.Se.ach (הַפִּסֵּ֙חַ֙)	ve.'Et (וְאֶת־)	ha.cho.Leh (הַ֣חוֹלֶ֔ה)	va.ha.ve.Tem (וַהֲבֵאתֶ֖ם)	'et- (אֶת־)	ha.min.Chah (הַמִּנְחָ֑ה)	ha.'er.Tzeh (הַאֶרְצֶ֥ה)	'o.Tah (אוֹתָ֛הּ)	mi.yed.Khem (מִיֶּדְכֶ֖ם)						
+#_Translation	and/ <obj.>	the/ lame [animal]	and/ <obj.>	the/ sick [animal]	and/ you bring	<obj.>	the/ offering	¿/ will I accept	<obj.>/ it	from/ hand/ your						
+#_Word+Grammar	H9002/H0853=HC/To	H9009/H6455=HTd/Aamsa	H9002/H0853=HC/To	H9009/H2470H=HTd/Vqrmsa	H9001/H0935P=Hc/Vhq2mp	H0853=HTo	H9009/H4503G=HTd/Ncfsa	H9008/H7521=HTi/Vqi1cs	H0853/H9034=HTo/Sp3fs	H9006/H3027H/H9026=HR/Ncbsc/Sp2mp						
+#_Significant variant																
+#_Mal.1.13	'a.Mar (אָמַ֥ר)	Yah.weh (יְהוָֽה׃ ס)														
+#_Translation	he says	Yahweh														
+#_Word+Grammar	H0559=HVqp3ms	H3068G\ =HNpt														
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.1.13#01=L	וַ/אֲמַרְתֶּם֩	va./'a.mar.Tem	and/ you say	H9001/{H0559}	Hc/Vqq2mp			H0559_A			H9001=ו=&/{H0559=אָמַר=to say}					
+Mal.1.13#02=L	הִנֵּ֨ה	hi.Neh	there!	{H2009}	HTj			H2009			{H2009=הִנֵּה=behold}					
+Mal.1.13#03=L	מַ/תְּלָאָ֜ה	ma./te.la.'Ah	what/ weariness!	{H4100}/{H8513}	HPi/Ncfsa			H4100, H8513	H4972		{H4100=מָה=what?}/{H8513=תְּלָאָה=hardship}					
+Mal.1.13#04=L	וְ/הִפַּחְתֶּ֣ם	ve./hi.pach.Tem	and/ you sniff at	H9001/{H5301}	Hc/Vhq2mp			H5301			H9001=ו=&/{H5301=נָפַח=to breathe}					
+Mal.1.13#05=L	אוֹת֗/וֹ	'o.T/o	<obj.>/ it	{H0853}/H9033	HTo/Sp3ms			H0853_A			{H0853=אֵת=[Obj.]}/H9033=Os3m=him					
+Mal.1.13#06=L	אָמַר֙	'a.Mar	he says	{H0559}	HVqp3ms			H0559_B			{H0559=אָמַר=to say}					
+Mal.1.13#07=L	יְהוָ֣ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G_A			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.1.13#08=L	צְבָא֔וֹת	tze.va.'ot	of hosts	{H6635B}	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}					
+Mal.1.13#09=L	וַ/הֲבֵאתֶ֣ם	va./ha.ve.Tem	and/ you bring	H9001/{H0935P}	Hc/Vhq2mp			H0935P_A			H9001=ו=&/{H0935P=בּוֹא=: bring»to come (in):2_bring;_take_in}					
+Mal.1.13#10=L	גָּז֗וּל	ga.Zul	a stolen [animal]	{H1497}	HVqsmsa			H1497			{H1497=גָּזַל=to plunder}					
+Mal.1.13#11=L	וְ/אֶת\־	ve./'Et	and/ <obj.>	H9002/{H0853}\H9014	HC/To			H0853_B			H9002=ו=and/{H0853=אֵת=[Obj.]}\H9014=־=link					
+Mal.1.13#12=L	הַ/פִּסֵּ֙חַ֙	ha./pi.Se.ach	the/ lame [animal]	H9009/{H6455}	HTd/Aamsa			H6455			H9009=ה=the/{H6455=פִּסֵּחַ=lame}					
+Mal.1.13#13=L	וְ/אֶת\־	ve./'Et	and/ <obj.>	H9002/{H0853}\H9014	HC/To			H0853_C			H9002=ו=and/{H0853=אֵת=[Obj.]}\H9014=־=link					
+Mal.1.13#14=L	הַ֣/חוֹלֶ֔ה	ha./cho.Leh	the/ sick [animal]	H9009/{H2470H}	HTd/Vqrmsa			H2470H			H9009=ה=the/{H2470H=חָלָה=: ill»be weak:2_ill;_injured}					
+Mal.1.13#15=L	וַ/הֲבֵאתֶ֖ם	va./ha.ve.Tem	and/ you bring	H9001/{H0935P}	Hc/Vhq2mp			H0935P_B			H9001=ו=&/{H0935P=בּוֹא=: bring»to come (in):2_bring;_take_in}					
+Mal.1.13#16=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853_D			{H0853=אֵת=[Obj.]}\H9014=־=link					
+Mal.1.13#17=L	הַ/מִּנְחָ֑ה	ha./min.Chah	the/ offering	H9009/{H4503G}	HTd/Ncfsa			H4503G			H9009=ה=the/{H4503G=מִנְחָה=: offering»offering:1_offering;_sacrifice}					
+Mal.1.13#18=L	הַ/אֶרְצֶ֥ה	ha./'er.Tzeh	¿/ will I accept	H9008/{H7521}	HTi/Vqi1cs			H7521			H9008=ה=¿/{H7521=רָצָה=to accept}					
+Mal.1.13#19=L	אוֹתָ֛/הּ	'o.Ta/h	<obj.>/ it	{H0853}/H9034	HTo/Sp3fs			H0853_E			{H0853=אֵת=[Obj.]}/H9034=Os3f=her					
+Mal.1.13#20=L	מִ/יֶּדְ/כֶ֖ם	mi./yed./Khem	from/ hand/ your	H9006/{H3027H}/H9026	HR/Ncbsc/Sp2mp			H3027H			H9006=מ=from/{H3027H=יָד=: power»hand:2_power;_rule;_ownership}/H9026=Pp2m=your					
+Mal.1.13#21=L	אָמַ֥ר	'a.Mar	he says	{H0559}	HVqp3ms			H0559_C			{H0559=אָמַר=to say}					
+Mal.1.13#22=L	יְהוָֽה\׃\ \ס	Yah.weh	Yahweh	{H3068G}\H9016\ \H9018	HNpt			H3068G_B			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\H9016=׃=verseEnd\ \H9018=ס=section					
+																
+# Mal.1.14	ve.'a.Rur (וְאָר֣וּר)	no.Khel (נוֹכֵ֗ל)	ve.Yesh (וְיֵ֤שׁ)	be.'ed.Ro (בְּעֶדְרוֹ֙)	za.Khar (זָכָ֔ר)	ve.no.Der (וְנֹדֵ֛ר)	ve.zo.Ve.ach (וְזֹבֵ֥חַ)	ma.she.Chat (מָשְׁחָ֖ת)	la.do.Nai (לַֽאדֹנָ֑י)	ki (כִּי֩)						
+#_Translation	and/ [be] cursed	[one who] deals deceptively	and/ there	among/ flock/ his	[is] a male	and/ [one who] makes a vow	and/ [one who] sacrifices	a blemished [animal]	to/ [the] Lord	for						
+#_Word+Grammar	H9002/H0779=HC/Vqsmsa	H5230=HVqrmsa	H9002/H3426=HC/Acbsa	H9003/H5739/H9023=HR/Ncmsc/Sp3ms	H2145=HAamsa	H9002/H5087=HC/Vqrmsa	H9002/H2076=HC/Vqrmsa	H7843=HVHsmsa	H9005/H0136=HR/Npt	H3588A=HTc						
+#_Significant variant																
+#_Mal.1.14	Me.lekh (מֶ֨לֶךְ)	ga.Dol (גָּד֜וֹל)	'A.ni (אָ֗נִי)	'a.Mar (אָמַר֙)	Yah.weh (יְהוָ֣ה)	tze.va.'ot (צְבָא֔וֹת)	u.she.Mi (וּשְׁמִ֖י)	no.Ra' (נוֹרָ֥א)	va.go.Yim (בַגּוֹיִֽם׃)							
+#_Translation	[am] a king	great	I	he says	Yahweh	of hosts	and/ name/ my	[is] feared	among the/ nations							
+#_Word+Grammar	H4428G=HNcmsa	H1419A=HAamsa	H0589=HPp1bs	H0559=HVqp3ms	H3068G=HNpt	H6635B=HNcfpa	H9002/H8034/H9020=HC/Ncmsc/Sp1bs	H3372H=HVNrmsa	H9003/H1471A=HRd/Ncmpa							
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.1.14#01=L	וְ/אָר֣וּר	ve./'a.Rur	and/ [be] cursed	H9002/{H0779}	HC/Vqsmsa			H0779			H9002=ו=and/{H0779=אָרַר=to curse}					
+Mal.1.14#02=L	נוֹכֵ֗ל	no.Khel	[one who] deals deceptively	{H5230}	HVqrmsa			H5230			{H5230=נָכַל=to plot}					
+Mal.1.14#03=L	וְ/יֵ֤שׁ	ve./Yesh	and/ there	H9002/{H3426}	HC/Acbsa			H3426			H9002=ו=and/{H3426=יֵשׁ=there}					
+Mal.1.14#04=L	בְּ/עֶדְר/וֹ֙	be./'ed.R/o	among/ flock/ his	H9003/{H5739}/H9023	HR/Ncmsc/Sp3ms			H5739			H9003=ב=in/{H5739=עֵ֫דֶר=flock}/H9023=Ps3m=his					
+Mal.1.14#05=L	זָכָ֔ר	za.Khar	[is] a male	{H2145}	HAamsa			H2145			{H2145=זָכָר=male}					
+Mal.1.14#06=L	וְ/נֹדֵ֛ר	ve./no.Der	and/ [one who] makes a vow	H9002/{H5087}	HC/Vqrmsa			H5087			H9002=ו=and/{H5087=נָדַר=to vow}					
+Mal.1.14#07=L	וְ/זֹבֵ֥חַ	ve./zo.Ve.ach	and/ [one who] sacrifices	H9002/{H2076}	HC/Vqrmsa			H2076			H9002=ו=and/{H2076=זָבַח=to sacrifice}					
+Mal.1.14#08=L	מָשְׁחָ֖ת	ma.she.Chat	a blemished [animal]	{H7843}	HVHsmsa			H7843			{H7843=שָׁחַת=to ruin}					
+Mal.1.14#09=L	לַֽ/אדֹנָ֑י	la./do.Nai	to/ [the] Lord	H9005/{H0136}	HR/Npt			H0136			H9005=ל=to/{H0136=אֲדֹנָי=Lord»LORD@Gen.1.1-Heb}					
+Mal.1.14#10=L	כִּי֩	ki	for	{H3588A}	HTc			H3588A			{H3588A=כִּי=for}					
+Mal.1.14#11=L	מֶ֨לֶךְ	Me.lekh	[am] a king	{H4428G}	HNcmsa			H4428G			{H4428G=מֶ֫לֶךְ=king}					
+Mal.1.14#12=L	גָּד֜וֹל	ga.Dol	great	{H1419A}	HAamsa			H1419A			{H1419A=גַּל=: large»great:1_large}					
+Mal.1.14#13=L	אָ֗נִי	'A.ni	I	{H0589}	HPp1bs			H0589			{H0589=אֲנִי, אָֽנֹכִ֫י=I}					
+Mal.1.14#14=L	אָמַר֙	'a.Mar	he says	{H0559}	HVqp3ms			H0559			{H0559=אָמַר=to say}					
+Mal.1.14#15=L	יְהוָ֣ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.1.14#16=L	צְבָא֔וֹת	tze.va.'ot	of hosts	{H6635B}	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}					
+Mal.1.14#17=L	וּ/שְׁמִ֖/י	u./she.M/i	and/ name/ my	H9002/{H8034}/H9020	HC/Ncmsc/Sp1bs			H8034			H9002=ו=and/{H8034=שֵׁם=name}/H9020=Ps1c=my					
+Mal.1.14#18=L	נוֹרָ֥א	no.Ra'	[is] feared	{H3372H}	HVNrmsa			H3372H			{H3372H=יָרֵא=: awesome(god)»to fear:2_revere}					
+Mal.1.14#19=L	בַ/גּוֹיִֽם\׃	va./go.Yim	among the/ nations	H9003/{H1471A}\H9016	HRd/Ncmpa			H1471A			H9003=ב=in/{H1471A=גּוֹי=nation}\H9016=׃=verseEnd					
+																
+# Mal.2.1	ve.'a.Tah (וְעַתָּ֗ה)	'a.lei.Khem (אֲלֵיכֶ֛ם)	ha.mitz.Vah (הַמִּצְוָ֥ה)	ha.Zot (הַזֹּ֖את)	ha.ko.ha.Nim (הַכֹּהֲנִֽים׃)											
+#_Translation	and/ now	[is] to/ you	the/ commandment	<the>/ this	O/ priests											
+#_Word+Grammar	H9002/H6258=HC/D	H0413/H9036=HR/Sp2mp	H9009/H4687=HTd/Ncfsa	H9009/H2063=HTd/Tm	H9009/H3548=HTd/Ncmpa											
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.2.1#01=L	וְ/עַתָּ֗ה	ve./'a.Tah	and/ now	H9002/{H6258}	HC/D			H6258			H9002=ו=and/{H6258=עַתָּ֫ה=now}					
+Mal.2.1#02=L	אֲלֵי/כֶ֛ם	'a.lei./Khem	[is] to/ you	{H0413}/H9036	HR/Sp2mp			H0413			{H0413=אֶל=to(wards)}/H9036=Op2m=you					
+Mal.2.1#03=L	הַ/מִּצְוָ֥ה	ha./mitz.Vah	the/ commandment	H9009/{H4687}	HTd/Ncfsa			H4687			H9009=ה=the/{H4687=מִצְוָה=commandment}					
+Mal.2.1#04=L	הַ/זֹּ֖את	ha./Zot	<the>/ this	H9009/{H2063}	HTd/Tm			H2063			H9009=ה=the/{H2063=זֹאת=this}					
+Mal.2.1#05=L	הַ/כֹּהֲנִֽים\׃	ha./ko.ha.Nim	O/ priests	H9009/{H3548}\H9016	HTd/Ncmpa			H3548			H9009=ה=the/{H3548=כֹּהֵן=priest}\H9016=׃=verseEnd					
+																
+# Mal.2.2	'im- (אִם־)	lo' (לֹ֣א)	tish.me.'U (תִשְׁמְע֡וּ)	ve.'im- (וְאִם־)	lo' (לֹא֩)	ta.Si.mu (תָשִׂ֨ימוּ)	'al- (עַל־)	lev (לֵ֜ב)	la.Tet (לָתֵ֧ת)	ka.Vod (כָּב֣וֹד)						
+#_Translation	if	not	you will listen	and/ if	not	you will put	on	heart	to/ give	honor						
+#_Word+Grammar	H0518A=HTc	H3808=HTn	H8085G=HVqi2mp	H9002/H0518A=HC/Tc	H3808=HTn	H7760K=HVqi2mp	H5921A=HR	H3820A=HNcmsa	H9005/H5414G=HR/Vqcc	H3519=HNcmsa						
+#_Significant variant																
+#_Mal.2.2	lish.Mi (לִשְׁמִ֗י)	'a.Mar (אָמַר֙)	Yah.weh (יְהוָ֣ה)	tze.va.'ot (צְבָא֔וֹת)	ve.shi.lach.Ti (וְשִׁלַּחְתִּ֤י)	va.Khem (בָכֶם֙)	'et- (אֶת־)	ha.me.'e.Rah (הַמְּאֵרָ֔ה)	ve.'a.ro.Ti (וְאָרוֹתִ֖י)	'et- (אֶת־)						
+#_Translation	to/ name/ my	he says	Yahweh	of hosts	and/ I will send	on/ you	<obj.>	the/ curse	and/ I will curse	<obj.>						
+#_Word+Grammar	H9005/H8034/H9020=HR/Ncmsc/Sp1bs	H0559=HVqp3ms	H3068G=HNpt	H6635B=HNcfpa	H9001/H7971G=Hc/Vpq1cs	H9003/H9036=HR/Sp2mp	H0853=HTo	H9009/H3994=HTd/Ncfsa	H9001/H0779=Hc/Vqq1cs	H0853=HTo						
+#_Significant variant																
+#_Mal.2.2	bir.kho.tei.Khem (בִּרְכֽוֹתֵיכֶ֑ם)	ve.Gam (וְגַם֙)	'a.ro.Ti.ha (אָרוֹתִ֔יהָ)	ki (כִּ֥י)	'ein.Khem (אֵינְכֶ֖ם)	sa.Mim (שָׂמִ֥ים)	'al- (עַל־)	Lev (לֵֽב׃)								
+#_Translation	blessings/ your	and/ also	I have cursed/ it	for	not/ you	[are] putting	on	heart								
+#_Word+Grammar	H1293/H9026=HNcfpc/Sp2mp	H9002/H1571=HC/D	H0779/H9034=HVqp1cs/Sp3fs	H3588A=HTc	H0369/H9046=HNcmsc/Sp2mp	H7760K=HVqrmpa	H5921A=HR	H3820A=HNcmsa								
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.2.2#01=L	אִם\־	'im-	if	{H0518A}\H9014	HTc			H0518A_A			{H0518A=אִם=: if»if:1_if;_whether_or;_though}\H9014=־=link					
+Mal.2.2#02=L	לֹ֣א	lo'	not	{H3808}	HTn			H3808_A			{H3808=לֹא=not}					
+Mal.2.2#03=L	תִשְׁמְע֡וּ	tish.me.'U	you will listen	{H8085G}	HVqi2mp			H8085G			{H8085G=שָׁמַע=: hear»to hear:1_hear}					
+Mal.2.2#04=L	וְ/אִם\־	ve./'im-	and/ if	H9002/{H0518A}\H9014	HC/Tc			H0518A_B			H9002=ו=and/{H0518A=אִם=: if»if:1_if;_whether_or;_though}\H9014=־=link					
+Mal.2.2#05=L	לֹא֩	lo'	not	{H3808}	HTn			H3808_B			{H3808=לֹא=not}					
+Mal.2.2#06=L	תָשִׂ֨ימוּ	ta.Si.mu	you will put	{H7760K}	HVqi2mp			H7760K_A			{H7760K=שׂוּם=: consider»to set:5_consider}					
+Mal.2.2#07=L	עַל\־	'al-	on	{H5921A}\H9014	HR			H5921A_A			{H5921A=עַל=upon}\H9014=־=link					
+Mal.2.2#08=L	לֵ֜ב	lev	heart	{H3820A}	HNcmsa			H3820A_A			{H3820A=לֵב=heart}					
+Mal.2.2#09=L	לָ/תֵ֧ת	la./Tet	to/ give	H9005/{H5414G}	HR/Vqcc			H5414G			H9005=ל=to/{H5414G=נָתַן=: give»to give:1_give;_deliver;_send;_produce}					
+Mal.2.2#10=L	כָּב֣וֹד	ka.Vod	honor	{H3519}	HNcmsa			H3519			{H3519=כָּבוֹד=glory}					
+Mal.2.2#11=L	לִ/שְׁמִ֗/י	li/sh.M/i	to/ name/ my	H9005/{H8034}/H9020	HR/Ncmsc/Sp1bs			H8034			H9005=ל=to/{H8034=שֵׁם=name}/H9020=Ps1c=my					
+Mal.2.2#12=L	אָמַר֙	'a.Mar	he says	{H0559}	HVqp3ms			H0559			{H0559=אָמַר=to say}					
+Mal.2.2#13=L	יְהוָ֣ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.2.2#14=L	צְבָא֔וֹת	tze.va.'ot	of hosts	{H6635B}	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}					
+Mal.2.2#15=L	וְ/שִׁלַּחְתִּ֤י	ve./shi.lach.Ti	and/ I will send	H9001/{H7971G}	Hc/Vpq1cs			H7971G			H9001=ו=&/{H7971G=שָׁלַח=: depart»to send:1_depart;_send}					
+Mal.2.2#16=L	בָ/כֶם֙	va./Khem	on/ you	H9003/{H9036}	HR/Sp2mp			H9036			H9003=ב=in/{H9036=Op2m=you}					
+Mal.2.2#17=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853_A			{H0853=אֵת=[Obj.]}\H9014=־=link					
+Mal.2.2#18=L	הַ/מְּאֵרָ֔ה	ha./me.'e.Rah	the/ curse	H9009/{H3994}	HTd/Ncfsa			H3994			H9009=ה=the/{H3994=מְאֵרָה=curse}					
+Mal.2.2#19=L	וְ/אָרוֹתִ֖י	ve./'a.ro.Ti	and/ I will curse	H9001/{H0779}	Hc/Vqq1cs			H0779_A			H9001=ו=&/{H0779=אָרַר=to curse}					
+Mal.2.2#20=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853_B			{H0853=אֵת=[Obj.]}\H9014=־=link					
+Mal.2.2#21=L	בִּרְכֽוֹתֵי/כֶ֑ם	bir.kho.tei./Khem	blessings/ your	{H1293}/H9026	HNcfpc/Sp2mp			H1293			{H1293=בְּרָכָה=blessing}/H9026=Pp2m=your					
+Mal.2.2#22=L	וְ/גַם֙	ve./Gam	and/ also	H9002/{H1571}	HC/D			H1571			H9002=ו=and/{H1571=גַּם=also}					
+Mal.2.2#23=L	אָרוֹתִ֔י/הָ	'a.ro.Ti./ha	I have cursed/ it	{H0779}/H9034	HVqp1cs/Sp3fs			H0779_B			{H0779=אָרַר=to curse}/H9034=Os3f=her					
+Mal.2.2#24=L	כִּ֥י	ki	for	{H3588A}	HTc			H3588A			{H3588A=כִּי=for}					
+Mal.2.2#25=L	אֵינְ/כֶ֖ם	'ein./Khem	not/ you	{H0369}/H9046	HNcmsc/Sp2mp			H0369			{H0369=אַ֫יִן=nothing}/H9046=Sp2m=you					
+Mal.2.2#26=L	שָׂמִ֥ים	sa.Mim	[are] putting	{H7760K}	HVqrmpa			H7760K_B			{H7760K=שׂוּם=: consider»to set:5_consider}					
+Mal.2.2#27=L	עַל\־	'al-	on	{H5921A}\H9014	HR			H5921A_B			{H5921A=עַל=upon}\H9014=־=link					
+Mal.2.2#28=L	לֵֽב\׃	Lev	heart	{H3820A}\H9016	HNcmsa			H3820A_B			{H3820A=לֵב=heart}\H9016=׃=verseEnd					
+																
+# Mal.2.3	hi.Ni (הִנְנִ֨י)	go.'Er (גֹעֵ֤ר)	la.Khem (לָכֶם֙)	'et- (אֶת־)	ha.Ze.ra' (הַזֶּ֔רַע)	ve.ze.Ri.ti (וְזֵרִ֤יתִי)	fe.resh (פֶ֙רֶשׁ֙)	'al- (עַל־)	pe.nei.Khem (פְּנֵיכֶ֔ם)	Pe.resh (פֶּ֖רֶשׁ)						
+#_Translation	here/ I	[am] about to rebuke	of/ you	<obj.>	the/ offspring	and/ I will spread	dung	on	faces/ your	[the] dung of						
+#_Word+Grammar	H2005/H9040=HTj/Sp1bs	H1605=HVqrmsa	H9005/H9036=HR/Sp2mp	H0853=HTo	H9009/H2233H=HTd/Ncmsa	H9001/H2219=Hc/Vpq1cs	H6569=HNcmsa	H5921A=HR	H6440H/H9026=HNcmpc/Sp2mp	H6569=HNcmsc						
+#_Significant variant																
+#_Mal.2.3	cha.gei.Khem (חַגֵּיכֶ֑ם)	ve.na.Sa' (וְנָשָׂ֥א)	'et.Khem (אֶתְכֶ֖ם)	'e.Lav (אֵלָֽיו׃)												
+#_Translation	festivals/ your	and/ someone will carry away	<obj.>/ you	with/ it												
+#_Word+Grammar	H2282/H9026=HNcmpc/Sp2mp	H9001/H5375H=Hc/Vqq3ms	H0853/H9036=HTo/Sp2mp	H0413/H9033=HRd/Sp3ms												
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.2.3#01=L	הִנְ/נִ֨י	hi./Ni	here/ I	{H2005}/H9040	HTj/Sp1bs			H2005			{H2005=הֵן=look!}/H9040=Ss1c=I					
+Mal.2.3#02=L	גֹעֵ֤ר	go.'Er	[am] about to rebuke	{H1605}	HVqrmsa			H1605			{H1605=גָּעַר=to rebuke}					
+Mal.2.3#03=L	לָ/כֶם֙	la./Khem	of/ you	H9005/{H9036}	HR/Sp2mp			H9036			H9005=ל=to/{H9036=Op2m=you}					
+Mal.2.3#04=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853_A			{H0853=אֵת=[Obj.]}\H9014=־=link					
+Mal.2.3#05=L	הַ/זֶּ֔רַע	ha./Ze.ra'	the/ offspring	H9009/{H2233H}	HTd/Ncmsa			H2233H			H9009=ה=the/{H2233H=זֶ֫רַע=: children»seed:2_children;_descendants}					
+Mal.2.3#06=L	וְ/זֵרִ֤יתִי	ve./ze.Ri.ti	and/ I will spread	H9001/{H2219}	Hc/Vpq1cs			H2219			H9001=ו=&/{H2219=זָרָה=to scatter}					
+Mal.2.3#07=L	פֶ֙רֶשׁ֙	fe.resh	dung	{H6569}	HNcmsa			H6569_A			{H6569=פֶּ֫רֶשׁ=refuse}					
+Mal.2.3#08=L	עַל\־	'al-	on	{H5921A}\H9014	HR			H5921A			{H5921A=עַל=upon}\H9014=־=link					
+Mal.2.3#09=L	פְּנֵי/כֶ֔ם	pe.nei./Khem	faces/ your	{H6440H}/H9026	HNcmpc/Sp2mp			H6440H			{H6440H=פָּנֶה=: face»face:1_face}/H9026=Pp2m=your					
+Mal.2.3#10=L	פֶּ֖רֶשׁ	Pe.resh	[the] dung of	{H6569}	HNcmsc			H6569_B			{H6569=פֶּ֫רֶשׁ=refuse}					
+Mal.2.3#11=L	חַגֵּי/כֶ֑ם	cha.gei./Khem	festivals/ your	{H2282}/H9026	HNcmpc/Sp2mp			H2282			{H2282=חַג=feast}/H9026=Pp2m=your					
+Mal.2.3#12=L	וְ/נָשָׂ֥א	ve./na.Sa'	and/ someone will carry away	H9001/{H5375H}	Hc/Vqq3ms			H5375H			H9001=ו=&/{H5375H=נָשָׂא=: bear»to lift:2_bear;_carry}					
+Mal.2.3#13=L	אֶתְ/כֶ֖ם	'et./Khem	<obj.>/ you	{H0853}/H9036	HTo/Sp2mp			H0853_B			{H0853=אֵת=[Obj.]}/H9036=Op2m=you					
+Mal.2.3#14=L	אֵלָֽי/ו\׃	'e.La/v	with/ it	{H0413}/H9033\H9016	HRd/Sp3ms			H0413			{H0413=אֶל=to(wards)}/H9033=Os3m=him\H9016=׃=verseEnd					
+																
+# Mal.2.4	vi.da'.Tem (וִֽידַעְתֶּ֕ם)	ki (כִּ֚י)	shi.Lach.ti (שִׁלַּ֣חְתִּי)	'a.lei.Khem (אֲלֵיכֶ֔ם)	'et (אֵ֖ת)	ha.mitz.Vah (הַמִּצְוָ֣ה)	ha.Zot (הַזֹּ֑את)	lih.Yot (לִֽהְי֤וֹת)	be.ri.Ti (בְּרִיתִי֙)	'et- (אֶת־)						
+#_Translation	and/ you will know	that	I have sent	to/ you	<obj.>	the/ commandment	<the>/ this	to/ be	covenant/ my	with						
+#_Word+Grammar	H9001/H3045=Hc/Vqq2mp	H3588A=HTc	H7971G=HVpp1cs	H0413/H9036=HR/Sp2mp	H0853=HTo	H9009/H4687=HTd/Ncfsa	H9009/H2063=HTd/Tm	H9005/H1961=HR/Vqcc	H1285/H9020=HNcfsc/Sp1bs	H0854=HR						
+#_Significant variant																
+#_Mal.2.4	le.Vi (לֵוִ֔י)	'a.Mar (אָמַ֖ר)	Yah.weh (יְהוָ֥ה)	tze.va.'ot (צְבָאֽוֹת׃)												
+#_Translation	Levi	he says	Yahweh	of hosts												
+#_Word+Grammar	H3878=HNpm	H0559=HVqp3ms	H3068G=HNpt	H6635B=HNcfpa												
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.2.4#01=L	וִֽ/ידַעְתֶּ֕ם	vi./da'.Tem	and/ you will know	H9001/{H3045}	Hc/Vqq2mp			H3045			H9001=ו=&/{H3045=יָדַע=to know}					
+Mal.2.4#02=L	כִּ֚י	ki	that	{H3588A}	HTc			H3588A			{H3588A=כִּי=for}					
+Mal.2.4#03=L	שִׁלַּ֣חְתִּי	shi.Lach.ti	I have sent	{H7971G}	HVpp1cs			H7971G			{H7971G=שָׁלַח=: depart»to send:1_depart;_send}					
+Mal.2.4#04=L	אֲלֵי/כֶ֔ם	'a.lei./Khem	to/ you	{H0413}/H9036	HR/Sp2mp			H0413			{H0413=אֶל=to(wards)}/H9036=Op2m=you					
+Mal.2.4#05=L	אֵ֖ת	'et	<obj.>	{H0853}	HTo			H0853			{H0853=אֵת=[Obj.]}					
+Mal.2.4#06=L	הַ/מִּצְוָ֣ה	ha./mitz.Vah	the/ commandment	H9009/{H4687}	HTd/Ncfsa			H4687			H9009=ה=the/{H4687=מִצְוָה=commandment}					
+Mal.2.4#07=L	הַ/זֹּ֑את	ha./Zot	<the>/ this	H9009/{H2063}	HTd/Tm			H2063			H9009=ה=the/{H2063=זֹאת=this}					
+Mal.2.4#08=L	לִֽ/הְי֤וֹת	li/h.Yot	to/ be	H9005/{H1961}	HR/Vqcc			H1961			H9005=ל=to/{H1961=הָיָה=to be}					
+Mal.2.4#09=L	בְּרִיתִ/י֙	be.ri.T/i	covenant/ my	{H1285}/H9020	HNcfsc/Sp1bs			H1285			{H1285=בְּרִית=covenant}/H9020=Ps1c=my					
+Mal.2.4#10=L	אֶת\־	'et-	with	{H0854}\H9014	HR			H0854			{H0854=אֵת=with}\H9014=־=link					
+Mal.2.4#11=L	לֵוִ֔י	le.Vi	Levi	{H3878}	HNpm			H3878			{H3878=לֵוִי=Levi»Levi@Gen.29.34-Rev}					
+Mal.2.4#12=L	אָמַ֖ר	'a.Mar	he says	{H0559}	HVqp3ms			H0559			{H0559=אָמַר=to say}					
+Mal.2.4#13=L	יְהוָ֥ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.2.4#14=L	צְבָאֽוֹת\׃	tze.va.'ot	of hosts	{H6635B}\H9016	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}\H9016=׃=verseEnd					
+																
+# Mal.2.5	be.ri.Ti (בְּרִיתִ֣י׀)	ha.ye.Tah (הָיְתָ֣ה)	'i.To (אִתּ֗וֹ)	ha.chai.Yim (הַֽחַיִּים֙)	ve.Ha.sha.Lom (וְהַ֨שָּׁל֔וֹם)	va.'e.te.nem- (וָאֶתְּנֵֽם־)	lo (ל֥וֹ)	mo.Ra' (מוֹרָ֖א)	vai.yi.ra.'E.ni (וַיִּֽירָאֵ֑נִי)	u.mi.pe.Nei (וּמִפְּנֵ֥י)						
+#_Translation	covenant/ my	it was	with/ him	<the>/ life	and/ <the>/ well-being	and/ I gave/ them	to/ him	fear	and/ he feared/ me	and/ <from>/ because of						
+#_Word+Grammar	H1285/H9020=HNcfsc/Sp1bs	H1961=HVqp3fs	H0854/H9033=HR/Sp3ms	H9009/H2416E=HTd/Ncmpa	H9002/H9009/H7965G=HC/Td/Ncmsa	H9001/H5414G/H9038=Hc/Vqw1cs/Sp3mp	H9005/H9033=HR/Sp3ms	H4172A=HNcmsa	H9001/H3372H/H9030=Hc/Vqw3ms/Sp1bs	H9002/H9006/H6440I=HC/R/Ncmpc						
+#_Significant variant																
+#_Mal.2.5	she.Mi (שְׁמִ֖י)	ni.Chat (נִחַ֥ת)	Hu' (הֽוּא׃)													
+#_Translation	name/ my	he was in awe	he													
+#_Word+Grammar	H8034/H9020=HNcmsc/Sp1bs	H2865=HVNp3ms	H1931=HPp3ms													
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.2.5#01=L	בְּרִיתִ֣/י\׀	be.ri.T/i	covenant/ my	{H1285}/H9020\H9015	HNcfsc/Sp1bs			H1285			{H1285=בְּרִית=covenant}/H9020=Ps1c=my\H9015=׀=separate					
+Mal.2.5#02=L	הָיְתָ֣ה	ha.ye.Tah	it was	{H1961}	HVqp3fs			H1961			{H1961=הָיָה=to be}					
+Mal.2.5#03=L	אִתּ֗/וֹ	'i.T/o	with/ him	{H0854}/H9033	HR/Sp3ms			H0854			{H0854=אֵת=with}/H9033=Os3m=him					
+Mal.2.5#04=L	הַֽ/חַיִּים֙	ha./chai.Yim	<the>/ life	H9009/{H2416E}	HTd/Ncmpa			H2416E			H9009=ה=the/{H2416E=חַיִּים=life}					
+Mal.2.5#05=L	וְ/הַ֨/שָּׁל֔וֹם	ve./Ha./sha.Lom	and/ <the>/ well-being	H9002/H9009/{H7965G}	HC/Td/Ncmsa			H7965G			H9002=ו=and/H9009=ה=the/{H7965G=שָׁלוֹם=: peace»peace:1_peace}					
+Mal.2.5#06=L	וָ/אֶתְּנֵֽ/ם\־	va./'e.te.ne/m-	and/ I gave/ them	H9001/{H5414G}/H9038\H9014	Hc/Vqw1cs/Sp3mp			H5414G			H9001=ו=&/{H5414G=נָתַן=: give»to give:1_give;_deliver;_send;_produce}/H9038=Op3m=them\H9014=־=link					
+Mal.2.5#07=L	ל֥/וֹ	l/o	to/ him	H9005/{H9033}	HR/Sp3ms			H9033			H9005=ל=to/{H9033=Os3m=him}					
+Mal.2.5#08=L	מוֹרָ֖א	mo.Ra'	fear	{H4172A}	HNcmsa			H4172A			{H4172A=מוֹרָא=fear}					
+Mal.2.5#09=L	וַ/יִּֽירָאֵ֑/נִי	va/i.yi.ra.'E./ni	and/ he feared/ me	H9001/{H3372H}/H9030	Hc/Vqw3ms/Sp1bs			H3372H			H9001=ו=&/{H3372H=יָרֵא=: awesome(god)»to fear:2_revere}/H9030=Os1c=me					
+Mal.2.5#10=L	וּ/מִ/פְּנֵ֥י	u./mi./pe.Nei	and/ <from>/ because of	H9002/H9006/{H6440I}	HC/R/Ncmpc			H6440I			H9002=ו=and/H9006=מ=from/{H6440I=פָּנֶה=: because»face:3_because}					
+Mal.2.5#11=L	שְׁמִ֖/י	she.M/i	name/ my	{H8034}/H9020	HNcmsc/Sp1bs			H8034			{H8034=שֵׁם=name}/H9020=Ps1c=my					
+Mal.2.5#12=L	נִחַ֥ת	ni.Chat	he was in awe	{H2865}	HVNp3ms			H2865			{H2865=חָתַת=to to be dismayed}					
+Mal.2.5#13=L	הֽוּא\׃	Hu'	he	{H1931}\H9016	HPp3ms			H1931			{H1931=הוּא=he;_she;_it}\H9016=׃=verseEnd					
+																
+# Mal.2.6	to.Rat (תּוֹרַ֤ת)	'e.Met (אֱמֶת֙)	ha.ye.Tah (הָיְתָ֣ה)	be.Fi.hu (בְּפִ֔יהוּ)	ve.'av.Lah (וְעַוְלָ֖ה)	lo'- (לֹא־)	nim.Tza' (נִמְצָ֣א)	vis.fa.Tav (בִשְׂפָתָ֑יו)	be.sha.Lom (בְּשָׁל֤וֹם)	u.ve.mi.shOr (וּבְמִישׁוֹר֙)						
+#_Translation	instruction of	truth	it was	in/ mouth/ his	and/ unrighteousness	not	it was found	on/ lips/ his	in/ peace	and/ in/ uprightness						
+#_Word+Grammar	H8451=HNcfsc	H0571H=HNcfsa	H1961=HVqp3fs	H9003/H6310G/H9023=HR/Ncmsc/Sp3ms	H9002/H5766B=HC/Ncfsa	H3808=HTn	H4672=HVNp3ms	H9003/H8193G/H9023=HR/Ncfdc/Sp3ms	H9003/H7965G=HR/Ncmsa	H9002/H9003/H4334=HC/R/Ncmsa						
+#_Significant variant																
+#_Mal.2.6	ha.Lakh (הָלַ֣ךְ)	'i.Ti (אִתִּ֔י)	ve.ra.Bim (וְרַבִּ֖ים)	he.Shiv (הֵשִׁ֥יב)	me.'a.Von (מֵעָוֹֽן׃)											
+#_Translation	he walked	with/ me	and/ many [people]	he turned away	from/ iniquity											
+#_Word+Grammar	H1980I=HVqp3ms	H0854/H9030=HR/Sp1bs	H9002/H7227A=HC/Aampa	H7725O=HVhp3ms	H9006/H5771G=HR/Ncmsa											
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.2.6#01=L	תּוֹרַ֤ת	to.Rat	instruction of	{H8451}	HNcfsc			H8451			{H8451=תּוֹרָה=instruction}					
+Mal.2.6#02=L	אֱמֶת֙	'e.Met	truth	{H0571H}	HNcfsa			H0571H			{H0571H=אֱמֶת=: true»truth:2_true}					
+Mal.2.6#03=L	הָיְתָ֣ה	ha.ye.Tah	it was	{H1961}	HVqp3fs			H1961			{H1961=הָיָה=to be}					
+Mal.2.6#04=L	בְּ/פִ֔י/הוּ	be./Fi./hu	in/ mouth/ his	H9003/{H6310G}/H9023	HR/Ncmsc/Sp3ms			H6310G			H9003=ב=in/{H6310G=פֶּה=: lip»lip:1_lip;_mouth}/H9023=Ps3m=his					
+Mal.2.6#05=L	וְ/עַוְלָ֖ה	ve./'av.Lah	and/ unrighteousness	H9002/{H5766B}	HC/Ncfsa			H5766B			H9002=ו=and/{H5766B=עַוְלָה=injustice}					
+Mal.2.6#06=L	לֹא\־	lo'-	not	{H3808}\H9014	HTn			H3808			{H3808=לֹא=not}\H9014=־=link					
+Mal.2.6#07=L	נִמְצָ֣א	nim.Tza'	it was found	{H4672}	HVNp3ms			H4672			{H4672=מָצָא=to find}					
+Mal.2.6#08=L	בִ/שְׂפָתָ֑י/ו	vi/s.fa.Ta/v	on/ lips/ his	H9003/{H8193G}/H9023	HR/Ncfdc/Sp3ms			H8193G			H9003=ב=in/{H8193G=שָׂפָה=: lips»lip:1_lips;_mouth}/H9023=Ps3m=his					
+Mal.2.6#09=L	בְּ/שָׁל֤וֹם	be./sha.Lom	in/ peace	H9003/{H7965G}	HR/Ncmsa			H7965G			H9003=ב=in/{H7965G=שָׁלוֹם=: peace»peace:1_peace}					
+Mal.2.6#10=L	וּ/בְ/מִישׁוֹר֙	u./ve./mi.shOr	and/ in/ uprightness	H9002/H9003/{H4334}	HC/R/Ncmsa			H4334			H9002=ו=and/H9003=ב=in/{H4334=מִישׁוֹר=plain}					
+Mal.2.6#11=L	הָלַ֣ךְ	ha.Lakh	he walked	{H1980I}	HVqp3ms			H1980I	H3212		{H1980I=הָלַךְ=: walk»to go:1_walk;_move}					
+Mal.2.6#12=L	אִתִּ֔/י	'i.T/i	with/ me	{H0854}/H9030	HR/Sp1bs			H0854			{H0854=אֵת=with}/H9030=Os1c=me					
+Mal.2.6#13=L	וְ/רַבִּ֖ים	ve./ra.Bim	and/ many [people]	H9002/{H7227A}	HC/Aampa			H7227A			H9002=ו=and/{H7227A=רַב=many}					
+Mal.2.6#14=L	הֵשִׁ֥יב	he.Shiv	he turned away	{H7725O}	HVhp3ms			H7725O			{H7725O=שׁוּב=: repent»to return:9_repent}					
+Mal.2.6#15=L	מֵ/עָוֹֽן\׃	me./'a.Von	from/ iniquity	H9006/{H5771G}\H9016	HR/Ncmsa			H5771G			H9006=מ=from/{H5771G=עָוֺן=: crime»iniquity:1_crime}\H9016=׃=verseEnd					
+																
+# Mal.2.7	ki- (כִּֽי־)	sif.Tei (שִׂפְתֵ֤י)	kho.Hen (כֹהֵן֙)	yish.me.ru- (יִשְׁמְרוּ־)	Da.'at (דַ֔עַת)	ve.to.Rah (וְתוֹרָ֖ה)	ye.vak.Shu (יְבַקְשׁ֣וּ)	mi.Pi.hu (מִפִּ֑יהוּ)	ki (כִּ֛י)	mal.'Akh (מַלְאַ֥ךְ)						
+#_Translation	for	[the] lips of	a priest	they will preserve	knowledge	and/ instruction	people will seek	from/ mouth/ his	for	[is] [the] messenger of						
+#_Word+Grammar	H3588A=HTc	H8193G=HNcfdc	H3548=HNcmsa	H8104H=HVqi3mp	H1847=HNcfsa	H9002/H8451=HC/Ncfsa	H1245=HVpi3mp	H9006/H6310G/H9023=HR/Ncmsc/Sp3ms	H3588A=HTc	H4397G=HNcmsc						
+#_Significant variant																
+#_Mal.2.7	Yah.weh- (יְהוָֽה־)	tze.va.'ot (צְבָא֖וֹת)	Hu' (הֽוּא׃)													
+#_Translation	Yahweh	of hosts	he													
+#_Word+Grammar	H3068G=HNpt	H6635B=HNcfpa	H1931=HPp3ms													
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.2.7#01=L	כִּֽי\־	ki-	for	{H3588A}\H9014	HTc			H3588A_A			{H3588A=כִּי=for}\H9014=־=link					
+Mal.2.7#02=L	שִׂפְתֵ֤י	sif.Tei	[the] lips of	{H8193G}	HNcfdc			H8193G			{H8193G=שָׂפָה=: lips»lip:1_lips;_mouth}					
+Mal.2.7#03=L	כֹהֵן֙	kho.Hen	a priest	{H3548}	HNcmsa			H3548			{H3548=כֹּהֵן=priest}					
+Mal.2.7#04=L	יִשְׁמְרוּ\־	yish.me.ru-	they will preserve	{H8104H}\H9014	HVqi3mp			H8104H			{H8104H=שָׁמַר=: guard»to keep:2_guard}\H9014=־=link					
+Mal.2.7#05=L	דַ֔עַת	Da.'at	knowledge	{H1847}	HNcfsa			H1847			{H1847=דַּ֫עַת=knowledge}					
+Mal.2.7#06=L	וְ/תוֹרָ֖ה	ve./to.Rah	and/ instruction	H9002/{H8451}	HC/Ncfsa			H8451			H9002=ו=and/{H8451=תּוֹרָה=instruction}					
+Mal.2.7#07=L	יְבַקְשׁ֣וּ	ye.vak.Shu	people will seek	{H1245}	HVpi3mp			H1245			{H1245=בָּקַשׁ=to seek}					
+Mal.2.7#08=L	מִ/פִּ֑י/הוּ	mi./Pi./hu	from/ mouth/ his	H9006/{H6310G}/H9023	HR/Ncmsc/Sp3ms			H6310G			H9006=מ=from/{H6310G=פֶּה=: lip»lip:1_lip;_mouth}/H9023=Ps3m=his					
+Mal.2.7#09=L	כִּ֛י	ki	for	{H3588A}	HTc			H3588A_B			{H3588A=כִּי=for}					
+Mal.2.7#10=L	מַלְאַ֥ךְ	mal.'Akh	[is] [the] messenger of	{H4397G}	HNcmsc			H4397G			{H4397G=מַלְאָךְ=: messenger»messenger:1_messenger}					
+Mal.2.7#11=L	יְהוָֽה\־	Yah.weh-	Yahweh	{H3068G}\H9014	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}\H9014=־=link					
+Mal.2.7#12=L	צְבָא֖וֹת	tze.va.'ot	of hosts	{H6635B}	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}					
+Mal.2.7#13=L	הֽוּא\׃	Hu'	he	{H1931}\H9016	HPp3ms			H1931			{H1931=הוּא=he;_she;_it}\H9016=׃=verseEnd					
+																
+# Mal.2.8	ve.'a.Tem (וְאַתֶּם֙)	sar.Tem (סַרְתֶּ֣ם)	min- (מִן־)	ha.De.rekh (הַדֶּ֔רֶךְ)	hikh.shal.Tem (הִכְשַׁלְתֶּ֥ם)	ra.Bim (רַבִּ֖ים)	ba.to.Rah (בַּתּוֹרָ֑ה)	shi.cha.Tem (שִֽׁחַתֶּם֙)	be.Rit (בְּרִ֣ית)	ha.le.Vi (הַלֵּוִ֔י)						
+#_Translation	and/ you	you have turned aside	from	the/ way	you have caused to stumble	many [people]	by the/ instruction	you have corrupted	[the] covenant of	<the>/ Levi						
+#_Word+Grammar	H9002/H0859D=HC/Pp2mp	H5493I=HVqp2mp	H4480A=HR	H9009/H1870G=HTd/Ncbsa	H3782=HVhp2mp	H7227A=HAampa	H9003/H8451=HRd/Ncfsa	H7843=HVpp2mp	H1285=HNcfsc	H9009/H3878=HTd/Ngmsa						
+#_Significant variant																
+#_Mal.2.8	'a.Mar (אָמַ֖ר)	Yah.weh (יְהוָ֥ה)	tze.va.'ot (צְבָאֽוֹת׃)													
+#_Translation	he says	Yahweh	of hosts													
+#_Word+Grammar	H0559=HVqp3ms	H3068G=HNpt	H6635B=HNcfpa													
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.2.8#01=L	וְ/אַתֶּם֙	ve./'a.Tem	and/ you	H9002/{H0859D}	HC/Pp2mp			H0859D			H9002=ו=and/{H0859D=אַתֶּם=you(m.p.)}					
+Mal.2.8#02=L	סַרְתֶּ֣ם	sar.Tem	you have turned aside	{H5493I}	HVqp2mp			H5493I			{H5493I=סוּר=: turn_aside»to turn aside:3_turn_aside;_deflect}					
+Mal.2.8#03=L	מִן\־	min-	from	{H4480A}\H9014	HR			H4480A			{H4480A=מִן־=from}\H9014=־=link					
+Mal.2.8#04=L	הַ/דֶּ֔רֶךְ	ha./De.rekh	the/ way	H9009/{H1870G}	HTd/Ncbsa			H1870G			H9009=ה=the/{H1870G=דֶּ֫רֶךְ=: conduct»way:3_conduct;_lifestyle}					
+Mal.2.8#05=L	הִכְשַׁלְתֶּ֥ם	hikh.shal.Tem	you have caused to stumble	{H3782}	HVhp2mp			H3782			{H3782=כָּשַׁל=to stumble}					
+Mal.2.8#06=L	רַבִּ֖ים	ra.Bim	many [people]	{H7227A}	HAampa			H7227A			{H7227A=רַב=many}					
+Mal.2.8#07=L	בַּ/תּוֹרָ֑ה	ba./to.Rah	by the/ instruction	H9003/{H8451}	HRd/Ncfsa			H8451			H9003=ב=in/{H8451=תּוֹרָה=instruction}					
+Mal.2.8#08=L	שִֽׁחַתֶּם֙	shi.cha.Tem	you have corrupted	{H7843}	HVpp2mp			H7843			{H7843=שָׁחַת=to ruin}					
+Mal.2.8#09=L	בְּרִ֣ית	be.Rit	[the] covenant of	{H1285}	HNcfsc			H1285			{H1285=בְּרִית=covenant}					
+Mal.2.8#10=L	הַ/לֵּוִ֔י	ha./le.Vi	<the>/ Levi	H9009/{H3878}	HTd/Ngmsa			H3878			H9009=ה=the/{H3878=לֵוִי=Levi»Levi@Gen.29.34-Rev}					
+Mal.2.8#11=L	אָמַ֖ר	'a.Mar	he says	{H0559}	HVqp3ms			H0559			{H0559=אָמַר=to say}					
+Mal.2.8#12=L	יְהוָ֥ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.2.8#13=L	צְבָאֽוֹת\׃	tze.va.'ot	of hosts	{H6635B}\H9016	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}\H9016=׃=verseEnd					
+																
+# Mal.2.9	ve.gam- (וְגַם־)	'a.Ni (אֲנִ֞י)	na.Ta.ti (נָתַ֧תִּי)	'et.Khem (אֶתְכֶ֛ם)	niv.Zim (נִבְזִ֥ים)	u.she.fa.Lim (וּשְׁפָלִ֖ים)	le.khol (לְכָל־)	ha.'Am (הָעָ֑ם)	ke.Fi (כְּפִ֗י)	'a.Sher (אֲשֶׁ֤ר)						
+#_Translation	and/ also	I	I have made	<obj.>/ you	despised	and/ lowly	to/ all	the/ people	according to/ [the] mouth of	that						
+#_Word+Grammar	H9002/H1571=HC/D	H0589=HPp1bs	H5414I=HVqp1cs	H0853/H9036=HTo/Sp2mp	H0959=HVNrmpa	H9002/H8217=HC/Aampa	H9005/H3605=HR/Ncmsc	H9009/H5971A=HTd/Ncmsa	H9004/H6310K=HR/Ncmsc	H0834A=HTr						
+#_Significant variant																
+#_Mal.2.9	'ei.ne.Khem (אֵֽינְכֶם֙)	sho.me.Rim (שֹׁמְרִ֣ים)	'et- (אֶת־)	de.ra.Khai (דְּרָכַ֔י)	ve.no.se.'Im (וְנֹשְׂאִ֥ים)	pa.Nim (פָּנִ֖ים)	ba.to.Rah (בַּתּוֹרָֽה׃ פ)									
+#_Translation	not/ you	[are] keeping	<obj.>	ways/ my	and/ [you are] lifting up	faces	in <the>/ instruction									
+#_Word+Grammar	H0369/H9046=HNcmsc/Sp2mp	H8104G=HVqrmpa	H0853=HTo	H1870G/H9020=HNcbpc/Sp1bs	H9002/H5375Q=HC/Vqrmpa	H6440N=HNcmpa	H9003/H8451\ =HRd/Ncfsa									
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.2.9#01=L	וְ/גַם\־	ve./gam-	and/ also	H9002/{H1571}\H9014	HC/D			H1571			H9002=ו=and/{H1571=גַּם=also}\H9014=־=link					
+Mal.2.9#02=L	אֲנִ֞י	'a.Ni	I	{H0589}	HPp1bs			H0589			{H0589=אֲנִי, אָֽנֹכִ֫י=I}					
+Mal.2.9#03=L	נָתַ֧תִּי	na.Ta.ti	I have made	{H5414I}	HVqp1cs			H5414I			{H5414I=נָתַן=: make»to give:3_make}					
+Mal.2.9#04=L	אֶתְ/כֶ֛ם	'et./Khem	<obj.>/ you	{H0853}/H9036	HTo/Sp2mp			H0853_A			{H0853=אֵת=[Obj.]}/H9036=Op2m=you					
+Mal.2.9#05=L	נִבְזִ֥ים	niv.Zim	despised	{H0959}	HVNrmpa			H0959			{H0959=בָּזָה=to despise}					
+Mal.2.9#06=L	וּ/שְׁפָלִ֖ים	u./she.fa.Lim	and/ lowly	H9002/{H8217}	HC/Aampa			H8217			H9002=ו=and/{H8217=שָׁפָל=low}					
+Mal.2.9#07=L	לְ/כָל\־	le./khol	to/ all	H9005/{H3605}\H9014	HR/Ncmsc			H3605			H9005=ל=to/{H3605=כֹּל=all}\H9014=־=link					
+Mal.2.9#08=L	הָ/עָ֑ם	ha./'Am	the/ people	H9009/{H5971A}	HTd/Ncmsa			H5971A			H9009=ה=the/{H5971A=עַם=: people»people:1_people;_nation}					
+Mal.2.9#09=L	כְּ/פִ֗י	ke./Fi	according to/ [the] mouth of	H9004/{H6310K}	HR/Ncmsc			H6310K			H9004=כ=like/{H6310K=פֶּה=: according»lip:5_according;_proportion}					
+Mal.2.9#10=L	אֲשֶׁ֤ר	'a.Sher	that	{H0834A}	HTr			H0834A			{H0834A=אֲשֶׁר=which}					
+Mal.2.9#11=L	אֵֽינְ/כֶם֙	'ei.ne./Khem	not/ you	{H0369}/H9046	HNcmsc/Sp2mp			H0369			{H0369=אַ֫יִן=nothing}/H9046=Sp2m=you					
+Mal.2.9#12=L	שֹׁמְרִ֣ים	sho.me.Rim	[are] keeping	{H8104G}	HVqrmpa			H8104G			{H8104G=שָׁמַר=: obey»to keep:1_obey;_observe}					
+Mal.2.9#13=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853_b	H0854		{H0853=אֵת=[Obj.]}\H9014=־=link					
+Mal.2.9#14=L	דְּרָכַ֔/י	de.ra.Kha/i	ways/ my	{H1870G}/H9020	HNcbpc/Sp1bs			H1870G			{H1870G=דֶּ֫רֶךְ=: conduct»way:3_conduct;_lifestyle}/H9020=Ps1c=my					
+Mal.2.9#15=L	וְ/נֹשְׂאִ֥ים	ve./no.se.'Im	and/ [you are] lifting up	H9002/{H5375Q}	HC/Vqrmpa			H5375Q			H9002=ו=and/{H5375Q=נָשָׂא=: kindness»to lift:11_kindness;_honour;_favour;_lift(head;_face)}					
+Mal.2.9#16=L	פָּנִ֖ים	pa.Nim	faces	{H6440N}	HNcmpa			H6440N			{H6440N=פָּנֶה=: kindness»face:8_kindness;_honour;_favour;_lift(head;_face)}					
+Mal.2.9#17=L	בַּ/תּוֹרָֽה\׃\ \פ	ba./to.Rah	in <the>/ instruction	H9003/{H8451}\H9016\ \H9017	HRd/Ncfsa			H8451			H9003=ב=in/{H8451=תּוֹרָה=instruction}\H9016=׃=verseEnd\ \H9017=פ=para					
+																
+# Mal.2.10	ha.Lo' (הֲל֨וֹא)	'av (אָ֤ב)	'e.Chad (אֶחָד֙)	le.khu.La.nu (לְכֻלָּ֔נוּ)	ha.Lo' (הֲל֛וֹא)	'el (אֵ֥ל)	'e.Chad (אֶֽחָ֖ד)	be.ra.'A.nu (בְּרָאָ֑נוּ)	ma.Du.a' (מַדּ֗וּעַ)	niv.Gad (נִבְגַּד֙)						
+#_Translation	¿/ not	[does] a father	one	[belong] to/ all of/ us	¿/ not	God	one	did he create/ us	why?	do we deal treacherously						
+#_Word+Grammar	H9008/H3808=HTi/Tn	H0001G=HNcmsa	H0259=HAcfsa	H9005/H3605/H9025=HR/Ncmsc/Sp1bp	H9008/H3808=HTi/Tn	H0410G=HNcmsa	H0259=HAcfsa	H1254A/H9035=HVqp3ms/Sp1bp	H4069=HTi	H0898=HVqi1cp						
+#_Significant variant																
+#_Mal.2.10	'ish (אִ֣ישׁ)	be.'a.Chiv (בְּאָחִ֔יו)	le.cha.Lel (לְחַלֵּ֖ל)	be.Rit (בְּרִ֥ית)	'a.vo.Tei.nu (אֲבֹתֵֽינוּ׃)											
+#_Translation	each	with/ brother/ his	to/ profane	[the] covenant of	ancestors/ our											
+#_Word+Grammar	H0376I=HNcmsa	H9003/H0251I/H9023=HR/Ncmsc/Sp3ms	H9005/H2490H=HR/Vpcc	H1285=HNcfsc	H0001G/H9025=HNcfpc/Sp1bp											
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.2.10#01=L	הֲ/ל֨וֹא	ha./Lo'	¿/ not	H9008/{H3808}	HTi/Tn			H3808_A			H9008=ה=¿/{H3808=לֹא=not}					
+Mal.2.10#02=L	אָ֤ב	'av	[does] a father	{H0001G}	HNcmsa			H0001G_A			{H0001G=אָב=father}					
+Mal.2.10#03=L	אֶחָד֙	'e.Chad	one	{H0259}	HAcfsa			H0259_A			{H0259=אֶחָד=one}					
+Mal.2.10#04=L	לְ/כֻלָּ֔/נוּ	le./khu.La./nu	[belong] to/ all of/ us	H9005/{H3605}/H9025	HR/Ncmsc/Sp1bp			H3605			H9005=ל=to/{H3605=כֹּל=all}/H9025=Pp1c=our					
+Mal.2.10#05=L	הֲ/ל֛וֹא	ha./Lo'	¿/ not	H9008/{H3808}	HTi/Tn			H3808_B			H9008=ה=¿/{H3808=לֹא=not}					
+Mal.2.10#06=L	אֵ֥ל	'el	God	{H0410G}	HNcmsa			H0410G			{H0410G=אֵל=God»LORD@Gen.1.1-Heb}					
+Mal.2.10#07=L	אֶֽחָ֖ד	'e.Chad	one	{H0259}	HAcfsa			H0259_B			{H0259=אֶחָד=one}					
+Mal.2.10#08=L	בְּרָאָ֑/נוּ	be.ra.'A./nu	did he create/ us	{H1254A}/H9035	HVqp3ms/Sp1bp			H1254A			{H1254A=בָּרָא=to create}/H9035=Op1c=us					
+Mal.2.10#09=L	מַדּ֗וּעַ	ma.Du.a'	why?	{H4069}	HTi			H4069			{H4069=מַדּוּעַ=why?}					
+Mal.2.10#10=L	נִבְגַּד֙	niv.Gad	do we deal treacherously	{H0898}	HVqi1cp			H0898			{H0898=בָּגַד=to act treacherously}					
+Mal.2.10#11=L	אִ֣ישׁ	'ish	each	{H0376I}	HNcmsa			H0376I			{H0376I=אִישׁ=: anyone»man:3_anyone;_someone}					
+Mal.2.10#12=L	בְּ/אָחִ֔י/ו	be./'a.Chi/v	with/ brother/ his	H9003/{H0251I}/H9023	HR/Ncmsc/Sp3ms			H0251I			H9003=ב=in/{H0251I=אָח=: compatriot»brother:3_compatriot}/H9023=Ps3m=his					
+Mal.2.10#13=L	לְ/חַלֵּ֖ל	le./cha.Lel	to/ profane	H9005/{H2490H}	HR/Vpcc			H2490H			H9005=ל=to/{H2490H=חָלַל=: profane»to profane;_begin:2_profane}					
+Mal.2.10#14=L	בְּרִ֥ית	be.Rit	[the] covenant of	{H1285}	HNcfsc			H1285			{H1285=בְּרִית=covenant}					
+Mal.2.10#15=L	אֲבֹתֵֽי/נוּ\׃	'a.vo.Tei./nu	ancestors/ our	{H0001G}/H9025\H9016	HNcfpc/Sp1bp			H0001G_B			{H0001G=אָב=father}/H9025=Pp1c=our\H9016=׃=verseEnd					
+																
+# Mal.2.11	ba.ge.Dah (בָּגְדָ֣ה)	ye.hu.Dah (יְהוּדָ֔ה)	ve.to.'e.Vah (וְתוֹעֵבָ֛ה)	ne.'es.Tah (נֶעֶשְׂתָ֥ה)	ve.Yis.ra.'El (בְיִשְׂרָאֵ֖ל)	u.vi.ru.sha.Lim (וּבִירֽוּשָׁלִָ֑ם)	ki (כִּ֣י׀)	chi.Lel (חִלֵּ֣ל)	ye.hu.Dah (יְהוּדָ֗ה)	Ko.desh (קֹ֤דֶשׁ)						
+#_Translation	it has acted treacherously	Judah	and/ an abomination	it has been done	in/ Israel	and/ in/ Jerusalem	for	it has profaned	Judah	[the] sanctuary of						
+#_Word+Grammar	H0898=HVqp3fs	H3063G=HNpl	H9002/H8441=HC/Ncfsa	H6213H=HVNp3fs	H9003/H3478=HR/Npl	H9002/H9003/H3389=HC/R/Npl	H3588A=HTc	H2490H=HVpp3ms	H3063G=HNpl	H6944G=HNcmsc						
+#_Significant variant																
+#_Mal.2.11	Yah.weh (יְהוָה֙)	'a.Sher (אֲשֶׁ֣ר)	'a.Hev (אָהֵ֔ב)	u.va.'Al (וּבָעַ֖ל)	bat- (בַּת־)	'el (אֵ֥ל)	ne.Khar (נֵכָֽר׃)									
+#_Translation	Yahweh	which	he loves	and/ it has married	a daughter of	a god of	foreignness									
+#_Word+Grammar	H3068G=HNpt	H0834A=HTr	H0157G=HVqp3ms	H9002/H1166I=HC/Vqp3ms	H1323G=HNcfsc	H0410K=HNcmsc	H5236=HNcmsa									
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.2.11#01=L	בָּגְדָ֣ה	ba.ge.Dah	it has acted treacherously	{H0898}	HVqp3fs			H0898			{H0898=בָּגַד=to act treacherously}					
+Mal.2.11#02=L	יְהוּדָ֔ה	ye.hu.Dah	Judah	{H3063G}	HNpl			H3063G_A			{H3063G=יְהוּדָה=Judah»Judah@Gen.29.35-Rev}					
+Mal.2.11#03=L	וְ/תוֹעֵבָ֛ה	ve./to.'e.Vah	and/ an abomination	H9002/{H8441}	HC/Ncfsa			H8441			H9002=ו=and/{H8441=תּוֹעֵבַה=abomination}					
+Mal.2.11#04=L	נֶעֶשְׂתָ֥ה	ne.'es.Tah	it has been done	{H6213H}	HVNp3fs			H6213H			{H6213H=עָשָׂה=: make(OBJECT)»to make:1_make(OBJECT)}					
+Mal.2.11#05=L	בְ/יִשְׂרָאֵ֖ל	ve./Yis.ra.'El	in/ Israel	H9003/{H3478}	HR/Npl			H3478			H9003=ב=in/{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}					
+Mal.2.11#06=L	וּ/בִ/ירֽוּשָׁלִָ֑ם	u./vi./ru.sha.Lim	and/ in/ Jerusalem	H9002/H9003/{H3389}	HC/R/Npl			H3389			H9002=ו=and/H9003=ב=in/{H3389=יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם=Jerusalem»Jerusalem@Jos.10.1-Rev}					
+Mal.2.11#07=L	כִּ֣י\׀	ki	for	{H3588A}\H9015	HTc			H3588A			{H3588A=כִּי=for}\H9015=׀=separate					
+Mal.2.11#08=L	חִלֵּ֣ל	chi.Lel	it has profaned	{H2490H}	HVpp3ms			H2490H			{H2490H=חָלַל=: profane»to profane;_begin:2_profane}					
+Mal.2.11#09=L	יְהוּדָ֗ה	ye.hu.Dah	Judah	{H3063G}	HNpl			H3063G_B			{H3063G=יְהוּדָה=Judah»Judah@Gen.29.35-Rev}					
+Mal.2.11#10=L	קֹ֤דֶשׁ	Ko.desh	[the] sanctuary of	{H6944G}	HNcmsc			H6944G			{H6944G=קֹ֫דֶשׁ=holiness}					
+Mal.2.11#11=L	יְהוָה֙	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.2.11#12=L	אֲשֶׁ֣ר	'a.Sher	which	{H0834A}	HTr			H0834A			{H0834A=אֲשֶׁר=which}					
+Mal.2.11#13=L	אָהֵ֔ב	'a.Hev	he loves	{H0157G}	HVqp3ms			H0157G			{H0157G=אָהֵב=: lover»to love:1_lover}					
+Mal.2.11#14=L	וּ/בָעַ֖ל	u./va.'Al	and/ it has married	H9002/{H1166I}	HC/Vqp3ms			H1166I			H9002=ו=and/{H1166I=בָּעַל=to marry}					
+Mal.2.11#15=L	בַּת\־	bat-	a daughter of	{H1323G}\H9014	HNcfsc			H1323G			{H1323G=בַּת=: daughter»daughter:1_daughter}\H9014=־=link					
+Mal.2.11#16=L	אֵ֥ל	'el	a god of	{H0410K}	HNcmsc			H0410K			{H0410K=אֵל=: god»god:1_god}					
+Mal.2.11#17=L	נֵכָֽר\׃	ne.Khar	foreignness	{H5236}\H9016	HNcmsa			H5236			{H5236=נֵכָר=foreign}\H9016=׃=verseEnd					
+																
+# Mal.2.12	yakh.Ret (יַכְרֵ֨ת)	Yah.weh (יְהוָ֜ה)	la.'Ish (לָאִ֨ישׁ)	'a.Sher (אֲשֶׁ֤ר)	ya.'a.Se.nah (יַעֲשֶׂ֙נָּה֙)	'er (עֵ֣ר)	ve.'o.Neh (וְעֹנֶ֔ה)	me.'o.ho.Lei (מֵאָהֳלֵ֖י)	ya.'a.Ko (יַֽעֲקֹ֑ב)	u.ma.Gish (וּמַגִּ֣ישׁ)						
+#_Translation	may he cut off	Yahweh	<to> the/ person	who	he does/ it	a protector	and/ [one who] answers	from/ [the] tents of	Jacob	and/ [one who] brings near						
+#_Word+Grammar	H3772I=HVhj3ms	H3068G=HNpt	H9005/H0376G=HRd/Ncmsa	H0834A=HTr	H6213A/H9034=HVqi3ms/Sp3fs	H5782=HVqrmsa	H9002/H6030B=HC/Vqrmsa	H9006/H0168G=HR/Ncmpc	H3290=HNpm	H9002/H5066H=HC/Vhrmsa						
+#_Significant variant																
+#_Mal.2.12	min.Chah (מִנְחָ֔ה)	la.Yah.weh (לַֽיהוָ֖ה)	tze.va.'ot (צְבָאֽוֹת׃ פ)													
+#_Translation	an offering	to/ Yahweh	of hosts													
+#_Word+Grammar	H4503G=HNcfsa	H9005/H3068G=HR/Npt	H6635B\ =HNcfpa													
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.2.12#01=L	יַכְרֵ֨ת	yakh.Ret	may he cut off	{H3772I}	HVhj3ms			H3772I			{H3772I=כָּרַת=: eliminate»to cut:3_eliminate;_destroy}					
+Mal.2.12#02=L	יְהוָ֜ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G_A			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.2.12#03=L	לָ/אִ֨ישׁ	la./'Ish	<to> the/ person	H9005/{H0376G}	HRd/Ncmsa			H0376G			H9005=ל=to/{H0376G=אִישׁ=: man»man:1_man}					
+Mal.2.12#04=L	אֲשֶׁ֤ר	'a.Sher	who	{H0834A}	HTr			H0834A			{H0834A=אֲשֶׁר=which}					
+Mal.2.12#05=L	יַעֲשֶׂ֙/נָּה֙	ya.'a.Se./nah	he does/ it	{H6213A}/H9034	HVqi3ms/Sp3fs			H6213A			{H6213A=עָשָׂה=: do»to make:2_do;_perform}/H9034=Os3f=her					
+Mal.2.12#06=L	עֵ֣ר	'er	a protector	{H5782}	HVqrmsa			H5782			{H5782=עוּר=to rouse}					
+Mal.2.12#07=L	וְ/עֹנֶ֔ה	ve./'o.Neh	and/ [one who] answers	H9002/{H6030B}	HC/Vqrmsa			H6030B			H9002=ו=and/{H6030B=עָנָה=to answer}					
+Mal.2.12#08=L	מֵ/אָהֳלֵ֖י	me./'o.ho.Lei	from/ [the] tents of	H9006/{H0168G}	HR/Ncmpc			H0168G			H9006=מ=from/{H0168G=אֹ֫הֶל=: tent»tent:1_tent}					
+Mal.2.12#09=L	יַֽעֲקֹ֑ב	ya.'a.Ko	Jacob	{H3290}	HNpm			H3290			{H3290=יַעֲקֹב=Jacob»Israel@Gen.25.26-Rev}					
+Mal.2.12#10=L	וּ/מַגִּ֣ישׁ	u./ma.Gish	and/ [one who] brings near	H9002/{H5066H}	HC/Vhrmsa			H5066H			H9002=ו=and/{H5066H=נָגַשׁ=: bring»to approach:2_bring;_offer}					
+Mal.2.12#11=L	מִנְחָ֔ה	min.Chah	an offering	{H4503G}	HNcfsa			H4503G			{H4503G=מִנְחָה=: offering»offering:1_offering;_sacrifice}					
+Mal.2.12#12=L	לַֽ/יהוָ֖ה	la./Yah.weh	to/ Yahweh	H9005/{H3068G}	HR/Npt			H3068G_B			H9005=ל=to/{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.2.12#13=L	צְבָאֽוֹת\׃\ \פ	tze.va.'ot	of hosts	{H6635B}\H9016\ \H9017	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}\H9016=׃=verseEnd\ \H9017=פ=para					
+																
+# Mal.2.13	ve.zoT (וְזֹאת֙)	she.Nit (שֵׁנִ֣ית)	ta.'a.Su (תַּֽעֲשׂ֔וּ)	ka.Sot (כַּסּ֤וֹת)	dim.'Ah (דִּמְעָה֙)	'et- (אֶת־)	miz.Bach (מִזְבַּ֣ח)	Yah.weh (יְהוָ֔ה)	be.Khi (בְּכִ֖י)	va.'a.na.Kah (וַֽאֲנָקָ֑ה)						
+#_Translation	and/ this	second [thing]	you do	to cover	tear[s]	<obj.>	[the] altar of	Yahweh	weeping	and/ groaning						
+#_Word+Grammar	H9002/H2063=HC/Tm	H8145=HAofsa	H6213A=HVqi2mp	H3680=HVpcc	H1832=HNcfsa	H0853=HTo	H4196=HNcmsc	H3068G=HNpt	H1065=HNcmsa	H9002/H0603=HC/Ncfsa						
+#_Significant variant																
+#_Mal.2.13	me.'Ein (מֵאֵ֣ין)	od (ע֗וֹד)	pe.nOt (פְּנוֹת֙)	'el- (אֶל־)	ha.min.Chah (הַמִּנְחָ֔ה)	ve.la.Ka.chat (וְלָקַ֥חַת)	ra.Tzon (רָצ֖וֹן)	mi.yed.Khem (מִיֶּדְכֶֽם׃)								
+#_Translation	from/ not	still	turning	to	the/ offering	and/ to/ take	pleasure	from/ hand/ your								
+#_Word+Grammar	H9006/H0369=HR/Ncmsc	H5750=HAcmsa	H6437G=HVqcc	H0413=HR	H9009/H4503G=HTd/Ncfsa	H9002/H9005/H3947H=HC/R/Vqcc	H7522=HNcmsa	H9006/H3027H/H9026=HR/Ncbsc/Sp2mp								
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.2.13#01=L	וְ/זֹאת֙	ve./zoT	and/ this	H9002/{H2063}	HC/Tm			H2063			H9002=ו=and/{H2063=זֹאת=this}					
+Mal.2.13#02=L	שֵׁנִ֣ית	she.Nit	second [thing]	{H8145}	HAofsa			H8145			{H8145=שֵׁנִי=second}					
+Mal.2.13#03=L	תַּֽעֲשׂ֔וּ	ta.'a.Su	you do	{H6213A}	HVqi2mp			H6213A			{H6213A=עָשָׂה=: do»to make:2_do;_perform}					
+Mal.2.13#04=L	כַּסּ֤וֹת	ka.Sot	to cover	{H3680}	HVpcc			H3680			{H3680=כָּסָה=to cover}					
+Mal.2.13#05=L	דִּמְעָה֙	dim.'Ah	tear[s]	{H1832}	HNcfsa			H1832			{H1832=דִּמְעָה=tears}					
+Mal.2.13#06=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853			{H0853=אֵת=[Obj.]}\H9014=־=link					
+Mal.2.13#07=L	מִזְבַּ֣ח	miz.Bach	[the] altar of	{H4196}	HNcmsc			H4196			{H4196=מִזְבֵּחַ=altar}					
+Mal.2.13#08=L	יְהוָ֔ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.2.13#09=L	בְּכִ֖י	be.Khi	weeping	{H1065}	HNcmsa			H1065			{H1065=בְּכִי=weeping}					
+Mal.2.13#10=L	וַֽ/אֲנָקָ֑ה	va./'a.na.Kah	and/ groaning	H9002/{H0603}	HC/Ncfsa			H0603			H9002=ו=and/{H0603=אֲנָקָה=groaning}					
+Mal.2.13#11=L	מֵ/אֵ֣ין	me./'Ein	from/ not	H9006/{H0369}	HR/Ncmsc			H0369			H9006=מ=from/{H0369=אַ֫יִן=nothing}					
+Mal.2.13#12=L	ע֗וֹד	od	still	{H5750}	HAcmsa			H5750			{H5750=עוֹד=still}					
+Mal.2.13#13=L	פְּנוֹת֙	pe.nOt	turning	{H6437G}	HVqcc			H6437G			{H6437G=פָּנָה=to turn}					
+Mal.2.13#14=L	אֶל\־	'el-	to	{H0413}\H9014	HR			H0413			{H0413=אֶל=to(wards)}\H9014=־=link					
+Mal.2.13#15=L	הַ/מִּנְחָ֔ה	ha./min.Chah	the/ offering	H9009/{H4503G}	HTd/Ncfsa			H4503G			H9009=ה=the/{H4503G=מִנְחָה=: offering»offering:1_offering;_sacrifice}					
+Mal.2.13#16=L	וְ/לָ/קַ֥חַת	ve./la./Ka.chat	and/ to/ take	H9002/H9005/{H3947H}	HC/R/Vqcc			H3947H			H9002=ו=and/H9005=ל=to/{H3947H=לָקַח=: recieve»to take:2_recieve}					
+Mal.2.13#17=L	רָצ֖וֹן	ra.Tzon	pleasure	{H7522}	HNcmsa			H7522			{H7522=רָצוֹן=acceptance}					
+Mal.2.13#18=L	מִ/יֶּדְ/כֶֽם\׃	mi./yed./Khem	from/ hand/ your	H9006/{H3027H}/H9026\H9016	HR/Ncbsc/Sp2mp			H3027H			H9006=מ=from/{H3027H=יָד=: power»hand:2_power;_rule;_ownership}/H9026=Pp2m=your\H9016=׃=verseEnd					
+																
+# Mal.2.14	va.'a.mar.Tem (וַאֲמַרְתֶּ֖ם)	'al- (עַל־)	Mah (מָ֑ה)	'al (עַ֡ל)	ki- (כִּי־)	Yah.weh (יְהוָה֩)	he.'Id (הֵעִ֨יד)	bei.ne.Kha (בֵּינְךָ֜)	u.Vein (וּבֵ֣ין׀)	'E.shet (אֵ֣שֶׁת)						
+#_Translation	and/ you say	concerning	what?	on	for	Yahweh	he has testified	between/ you	and/ between	[the] wife of						
+#_Word+Grammar	H9001/H0559=Hc/Vqq2mp	H5921A=HR	H4100=HPi	H5921A=HR	H3588A=HTc	H3068G=HNpt	H5749B=HVhp3ms	H0996G/H9031=HAcmsc/Sp2ms	H9002/H0996G=HC/Acmsc	H0802H=HNcfsc						
+#_Significant variant																
+#_Mal.2.14	ne.'u.Rei.kha (נְעוּרֶ֗יךָ)	'a.Sher (אֲשֶׁ֤ר)	'a.Tah (אַתָּה֙)	ba.Gad.tah (בָּגַ֣דְתָּה)	Bah (בָּ֔הּ)	ve.Hi' (וְהִ֥יא)	cha.ver.te.Kha (חֲבֶרְתְּךָ֖)	ve.'E.shet (וְאֵ֥שֶׁת)	be.ri.Te.kha (בְּרִיתֶֽךָ׃)							
+#_Translation	youth<s>/ your	whom	you	you have dealt treacherously	with/ her	and/ she	[was] companion/ your	and/ [the] wife of	covenant/ your							
+#_Word+Grammar	H5271A/H9021=HNcmpc/Sp2ms	H0834A=HTr	H0859A=HPp2ms	H0898=HVqp2ms	H9003/H9034=HR/Sp3fs	H9002/H1931=HC/Pp3fs	H2278/H9021=HNcfsc/Sp2ms	H9002/H0802H=HC/Ncfsc	H1285/H9021=HNcfsc/Sp2ms							
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.2.14#01=L	וַ/אֲמַרְתֶּ֖ם	va./'a.mar.Tem	and/ you say	H9001/{H0559}	Hc/Vqq2mp			H0559			H9001=ו=&/{H0559=אָמַר=to say}					
+Mal.2.14#02=L	עַל\־	'al-	concerning	{H5921A}\H9014	HR			H5921A_A			{H5921A=עַל=upon}\H9014=־=link					
+Mal.2.14#03=L	מָ֑ה	Mah	what?	{H4100}	HPi			H4100			{H4100=מָה=what?}					
+Mal.2.14#04=L	עַ֡ל	'al	on	{H5921A}	HR			H5921A_B			{H5921A=עַל=upon}					
+Mal.2.14#05=L	כִּי\־	ki-	for	{H3588A}\H9014	HTc			H3588A			{H3588A=כִּי=for}\H9014=־=link					
+Mal.2.14#06=L	יְהוָה֩	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.2.14#07=L	הֵעִ֨יד	he.'Id	he has testified	{H5749B}	HVhp3ms			H5749B			{H5749B=עוּד=to testify}					
+Mal.2.14#08=L	בֵּינְ/ךָ֜	bei.ne./Kha	between/ you	{H0996G}/H9031	HAcmsc/Sp2ms			H0996G_A			{H0996G=בַּ֫יִן=: between»between:1_between}/H9031=Os2m=you					
+Mal.2.14#09=L	וּ/בֵ֣ין\׀	u./Vein	and/ between	H9002/{H0996G}\H9015	HC/Acmsc			H0996G_B			H9002=ו=and/{H0996G=בַּ֫יִן=: between»between:1_between}\H9015=׀=separate					
+Mal.2.14#10=L	אֵ֣שֶׁת	'E.shet	[the] wife of	{H0802H}	HNcfsc			H0802H_A			{H0802H=אִשָּׁה=: wife»woman:2_wife;_widow}					
+Mal.2.14#11=L	נְעוּרֶ֗י/ךָ	ne.'u.Rei./kha	youth<s>/ your	{H5271A}/H9021	HNcmpc/Sp2ms			H5271A			{H5271A=נְעוּרִים=youth}/H9021=Ps2m=your					
+Mal.2.14#12=L	אֲשֶׁ֤ר	'a.Sher	whom	{H0834A}	HTr			H0834A			{H0834A=אֲשֶׁר=which}					
+Mal.2.14#13=L	אַתָּה֙	'a.Tah	you	{H0859A}	HPp2ms			H0859A			{H0859A=אַתָּ֫ה=you(m.s.)}					
+Mal.2.14#14=L	בָּגַ֣דְתָּה	ba.Gad.tah	you have dealt treacherously	{H0898}	HVqp2ms			H0898			{H0898=בָּגַד=to act treacherously}					
+Mal.2.14#15=L	בָּ֔/הּ	Ba/h	with/ her	H9003/{H9034}	HR/Sp3fs			H9034			H9003=ב=in/{H9034=Os3f=her}					
+Mal.2.14#16=L	וְ/הִ֥יא	ve./Hi'	and/ she	H9002/{H1931}	HC/Pp3fs			H1931			H9002=ו=and/{H1931=הוּא=he;_she;_it}					
+Mal.2.14#17=L	חֲבֶרְתְּ/ךָ֖	cha.ver.te./Kha	[was] companion/ your	{H2278}/H9021	HNcfsc/Sp2ms			H2278			{H2278=חֲבֶ֫רֶת=consort}/H9021=Ps2m=your					
+Mal.2.14#18=L	וְ/אֵ֥שֶׁת	ve./'E.shet	and/ [the] wife of	H9002/{H0802H}	HC/Ncfsc			H0802H_B			H9002=ו=and/{H0802H=אִשָּׁה=: wife»woman:2_wife;_widow}					
+Mal.2.14#19=L	בְּרִיתֶֽ/ךָ\׃	be.ri.Te./kha	covenant/ your	{H1285}/H9021\H9016	HNcfsc/Sp2ms			H1285			{H1285=בְּרִית=covenant}/H9021=Ps2m=your\H9016=׃=verseEnd					
+																
+# Mal.2.15	ve.lo'- (וְלֹא־)	'e.Chad (אֶחָ֣ד)	'a.Sah (עָשָׂ֗ה)	u.she.'Ar (וּשְׁאָ֥ר)	Ru.ach (ר֙וּחַ֙)	lo (ל֔וֹ)	u.Mah (וּמָה֙)	ha.'e.Chad (הָֽאֶחָ֔ד)	me.va.Kesh (מְבַקֵּ֖שׁ)	Ze.ra' (זֶ֣רַע)						
+#_Translation	and/ not	one	he made	and/ a remnant of	spirit	to/ him	and/ what?	[was] the/ one	seeking	offspring of						
+#_Word+Grammar	H9002/H3808=HC/Tn	H0259=HAcfsa	H6213H=HVqp3ms	H9002/H7605=HC/Ncmsc	H7307G=HNcfsa	H9005/H9033=HR/Sp3ms	H9002/H4100=HC/Pi	H9009/H0259=HTd/Acfsa	H1245=HVprmsa	H2233H=HNcmsc						
+#_Significant variant																
+#_Mal.2.15	'E.lo.Him (אֱלֹהִ֑ים)	ve.nish.mar.Tem (וְנִשְׁמַרְתֶּם֙)	be.Ru.cha.Khem (בְּר֣וּחֲכֶ֔ם)	u.ve.'E.shet (וּבְאֵ֥שֶׁת)	ne.'u.Rei.kha (נְעוּרֶ֖יךָ)	'al- (אַל־)	yiv.God (יִבְגֹּֽד׃)									
+#_Translation	God	and/ you will take heed	in/ spirit/ your	and/ with/ [the] wife of	youth<s>/ your	may not	anyone deal treacherously									
+#_Word+Grammar	H0430G=HNcmpa	H9001/H8104H=Hc/VNq2mp	H9003/H7307G/H9026=HR/Ncfsc/Sp2mp	H9002/H9003/H0802H=HC/R/Ncfsc	H5271A/H9021=HNcmpc/Sp2ms	H0408=HTn	H0898=HVqj3ms									
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.2.15#01=L	וְ/לֹא\־	ve./lo'-	and/ not	H9002/{H3808}\H9014	HC/Tn			H3808			H9002=ו=and/{H3808=לֹא=not}\H9014=־=link					
+Mal.2.15#02=L	אֶחָ֣ד	'e.Chad	one	{H0259}	HAcfsa			H0259_A			{H0259=אֶחָד=one}					
+Mal.2.15#03=L	עָשָׂ֗ה	'a.Sah	he made	{H6213H}	HVqp3ms			H6213H			{H6213H=עָשָׂה=: make(OBJECT)»to make:1_make(OBJECT)}					
+Mal.2.15#04=L	וּ/שְׁאָ֥ר	u./she.'Ar	and/ a remnant of	H9002/{H7605}	HC/Ncmsc			H7605			H9002=ו=and/{H7605=שְׁאָר=remnant}					
+Mal.2.15#05=L	ר֙וּחַ֙	Ru.ach	spirit	{H7307G}	HNcfsa			H7307G_A			{H7307G=רוּחַ=: spirit»spirit:1_spirit}					
+Mal.2.15#06=L	ל֔/וֹ	l/o	to/ him	H9005/{H9033}	HR/Sp3ms			H9033			H9005=ל=to/{H9033=Os3m=him}					
+Mal.2.15#07=L	וּ/מָה֙	u./Mah	and/ what?	H9002/{H4100}	HC/Pi			H4100			H9002=ו=and/{H4100=מָה=what?}					
+Mal.2.15#08=L	הָֽ/אֶחָ֔ד	ha./'e.Chad	[was] the/ one	H9009/{H0259}	HTd/Acfsa			H0259_B			H9009=ה=the/{H0259=אֶחָד=one}					
+Mal.2.15#09=L	מְבַקֵּ֖שׁ	me.va.Kesh	seeking	{H1245}	HVprmsa			H1245			{H1245=בָּקַשׁ=to seek}					
+Mal.2.15#10=L	זֶ֣רַע	Ze.ra'	offspring of	{H2233H}	HNcmsc			H2233H			{H2233H=זֶ֫רַע=: children»seed:2_children;_descendants}					
+Mal.2.15#11=L	אֱלֹהִ֑ים	'E.lo.Him	God	{H0430G}	HNcmpa			H0430G			{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}					
+Mal.2.15#12=L	וְ/נִשְׁמַרְתֶּם֙	ve./nish.mar.Tem	and/ you will take heed	H9001/{H8104H}	Hc/VNq2mp			H8104H			H9001=ו=&/{H8104H=שָׁמַר=: guard»to keep:2_guard}					
+Mal.2.15#13=L	בְּ/ר֣וּחֲ/כֶ֔ם	be./Ru.cha./Khem	in/ spirit/ your	H9003/{H7307G}/H9026	HR/Ncfsc/Sp2mp			H7307G_B			H9003=ב=in/{H7307G=רוּחַ=: spirit»spirit:1_spirit}/H9026=Pp2m=your					
+Mal.2.15#14=L	וּ/בְ/אֵ֥שֶׁת	u./ve./'E.shet	and/ with/ [the] wife of	H9002/H9003/{H0802H}	HC/R/Ncfsc			H0802H			H9002=ו=and/H9003=ב=in/{H0802H=אִשָּׁה=: wife»woman:2_wife;_widow}					
+Mal.2.15#15=L	נְעוּרֶ֖י/ךָ	ne.'u.Rei./kha	youth<s>/ your	{H5271A}/H9021	HNcmpc/Sp2ms			H5271A			{H5271A=נְעוּרִים=youth}/H9021=Ps2m=your					
+Mal.2.15#16=L	אַל\־	'al-	may not	{H0408}\H9014	HTn			H0408			{H0408=אַל=not}\H9014=־=link					
+Mal.2.15#17=L	יִבְגֹּֽד\׃	yiv.God	anyone deal treacherously	{H0898}\H9016	HVqj3ms			H0898			{H0898=בָּגַד=to act treacherously}\H9016=׃=verseEnd					
+																
+# Mal.2.16	ki- (כִּֽי־)	sa.Ne' (שָׂנֵ֣א)	sha.Lach (שַׁלַּ֗ח)	'a.Mar (אָמַ֤ר)	Yah.weh (יְהוָה֙)	'e.lo.Hei (אֱלֹהֵ֣י)	Yis.ra.'El (יִשְׂרָאֵ֔ל)	ve.khi.Sah (וְכִסָּ֤ה)	cha.Mas (חָמָס֙)	'al- (עַל־)						
+#_Translation	for	he hates	sending away	he says	Yahweh	[the] God of	Israel	and/ he will cover	violence	over						
+#_Word+Grammar	H3588A=HTc	H8130=HVqp3ms	H7971I=HVpcc	H0559=HVqp3ms	H3068G=HNpt	H0430G=HNcmpc	H3478=HNpl	H9001/H3680=Hc/Vpq3ms	H2555=HNcmsa	H5921A=HR						
+#_Significant variant																
+#_Mal.2.16	le.vu.Sho (לְבוּשׁ֔וֹ)	'a.Mar (אָמַ֖ר)	Yah.weh (יְהוָ֣ה)	tze.va.'ot (צְבָא֑וֹת)	ve.nish.mar.Tem (וְנִשְׁמַרְתֶּ֥ם)	be.ru.cha.Khem (בְּרוּחֲכֶ֖ם)	ve.Lo' (וְלֹ֥א)	tiv.Go.du (תִבְגֹּֽדוּ׃ ס)								
+#_Translation	clothing/ his	he says	Yahweh	of hosts	and/ you will take heed	in/ spirit/ your	and/ not	you must act treacherously								
+#_Word+Grammar	H3830/H9023=HNcmsc/Sp3ms	H0559=HVqp3ms	H3068G=HNpt	H6635B=HNcfpa	H9001/H8104H=Hc/VNq2mp	H9003/H7307G/H9026=HR/Ncfsc/Sp2mp	H9002/H3808=HC/Tn	H0898\ =HVqi2mp								
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.2.16#01=L	כִּֽי\־	ki-	for	{H3588A}\H9014	HTc			H3588A			{H3588A=כִּי=for}\H9014=־=link					
+Mal.2.16#02=L	שָׂנֵ֣א	sa.Ne'	he hates	{H8130}	HVqp3ms			H8130			{H8130=שָׂנֵא=to hate}					
+Mal.2.16#03=L	שַׁלַּ֗ח	sha.Lach	sending away	{H7971I}	HVpcc			H7971I			{H7971I=שָׁלַח=: divorce»to send:3_divorce}					
+Mal.2.16#04=L	אָמַ֤ר	'a.Mar	he says	{H0559}	HVqp3ms			H0559_A			{H0559=אָמַר=to say}					
+Mal.2.16#05=L	יְהוָה֙	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G_A			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.2.16#06=L	אֱלֹהֵ֣י	'e.lo.Hei	[the] God of	{H0430G}	HNcmpc			H0430G			{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}					
+Mal.2.16#07=L	יִשְׂרָאֵ֔ל	Yis.ra.'El	Israel	{H3478}	HNpl			H3478			{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}					
+Mal.2.16#08=L	וְ/כִסָּ֤ה	ve./khi.Sah	and/ he will cover	H9001/{H3680}	Hc/Vpq3ms			H3680			H9001=ו=&/{H3680=כָּסָה=to cover}					
+Mal.2.16#09=L	חָמָס֙	cha.Mas	violence	{H2555}	HNcmsa			H2555			{H2555=חָמָס=violence}					
+Mal.2.16#10=L	עַל\־	'al-	over	{H5921A}\H9014	HR			H5921A			{H5921A=עַל=upon}\H9014=־=link					
+Mal.2.16#11=L	לְבוּשׁ֔/וֹ	le.vu.Sh/o	clothing/ his	{H3830}/H9023	HNcmsc/Sp3ms			H3830			{H3830=לְבוּשׁ=clothing}/H9023=Ps3m=his					
+Mal.2.16#12=L	אָמַ֖ר	'a.Mar	he says	{H0559}	HVqp3ms			H0559_B			{H0559=אָמַר=to say}					
+Mal.2.16#13=L	יְהוָ֣ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G_B			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.2.16#14=L	צְבָא֑וֹת	tze.va.'ot	of hosts	{H6635B}	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}					
+Mal.2.16#15=L	וְ/נִשְׁמַרְתֶּ֥ם	ve./nish.mar.Tem	and/ you will take heed	H9001/{H8104H}	Hc/VNq2mp			H8104H			H9001=ו=&/{H8104H=שָׁמַר=: guard»to keep:2_guard}					
+Mal.2.16#16=L	בְּ/רוּחֲ/כֶ֖ם	be./ru.cha./Khem	in/ spirit/ your	H9003/{H7307G}/H9026	HR/Ncfsc/Sp2mp			H7307G			H9003=ב=in/{H7307G=רוּחַ=: spirit»spirit:1_spirit}/H9026=Pp2m=your					
+Mal.2.16#17=L	וְ/לֹ֥א	ve./Lo'	and/ not	H9002/{H3808}	HC/Tn			H3808			H9002=ו=and/{H3808=לֹא=not}					
+Mal.2.16#18=L	תִבְגֹּֽדוּ\׃\ \ס	tiv.Go.du	you must act treacherously	{H0898}\H9016\ \H9018	HVqi2mp			H0898			{H0898=בָּגַד=to act treacherously}\H9016=׃=verseEnd\ \H9018=ס=section					
+																
+# Mal.2.17	ho.ga'.Tem (הוֹגַעְתֶּ֤ם)	Yah.weh (יְהוָה֙)	be.div.rei.Khem (בְּדִבְרֵיכֶ֔ם)	va.'a.mar.Tem (וַאֲמַרְתֶּ֖ם)	ba.Mah (בַּמָּ֣ה)	ho.Ga.'e.nu (הוֹגָ֑עְנוּ)	be.'e.ma.re.Khem (בֶּאֱמָרְכֶ֗ם)	kol- (כָּל־)	'O.seh (עֹ֨שֵׂה)	ra' (רָ֜ע)						
+#_Translation	you have wearied	Yahweh	with/ words/ your	and/ you say	<in>/ how?	did we weary [him]	by/ saying/ you	every	[one who] does	<of> evil						
+#_Word+Grammar	H3021=HVhp2mp	H3068G=HNpt	H9003/H1697G/H9026=HR/Ncmpc/Sp2mp	H9001/H0559=Hc/Vqq2mp	H9003/H4100=HR/Pi	H3021=HVhp1cp	H9003/H0559/H9046=HR/Vqcc/Sp2mp	H3605=HNcmsc	H6213A=HVqrmsc	H7451H=HAamsa						
+#_Significant variant																
+#_Mal.2.17	Tov (ט֣וֹב׀)	be.'ei.Nei (בְּעֵינֵ֣י)	Yah.weh (יְהוָ֗ה)	u.va.Hem (וּבָהֶם֙)	hu' (ה֣וּא)	cha.Fetz (חָפֵ֔ץ)	'o (א֥וֹ)	'ai.Yeh (אַיֵּ֖ה)	'e.lo.Hei (אֱלֹהֵ֥י)	ha.mish.Pat (הַמִּשְׁפָּֽט׃)						
+#_Translation	[is] good	in/ [the] eyes of	Yahweh	and/ in/ them	he	he delights	or	where?	[is] [the] God of	<the>/ justice						
+#_Word+Grammar	H2896A=HAamsa	H9003/H5869H=HR/Ncfdc	H3068G=HNpt	H9002/H9003/H9038=HC/R/Sp3mp	H1931=HPp3ms	H2654A=HVqp3ms	H0176A=HC	H0346=HTi	H0430G=HNcmpc	H9009/H4941H=HTd/Ncmsa						
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.2.17#01=L	הוֹגַעְתֶּ֤ם	ho.ga'.Tem	you have wearied	{H3021}	HVhp2mp			H3021_A			{H3021=יָגֵעַ=be weary|toil}					
+Mal.2.17#02=L	יְהוָה֙	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G_A			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.2.17#03=L	בְּ/דִבְרֵי/כֶ֔ם	be./div.rei./Khem	with/ words/ your	H9003/{H1697G}/H9026	HR/Ncmpc/Sp2mp			H1697G			H9003=ב=in/{H1697G=דָּבָר=: word»word:1_word;_speech;_command}/H9026=Pp2m=your					
+Mal.2.17#04=L	וַ/אֲמַרְתֶּ֖ם	va./'a.mar.Tem	and/ you say	H9001/{H0559}	Hc/Vqq2mp			H0559_A			H9001=ו=&/{H0559=אָמַר=to say}					
+Mal.2.17#05=L	בַּ/מָּ֣ה	ba./Mah	<in>/ how?	H9003/{H4100}	HR/Pi			H4100			H9003=ב=in/{H4100=מָה=what?}					
+Mal.2.17#06=L	הוֹגָ֑עְנוּ	ho.Ga.'e.nu	did we weary [him]	{H3021}	HVhp1cp			H3021_B			{H3021=יָגֵעַ=be weary|toil}					
+Mal.2.17#07=L	בֶּ/אֱמָרְ/כֶ֗ם	be./'e.ma.re./Khem	by/ saying/ you	H9003/{H0559}/H9046	HR/Vqcc/Sp2mp			H0559_B			H9003=ב=in/{H0559=אָמַר=to say}/H9046=Sp2m=you					
+Mal.2.17#08=L	כָּל\־	kol-	every	{H3605}\H9014	HNcmsc			H3605			{H3605=כֹּל=all}\H9014=־=link					
+Mal.2.17#09=L	עֹ֨שֵׂה	'O.seh	[one who] does	{H6213A}	HVqrmsc			H6213A			{H6213A=עָשָׂה=: do»to make:2_do;_perform}					
+Mal.2.17#10=L	רָ֜ע	ra'	<of> evil	{H7451H}	HAamsa			H7451H			{H7451H=רַע=: evil»bad:2_evil}					
+Mal.2.17#11=L	ט֣וֹב\׀	Tov	[is] good	{H2896A}\H9015	HAamsa			H2896A			{H2896A=טוֹב=pleasant}\H9015=׀=separate					
+Mal.2.17#12=L	בְּ/עֵינֵ֣י	be./'ei.Nei	in/ [the] eyes of	H9003/{H5869H}	HR/Ncfdc			H5869H			H9003=ב=in/{H5869H=עַ֫יִן=: seeing»eye:2_seeing}					
+Mal.2.17#13=L	יְהוָ֗ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G_B			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.2.17#14=L	וּ/בָ/הֶם֙	u./va./Hem	and/ in/ them	H9002/H9003/{H9038}	HC/R/Sp3mp			H9038	H1992		H9002=ו=and/H9003=ב=in/{H9038=Op3m=them}					
+Mal.2.17#15=L	ה֣וּא	hu'	he	{H1931}	HPp3ms			H1931			{H1931=הוּא=he;_she;_it}					
+Mal.2.17#16=L	חָפֵ֔ץ	cha.Fetz	he delights	{H2654A}	HVqp3ms			H2654A			{H2654A=חָפֵץ=to delight in}					
+Mal.2.17#17=L	א֥וֹ	'o	or	{H0176A}	HC			H0176A			{H0176A=אוֹ=or}					
+Mal.2.17#18=L	אַיֵּ֖ה	'ai.Yeh	where?	{H0346}	HTi			H0346			{H0346=אַיֵּה=where?}					
+Mal.2.17#19=L	אֱלֹהֵ֥י	'e.lo.Hei	[is] [the] God of	{H0430G}	HNcmpc			H0430G			{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}					
+Mal.2.17#20=L	הַ/מִּשְׁפָּֽט\׃	ha./mish.Pat	<the>/ justice	H9009/{H4941H}\H9016	HTd/Ncmsa			H4941H			H9009=ה=the/{H4941H=מִשְׁפָּט=: justice»justice:2_justice;_right;_righteousness}\H9016=׃=verseEnd					
+																
+# Mal.3.1	hi.Ni (הִנְנִ֤י)	sho.le.aCh (שֹׁלֵחַ֙)	mal.'a.Khi (מַלְאָכִ֔י)	u.fi.nah- (וּפִנָּה־)	De.rekh (דֶ֖רֶךְ)	le.fa.Nai (לְפָנָ֑י)	u.fit.'Om (וּפִתְאֹם֩)	ya.Vo' (יָב֨וֹא)	'el- (אֶל־)	hei.kha.Lo (הֵיכָל֜וֹ)						
+#_Translation	here/ I	[am] about to send	messenger/ my	and/ he will make clear	a way	<to>/ before/ me	and/ suddenly	he will come	to	temple/ his						
+#_Word+Grammar	H2005/H9040=HTj/Sp1bs	H7971G=HVqrmsa	H4397G/H9020=HNcmsc/Sp1bs	H9001/H6437G=Hc/Vpq3ms	H1870K=HNcbsa	H9005/H6440G/H9020=HR/Ncmpc/Sp1bs	H9002/H6597=HC/D	H0935G=HVqi3ms	H0413=HR	H1964G/H9023=HNcmsc/Sp3ms						
+#_Significant variant																
+#_Mal.3.1	ha.'a.Don (הָאָד֣וֹן׀)	'a.Sher- (אֲשֶׁר־)	'a.Tem (אַתֶּ֣ם)	me.vak.Shim (מְבַקְשִׁ֗ים)	u.mal.'Akh (וּמַלְאַ֨ךְ)	ha.be.Rit (הַבְּרִ֜ית)	'a.Sher- (אֲשֶׁר־)	'a.Tem (אַתֶּ֤ם)	cha.fe.Tzim (חֲפֵצִים֙)	hi.neh- (הִנֵּה־)						
+#_Translation	the/ lord	whom	you	[are] seeking	and/ [the] messenger of	the/ covenant	whom	you	[are] delighting	there!						
+#_Word+Grammar	H9009/H0113=HTd/Ncmsa	H0834A=HTr	H0859D=HPp2mp	H1245=HVprmpa	H9002/H4397G=HC/Ncmsc	H9009/H1285=HTd/Ncfsa	H0834A=HTr	H0859D=HPp2mp	H2655=HAampa	H2009=HTj						
+#_Significant variant																
+#_Mal.3.1	Va' (בָ֔א)	'a.Mar (אָמַ֖ר)	Yah.weh (יְהוָ֥ה)	tze.va.'ot (צְבָאֽוֹת׃)												
+#_Translation	[he is] about to come	he says	Yahweh	of hosts												
+#_Word+Grammar	H0935G=HVqrmsa	H0559=HVqp3ms	H3068G=HNpt	H6635B=HNcfpa												
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.3.1#01=L	הִנְ/נִ֤י	hi./Ni	here/ I	{H2005}/H9040	HTj/Sp1bs			H2005			{H2005=הֵן=look!}/H9040=Ss1c=I					
+Mal.3.1#02=L	שֹׁלֵחַ֙	sho.le.aCh	[am] about to send	{H7971G}	HVqrmsa			H7971G			{H7971G=שָׁלַח=: depart»to send:1_depart;_send}					
+Mal.3.1#03=L	מַלְאָכִ֔/י	mal.'a.Kh/i	messenger/ my	{H4397G}/H9020	HNcmsc/Sp1bs			H4397G_A			{H4397G=מַלְאָךְ=: messenger»messenger:1_messenger}/H9020=Ps1c=my					
+Mal.3.1#04=L	וּ/פִנָּה\־	u./fi.nah-	and/ he will make clear	H9001/{H6437G}\H9014	Hc/Vpq3ms			H6437G			H9001=ו=&/{H6437G=פָּנָה=to turn}\H9014=־=link					
+Mal.3.1#05=L	דֶ֖רֶךְ	De.rekh	a way	{H1870K}	HNcbsa			H1870K			{H1870K=דֶּ֫רֶךְ=: road»way:1_road;_route}					
+Mal.3.1#06=L	לְ/פָנָ֑/י	le./fa.Na/i	<to>/ before/ me	H9005/{H6440G}/H9020	HR/Ncmpc/Sp1bs			H6440G			H9005=ל=to/{H6440G=פָּנֶה=: before»face:2_before;_to;_front}/H9020=Ps1c=my					
+Mal.3.1#07=L	וּ/פִתְאֹם֩	u./fit.'Om	and/ suddenly	H9002/{H6597}	HC/D			H6597			H9002=ו=and/{H6597=פִּתְאֹם=suddenly}					
+Mal.3.1#08=L	יָב֨וֹא	ya.Vo'	he will come	{H0935G}	HVqi3ms			H0935G_A			{H0935G=בּוֹא=: come»to come (in):1_come;_go_in}					
+Mal.3.1#09=L	אֶל\־	'el-	to	{H0413}\H9014	HR			H0413			{H0413=אֶל=to(wards)}\H9014=־=link					
+Mal.3.1#10=L	הֵיכָל֜/וֹ	hei.kha.L/o	temple/ his	{H1964G}/H9023	HNcmsc/Sp3ms			H1964G			{H1964G=הֵיכָל=: temple»temple:1_temple}/H9023=Ps3m=his					
+Mal.3.1#11=L	הָ/אָד֣וֹן\׀	ha./'a.Don	the/ lord	H9009/{H0113}\H9015	HTd/Ncmsa			H0113			H9009=ה=the/{H0113=אָדוֹן=lord}\H9015=׀=separate					
+Mal.3.1#12=L	אֲשֶׁר\־	'a.Sher-	whom	{H0834A}\H9014	HTr			H0834A_A			{H0834A=אֲשֶׁר=which}\H9014=־=link					
+Mal.3.1#13=L	אַתֶּ֣ם	'a.Tem	you	{H0859D}	HPp2mp			H0859D_A			{H0859D=אַתֶּם=you(m.p.)}					
+Mal.3.1#14=L	מְבַקְשִׁ֗ים	me.vak.Shim	[are] seeking	{H1245}	HVprmpa			H1245			{H1245=בָּקַשׁ=to seek}					
+Mal.3.1#15=L	וּ/מַלְאַ֨ךְ	u./mal.'Akh	and/ [the] messenger of	H9002/{H4397G}	HC/Ncmsc			H4397G_B			H9002=ו=and/{H4397G=מַלְאָךְ=: messenger»messenger:1_messenger}					
+Mal.3.1#16=L	הַ/בְּרִ֜ית	ha./be.Rit	the/ covenant	H9009/{H1285}	HTd/Ncfsa			H1285			H9009=ה=the/{H1285=בְּרִית=covenant}					
+Mal.3.1#17=L	אֲשֶׁר\־	'a.Sher-	whom	{H0834A}\H9014	HTr			H0834A_B			{H0834A=אֲשֶׁר=which}\H9014=־=link					
+Mal.3.1#18=L	אַתֶּ֤ם	'a.Tem	you	{H0859D}	HPp2mp			H0859D_B			{H0859D=אַתֶּם=you(m.p.)}					
+Mal.3.1#19=L	חֲפֵצִים֙	cha.fe.Tzim	[are] delighting	{H2655}	HAampa			H2655			{H2655=חָפֵץ=delighting}					
+Mal.3.1#20=L	הִנֵּה\־	hi.neh-	there!	{H2009}\H9014	HTj			H2009			{H2009=הִנֵּה=behold}\H9014=־=link					
+Mal.3.1#21=L	בָ֔א	Va'	[he is] about to come	{H0935G}	HVqrmsa			H0935G_B			{H0935G=בּוֹא=: come»to come (in):1_come;_go_in}					
+Mal.3.1#22=L	אָמַ֖ר	'a.Mar	he says	{H0559}	HVqp3ms			H0559			{H0559=אָמַר=to say}					
+Mal.3.1#23=L	יְהוָ֥ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.3.1#24=L	צְבָאֽוֹת\׃	tze.va.'ot	of hosts	{H6635B}\H9016	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}\H9016=׃=verseEnd					
+																
+# Mal.3.2	u.Mi (וּמִ֤י)	me.khal.Kel (מְכַלְכֵּל֙)	'et- (אֶת־)	Yom (י֣וֹם)	bo.'O (בּוֹא֔וֹ)	u.Mi (וּמִ֥י)	ha.'o.Med (הָעֹמֵ֖ד)	be.he.ra.'o.To (בְּהֵרָֽאוֹת֑וֹ)	ki- (כִּֽי־)	hu' (הוּא֙)						
+#_Translation	and/ who?	[will] endure	<obj.>	[the] day of	coming/ he	and/ who?	[is] the/ [one who will] stand	when/ appears/ he	for	he						
+#_Word+Grammar	H9002/H4310=HC/Pi	H3557=HVprmsa	H0853=HTo	H3117G=HNcmsc	H0935G/H9043=HVqcc/Sp3ms	H9002/H4310=HC/Pi	H9009/H5975G=HTd/Vqrmsa	H9003/H7200G/H9043=HR/VNcc/Sp3ms	H3588A=HTc	H1931=HPp3ms						
+#_Significant variant																
+#_Mal.3.2	ke.'Esh (כְּאֵ֣שׁ)	me.tza.Ref (מְצָרֵ֔ף)	u.khe.vo.Rit (וּכְבֹרִ֖ית)	me.kha.be.Sim (מְכַבְּסִֽים׃)												
+#_Translation	[is] like/ [the] fire of	a refiner	and/ like/ [the] soap of	washers												
+#_Word+Grammar	H9004/H0784=HR/Ncbsc	H6884=HVprmsa	H9002/H9004/H1287=HC/R/Ncfsc	H3526H=HVprmpa												
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.3.2#01=L	וּ/מִ֤י	u./Mi	and/ who?	H9002/{H4310}	HC/Pi			H4310_A			H9002=ו=and/{H4310=מִי=who?}					
+Mal.3.2#02=L	מְכַלְכֵּל֙	me.khal.Kel	[will] endure	{H3557}	HVprmsa			H3557			{H3557=כּוּל=to sustain}					
+Mal.3.2#03=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853			{H0853=אֵת=[Obj.]}\H9014=־=link					
+Mal.3.2#04=L	י֣וֹם	Yom	[the] day of	{H3117G}	HNcmsc			H3117G			{H3117G=יוֹם=: day»day;_when:1_day;_when;_period}					
+Mal.3.2#05=L	בּוֹא֔/וֹ	bo.'/O	coming/ he	{H0935G}/H9043	HVqcc/Sp3ms			H0935G			{H0935G=בּוֹא=: come»to come (in):1_come;_go_in}/H9043=Ss3m=he					
+Mal.3.2#06=L	וּ/מִ֥י	u./Mi	and/ who?	H9002/{H4310}	HC/Pi			H4310_B			H9002=ו=and/{H4310=מִי=who?}					
+Mal.3.2#07=L	הָ/עֹמֵ֖ד	ha./'o.Med	[is] the/ [one who will] stand	H9009/{H5975G}	HTd/Vqrmsa			H5975G			H9009=ה=the/{H5975G=עָמַד=: stand»to stand:1_stand;_stop;_establish}					
+Mal.3.2#08=L	בְּ/הֵרָֽאוֹת֑/וֹ	be./he.ra.'o.T/o	when/ appears/ he	H9003/{H7200G}/H9043	HR/VNcc/Sp3ms			H7200G			H9003=ב=in/{H7200G=רָאָה=: see»to see:1_see;_show}/H9043=Ss3m=he					
+Mal.3.2#09=L	כִּֽי\־	ki-	for	{H3588A}\H9014	HTc			H3588A			{H3588A=כִּי=for}\H9014=־=link					
+Mal.3.2#10=L	הוּא֙	hu'	he	{H1931}	HPp3ms			H1931			{H1931=הוּא=he;_she;_it}					
+Mal.3.2#11=L	כְּ/אֵ֣שׁ	ke./'Esh	[is] like/ [the] fire of	H9004/{H0784}	HR/Ncbsc			H0784			H9004=כ=like/{H0784=אֵשׁ=fire}					
+Mal.3.2#12=L	מְצָרֵ֔ף	me.tza.Ref	a refiner	{H6884}	HVprmsa			H6884			{H6884=צָרַף=to refine}					
+Mal.3.2#13=L	וּ/כְ/בֹרִ֖ית	u./khe./vo.Rit	and/ like/ [the] soap of	H9002/H9004/{H1287}	HC/R/Ncfsc			H1287			H9002=ו=and/H9004=כ=like/{H1287=בֹּרִית=lye}					
+Mal.3.2#14=L	מְכַבְּסִֽים\׃	me.kha.be.Sim	washers	{H3526H}\H9016	HVprmpa			H3526H			{H3526H=כָּבַס=to wash}\H9016=׃=verseEnd					
+																
+# Mal.3.3	ve.ya.Shav (וְיָשַׁ֨ב)	me.tza.Ref (מְצָרֵ֤ף)	u.me.ta.Her (וּמְטַהֵר֙)	Ke.sef (כֶּ֔סֶף)	ve.ti.Har (וְטִהַ֤ר)	'et- (אֶת־)	be.nei- (בְּנֵֽי־)	le.Vi (לֵוִי֙)	ve.zi.Kak (וְזִקַּ֣ק)	'o.Tam (אֹתָ֔ם)						
+#_Translation	and/ he will sit	[one who] refines	and/ [one who] purifies	silver	and/ he will purify	<obj.>	[the] descendants of	Levi	and/ he will refine	<obj.>/ them						
+#_Word+Grammar	H9001/H3427=Hc/Vqq3ms	H6884=HVprmsa	H9002/H2891=HC/Vprmsa	H3701G=HNcmsa	H9001/H2891=Hc/Vpq3ms	H0853=HTo	H1121G=HNcmpc	H3878=HNpm	H9001/H2212=Hc/Vpq3ms	H0853/H9038=HTo/Sp3mp						
+#_Significant variant																
+#_Mal.3.3	ka.za.Hav (כַּזָּהָ֖ב)	ve.kha.Ka.sef (וְכַכָּ֑סֶף)	ve.ha.Yu (וְהָיוּ֙)	la.Yah.weh (לַֽיהוָ֔ה)	ma.gi.Shei (מַגִּישֵׁ֥י)	min.Chah (מִנְחָ֖ה)	bitz.da.Kah (בִּצְדָקָֽה׃)									
+#_Translation	like <the>/ gold	and/ like <the>/ silver	and/ they will be	to/ Yahweh	bringing near	<of> an offering	in/ righteousness									
+#_Word+Grammar	H9004/H2091=HRd/Ncmsa	H9002/H9004/H3701G=HC/Rd/Ncmsa	H9001/H1961=Hc/Vqq3cp	H9005/H3068G=HR/Npt	H5066H=HVhrmpc	H4503G=HNcfsa	H9003/H6666=HR/Ncfsa									
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.3.3#01=L	וְ/יָשַׁ֨ב	ve./ya.Shav	and/ he will sit	H9001/{H3427}	Hc/Vqq3ms			H3427			H9001=ו=&/{H3427=יָשַׁב=to dwell}					
+Mal.3.3#02=L	מְצָרֵ֤ף	me.tza.Ref	[one who] refines	{H6884}	HVprmsa			H6884			{H6884=צָרַף=to refine}					
+Mal.3.3#03=L	וּ/מְטַהֵר֙	u./me.ta.Her	and/ [one who] purifies	H9002/{H2891}	HC/Vprmsa			H2891_A			H9002=ו=and/{H2891=טָהֵר=be pure}					
+Mal.3.3#04=L	כֶּ֔סֶף	Ke.sef	silver	{H3701G}	HNcmsa			H3701G_A			{H3701G=כֶּ֫סֶף=: money»silver:1_money;_payment;_silver}					
+Mal.3.3#05=L	וְ/טִהַ֤ר	ve./ti.Har	and/ he will purify	H9001/{H2891}	Hc/Vpq3ms			H2891_B			H9001=ו=&/{H2891=טָהֵר=be pure}					
+Mal.3.3#06=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853_A			{H0853=אֵת=[Obj.]}\H9014=־=link					
+Mal.3.3#07=L	בְּנֵֽי\־	be.nei-	[the] descendants of	{H1121G}\H9014	HNcmpc			H1121G			{H1121G=בֵּן=: descendant»son:2_descendant;_people}\H9014=־=link					
+Mal.3.3#08=L	לֵוִי֙	le.Vi	Levi	{H3878}	HNpm			H3878			{H3878=לֵוִי=Levi»Levi@Gen.29.34-Rev}					
+Mal.3.3#09=L	וְ/זִקַּ֣ק	ve./zi.Kak	and/ he will refine	H9001/{H2212}	Hc/Vpq3ms			H2212			H9001=ו=&/{H2212=זָקַק=to refine}					
+Mal.3.3#10=L	אֹתָ֔/ם	'o.Ta/m	<obj.>/ them	{H0853}/H9038	HTo/Sp3mp			H0853_B			{H0853=אֵת=[Obj.]}/H9038=Op3m=them					
+Mal.3.3#11=L	כַּ/זָּהָ֖ב	ka./za.Hav	like <the>/ gold	H9004/{H2091}	HRd/Ncmsa			H2091			H9004=כ=like/{H2091=זָהָב=gold}					
+Mal.3.3#12=L	וְ/כַ/כָּ֑סֶף	ve./kha./Ka.sef	and/ like <the>/ silver	H9002/H9004/{H3701G}	HC/Rd/Ncmsa			H3701G_B			H9002=ו=and/H9004=כ=like/{H3701G=כֶּ֫סֶף=: money»silver:1_money;_payment;_silver}					
+Mal.3.3#13=L	וְ/הָיוּ֙	ve./ha.Yu	and/ they will be	H9001/{H1961}	Hc/Vqq3cp			H1961			H9001=ו=&/{H1961=הָיָה=to be}					
+Mal.3.3#14=L	לַֽ/יהוָ֔ה	la./Yah.weh	to/ Yahweh	H9005/{H3068G}	HR/Npt			H3068G			H9005=ל=to/{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.3.3#15=L	מַגִּישֵׁ֥י	ma.gi.Shei	bringing near	{H5066H}	HVhrmpc			H5066H			{H5066H=נָגַשׁ=: bring»to approach:2_bring;_offer}					
+Mal.3.3#16=L	מִנְחָ֖ה	min.Chah	<of> an offering	{H4503G}	HNcfsa			H4503G			{H4503G=מִנְחָה=: offering»offering:1_offering;_sacrifice}					
+Mal.3.3#17=L	בִּ/צְדָקָֽה\׃	bi/tz.da.Kah	in/ righteousness	H9003/{H6666}\H9016	HR/Ncfsa			H6666			H9003=ב=in/{H6666=צְדָקָה=righteousness}\H9016=׃=verseEnd					
+																
+# Mal.3.4	ve.'a.re.Vah (וְעָֽרְבָה֙)	la.Yah.weh (לַֽיהוָ֔ה)	min.Chat (מִנְחַ֥ת)	ye.hu.Dah (יְהוּדָ֖ה)	vi.ru.sha.Lim (וִירֽוּשָׁלִָ֑ם)	ki.Mei (כִּימֵ֣י)	o.Lam (עוֹלָ֔ם)	u.khe.sha.Nim (וּכְשָׁנִ֖ים)	kad.mo.ni.Yot (קַדְמֹנִיּֽוֹת׃)							
+#_Translation	and/ it will be pleasing	to/ Yahweh	[the] offering of	Judah	and/ Jerusalem	like/ [the] days of	antiquity	and/ like/ years	former							
+#_Word+Grammar	H9001/H6149=Hc/Vqq3fs	H9005/H3068G=HR/Npt	H4503G=HNcfsc	H3063G=HNpl	H9002/H3389=HC/Npl	H9004/H3117G=HR/Ncmpc	H5769J=HNcmsa	H9002/H9004/H8141=HC/R/Ncmpa	H6931H=HAafpa							
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.3.4#01=L	וְ/עָֽרְבָה֙	ve./'a.re.Vah	and/ it will be pleasing	H9001/{H6149}	Hc/Vqq3fs			H6149			H9001=ו=&/{H6149=עָרַב=to please}					
+Mal.3.4#02=L	לַֽ/יהוָ֔ה	la./Yah.weh	to/ Yahweh	H9005/{H3068G}	HR/Npt			H3068G			H9005=ל=to/{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.3.4#03=L	מִנְחַ֥ת	min.Chat	[the] offering of	{H4503G}	HNcfsc			H4503G			{H4503G=מִנְחָה=: offering»offering:1_offering;_sacrifice}					
+Mal.3.4#04=L	יְהוּדָ֖ה	ye.hu.Dah	Judah	{H3063G}	HNpl			H3063G			{H3063G=יְהוּדָה=Judah»Judah@Gen.29.35-Rev}					
+Mal.3.4#05=L	וִ/ירֽוּשָׁלִָ֑ם	vi./ru.sha.Lim	and/ Jerusalem	H9002/{H3389}	HC/Npl			H3389			H9002=ו=and/{H3389=יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם=Jerusalem»Jerusalem@Jos.10.1-Rev}					
+Mal.3.4#06=L	כִּ/ימֵ֣י	ki./Mei	like/ [the] days of	H9004/{H3117G}	HR/Ncmpc			H3117G			H9004=כ=like/{H3117G=יוֹם=: day»day;_when:1_day;_when;_period}					
+Mal.3.4#07=L	עוֹלָ֔ם	o.Lam	antiquity	{H5769J}	HNcmsa			H5769J			{H5769J=עוֹלָם=: old»forever:2_antiquity}					
+Mal.3.4#08=L	וּ/כְ/שָׁנִ֖ים	u./khe./sha.Nim	and/ like/ years	H9002/H9004/{H8141}	HC/R/Ncmpa			H8141			H9002=ו=and/H9004=כ=like/{H8141=שָׁנָה=year}					
+Mal.3.4#09=L	קַדְמֹנִיּֽוֹת\׃	kad.mo.ni.Yot	former	{H6931H}\H9016	HAafpa			H6931H			{H6931H=קַדְמֹנִי=: older»eastern:2_older}\H9016=׃=verseEnd					
+																
+# Mal.3.5	ve.ka.rav.Ti (וְקָרַבְתִּ֣י)	'a.lei.Khem (אֲלֵיכֶם֮)	la.mish.Pat (לַמִּשְׁפָּט֒)	ve.ha.Yi.ti (וְהָיִ֣יתִי׀)	'ed (עֵ֣ד)	me.ma.Her (מְמַהֵ֗ר)	bam.kha.she.Fim (בַּֽמְכַשְּׁפִים֙)	u.vam.Na.'a.Fim (וּבַמְנָ֣אֲפִ֔ים)	u.va.nish.ba.'Im (וּבַנִּשְׁבָּעִ֖ים)	la.Sha.ker (לַשָּׁ֑קֶר)						
+#_Translation	and/ I will draw near	to/ you	for <the>/ judgment	and/ I will be	a witness	hastening	on the/ sorcerers	and/ on the/ adulterers	and/ on <the>/ [those who] swear an oath	to <the>/ falsehood						
+#_Word+Grammar	H9001/H7126G=Hc/Vqq1cs	H0413/H9036=HR/Sp2mp	H9005/H4941G=HRd/Ncmsa	H9001/H1961=Hc/Vqq1cs	H5707=HNcmsa	H4116A=HVprmsa	H9003/H3784=HRd/Vprmpa	H9002/H9003/H5003=HC/Rd/Vprmpa	H9002/H9003/H7650=HC/Rd/VNrmpa	H9005/H8267=HRd/Ncmsa						
+#_Significant variant																
+#_Mal.3.5	u.ve.'o.she.Kei (וּבְעֹשְׁקֵ֣י)	se.kha.r.Sa- (שְׂכַר־)	Sa.khir (שָׂ֠כִיר)	'al.ma.Nah (אַלְמָנָ֨ה)	ve.ya.Tom (וְיָת֤וֹם)	u.ma.tei- (וּמַטֵּי־)	ger (גֵר֙)	ve.Lo' (וְלֹ֣א)	ye.re.'U.ni (יְרֵא֔וּנִי)	'a.Mar (אָמַ֖ר)						
+#_Translation	and/ on/ [those who] defraud	<of> [the] hire of	a hired laborer	a widow	and/ a fatherless one	and/ [those who] thrust aside	<of> a sojourner	and/ not	they fear/ me	he says						
+#_Word+Grammar	H9002/H9003/H6231=HC/R/Vqrmpc	H7939=HNcmsc	H7916=HAamsa	H0490=HNcfsa	H9002/H3490=HC/Ncmsa	H9002/H5186=HC/Vhrmpc	H1616=HNcmsa	H9002/H3808=HC/Tn	H3372H/H9030=HVqp3cp/Sp1bs	H0559=HVqp3ms						
+#_Significant variant																
+#_Mal.3.5	Yah.weh (יְהוָ֥ה)	tze.va.'ot (צְבָאֽוֹת׃)														
+#_Translation	Yahweh	of hosts														
+#_Word+Grammar	H3068G=HNpt	H6635B=HNcfpa														
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.3.5#01=L	וְ/קָרַבְתִּ֣י	ve./ka.rav.Ti	and/ I will draw near	H9001/{H7126G}	Hc/Vqq1cs			H7126G			H9001=ו=&/{H7126G=קָרַב=: come»to present:1_come;_approach}					
+Mal.3.5#02=L	אֲלֵי/כֶם֮	'a.lei./Khem	to/ you	{H0413}/H9036	HR/Sp2mp			H0413			{H0413=אֶל=to(wards)}/H9036=Op2m=you					
+Mal.3.5#03=L	לַ/מִּשְׁפָּט֒	la./mish.Pat	for <the>/ judgment	H9005/{H4941G}	HRd/Ncmsa			H4941G			H9005=ל=to/{H4941G=מִשְׁפָּט=: judgement»justice:1_judgement;_punishment}					
+Mal.3.5#04=L	וְ/הָיִ֣יתִי\׀	ve./ha.Yi.ti	and/ I will be	H9001/{H1961}\H9015	Hc/Vqq1cs			H1961			H9001=ו=&/{H1961=הָיָה=to be}\H9015=׀=separate					
+Mal.3.5#05=L	עֵ֣ד	'ed	a witness	{H5707}	HNcmsa			H5707			{H5707=עֵד=witness}					
+Mal.3.5#06=L	מְמַהֵ֗ר	me.ma.Her	hastening	{H4116A}	HVprmsa			H4116A			{H4116A=מָהַר=to hasten}					
+Mal.3.5#07=L	בַּֽ/מְכַשְּׁפִים֙	ba/m.kha.she.Fim	on the/ sorcerers	H9003/{H3784}	HRd/Vprmpa			H3784			H9003=ב=in/{H3784=כָּשַׁף=to practice sorcery}					
+Mal.3.5#08=L	וּ/בַ/מְנָ֣אֲפִ֔ים	u./va/m.Na.'a.Fim	and/ on the/ adulterers	H9002/H9003/{H5003}	HC/Rd/Vprmpa			H5003			H9002=ו=and/H9003=ב=in/{H5003=נָאַף=to commit adultery}					
+Mal.3.5#09=L	וּ/בַ/נִּשְׁבָּעִ֖ים	u./va./nish.ba.'Im	and/ on <the>/ [those who] swear an oath	H9002/H9003/{H7650}	HC/Rd/VNrmpa			H7650			H9002=ו=and/H9003=ב=in/{H7650=שָׁבַע=to swear}					
+Mal.3.5#10=L	לַ/שָּׁ֑קֶר	la./Sha.ker	to <the>/ falsehood	H9005/{H8267}	HRd/Ncmsa			H8267			H9005=ל=to/{H8267=שֶׁ֫קֶר=deception}					
+Mal.3.5#11=L	וּ/בְ/עֹשְׁקֵ֣י	u./ve./'o.she.Kei	and/ on/ [those who] defraud	H9002/H9003/{H6231}	HC/R/Vqrmpc			H6231			H9002=ו=and/H9003=ב=in/{H6231=עָשַׁק=to oppress}					
+Mal.3.5#12=L	שְׂכַר\־	se.kha.r.Sa-	<of> [the] hire of	{H7939}\H9014	HNcmsc			H7939			{H7939=שָׂכָר=wages}\H9014=־=link					
+Mal.3.5#13=L	שָׂ֠כִיר	Sa.khir	a hired laborer	{H7916}	HAamsa			H7916			{H7916=שָׂכִיר=hired}					
+Mal.3.5#14=L	אַלְמָנָ֨ה	'al.ma.Nah	a widow	{H0490}	HNcfsa			H0490			{H0490=אַלְמָנָה=widow}					
+Mal.3.5#15=L	וְ/יָת֤וֹם	ve./ya.Tom	and/ a fatherless one	H9002/{H3490}	HC/Ncmsa			H3490			H9002=ו=and/{H3490=יָתוֹם=orphan}					
+Mal.3.5#16=L	וּ/מַטֵּי\־	u./ma.tei-	and/ [those who] thrust aside	H9002/{H5186}\H9014	HC/Vhrmpc			H5186			H9002=ו=and/{H5186=נָטָה=to stretch}\H9014=־=link					
+Mal.3.5#17=L	גֵר֙	ger	<of> a sojourner	{H1616}	HNcmsa			H1616			{H1616=גֵּר=sojourner}					
+Mal.3.5#18=L	וְ/לֹ֣א	ve./Lo'	and/ not	H9002/{H3808}	HC/Tn			H3808			H9002=ו=and/{H3808=לֹא=not}					
+Mal.3.5#19=L	יְרֵא֔וּ/נִי	ye.re.'U./ni	they fear/ me	{H3372H}/H9030	HVqp3cp/Sp1bs			H3372H			{H3372H=יָרֵא=: awesome(god)»to fear:2_revere}/H9030=Os1c=me					
+Mal.3.5#20=L	אָמַ֖ר	'a.Mar	he says	{H0559}	HVqp3ms			H0559			{H0559=אָמַר=to say}					
+Mal.3.5#21=L	יְהוָ֥ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.3.5#22=L	צְבָאֽוֹת\׃	tze.va.'ot	of hosts	{H6635B}\H9016	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}\H9016=׃=verseEnd					
+																
+# Mal.3.6	ki (כִּ֛י)	'a.Ni (אֲנִ֥י)	Yah.weh (יְהוָ֖ה)	lo' (לֹ֣א)	sha.Ni.ti (שָׁנִ֑יתִי)	ve.'a.Tem (וְאַתֶּ֥ם)	be.nei- (בְּנֵֽי־)	ya.'a.Ko (יַעֲקֹ֖ב)	lo' (לֹ֥א)	khe.li.Tem (כְלִיתֶֽם׃)						
+#_Translation	that	I	Yahweh	not	I change	and/ you	[the] descendants of	Jacob	not	you have come to an end						
+#_Word+Grammar	H3588A=HTc	H0589=HPp1bs	H3068G=HNpt	H3808=HTn	H8138A=HVqp1cs	H9002/H0859D=HC/Pp2mp	H1121G=HNcmpc	H3290=HNpm	H3808=HTn	H3615H=HVqp2mp						
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.3.6#01=L	כִּ֛י	ki	that	{H3588A}	HTc			H3588A			{H3588A=כִּי=for}					
+Mal.3.6#02=L	אֲנִ֥י	'a.Ni	I	{H0589}	HPp1bs			H0589			{H0589=אֲנִי, אָֽנֹכִ֫י=I}					
+Mal.3.6#03=L	יְהוָ֖ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.3.6#04=L	לֹ֣א	lo'	not	{H3808}	HTn			H3808_A			{H3808=לֹא=not}					
+Mal.3.6#05=L	שָׁנִ֑יתִי	sha.Ni.ti	I change	{H8138A}	HVqp1cs			H8138A			{H8138A=שָׁנָה=to change}					
+Mal.3.6#06=L	וְ/אַתֶּ֥ם	ve./'a.Tem	and/ you	H9002/{H0859D}	HC/Pp2mp			H0859D			H9002=ו=and/{H0859D=אַתֶּם=you(m.p.)}					
+Mal.3.6#07=L	בְּנֵֽי\־	be.nei-	[the] descendants of	{H1121G}\H9014	HNcmpc			H1121G			{H1121G=בֵּן=: descendant»son:2_descendant;_people}\H9014=־=link					
+Mal.3.6#08=L	יַעֲקֹ֖ב	ya.'a.Ko	Jacob	{H3290}	HNpm			H3290			{H3290=יַעֲקֹב=Jacob»Israel@Gen.25.26-Rev}					
+Mal.3.6#09=L	לֹ֥א	lo'	not	{H3808}	HTn			H3808_B			{H3808=לֹא=not}					
+Mal.3.6#10=L	כְלִיתֶֽם\׃	khe.li.Tem	you have come to an end	{H3615H}\H9016	HVqp2mp			H3615H			{H3615H=כָּלָה=: destroy»to end:2_destroy}\H9016=׃=verseEnd					
+																
+# Mal.3.7	le.mi.Mei (לְמִימֵ֨י)	'a.vo.tei.Khem (אֲבֹתֵיכֶ֜ם)	sar.Tem (סַרְתֶּ֤ם)	me.chu.Kai (מֵֽחֻקַּי֙)	ve.Lo' (וְלֹ֣א)	she.mar.Tem (שְׁמַרְתֶּ֔ם)	Shu.vu (שׁ֤וּבוּ)	'e.Lai (אֵלַי֙)	ve.'a.Shu.vah (וְאָשׁ֣וּבָה)	'a.lei.Khem (אֲלֵיכֶ֔ם)						
+#_Translation	<to>/ from/ [the] days of	ancestors/ your	you have turned aside	from/ statutes/ my	and/ not	you have kept [them]	return	to/ me	so/ let me return	to/ you						
+#_Word+Grammar	H9005/H9006/H3117G=HR/R/Ncmpc	H0001G/H9026=HNcfpc/Sp2mp	H5493I=HVqp2mp	H9006/H2706G/H9020=HR/Ncmpc/Sp1bs	H9002/H3808=HC/Tn	H8104G=HVqp2mp	H7725G=HVqv2mp	H0413/H9030=HR/Sp1bs	H9002/H7725G=HC/Vqc1cs	H0413/H9036=HR/Sp2mp						
+#_Significant variant																
+#_Mal.3.7	'a.Mar (אָמַ֖ר)	Yah.weh (יְהוָ֣ה)	tze.va.'ot (צְבָא֑וֹת)	va.'a.mar.Tem (וַאֲמַרְתֶּ֖ם)	ba.Meh (בַּמֶּ֥ה)	na.Shuv (נָשֽׁוּב׃)										
+#_Translation	he says	Yahweh	of hosts	and/ you say	<in>/ how?	will we return										
+#_Word+Grammar	H0559=HVqp3ms	H3068G=HNpt	H6635B=HNcfpa	H9001/H0559=Hc/Vqq2mp	H9003/H4100=HR/Pi	H7725G=HVqi1cp										
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.3.7#01=L	לְ/מִ/ימֵ֨י	le./mi./Mei	<to>/ from/ [the] days of	H9005/H9006/{H3117G}	HR/R/Ncmpc			H3117G			H9005=ל=to/H9006=מ=from/{H3117G=יוֹם=: day»day;_when:1_day;_when;_period}					
+Mal.3.7#02=L	אֲבֹתֵי/כֶ֜ם	'a.vo.tei./Khem	ancestors/ your	{H0001G}/H9026	HNcfpc/Sp2mp			H0001G			{H0001G=אָב=father}/H9026=Pp2m=your					
+Mal.3.7#03=L	סַרְתֶּ֤ם	sar.Tem	you have turned aside	{H5493I}	HVqp2mp			H5493I			{H5493I=סוּר=: turn_aside»to turn aside:3_turn_aside;_deflect}					
+Mal.3.7#04=L	מֵֽ/חֻקַּ/י֙	me./chu.Ka/i	from/ statutes/ my	H9006/{H2706G}/H9020	HR/Ncmpc/Sp1bs			H2706G			H9006=מ=from/{H2706G=חֹק=: decree»statute:1_decree}/H9020=Ps1c=my					
+Mal.3.7#05=L	וְ/לֹ֣א	ve./Lo'	and/ not	H9002/{H3808}	HC/Tn			H3808			H9002=ו=and/{H3808=לֹא=not}					
+Mal.3.7#06=L	שְׁמַרְתֶּ֔ם	she.mar.Tem	you have kept [them]	{H8104G}	HVqp2mp			H8104G			{H8104G=שָׁמַר=: obey»to keep:1_obey;_observe}					
+Mal.3.7#07=L	שׁ֤וּבוּ	Shu.vu	return	{H7725G}	HVqv2mp			H7725G_A			{H7725G=שׁוּב=: return»to return:1_return}					
+Mal.3.7#08=L	אֵלַ/י֙	'e.La/i	to/ me	{H0413}/H9030	HR/Sp1bs			H0413_A			{H0413=אֶל=to(wards)}/H9030=Os1c=me					
+Mal.3.7#09=L	וְ/אָשׁ֣וּבָה	ve./'a.Shu.vah	so/ let me return	H9002/{H7725G}	HC/Vqc1cs			H7725G_B			H9002=ו=and/{H7725G=שׁוּב=: return»to return:1_return}					
+Mal.3.7#10=L	אֲלֵי/כֶ֔ם	'a.lei./Khem	to/ you	{H0413}/H9036	HR/Sp2mp			H0413_B			{H0413=אֶל=to(wards)}/H9036=Op2m=you					
+Mal.3.7#11=L	אָמַ֖ר	'a.Mar	he says	{H0559}	HVqp3ms			H0559_A			{H0559=אָמַר=to say}					
+Mal.3.7#12=L	יְהוָ֣ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.3.7#13=L	צְבָא֑וֹת	tze.va.'ot	of hosts	{H6635B}	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}					
+Mal.3.7#14=L	וַ/אֲמַרְתֶּ֖ם	va./'a.mar.Tem	and/ you say	H9001/{H0559}	Hc/Vqq2mp			H0559_B			H9001=ו=&/{H0559=אָמַר=to say}					
+Mal.3.7#15=L	בַּ/מֶּ֥ה	ba./Meh	<in>/ how?	H9003/{H4100}	HR/Pi			H4100			H9003=ב=in/{H4100=מָה=what?}					
+Mal.3.7#16=L	נָשֽׁוּב\׃	na.Shuv	will we return	{H7725G}\H9016	HVqi1cp			H7725G_C			{H7725G=שׁוּב=: return»to return:1_return}\H9016=׃=verseEnd					
+																
+# Mal.3.8	ha.yik.Ba' (הֲיִקְבַּ֨ע)	'a.Dam (אָדָ֜ם)	'E.lo.Him (אֱלֹהִ֗ים)	ki (כִּ֤י)	'a.Tem (אַתֶּם֙)	koe.'Im (קֹבְעִ֣ים)	'o.Ti (אֹתִ֔י)	va.'a.mar.Tem (וַאֲמַרְתֶּ֖ם)	ba.Meh (בַּמֶּ֣ה)	ke.va.'a.Nu.cha (קְבַעֲנ֑וּךָ)						
+#_Translation	¿/ will he rob	someone	God	for	you	[are] robbing	<obj.>/ me	and/ you say	<in>/ how?	have we robbed/ you						
+#_Word+Grammar	H9008/H6906=HTi/Vqi3ms	H0120G=HNcmsa	H0430G=HNcmpa	H3588A=HTc	H0859D=HPp2mp	H6906=HVqrmpa	H0853/H9030=HTo/Sp1bs	H9001/H0559=Hc/Vqq2mp	H9003/H4100=HR/Pi	H6906/H9031=HVqp1cp/Sp2ms						
+#_Significant variant																
+#_Mal.3.8	ha.ma.'a.Ser (הַֽמַּעֲשֵׂ֖ר)	ve.ha.te.ru.Mah (וְהַתְּרוּמָֽה׃)														
+#_Translation	the/ tithe	and/ the/ contribution														
+#_Word+Grammar	H9009/H4643=HTd/Ncmsa	H9002/H9009/H8641=HC/Td/Ncfsa														
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.3.8#01=L	הֲ/יִקְבַּ֨ע	ha./yik.Ba'	¿/ will he rob	H9008/{H6906}	HTi/Vqi3ms			H6906_A			H9008=ה=¿/{H6906=קָבַע=to rob}					
+Mal.3.8#02=L	אָדָ֜ם	'a.Dam	someone	{H0120G}	HNcmsa			H0120G			{H0120G=אָדָם=man}					
+Mal.3.8#03=L	אֱלֹהִ֗ים	'E.lo.Him	God	{H0430G}	HNcmpa			H0430G			{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}					
+Mal.3.8#04=L	כִּ֤י	ki	for	{H3588A}	HTc			H3588A			{H3588A=כִּי=for}					
+Mal.3.8#05=L	אַתֶּם֙	'a.Tem	you	{H0859D}	HPp2mp			H0859D			{H0859D=אַתֶּם=you(m.p.)}					
+Mal.3.8#06=L	קֹבְעִ֣ים	koe.'Im	[are] robbing	{H6906}	HVqrmpa			H6906_B			{H6906=קָבַע=to rob}					
+Mal.3.8#07=L	אֹתִ֔/י	'o.T/i	<obj.>/ me	{H0853}/H9030	HTo/Sp1bs			H0853			{H0853=אֵת=[Obj.]}/H9030=Os1c=me					
+Mal.3.8#08=L	וַ/אֲמַרְתֶּ֖ם	va./'a.mar.Tem	and/ you say	H9001/{H0559}	Hc/Vqq2mp			H0559			H9001=ו=&/{H0559=אָמַר=to say}					
+Mal.3.8#09=L	בַּ/מֶּ֣ה	ba./Meh	<in>/ how?	H9003/{H4100}	HR/Pi			H4100			H9003=ב=in/{H4100=מָה=what?}					
+Mal.3.8#10=L	קְבַעֲנ֑וּ/ךָ	ke.va.'a.Nu./cha	have we robbed/ you	{H6906}/H9031	HVqp1cp/Sp2ms			H6906_C			{H6906=קָבַע=to rob}/H9031=Os2m=you					
+Mal.3.8#11=L	הַֽ/מַּעֲשֵׂ֖ר	ha./ma.'a.Ser	the/ tithe	H9009/{H4643}	HTd/Ncmsa			H4643			H9009=ה=the/{H4643=מַעֲשֵׂר=tithe}					
+Mal.3.8#12=L	וְ/הַ/תְּרוּמָֽה\׃	ve./ha./te.ru.Mah	and/ the/ contribution	H9002/H9009/{H8641}\H9016	HC/Td/Ncfsa			H8641			H9002=ו=and/H9009=ה=the/{H8641=תְּרוּמָה=contribution}\H9016=׃=verseEnd					
+																
+# Mal.3.9	ba.me.'e.Rah (בַּמְּאֵרָה֙)	'a.Tem (אַתֶּ֣ם)	ne.'a.Rim (נֵֽאָרִ֔ים)	ve.'o.Ti (וְאֹתִ֖י)	'a.Tem (אַתֶּ֣ם)	koe.'Im (קֹבְעִ֑ים)	ha.Goy (הַגּ֖וֹי)	ku.Lo (כֻּלּֽוֹ׃)								
+#_Translation	with <the>/ curse	you	[are] cursed	and/ <obj.>/ me	you	[are] robbing	the/ nation	all of/ it								
+#_Word+Grammar	H9003/H3994=HRd/Ncfsa	H0859D=HPp2mp	H0779=HVNrmpa	H9002/H0853/H9030=HC/To/Sp1bs	H0859D=HPp2mp	H6906=HVqrmpa	H9009/H1471A=HTd/Ncmsa	H3605/H9023=HNcmsc/Sp3ms								
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.3.9#01=L	בַּ/מְּאֵרָה֙	ba./me.'e.Rah	with <the>/ curse	H9003/{H3994}	HRd/Ncfsa			H3994			H9003=ב=in/{H3994=מְאֵרָה=curse}					
+Mal.3.9#02=L	אַתֶּ֣ם	'a.Tem	you	{H0859D}	HPp2mp			H0859D_A			{H0859D=אַתֶּם=you(m.p.)}					
+Mal.3.9#03=L	נֵֽאָרִ֔ים	ne.'a.Rim	[are] cursed	{H0779}	HVNrmpa			H0779			{H0779=אָרַר=to curse}					
+Mal.3.9#04=L	וְ/אֹתִ֖/י	ve./'o.T/i	and/ <obj.>/ me	H9002/{H0853}/H9030	HC/To/Sp1bs			H0853			H9002=ו=and/{H0853=אֵת=[Obj.]}/H9030=Os1c=me					
+Mal.3.9#05=L	אַתֶּ֣ם	'a.Tem	you	{H0859D}	HPp2mp			H0859D_B			{H0859D=אַתֶּם=you(m.p.)}					
+Mal.3.9#06=L	קֹבְעִ֑ים	koe.'Im	[are] robbing	{H6906}	HVqrmpa			H6906			{H6906=קָבַע=to rob}					
+Mal.3.9#07=L	הַ/גּ֖וֹי	ha./Goy	the/ nation	H9009/{H1471A}	HTd/Ncmsa			H1471A			H9009=ה=the/{H1471A=גּוֹי=nation}					
+Mal.3.9#08=L	כֻּלּֽ/וֹ\׃	ku.L/o	all of/ it	{H3605}/H9023\H9016	HNcmsc/Sp3ms			H3605			{H3605=כֹּל=all}/H9023=Ps3m=his\H9016=׃=verseEnd					
+																
+# Mal.3.10	ha.Vi.'u (הָבִ֨יאוּ)	'et- (אֶת־)	kol- (כָּל־)	ha.ma.'a.Ser (הַֽמַּעֲשֵׂ֜ר)	'el- (אֶל־)	beit (בֵּ֣ית)	ha.'o.Tzar (הָאוֹצָ֗ר)	vi.Hi (וִיהִ֥י)	te.ref (טֶ֙רֶף֙)	be.vei.Ti (בְּבֵיתִ֔י)						
+#_Translation	bring	<obj.>	all	the/ tithe	into	[the] house of	the/ store	so/ it may be	food	in/ house/ my						
+#_Word+Grammar	H0935P=HVhv2mp	H0853=HTo	H3605=HNcmsc	H9009/H4643=HTd/Ncmsa	H0413=HR	H1004B=HNcmsc	H9009/H0214=HTd/Ncmsa	H9002/H1961=HC/Vqj3ms	H2964=HNcmsa	H9003/H1004B/H9020=HR/Ncmsc/Sp1bs						
+#_Significant variant																
+#_Mal.3.10	u.ve.cha.Nu.ni (וּבְחָנ֤וּנִי)	na' (נָא֙)	ba.Zot (בָּזֹ֔את)	'a.Mar (אָמַ֖ר)	Yah.weh (יְהוָ֣ה)	tze.va.'ot (צְבָא֑וֹת)	'im- (אִם־)	lo' (לֹ֧א)	'ef.Tach (אֶפְתַּ֣ח)	la.Khem (לָכֶ֗ם)						
+#_Translation	and/ test/ me	please	by/ this	he says	Yahweh	of hosts	if	not	I will open	for/ you						
+#_Word+Grammar	H9002/H0974/H9030=HC/Vqv2mp/Sp1bs	H4994=HTj	H9003/H2063=HR/Tm	H0559=HVqp3ms	H3068G=HNpt	H6635B=HNcfpa	H0518A=HTc	H3808=HTn	H6605A=HVqi1cs	H9005/H9036=HR/Sp2mp						
+#_Significant variant																
+#_Mal.3.10	'et (אֵ֚ת)	'a.ru.Bot (אֲרֻבּ֣וֹת)	ha.sha.Ma.yim (הַשָּׁמַ֔יִם)	va.ha.ri.ko.Ti (וַהֲרִיקֹתִ֥י)	la.Khem (לָכֶ֛ם)	be.ra.Khah (בְּרָכָ֖ה)	'ad- (עַד־)	be.li- (בְּלִי־)	Dai (דָֽי׃)							
+#_Translation	<obj.>	[the] windows of	the/ heavens	and/ I will pour out	for/ you	blessing	until	not	sufficiency							
+#_Word+Grammar	H0853=HTo	H0699=HNcfpc	H9009/H8064=HTd/Ncmpa	H9001/H7324=Hc/Vhq1cs	H9005/H9036=HR/Sp2mp	H1293=HNcfsa	H5704=HR	H1097=HNcmsc	H1767=HNcmsa							
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.3.10#01=L	הָבִ֨יאוּ	ha.Vi.'u	bring	{H0935P}	HVhv2mp			H0935P			{H0935P=בּוֹא=: bring»to come (in):2_bring;_take_in}					
+Mal.3.10#02=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853_A			{H0853=אֵת=[Obj.]}\H9014=־=link					
+Mal.3.10#03=L	כָּל\־	kol-	all	{H3605}\H9014	HNcmsc			H3605			{H3605=כֹּל=all}\H9014=־=link					
+Mal.3.10#04=L	הַֽ/מַּעֲשֵׂ֜ר	ha./ma.'a.Ser	the/ tithe	H9009/{H4643}	HTd/Ncmsa			H4643			H9009=ה=the/{H4643=מַעֲשֵׂר=tithe}					
+Mal.3.10#05=L	אֶל\־	'el-	into	{H0413}\H9014	HR			H0413			{H0413=אֶל=to(wards)}\H9014=־=link					
+Mal.3.10#06=L	בֵּ֣ית	beit	[the] house of	{H1004B}	HNcmsc			H1004B_A			{H1004B=בַּ֫יִת=: home»house:1_home}					
+Mal.3.10#07=L	הָ/אוֹצָ֗ר	ha./'o.Tzar	the/ store	H9009/{H0214}	HTd/Ncmsa			H0214			H9009=ה=the/{H0214=אוֹצָר=treasure}					
+Mal.3.10#08=L	וִ/יהִ֥י	vi./Hi	so/ it may be	H9002/{H1961}	HC/Vqj3ms			H1961			H9002=ו=and/{H1961=הָיָה=to be}					
+Mal.3.10#09=L	טֶ֙רֶף֙	te.ref	food	{H2964}	HNcmsa			H2964			{H2964=טֶ֫רֶף=prey}					
+Mal.3.10#10=L	בְּ/בֵיתִ֔/י	be./vei.T/i	in/ house/ my	H9003/{H1004B}/H9020	HR/Ncmsc/Sp1bs			H1004B_B			H9003=ב=in/{H1004B=בַּ֫יִת=: home»house:1_home}/H9020=Ps1c=my					
+Mal.3.10#11=L	וּ/בְחָנ֤וּ/נִי	u./ve.cha.Nu./ni	and/ test/ me	H9002/{H0974}/H9030	HC/Vqv2mp/Sp1bs			H0974			H9002=ו=and/{H0974=בָּחַן=to test}/H9030=Os1c=me					
+Mal.3.10#12=L	נָא֙	na'	please	{H4994}	HTj			H4994			{H4994=נָא=please}					
+Mal.3.10#13=L	בָּ/זֹ֔את	ba./Zot	by/ this	H9003/{H2063}	HR/Tm			H2063			H9003=ב=in/{H2063=זֹאת=this}					
+Mal.3.10#14=L	אָמַ֖ר	'a.Mar	he says	{H0559}	HVqp3ms			H0559			{H0559=אָמַר=to say}					
+Mal.3.10#15=L	יְהוָ֣ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.3.10#16=L	צְבָא֑וֹת	tze.va.'ot	of hosts	{H6635B}	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}					
+Mal.3.10#17=L	אִם\־	'im-	if	{H0518A}\H9014	HTc			H0518A			{H0518A=אִם=: if»if:1_if;_whether_or;_though}\H9014=־=link					
+Mal.3.10#18=L	לֹ֧א	lo'	not	{H3808}	HTn			H3808			{H3808=לֹא=not}					
+Mal.3.10#19=L	אֶפְתַּ֣ח	'ef.Tach	I will open	{H6605A}	HVqi1cs			H6605A			{H6605A=פָּתַח=to open}					
+Mal.3.10#20=L	לָ/כֶ֗ם	la./Khem	for/ you	H9005/{H9036}	HR/Sp2mp			H9036_A			H9005=ל=to/{H9036=Op2m=you}					
+Mal.3.10#21=L	אֵ֚ת	'et	<obj.>	{H0853}	HTo			H0853_B			{H0853=אֵת=[Obj.]}					
+Mal.3.10#22=L	אֲרֻבּ֣וֹת	'a.ru.Bot	[the] windows of	{H0699}	HNcfpc			H0699			{H0699=אֲרֻבָּה=window}					
+Mal.3.10#23=L	הַ/שָּׁמַ֔יִם	ha./sha.Ma.yim	the/ heavens	H9009/{H8064}	HTd/Ncmpa			H8064			H9009=ה=the/{H8064=שָׁמַיִם=heaven}					
+Mal.3.10#24=L	וַ/הֲרִיקֹתִ֥י	va./ha.ri.ko.Ti	and/ I will pour out	H9001/{H7324}	Hc/Vhq1cs			H7324			H9001=ו=&/{H7324=רִיק=to empty}					
+Mal.3.10#25=L	לָ/כֶ֛ם	la./Khem	for/ you	H9005/{H9036}	HR/Sp2mp			H9036_B			H9005=ל=to/{H9036=Op2m=you}					
+Mal.3.10#26=L	בְּרָכָ֖ה	be.ra.Khah	blessing	{H1293}	HNcfsa			H1293			{H1293=בְּרָכָה=blessing}					
+Mal.3.10#27=L	עַד\־	'ad-	until	{H5704}\H9014	HR			H5704			{H5704=עַד=till}\H9014=־=link					
+Mal.3.10#28=L	בְּלִי\־	be.li-	not	{H1097}\H9014	HNcmsc			H1097			{H1097=בְּלִי=without}\H9014=־=link					
+Mal.3.10#29=L	דָֽי\׃	Dai	sufficiency	{H1767}\H9016	HNcmsa			H1767			{H1767=דַּי=enough}\H9016=׃=verseEnd					
+																
+# Mal.3.11	ve.ga.'ar.Ti (וְגָעַרְתִּ֤י)	la.Khem (לָכֶם֙)	ba.'o.Khel (בָּֽאֹכֵ֔ל)	ve.lo'- (וְלֹֽא־)	yash.Chit (יַשְׁחִ֥ת)	la.Khem (לָכֶ֖ם)	'et- (אֶת־)	pe.Ri (פְּרִ֣י)	ha.'a.da.Mah (הָאֲדָמָ֑ה)	ve.lo'- (וְלֹא־)						
+#_Translation	and/ I will rebuke	for/ you	<in> the/ devourer	and/ not	it will destroy	of/ you	<obj.>	[the] fruit of	the/ ground	and/ not						
+#_Word+Grammar	H9001/H1605=Hc/Vqq1cs	H9005/H9036=HR/Sp2mp	H9003/H0398=HRd/Vqrmsa	H9002/H3808=HC/Tn	H7843=HVhi3ms	H9005/H9036=HR/Sp2mp	H0853=HTo	H6529=HNcmsc	H9009/H0127G=HTd/Ncfsa	H9002/H3808=HC/Tn						
+#_Significant variant																
+#_Mal.3.11	te.sha.Kel (תְשַׁכֵּ֨ל)	la.Khem (לָכֶ֤ם)	ha.Ge.fen (הַגֶּ֙פֶן֙)	ba.sa.Deh (בַּשָּׂדֶ֔ה)	'a.Mar (אָמַ֖ר)	Yah.weh (יְהוָ֥ה)	tze.va.'ot (צְבָאֽוֹת׃)									
+#_Translation	it will prove barren	of/ you	the/ vine	in the/ field	he says	Yahweh	of hosts									
+#_Word+Grammar	H7921A=HVpi3fs	H9005/H9036=HR/Sp2mp	H9009/H1612=HTd/Ncbsa	H9003/H7704G=HRd/Ncmsa	H0559=HVqp3ms	H3068G=HNpt	H6635B=HNcfpa									
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.3.11#01=L	וְ/גָעַרְתִּ֤י	ve./ga.'ar.Ti	and/ I will rebuke	H9001/{H1605}	Hc/Vqq1cs			H1605			H9001=ו=&/{H1605=גָּעַר=to rebuke}					
+Mal.3.11#02=L	לָ/כֶם֙	la./Khem	for/ you	H9005/{H9036}	HR/Sp2mp			H9036_A			H9005=ל=to/{H9036=Op2m=you}					
+Mal.3.11#03=L	בָּֽ/אֹכֵ֔ל	ba./'o.Khel	<in> the/ devourer	H9003/{H0398}	HRd/Vqrmsa			H0398			H9003=ב=in/{H0398=אָכַל=to eat}					
+Mal.3.11#04=L	וְ/לֹֽא\־	ve./lo'-	and/ not	H9002/{H3808}\H9014	HC/Tn			H3808_A			H9002=ו=and/{H3808=לֹא=not}\H9014=־=link					
+Mal.3.11#05=L	יַשְׁחִ֥ת	yash.Chit	it will destroy	{H7843}	HVhi3ms			H7843			{H7843=שָׁחַת=to ruin}					
+Mal.3.11#06=L	לָ/כֶ֖ם	la./Khem	of/ you	H9005/{H9036}	HR/Sp2mp			H9036_B			H9005=ל=to/{H9036=Op2m=you}					
+Mal.3.11#07=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853			{H0853=אֵת=[Obj.]}\H9014=־=link					
+Mal.3.11#08=L	פְּרִ֣י	pe.Ri	[the] fruit of	{H6529}	HNcmsc			H6529			{H6529=פְּרִי=fruit}					
+Mal.3.11#09=L	הָ/אֲדָמָ֑ה	ha./'a.da.Mah	the/ ground	H9009/{H0127G}	HTd/Ncfsa			H0127G			H9009=ה=the/{H0127G=אֲדָמָה=: soil»land:1_soil}					
+Mal.3.11#10=L	וְ/לֹא\־	ve./lo'-	and/ not	H9002/{H3808}\H9014	HC/Tn			H3808_B			H9002=ו=and/{H3808=לֹא=not}\H9014=־=link					
+Mal.3.11#11=L	תְשַׁכֵּ֨ל	te.sha.Kel	it will prove barren	{H7921A}	HVpi3fs			H7921A			{H7921A=שָׁכֹל=be bereaved}					
+Mal.3.11#12=L	לָ/כֶ֤ם	la./Khem	of/ you	H9005/{H9036}	HR/Sp2mp			H9036_C			H9005=ל=to/{H9036=Op2m=you}					
+Mal.3.11#13=L	הַ/גֶּ֙פֶן֙	ha./Ge.fen	the/ vine	H9009/{H1612}	HTd/Ncbsa			H1612			H9009=ה=the/{H1612=גֶּ֫פֶן=vine}					
+Mal.3.11#14=L	בַּ/שָּׂדֶ֔ה	ba./sa.Deh	in the/ field	H9003/{H7704G}	HRd/Ncmsa			H7704G			H9003=ב=in/{H7704G=שָׂדֶה=: country;_planet»land:2_country;_planet}					
+Mal.3.11#15=L	אָמַ֖ר	'a.Mar	he says	{H0559}	HVqp3ms			H0559			{H0559=אָמַר=to say}					
+Mal.3.11#16=L	יְהוָ֥ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.3.11#17=L	צְבָאֽוֹת\׃	tze.va.'ot	of hosts	{H6635B}\H9016	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}\H9016=׃=verseEnd					
+																
+# Mal.3.12	ve.'i.she.Ru (וְאִשְּׁר֥וּ)	'et.Khem (אֶתְכֶ֖ם)	kol- (כָּל־)	ha.go.Yim (הַגּוֹיִ֑ם)	ki- (כִּֽי־)	tih.Yu (תִהְי֤וּ)	'a.Tem (אַתֶּם֙)	'E.retz (אֶ֣רֶץ)	Che.fetz (חֵ֔פֶץ)	'a.Mar (אָמַ֖ר)						
+#_Translation	and/ they will call blessed	<obj.>/ you	all	the/ nations	for	you will be	you	a land of	delight	he says						
+#_Word+Grammar	H9001/H0833=Hc/Vpq3cp	H0853/H9036=HTo/Sp2mp	H3605=HNcmsc	H9009/H1471A=HTd/Ncmpa	H3588A=HTc	H1961=HVqi2mp	H0859D=HPp2mp	H0776G=HNcfsc	H2656=HNcmsa	H0559=HVqp3ms						
+#_Significant variant																
+#_Mal.3.12	Yah.weh (יְהוָ֥ה)	tze.va.'ot (צְבָאֽוֹת׃ ס)														
+#_Translation	Yahweh	of hosts														
+#_Word+Grammar	H3068G=HNpt	H6635B\ =HNcfpa														
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.3.12#01=L	וְ/אִשְּׁר֥וּ	ve./'i.she.Ru	and/ they will call blessed	H9001/{H0833}	Hc/Vpq3cp			H0833			H9001=ו=&/{H0833=אָשַׁר=to bless}					
+Mal.3.12#02=L	אֶתְ/כֶ֖ם	'et./Khem	<obj.>/ you	{H0853}/H9036	HTo/Sp2mp			H0853			{H0853=אֵת=[Obj.]}/H9036=Op2m=you					
+Mal.3.12#03=L	כָּל\־	kol-	all	{H3605}\H9014	HNcmsc			H3605			{H3605=כֹּל=all}\H9014=־=link					
+Mal.3.12#04=L	הַ/גּוֹיִ֑ם	ha./go.Yim	the/ nations	H9009/{H1471A}	HTd/Ncmpa			H1471A			H9009=ה=the/{H1471A=גּוֹי=nation}					
+Mal.3.12#05=L	כִּֽי\־	ki-	for	{H3588A}\H9014	HTc			H3588A			{H3588A=כִּי=for}\H9014=־=link					
+Mal.3.12#06=L	תִהְי֤וּ	tih.Yu	you will be	{H1961}	HVqi2mp			H1961			{H1961=הָיָה=to be}					
+Mal.3.12#07=L	אַתֶּם֙	'a.Tem	you	{H0859D}	HPp2mp			H0859D			{H0859D=אַתֶּם=you(m.p.)}					
+Mal.3.12#08=L	אֶ֣רֶץ	'E.retz	a land of	{H0776G}	HNcfsc			H0776G			{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}					
+Mal.3.12#09=L	חֵ֔פֶץ	Che.fetz	delight	{H2656}	HNcmsa			H2656			{H2656=חֵ֫פֶץ=pleasure}					
+Mal.3.12#10=L	אָמַ֖ר	'a.Mar	he says	{H0559}	HVqp3ms			H0559			{H0559=אָמַר=to say}					
+Mal.3.12#11=L	יְהוָ֥ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.3.12#12=L	צְבָאֽוֹת\׃\ \ס	tze.va.'ot	of hosts	{H6635B}\H9016\ \H9018	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}\H9016=׃=verseEnd\ \H9018=ס=section					
+																
+# Mal.3.13	cha.ze.Ku (חָזְק֥וּ)	'a.Lai (עָלַ֛י)	div.rei.Khem (דִּבְרֵיכֶ֖ם)	'a.Mar (אָמַ֣ר)	Yah.weh (יְהוָ֑ה)	va.'a.mar.Tem (וַאֲמַרְתֶּ֕ם)	mah- (מַה־)	nid.Bar.nu (נִּדְבַּ֖רְנוּ)	'a.Lei.kha (עָלֶֽיךָ׃)							
+#_Translation	they have been strong	on/ me	words/ your	he says	Yahweh	and/ you say	what?	have we spoken together	on/ you							
+#_Word+Grammar	H2388G=HVqp3cp	H5921A/H9030=HR/Sp1bs	H1697G/H9026=HNcmpc/Sp2mp	H0559=HVqp3ms	H3068G=HNpt	H9001/H0559=Hc/Vqq2mp	H4100=HPi	H1696G=HVNp1cp	H5921A/H9031=HR/Sp2ms							
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.3.13#01=L	חָזְק֥וּ	cha.ze.Ku	they have been strong	{H2388G}	HVqp3cp			H2388G			{H2388G=חָזַק=: strengthen»to strengthen:1_strengthen;_support;_encourage}					
+Mal.3.13#02=L	עָלַ֛/י	'a.La/i	on/ me	{H5921A}/H9030	HR/Sp1bs			H5921A_A			{H5921A=עַל=upon}/H9030=Os1c=me					
+Mal.3.13#03=L	דִּבְרֵי/כֶ֖ם	div.rei./Khem	words/ your	{H1697G}/H9026	HNcmpc/Sp2mp			H1697G			{H1697G=דָּבָר=: word»word:1_word;_speech;_command}/H9026=Pp2m=your					
+Mal.3.13#04=L	אָמַ֣ר	'a.Mar	he says	{H0559}	HVqp3ms			H0559_A			{H0559=אָמַר=to say}					
+Mal.3.13#05=L	יְהוָ֑ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.3.13#06=L	וַ/אֲמַרְתֶּ֕ם	va./'a.mar.Tem	and/ you say	H9001/{H0559}	Hc/Vqq2mp			H0559_B			H9001=ו=&/{H0559=אָמַר=to say}					
+Mal.3.13#07=L	מַה\־	mah-	what?	{H4100}\H9014	HPi			H4100			{H4100=מָה=what?}\H9014=־=link					
+Mal.3.13#08=L	נִּדְבַּ֖רְנוּ	nid.Bar.nu	have we spoken together	{H1696G}	HVNp1cp			H1696G			{H1696G=דָבַר=: speak»to speak:1_speak;_tell;_command}					
+Mal.3.13#09=L	עָלֶֽי/ךָ\׃	'a.Lei./kha	on/ you	{H5921A}/H9031\H9016	HR/Sp2ms			H5921A_B			{H5921A=עַל=upon}/H9031=Os2m=you\H9016=׃=verseEnd					
+																
+# Mal.3.14	'a.mar.Tem (אֲמַרְתֶּ֕ם)	shav' (שָׁ֖וְא)	'a.Vod (עֲבֹ֣ד)	'E.lo.Him (אֱלֹהִ֑ים)	u.mah- (וּמַה־)	Be.tza' (בֶּ֗צַע)	ki (כִּ֤י)	sha.Mar.nu (שָׁמַ֙רְנוּ֙)	mish.mar.To (מִשְׁמַרְתּ֔וֹ)	ve.Khi (וְכִ֤י)						
+#_Translation	you have said	[is] futility	to serve	God	and/ what?	[is the] profit	that	we have kept	charge/ his	and/ that						
+#_Word+Grammar	H0559=HVqp2mp	H7723H=HNcmsa	H5647H=HVqcc	H0430G=HNcmpa	H9002/H4100=HC/Pi	H1215=HNcmsa	H3588A=HTc	H8104G=HVqp1cp	H4931/H9023=HNcfsc/Sp3ms	H9002/H3588A=HC/Tc						
+#_Significant variant																
+#_Mal.3.14	ha.Lakh.nu (הָלַ֙כְנוּ֙)	ke.Do.ra.Nit (קְדֹ֣רַנִּ֔ית)	mi.pe.Nei (מִפְּנֵ֖י)	Yah.weh (יְהוָ֥ה)	tze.va.'ot (צְבָאֽוֹת׃)											
+#_Translation	we have walked	mournfully	from/ before	Yahweh	of hosts											
+#_Word+Grammar	H1980I=HVqp1cp	H6941=HAcfsa	H9006/H6440G=HR/Ncmpc	H3068G=HNpt	H6635B=HNcfpa											
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.3.14#01=L	אֲמַרְתֶּ֕ם	'a.mar.Tem	you have said	{H0559}	HVqp2mp			H0559			{H0559=אָמַר=to say}					
+Mal.3.14#02=L	שָׁ֖וְא	shav'	[is] futility	{H7723H}	HNcmsa			H7723H			{H7723H=שָׁוְא=: vain»vanity:2_vain;_empty;_worthless}					
+Mal.3.14#03=L	עֲבֹ֣ד	'a.Vod	to serve	{H5647H}	HVqcc			H5647H			{H5647H=עָבַד=: minister»to serve:2_minister;_serve[God;_tabernacle;_temple];_worship}					
+Mal.3.14#04=L	אֱלֹהִ֑ים	'E.lo.Him	God	{H0430G}	HNcmpa			H0430G			{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}					
+Mal.3.14#05=L	וּ/מַה\־	u./mah-	and/ what?	H9002/{H4100}\H9014	HC/Pi			H4100			H9002=ו=and/{H4100=מָה=what?}\H9014=־=link					
+Mal.3.14#06=L	בֶּ֗צַע	Be.tza'	[is the] profit	{H1215}	HNcmsa			H1215			{H1215=בֶּ֫צַע=(unjust) gain}					
+Mal.3.14#07=L	כִּ֤י	ki	that	{H3588A}	HTc			H3588A_A			{H3588A=כִּי=for}					
+Mal.3.14#08=L	שָׁמַ֙רְנוּ֙	sha.Mar.nu	we have kept	{H8104G}	HVqp1cp			H8104G			{H8104G=שָׁמַר=: obey»to keep:1_obey;_observe}					
+Mal.3.14#09=L	מִשְׁמַרְתּ֔/וֹ	mish.mar.T/o	charge/ his	{H4931}/H9023	HNcfsc/Sp3ms			H4931			{H4931=מִשְׁמֶ֫רֶת=charge}/H9023=Ps3m=his					
+Mal.3.14#10=L	וְ/כִ֤י	ve./Khi	and/ that	H9002/{H3588A}	HC/Tc			H3588A_B			H9002=ו=and/{H3588A=כִּי=for}					
+Mal.3.14#11=L	הָלַ֙כְנוּ֙	ha.Lakh.nu	we have walked	{H1980I}	HVqp1cp			H1980I	H3212		{H1980I=הָלַךְ=: walk»to go:1_walk;_move}					
+Mal.3.14#12=L	קְדֹ֣רַנִּ֔ית	ke.Do.ra.Nit	mournfully	{H6941}	HAcfsa			H6941			{H6941=קְדֹרַנִּית=mournfully}					
+Mal.3.14#13=L	מִ/פְּנֵ֖י	mi./pe.Nei	from/ before	H9006/{H6440G}	HR/Ncmpc			H6440G			H9006=מ=from/{H6440G=פָּנֶה=: before»face:2_before;_to;_front}					
+Mal.3.14#14=L	יְהוָ֥ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.3.14#15=L	צְבָאֽוֹת\׃	tze.va.'ot	of hosts	{H6635B}\H9016	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}\H9016=׃=verseEnd					
+																
+# Mal.3.15	ve.'a.Tah (וְעַתָּ֕ה)	'a.Nach.nu (אֲנַ֖חְנוּ)	me.'a.she.Rim (מְאַשְּׁרִ֣ים)	ze.Dim (זֵדִ֑ים)	gam- (גַּם־)	niv.Nu (נִבְנוּ֙)	'o.Sei (עֹשֵׂ֣י)	rish.'Ah (רִשְׁעָ֔ה)	gam (גַּ֧ם)	ba.cha.Nu (בָּחֲנ֛וּ)						
+#_Translation	and/ therefore	we	[are] calling blessed	arrogant [people]	both	they have been built up	[those who] do	<of> wickedness	as well as	they have tested						
+#_Word+Grammar	H9002/H6258=HC/D	H0587=HPp1bp	H0833=HVprmpa	H2086=HAampa	H1571=HD	H1129=HVNp3cp	H6213J=HVqrmpc	H7564=HNcfsa	H1571=HD	H0974=HVqp3cp						
+#_Significant variant																
+#_Mal.3.15	'E.lo.Him (אֱלֹהִ֖ים)	vai.yi.ma.Le.tu (וַיִּמָּלֵֽטוּ׃)														
+#_Translation	God	and/ they have escaped														
+#_Word+Grammar	H0430G=HNcmpa	H9001/H4422=Hc/VNw3mp														
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.3.15#01=L	וְ/עַתָּ֕ה	ve./'a.Tah	and/ therefore	H9002/{H6258}	HC/D			H6258			H9002=ו=and/{H6258=עַתָּ֫ה=now}					
+Mal.3.15#02=L	אֲנַ֖חְנוּ	'a.Nach.nu	we	{H0587}	HPp1bp			H0587			{H0587=אֲנַ֫חְנוּ=we}					
+Mal.3.15#03=L	מְאַשְּׁרִ֣ים	me.'a.she.Rim	[are] calling blessed	{H0833}	HVprmpa			H0833			{H0833=אָשַׁר=to bless}					
+Mal.3.15#04=L	זֵדִ֑ים	ze.Dim	arrogant [people]	{H2086}	HAampa			H2086			{H2086=זֵד=arrogant}					
+Mal.3.15#05=L	גַּם\־	gam-	both	{H1571}\H9014	HD			H1571_A			{H1571=גַּם=also}\H9014=־=link					
+Mal.3.15#06=L	נִבְנוּ֙	niv.Nu	they have been built up	{H1129}	HVNp3cp			H1129			{H1129=בָּנָה=to build}					
+Mal.3.15#07=L	עֹשֵׂ֣י	'o.Sei	[those who] do	{H6213J}	HVqrmpc			H6213J			{H6213J=עָשָׂה=: [do](ACTION)»to make:4_[do](ACTION)}					
+Mal.3.15#08=L	רִשְׁעָ֔ה	rish.'Ah	<of> wickedness	{H7564}	HNcfsa			H7564			{H7564=רִשְׁעָה=wickedness}					
+Mal.3.15#09=L	גַּ֧ם	gam	as well as	{H1571}	HD			H1571_B			{H1571=גַּם=also}					
+Mal.3.15#10=L	בָּחֲנ֛וּ	ba.cha.Nu	they have tested	{H0974}	HVqp3cp			H0974			{H0974=בָּחַן=to test}					
+Mal.3.15#11=L	אֱלֹהִ֖ים	'E.lo.Him	God	{H0430G}	HNcmpa			H0430G			{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}					
+Mal.3.15#12=L	וַ/יִּמָּלֵֽטוּ\׃	va/i.yi.ma.Le.tu	and/ they have escaped	H9001/{H4422}\H9016	Hc/VNw3mp			H4422			H9001=ו=&/{H4422=מָלַט=to escape}\H9016=׃=verseEnd					
+																
+# Mal.3.16	'az (אָ֧ז)	nid.be.Ru (נִדְבְּר֛וּ)	yir.'Ei (יִרְאֵ֥י)	Yah.weh (יְהוָ֖ה)	'ish (אִ֣ישׁ)	'et- (אֶת־)	re.'E.hu (רֵעֵ֑הוּ)	vai.yak.Shev (וַיַּקְשֵׁ֤ב)	Yah.weh (יְהוָה֙)	vai.yish.Ma' (וַיִּשְׁמָ֔ע)						
+#_Translation	then	they spoke together	[those] fearing	<of> Yahweh	each	with	neighbor/ his	and/ he paid attention	Yahweh	and/ he listened						
+#_Word+Grammar	H0227A=HD	H1696G=HVNp3cp	H3373=HAampc	H3068G=HNpt	H0376I=HNcmsa	H0854=HR	H7453/H9023=HNcmsc/Sp3ms	H9001/H7181=Hc/Vhw3ms	H3068G=HNpt	H9001/H8085G=Hc/Vqw3ms						
+#_Significant variant																
+#_Mal.3.16	Vai.yi.ka.tev (וַ֠יִּכָּתֵב)	Se.fer (סֵ֣פֶר)	zi.ka.Ron (זִכָּר֤וֹן)	le.fa.Nav (לְפָנָיו֙)	le.yir.'Ei (לְיִרְאֵ֣י)	Yah.weh (יְהוָ֔ה)	u.le.cho.she.Vei (וּלְחֹשְׁבֵ֖י)	she.Mo (שְׁמֽוֹ׃)								
+#_Translation	and/ it was written	a document of	remembrance	<to>/ before/ him	of/ [those] fearing	<of> Yahweh	and/ of/ [those who] esteemed	<of> name/ his								
+#_Word+Grammar	H9001/H3789=Hc/VNw3ms	H5612H=HNcmsc	H2146=HNcmsa	H9005/H6440G/H9023=HR/Ncmpc/Sp3ms	H9005/H3373=HR/Aampc	H3068G=HNpt	H9002/H9005/H2803H=HC/R/Vqrmpc	H8034/H9023=HNcmsc/Sp3ms								
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.3.16#01=L	אָ֧ז	'az	then	{H0227A}	HD			H0227A			{H0227A=אָז=then}					
+Mal.3.16#02=L	נִדְבְּר֛וּ	nid.be.Ru	they spoke together	{H1696G}	HVNp3cp			H1696G			{H1696G=דָבַר=: speak»to speak:1_speak;_tell;_command}					
+Mal.3.16#03=L	יִרְאֵ֥י	yir.'Ei	[those] fearing	{H3373}	HAampc			H3373_A			{H3373=יָרֵא=afraid}					
+Mal.3.16#04=L	יְהוָ֖ה	Yah.weh	<of> Yahweh	{H3068G}	HNpt			H3068G_A			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.3.16#05=L	אִ֣ישׁ	'ish	each	{H0376I}	HNcmsa			H0376I			{H0376I=אִישׁ=: anyone»man:3_anyone;_someone}					
+Mal.3.16#06=L	אֶת\־	'et-	with	{H0854}\H9014	HR			H0854			{H0854=אֵת=with}\H9014=־=link					
+Mal.3.16#07=L	רֵעֵ֑/הוּ	re.'E./hu	neighbor/ his	{H7453}/H9023	HNcmsc/Sp3ms			H7453			{H7453=רֵעַ=neighbor}/H9023=Ps3m=his					
+Mal.3.16#08=L	וַ/יַּקְשֵׁ֤ב	va/i.yak.Shev	and/ he paid attention	H9001/{H7181}	Hc/Vhw3ms			H7181			H9001=ו=&/{H7181=קָשַׁב=to listen}					
+Mal.3.16#09=L	יְהוָה֙	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G_B			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.3.16#10=L	וַ/יִּשְׁמָ֔ע	va/i.yish.Ma'	and/ he listened	H9001/{H8085G}	Hc/Vqw3ms			H8085G			H9001=ו=&/{H8085G=שָׁמַע=: hear»to hear:1_hear}					
+Mal.3.16#11=L	וַ֠/יִּכָּתֵב	Va/i.yi.ka.tev	and/ it was written	H9001/{H3789}	Hc/VNw3ms			H3789			H9001=ו=&/{H3789=כָּתַב=to write}					
+Mal.3.16#12=L	סֵ֣פֶר	Se.fer	a document of	{H5612H}	HNcmsc			H5612H			{H5612H=סֵ֫פֶר=: book»scroll:2_book}					
+Mal.3.16#13=L	זִכָּר֤וֹן	zi.ka.Ron	remembrance	{H2146}	HNcmsa			H2146			{H2146=זִכָּרוֹן=memorial}					
+Mal.3.16#14=L	לְ/פָנָי/ו֙	le./fa.Na/v	<to>/ before/ him	H9005/{H6440G}/H9023	HR/Ncmpc/Sp3ms			H6440G			H9005=ל=to/{H6440G=פָּנֶה=: before»face:2_before;_to;_front}/H9023=Ps3m=his					
+Mal.3.16#15=L	לְ/יִרְאֵ֣י	le./yir.'Ei	of/ [those] fearing	H9005/{H3373}	HR/Aampc			H3373_B			H9005=ל=to/{H3373=יָרֵא=afraid}					
+Mal.3.16#16=L	יְהוָ֔ה	Yah.weh	<of> Yahweh	{H3068G}	HNpt			H3068G_C			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.3.16#17=L	וּ/לְ/חֹשְׁבֵ֖י	u./le./cho.she.Vei	and/ of/ [those who] esteemed	H9002/H9005/{H2803H}	HC/R/Vqrmpc			H2803H			H9002=ו=and/H9005=ל=to/{H2803H=חָשַׁב=: count»to devise:1_count;_regard_as}					
+Mal.3.16#18=L	שְׁמֽ/וֹ\׃	she.M/o	<of> name/ his	{H8034}/H9023\H9016	HNcmsc/Sp3ms			H8034			{H8034=שֵׁם=name}/H9023=Ps3m=his\H9016=׃=verseEnd					
+																
+# Mal.3.17	ve.Ha.yu (וְהָ֣יוּ)	Li (לִ֗י)	'a.Mar (אָמַר֙)	Yah.weh (יְהוָ֣ה)	tze.va.'ot (צְבָא֔וֹת)	lai.Yom (לַיּ֕וֹם)	'a.Sher (אֲשֶׁ֥ר)	'a.Ni (אֲנִ֖י)	'o.Seh (עֹשֶׂ֣ה)	se.gu.Lah (סְגֻלָּ֑ה)						
+#_Translation	and/ they will belong	to/ me	he says	Yahweh	of hosts	to the/ day	when	I	[will be] making	a possession						
+#_Word+Grammar	H9001/H1961=Hc/Vqq3cp	H9005/H9030=HR/Sp1bs	H0559=HVqp3ms	H3068G=HNpt	H6635B=HNcfpa	H9005/H3117G=HRd/Ncmsa	H0834A=HTr	H0589=HPp1bs	H6213H=HVqrmsa	H5459=HNcfsa						
+#_Significant variant																
+#_Mal.3.17	ve.cha.mal.Ti (וְחָמַלְתִּ֣י)	'a.lei.Hem (עֲלֵיהֶ֔ם)	ka.'a.Sher (כַּֽאֲשֶׁר֙)	yach.Mol (יַחְמֹ֣ל)	'Ish (אִ֔ישׁ)	'al- (עַל־)	be.No (בְּנ֖וֹ)	ha.'o.Ved (הָעֹבֵ֥ד)	'o.To (אֹתֽוֹ׃)							
+#_Translation	and/ I will have compassion	on/ them	just/ as	he has compassion	everyone	on	son/ his	who/ serves	<obj.>/ him							
+#_Word+Grammar	H9001/H2550=Hc/Vqq1cs	H5921A/H9038=HR/Sp3mp	H9004/H0834D=HR/Tr	H2550=HVqi3ms	H0376I=HNcmsa	H5921A=HR	H1121A/H9023=HNcmsc/Sp3ms	H9009/H5647G=HTd/Vqrmsa	H0853/H9033=HTo/Sp3ms							
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.3.17#01=L	וְ/הָ֣יוּ	ve./Ha.yu	and/ they will belong	H9001/{H1961}	Hc/Vqq3cp			H1961			H9001=ו=&/{H1961=הָיָה=to be}					
+Mal.3.17#02=L	לִ֗/י	L/i	to/ me	H9005/{H9030}	HR/Sp1bs			H9030			H9005=ל=to/{H9030=Os1c=me}					
+Mal.3.17#03=L	אָמַר֙	'a.Mar	he says	{H0559}	HVqp3ms			H0559			{H0559=אָמַר=to say}					
+Mal.3.17#04=L	יְהוָ֣ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.3.17#05=L	צְבָא֔וֹת	tze.va.'ot	of hosts	{H6635B}	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}					
+Mal.3.17#06=L	לַ/יּ֕וֹם	la/i.Yom	to the/ day	H9005/{H3117G}	HRd/Ncmsa			H3117G			H9005=ל=to/{H3117G=יוֹם=: day»day;_when:1_day;_when;_period}					
+Mal.3.17#07=L	אֲשֶׁ֥ר	'a.Sher	when	{H0834A}	HTr			H0834A_A			{H0834A=אֲשֶׁר=which}					
+Mal.3.17#08=L	אֲנִ֖י	'a.Ni	I	{H0589}	HPp1bs			H0589			{H0589=אֲנִי, אָֽנֹכִ֫י=I}					
+Mal.3.17#09=L	עֹשֶׂ֣ה	'o.Seh	[will be] making	{H6213H}	HVqrmsa			H6213H			{H6213H=עָשָׂה=: make(OBJECT)»to make:1_make(OBJECT)}					
+Mal.3.17#10=L	סְגֻלָּ֑ה	se.gu.Lah	a possession	{H5459}	HNcfsa			H5459			{H5459=סְגֻלָּה=possession}					
+Mal.3.17#11=L	וְ/חָמַלְתִּ֣י	ve./cha.mal.Ti	and/ I will have compassion	H9001/{H2550}	Hc/Vqq1cs			H2550_A			H9001=ו=&/{H2550=חָמַל=to spare}					
+Mal.3.17#12=L	עֲלֵי/הֶ֔ם	'a.lei./Hem	on/ them	{H5921A}/H9038	HR/Sp3mp			H5921A_A			{H5921A=עַל=upon}/H9038=Op3m=them					
+Mal.3.17#13=L	כַּֽ/אֲשֶׁר֙	ka./'a.Sher	just/ as	H9004/{H0834D}	HR/Tr			H0834D_B			H9004=כ=like/{H0834D=כַּאֲשֶׁר=as which}					
+Mal.3.17#14=L	יַחְמֹ֣ל	yach.Mol	he has compassion	{H2550}	HVqi3ms			H2550_B			{H2550=חָמַל=to spare}					
+Mal.3.17#15=L	אִ֔ישׁ	'Ish	everyone	{H0376I}	HNcmsa			H0376I			{H0376I=אִישׁ=: anyone»man:3_anyone;_someone}					
+Mal.3.17#16=L	עַל\־	'al-	on	{H5921A}\H9014	HR			H5921A_B			{H5921A=עַל=upon}\H9014=־=link					
+Mal.3.17#17=L	בְּנ֖/וֹ	be.N/o	son/ his	{H1121A}/H9023	HNcmsc/Sp3ms			H1121A			{H1121A=בֵּן=: child»son:1_child;_son}/H9023=Ps3m=his					
+Mal.3.17#18=L	הָ/עֹבֵ֥ד	ha./'o.Ved	who/ serves	H9009/{H5647G}	HTd/Vqrmsa			H5647G			H9009=ה=the/{H5647G=עָבַד=: serve[someone]»to serve:1_serve[someone]}					
+Mal.3.17#19=L	אֹתֽ/וֹ\׃	'o.T/o	<obj.>/ him	{H0853}/H9033\H9016	HTo/Sp3ms			H0853			{H0853=אֵת=[Obj.]}/H9033=Os3m=him\H9016=׃=verseEnd					
+																
+# Mal.3.18	ve.shav.Tem (וְשַׁבְתֶּם֙)	u.re.'i.Tem (וּרְאִיתֶ֔ם)	bein (בֵּ֥ין)	tza.Dik (צַדִּ֖יק)	le.ra.Sha' (לְרָשָׁ֑ע)	bein (בֵּ֚ין)	'o.Ved (עֹבֵ֣ד)	'E.lo.Him (אֱלֹהִ֔ים)	la.'a.Sher (לַאֲשֶׁ֖ר)	lo' (לֹ֥א)						
+#_Translation	and/ you will return	and/ you will see	between	a righteous [person]	and/ a wicked [person]	between	[one who] serves	<of> God	and/ [one] who	not						
+#_Word+Grammar	H9001/H7725J=Hc/Vqq2mp	H9001/H7200G=Hc/Vqq2mp	H0996G=HAcmsc	H6662=HAamsa	H9005/H7563=HR/Ncmsa	H0996G=HAcmsc	H5647H=HVqrmsc	H0430G=HNcmpa	H9005/H0834A=HR/Tr	H3808=HTn						
+#_Significant variant																
+#_Mal.3.18	a.va.Do (עֲבָדֽוֹ׃ ס)															
+#_Translation	he serves/ him															
+#_Word+Grammar	H5647H/H9033\ =HVqp3ms/Sp3ms															
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.3.18#01=L	וְ/שַׁבְתֶּם֙	ve./shav.Tem	and/ you will return	H9001/{H7725J}	Hc/Vqq2mp			H7725J			H9001=ו=&/{H7725J=שׁוּב=: again»to return:4_again;_constantly}					
+Mal.3.18#02=L	וּ/רְאִיתֶ֔ם	u./re.'i.Tem	and/ you will see	H9001/{H7200G}	Hc/Vqq2mp			H7200G			H9001=ו=&/{H7200G=רָאָה=: see»to see:1_see;_show}					
+Mal.3.18#03=L	בֵּ֥ין	bein	between	{H0996G}	HAcmsc			H0996G_A			{H0996G=בַּ֫יִן=: between»between:1_between}					
+Mal.3.18#04=L	צַדִּ֖יק	tza.Dik	a righteous [person]	{H6662}	HAamsa			H6662			{H6662=צַדִּיק=righteous}					
+Mal.3.18#05=L	לְ/רָשָׁ֑ע	le./ra.Sha'	and/ a wicked [person]	H9005/{H7563}	HR/Ncmsa			H7563			H9005=ל=to/{H7563=רָשָׁע=wicked}					
+Mal.3.18#06=L	בֵּ֚ין	bein	between	{H0996G}	HAcmsc			H0996G_B			{H0996G=בַּ֫יִן=: between»between:1_between}					
+Mal.3.18#07=L	עֹבֵ֣ד	'o.Ved	[one who] serves	{H5647H}	HVqrmsc			H5647H_A			{H5647H=עָבַד=: minister»to serve:2_minister;_serve[God;_tabernacle;_temple];_worship}					
+Mal.3.18#08=L	אֱלֹהִ֔ים	'E.lo.Him	<of> God	{H0430G}	HNcmpa			H0430G			{H0430G=אֱלֹהִים=God»LORD@Gen.1.1-Heb}					
+Mal.3.18#09=L	לַ/אֲשֶׁ֖ר	la./'a.Sher	and/ [one] who	H9005/{H0834A}	HR/Tr			H0834A			H9005=ל=to/{H0834A=אֲשֶׁר=which}					
+Mal.3.18#10=L	לֹ֥א	lo'	not	{H3808}	HTn			H3808			{H3808=לֹא=not}					
+Mal.3.18#11=L	עֲבָדֽ/וֹ\׃\ \ס	a.va.D/o	he serves/ him	{H5647H}/H9033\H9016\ \H9018	HVqp3ms/Sp3ms			H5647H_B			{H5647H=עָבַד=: minister»to serve:2_minister;_serve[God;_tabernacle;_temple];_worship}/H9033=Os3m=him\H9016=׃=verseEnd\ \H9018=ס=section					
+																
+# Mal.4.1 (Heb: 3.19)	ki- (כִּֽי־)	hi.Neh (הִנֵּ֤ה)	hai.yOm (הַיּוֹם֙)	Ba' (בָּ֔א)	bo.'Er (בֹּעֵ֖ר)	ka.ta.Nur (כַּתַּנּ֑וּר)	ve.ha.Yu (וְהָי֨וּ)	khol- (כָל־)	ze.Dim (זֵדִ֜ים)	ve.khol (וְכָל־)						
+#_Translation	for	here!	the/ day	[is] coming	burning	like <the>/ furnace	and/ they will be	all	arrogant [people]	and/ every						
+#_Word+Grammar	H3588A=HTc	H2009=HTj	H9009/H3117G=HTd/Ncmsa	H0935G=HVqrmsa	H1197A=HVqrmsa	H9004/H8574H=HRd/Ncmsa	H9001/H1961=Hc/Vqq3cp	H3605=HNcmsc	H2086=HAampa	H9002/H3605=HC/Ncmsc						
+#_Significant variant																
+#_Mal.4.1 (Heb: 3.19)	'o.Seh (עֹשֵׂ֤ה)	rish.'Ah (רִשְׁעָה֙)	Kash (קַ֔שׁ)	ve.li.Hat (וְלִהַ֨ט)	'o.Tam (אֹתָ֜ם)	hai.Yom (הַיּ֣וֹם)	ha.Ba' (הַבָּ֗א)	'a.Mar (אָמַר֙)	Yah.weh (יְהוָ֣ה)	tze.va.'ot (צְבָא֔וֹת)						
+#_Translation	[one who] does	<of> wickedness	stubble	and/ it will set ablaze	<obj.>/ them	the/ day	<the>/ coming	he says	Yahweh	of hosts						
+#_Word+Grammar	H6213J=HVqrmsc	H7564=HNcfsa	H7179=HNcmsa	H9001/H3857=Hc/Vpq3ms	H0853/H9038=HTo/Sp3mp	H9009/H3117G=HTd/Ncmsa	H9009/H0935G=HTd/Vqrmsa	H0559=HVqp3ms	H3068G=HNpt	H6635B=HNcfpa						
+#_Significant variant																
+#_Mal.4.1 (Heb: 3.19)	'a.Sher (אֲשֶׁ֛ר)	lo'- (לֹא־)	ya.'a.Zo (יַעֲזֹ֥ב)	la.Hem (לָהֶ֖ם)	Sho.resh (שֹׁ֥רֶשׁ)	ve.'a.Naf (וְעָנָֽף׃)										
+#_Translation	that	not	it will leave	for/ them	root	and/ branch										
+#_Word+Grammar	H0834A=HTr	H3808=HTn	H5800A=HVqi3ms	H9005/H9038=HR/Sp3mp	H8328=HNcmsa	H9002/H6057=HC/Ncmsa										
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.4.1(3.19)#01=L	כִּֽי\־	ki-	for	{H3588A}\H9014	HTc			H3588A			{H3588A=כִּי=for}\H9014=־=link					
+Mal.4.1(3.19)#02=L	הִנֵּ֤ה	hi.Neh	here!	{H2009}	HTj			H2009			{H2009=הִנֵּה=behold}					
+Mal.4.1(3.19)#03=L	הַ/יּוֹם֙	hai./yOm	the/ day	H9009/{H3117G}	HTd/Ncmsa			H3117G_A			H9009=ה=the/{H3117G=יוֹם=: day»day;_when:1_day;_when;_period}					
+Mal.4.1(3.19)#04=L	בָּ֔א	Ba'	[is] coming	{H0935G}	HVqrmsa			H0935G_A			{H0935G=בּוֹא=: come»to come (in):1_come;_go_in}					
+Mal.4.1(3.19)#05=L	בֹּעֵ֖ר	bo.'Er	burning	{H1197A}	HVqrmsa			H1197A			{H1197A=בָּעַר=: burn»to burn:1_burn;_ignite}					
+Mal.4.1(3.19)#06=L	כַּ/תַּנּ֑וּר	ka./ta.Nur	like <the>/ furnace	H9004/{H8574H}	HRd/Ncmsa			H8574H			H9004=כ=like/{H8574H=תַּנּוּר=oven}					
+Mal.4.1(3.19)#07=L	וְ/הָי֨וּ	ve./ha.Yu	and/ they will be	H9001/{H1961}	Hc/Vqq3cp			H1961			H9001=ו=&/{H1961=הָיָה=to be}					
+Mal.4.1(3.19)#08=L	כָל\־	khol-	all	{H3605}\H9014	HNcmsc			H3605_A			{H3605=כֹּל=all}\H9014=־=link					
+Mal.4.1(3.19)#09=L	זֵדִ֜ים	ze.Dim	arrogant [people]	{H2086}	HAampa			H2086			{H2086=זֵד=arrogant}					
+Mal.4.1(3.19)#10=L	וְ/כָל\־	ve./khol	and/ every	H9002/{H3605}\H9014	HC/Ncmsc			H3605_B			H9002=ו=and/{H3605=כֹּל=all}\H9014=־=link					
+Mal.4.1(3.19)#11=L	עֹשֵׂ֤ה	'o.Seh	[one who] does	{H6213J}	HVqrmsc			H6213J			{H6213J=עָשָׂה=: [do](ACTION)»to make:4_[do](ACTION)}					
+Mal.4.1(3.19)#12=L	רִשְׁעָה֙	rish.'Ah	<of> wickedness	{H7564}	HNcfsa			H7564			{H7564=רִשְׁעָה=wickedness}					
+Mal.4.1(3.19)#13=L	קַ֔שׁ	Kash	stubble	{H7179}	HNcmsa			H7179			{H7179=קַשׁ=stubble}					
+Mal.4.1(3.19)#14=L	וְ/לִהַ֨ט	ve./li.Hat	and/ it will set ablaze	H9001/{H3857}	Hc/Vpq3ms			H3857			H9001=ו=&/{H3857=לָהַט=to kindle}					
+Mal.4.1(3.19)#15=L	אֹתָ֜/ם	'o.Ta/m	<obj.>/ them	{H0853}/H9038	HTo/Sp3mp			H0853			{H0853=אֵת=[Obj.]}/H9038=Op3m=them					
+Mal.4.1(3.19)#16=L	הַ/יּ֣וֹם	hai./Yom	the/ day	H9009/{H3117G}	HTd/Ncmsa			H3117G_B			H9009=ה=the/{H3117G=יוֹם=: day»day;_when:1_day;_when;_period}					
+Mal.4.1(3.19)#17=L	הַ/בָּ֗א	ha./Ba'	<the>/ coming	H9009/{H0935G}	HTd/Vqrmsa			H0935G_B			H9009=ה=the/{H0935G=בּוֹא=: come»to come (in):1_come;_go_in}					
+Mal.4.1(3.19)#18=L	אָמַר֙	'a.Mar	he says	{H0559}	HVqp3ms			H0559			{H0559=אָמַר=to say}					
+Mal.4.1(3.19)#19=L	יְהוָ֣ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.4.1(3.19)#20=L	צְבָא֔וֹת	tze.va.'ot	of hosts	{H6635B}	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}					
+Mal.4.1(3.19)#21=L	אֲשֶׁ֛ר	'a.Sher	that	{H0834A}	HTr			H0834A			{H0834A=אֲשֶׁר=which}					
+Mal.4.1(3.19)#22=L	לֹא\־	lo'-	not	{H3808}\H9014	HTn			H3808			{H3808=לֹא=not}\H9014=־=link					
+Mal.4.1(3.19)#23=L	יַעֲזֹ֥ב	ya.'a.Zo	it will leave	{H5800A}	HVqi3ms			H5800A			{H5800A=עָזַב=: forsake»to leave:1_forsake}					
+Mal.4.1(3.19)#24=L	לָ/הֶ֖ם	la./Hem	for/ them	H9005/{H9038}	HR/Sp3mp			H9038			H9005=ל=to/{H9038=Op3m=them}					
+Mal.4.1(3.19)#25=L	שֹׁ֥רֶשׁ	Sho.resh	root	{H8328}	HNcmsa			H8328			{H8328=שֹׁ֫רֶשׁ=root}					
+Mal.4.1(3.19)#26=L	וְ/עָנָֽף\׃	ve./'a.Naf	and/ branch	H9002/{H6057}\H9016	HC/Ncmsa			H6057			H9002=ו=and/{H6057=עָנָף=branch}\H9016=׃=verseEnd					
+																
+# Mal.4.2 (Heb: 3.20)	ve.za.re.Chah (וְזָרְחָ֨ה)	la.Khem (לָכֶ֜ם)	yir.'Ei (יִרְאֵ֤י)	she.Mi (שְׁמִי֙)	She.mesh (שֶׁ֣מֶשׁ)	tze.da.Kah (צְדָקָ֔ה)	u.mar.Pe' (וּמַרְפֵּ֖א)	bikh.na.Fei.ha (בִּכְנָפֶ֑יהָ)	vi.tza.Tem (וִֽיצָאתֶ֥ם)	u.fish.Tem (וּפִשְׁתֶּ֖ם)						
+#_Translation	and/ it will rise	for/ you	[those] fearing	<of> name/ my	a sun of	righteousness	and/ healing	[will be] in/ wings/ its	and/ you will go out	and/ you will skip						
+#_Word+Grammar	H9001/H2224=Hc/Vqq3fs	H9005/H9036=HR/Sp2mp	H3373=HAampc	H8034/H9020=HNcmsc/Sp1bs	H8121=HNcbsc	H6666=HNcfsa	H9002/H4832=HC/Ncmsa	H9003/H3671/H9024=HR/Ncfdc/Sp3fs	H9001/H3318G=Hc/Vqq2mp	H9001/H6335A=Hc/Vqq2mp						
+#_Significant variant																
+#_Mal.4.2 (Heb: 3.20)	ke.'eg.Lei (כְּעֶגְלֵ֥י)	mar.Bek (מַרְבֵּֽק׃)														
+#_Translation	like/ calves of	[the] stall														
+#_Word+Grammar	H9004/H5695=HR/Ncmpc	H4770=HNcmsa														
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.4.2(3.20)#01=L	וְ/זָרְחָ֨ה	ve./za.re.Chah	and/ it will rise	H9001/{H2224}	Hc/Vqq3fs			H2224			H9001=ו=&/{H2224=זָרַח=to rise}					
+Mal.4.2(3.20)#02=L	לָ/כֶ֜ם	la./Khem	for/ you	H9005/{H9036}	HR/Sp2mp			H9036			H9005=ל=to/{H9036=Op2m=you}					
+Mal.4.2(3.20)#03=L	יִרְאֵ֤י	yir.'Ei	[those] fearing	{H3373}	HAampc			H3373			{H3373=יָרֵא=afraid}					
+Mal.4.2(3.20)#04=L	שְׁמִ/י֙	she.M/i	<of> name/ my	{H8034}/H9020	HNcmsc/Sp1bs			H8034			{H8034=שֵׁם=name}/H9020=Ps1c=my					
+Mal.4.2(3.20)#05=L	שֶׁ֣מֶשׁ	She.mesh	a sun of	{H8121}	HNcbsc			H8121			{H8121=שֶׁ֫מֶשׁ=sun}					
+Mal.4.2(3.20)#06=L	צְדָקָ֔ה	tze.da.Kah	righteousness	{H6666}	HNcfsa			H6666			{H6666=צְדָקָה=righteousness}					
+Mal.4.2(3.20)#07=L	וּ/מַרְפֵּ֖א	u./mar.Pe'	and/ healing	H9002/{H4832}	HC/Ncmsa			H4832			H9002=ו=and/{H4832=מַרְפֵּא=healing}					
+Mal.4.2(3.20)#08=L	בִּ/כְנָפֶ֑י/הָ	bi/kh.na.Fei./ha	[will be] in/ wings/ its	H9003/{H3671}/H9024	HR/Ncfdc/Sp3fs			H3671			H9003=ב=in/{H3671=כָּנָף=wing}/H9024=Ps3f=her					
+Mal.4.2(3.20)#09=L	וִֽ/יצָאתֶ֥ם	vi./tza.Tem	and/ you will go out	H9001/{H3318G}	Hc/Vqq2mp			H3318G			H9001=ו=&/{H3318G=יָצָא=: come»to come out:1_come;_go_out;_escape}					
+Mal.4.2(3.20)#10=L	וּ/פִשְׁתֶּ֖ם	u./fish.Tem	and/ you will skip	H9001/{H6335A}	Hc/Vqq2mp			H6335A			H9001=ו=&/{H6335A=פּוּשׁ=to leap}					
+Mal.4.2(3.20)#11=L	כְּ/עֶגְלֵ֥י	ke./'eg.Lei	like/ calves of	H9004/{H5695}	HR/Ncmpc			H5695			H9004=כ=like/{H5695=עֵ֫גֶל=calf}					
+Mal.4.2(3.20)#12=L	מַרְבֵּֽק\׃	mar.Bek	[the] stall	{H4770}\H9016	HNcmsa			H4770			{H4770=מַרְבֵּק=stall}\H9016=׃=verseEnd					
+																
+# Mal.4.3 (Heb: 3.21)	ve.'a.so.Tem (וְעַסּוֹתֶ֣ם)	re.sha.'Im (רְשָׁעִ֔ים)	ki- (כִּֽי־)	yih.Yu (יִהְי֣וּ)	'E.fer (אֵ֔פֶר)	Ta.chat (תַּ֖חַת)	ka.Pot (כַּפּ֣וֹת)	rag.lei.Khem (רַגְלֵיכֶ֑ם)	bai.yOm (בַּיּוֹם֙)	'a.Sher (אֲשֶׁ֣ר)						
+#_Translation	and/ you will tread down	wicked [people]	for	they will be	ash[es]	under	[the] soles of	feet/ your	on the/ day	when						
+#_Word+Grammar	H9001/H6072=Hc/Vqq2mp	H7563=HNcmpa	H3588A=HTc	H1961=HVqi3mp	H0665=HNcmsa	H8478G=HNcmsc	H3709H=HNcfpc	H7272/H9026=HNcfdc/Sp2mp	H9003/H3117G=HRd/Ncmsa	H0834A=HTr						
+#_Significant variant																
+#_Mal.4.3 (Heb: 3.21)	'a.Ni (אֲנִ֣י)	'o.Seh (עֹשֶׂ֔ה)	'a.Mar (אָמַ֖ר)	Yah.weh (יְהוָ֥ה)	tze.va.'ot (צְבָאֽוֹת׃ פ)											
+#_Translation	I	[will be] acting	he says	Yahweh	of hosts											
+#_Word+Grammar	H0589=HPp1bs	H6213A=HVqrmsa	H0559=HVqp3ms	H3068G=HNpt	H6635B\ =HNcfpa											
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.4.3(3.21)#01=L	וְ/עַסּוֹתֶ֣ם	ve./'a.so.Tem	and/ you will tread down	H9001/{H6072}	Hc/Vqq2mp			H6072			H9001=ו=&/{H6072=עָסַס=to press}					
+Mal.4.3(3.21)#02=L	רְשָׁעִ֔ים	re.sha.'Im	wicked [people]	{H7563}	HNcmpa			H7563			{H7563=רָשָׁע=wicked}					
+Mal.4.3(3.21)#03=L	כִּֽי\־	ki-	for	{H3588A}\H9014	HTc			H3588A			{H3588A=כִּי=for}\H9014=־=link					
+Mal.4.3(3.21)#04=L	יִהְי֣וּ	yih.Yu	they will be	{H1961}	HVqi3mp			H1961			{H1961=הָיָה=to be}					
+Mal.4.3(3.21)#05=L	אֵ֔פֶר	'E.fer	ash[es]	{H0665}	HNcmsa			H0665			{H0665=אֵ֫פֶר=ashes}					
+Mal.4.3(3.21)#06=L	תַּ֖חַת	Ta.chat	under	{H8478G}	HNcmsc			H8478G			{H8478G=תַּחַת=: under»underneath:1_under;_below}					
+Mal.4.3(3.21)#07=L	כַּפּ֣וֹת	ka.Pot	[the] soles of	{H3709H}	HNcfpc			H3709H			{H3709H=כַּף=: sole»palm:2_sole;_paw}					
+Mal.4.3(3.21)#08=L	רַגְלֵי/כֶ֑ם	rag.lei./Khem	feet/ your	{H7272}/H9026	HNcfdc/Sp2mp			H7272			{H7272=רֶ֫גֶל=foot}/H9026=Pp2m=your					
+Mal.4.3(3.21)#09=L	בַּ/יּוֹם֙	ba/i.yOm	on the/ day	H9003/{H3117G}	HRd/Ncmsa			H3117G			H9003=ב=in/{H3117G=יוֹם=: day»day;_when:1_day;_when;_period}					
+Mal.4.3(3.21)#10=L	אֲשֶׁ֣ר	'a.Sher	when	{H0834A}	HTr			H0834A			{H0834A=אֲשֶׁר=which}					
+Mal.4.3(3.21)#11=L	אֲנִ֣י	'a.Ni	I	{H0589}	HPp1bs			H0589			{H0589=אֲנִי, אָֽנֹכִ֫י=I}					
+Mal.4.3(3.21)#12=L	עֹשֶׂ֔ה	'o.Seh	[will be] acting	{H6213A}	HVqrmsa			H6213A			{H6213A=עָשָׂה=: do»to make:2_do;_perform}					
+Mal.4.3(3.21)#13=L	אָמַ֖ר	'a.Mar	he says	{H0559}	HVqp3ms			H0559			{H0559=אָמַר=to say}					
+Mal.4.3(3.21)#14=L	יְהוָ֥ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.4.3(3.21)#15=L	צְבָאֽוֹת\׃\ \פ	tze.va.'ot	of hosts	{H6635B}\H9016\ \H9017	HNcfpa			H6635B			{H6635B=צָבָא=Hosts»LORD@Gen.1.1-Heb}\H9016=׃=verseEnd\ \H9017=פ=para					
+																
+# Mal.4.4 (Heb: 3.22)	zikh.Ru (זִכְר֕וּ)	to.Rat (תּוֹרַ֖ת)	mo.Sheh (מֹשֶׁ֣ה)	'av.Di (עַבְדִּ֑י)	'a.Sher (אֲשֶׁר֩)	tzi.Vi.ti (צִוִּ֨יתִי)	'o.To (אוֹת֤וֹ)	ve.cho.Rev (בְחֹרֵב֙)	'al- (עַל־)	kol- (כָּל־)						
+#_Translation	remember	[the] instruction of	Moses	servant/ my	which	I commanded	<obj.>/ him	at/ Horeb	on	all						
+#_Word+Grammar	H2142=HVqv2mp	H8451=HNcfsc	H4872=HNpm	H5650/H9020=HNcmsc/Sp1bs	H0834A=HTr	H6680=HVpp1cs	H0853/H9033=HTo/Sp3ms	H9003/H2722=HR/Npl	H5921A=HR	H3605=HNcmsc						
+#_Significant variant																
+#_Mal.4.4 (Heb: 3.22)	Yis.ra.'El (יִשְׂרָאֵ֔ל)	chu.Kim (חֻקִּ֖ים)	u.mish.pa.Tim (וּמִשְׁפָּטִֽים׃)													
+#_Translation	Israel	statutes	and/ judgments													
+#_Word+Grammar	H3478=HNpl	H2706G=HNcmpa	H9002/H4941G=HC/Ncmpa													
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.4.4(3.22)#01=L	זִכְר֕וּ	zikh.Ru	remember	{H2142}	HVqv2mp			H2142			{H2142=זָכַר=to remember}					
+Mal.4.4(3.22)#02=L	תּוֹרַ֖ת	to.Rat	[the] instruction of	{H8451}	HNcfsc			H8451			{H8451=תּוֹרָה=instruction}					
+Mal.4.4(3.22)#03=L	מֹשֶׁ֣ה	mo.Sheh	Moses	{H4872}	HNpm			H4872			{H4872=מֹשֶׁה=Moses»Moses@Exo.2.10-Rev}					
+Mal.4.4(3.22)#04=L	עַבְדִּ֑/י	'av.D/i	servant/ my	{H5650}/H9020	HNcmsc/Sp1bs			H5650			{H5650=עֶ֫בֶד=servant;_slave}/H9020=Ps1c=my					
+Mal.4.4(3.22)#05=L	אֲשֶׁר֩	'a.Sher	which	{H0834A}	HTr			H0834A			{H0834A=אֲשֶׁר=which}					
+Mal.4.4(3.22)#06=L	צִוִּ֨יתִי	tzi.Vi.ti	I commanded	{H6680}	HVpp1cs			H6680			{H6680=צָוָה=to command}					
+Mal.4.4(3.22)#07=L	אוֹת֤/וֹ	'o.T/o	<obj.>/ him	{H0853}/H9033	HTo/Sp3ms			H0853			{H0853=אֵת=[Obj.]}/H9033=Os3m=him					
+Mal.4.4(3.22)#08=L	בְ/חֹרֵב֙	ve./cho.Rev	at/ Horeb	H9003/{H2722}	HR/Npl			H2722			H9003=ב=in/{H2722=חֹרֵב=Horeb»Sinai@Exo.16.1-Gal}					
+Mal.4.4(3.22)#09=L	עַל\־	'al-	on	{H5921A}\H9014	HR			H5921A			{H5921A=עַל=upon}\H9014=־=link					
+Mal.4.4(3.22)#10=L	כָּל\־	kol-	all	{H3605}\H9014	HNcmsc			H3605			{H3605=כֹּל=all}\H9014=־=link					
+Mal.4.4(3.22)#11=L	יִשְׂרָאֵ֔ל	Yis.ra.'El	Israel	{H3478}	HNpl			H3478			{H3478=יִשְׂרָאֵל=Israel»Israel@Gen.25.26-Rev}					
+Mal.4.4(3.22)#12=L	חֻקִּ֖ים	chu.Kim	statutes	{H2706G}	HNcmpa			H2706G			{H2706G=חֹק=: decree»statute:1_decree}					
+Mal.4.4(3.22)#13=L	וּ/מִשְׁפָּטִֽים\׃	u./mish.pa.Tim	and/ judgments	H9002/{H4941G}\H9016	HC/Ncmpa			H4941G			H9002=ו=and/{H4941G=מִשְׁפָּט=: judgement»justice:1_judgement;_punishment}\H9016=׃=verseEnd					
+																
+# Mal.4.5 (Heb: 3.23)	hi.Neh (הִנֵּ֤ה)	'a.no.Khi (אָֽנֹכִי֙)	sho.Le.ach (שֹׁלֵ֣חַ)	la.Khem (לָכֶ֔ם)	'et (אֵ֖ת)	'e.li.Yah (אֵלִיָּ֣ה)	ha.na.Vi' (הַנָּבִ֑יא)	lif.Nei (לִפְנֵ֗י)	Bo' (בּ֚וֹא)	Yom (י֣וֹם)						
+#_Translation	here!	I	[am] about to send	to/ you	<obj.>	Elijah	the/ prophet	<to>/ before	comes	[the] day of						
+#_Word+Grammar	H2009=HTj	H0595=HPp1bs	H7971G=HVqrmsa	H9005/H9036=HR/Sp2mp	H0853=HTo	H0452G=HNpm	H9009/H5030=HTd/Ncmsa	H9005/H6440G=HR/Ncmpc	H0935G=HVqcc	H3117G=HNcmsc						
+#_Significant variant																
+#_Mal.4.5 (Heb: 3.23)	Yah.weh (יְהוָ֔ה)	ha.ga.Dol (הַגָּד֖וֹל)	ve.ha.no.Ra' (וְהַנּוֹרָֽא׃)													
+#_Translation	Yahweh	<the>/ great	and/ <the>/ awesome													
+#_Word+Grammar	H3068G=HNpt	H9009/H1419A=HTd/Aamsa	H9002/H9009/H3372G=HC/Td/VNrmsa													
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.4.5(3.23)#01=L	הִנֵּ֤ה	hi.Neh	here!	{H2009}	HTj			H2009			{H2009=הִנֵּה=behold}					
+Mal.4.5(3.23)#02=L	אָֽנֹכִי֙	'a.no.Khi	I	{H0595}	HPp1bs			H0595			{H0595=אָֽנֹכִ֫י=I}					
+Mal.4.5(3.23)#03=L	שֹׁלֵ֣חַ	sho.Le.ach	[am] about to send	{H7971G}	HVqrmsa			H7971G			{H7971G=שָׁלַח=: depart»to send:1_depart;_send}					
+Mal.4.5(3.23)#04=L	לָ/כֶ֔ם	la./Khem	to/ you	H9005/{H9036}	HR/Sp2mp			H9036			H9005=ל=to/{H9036=Op2m=you}					
+Mal.4.5(3.23)#05=L	אֵ֖ת	'et	<obj.>	{H0853}	HTo			H0853			{H0853=אֵת=[Obj.]}					
+Mal.4.5(3.23)#06=L	אֵלִיָּ֣ה	'e.li.Yah	Elijah	{H0452G}	HNpm			H0452G			{H0452G=אֵלִיָּה=Elijah»Elijah@1Ki.17.1-Jas}					
+Mal.4.5(3.23)#07=L	הַ/נָּבִ֑יא	ha./na.Vi'	the/ prophet	H9009/{H5030}	HTd/Ncmsa			H5030			H9009=ה=the/{H5030=נָבִיא=prophet}					
+Mal.4.5(3.23)#08=L	לִ/פְנֵ֗י	li/f.Nei	<to>/ before	H9005/{H6440G}	HR/Ncmpc			H6440G			H9005=ל=to/{H6440G=פָּנֶה=: before»face:2_before;_to;_front}					
+Mal.4.5(3.23)#09=L	בּ֚וֹא	Bo'	comes	{H0935G}	HVqcc			H0935G			{H0935G=בּוֹא=: come»to come (in):1_come;_go_in}					
+Mal.4.5(3.23)#10=L	י֣וֹם	Yom	[the] day of	{H3117G}	HNcmsc			H3117G			{H3117G=יוֹם=: day»day;_when:1_day;_when;_period}					
+Mal.4.5(3.23)#11=L	יְהוָ֔ה	Yah.weh	Yahweh	{H3068G}	HNpt			H3068G			{H3068G=יהוה=LORD»LORD@Gen.1.1-Heb}					
+Mal.4.5(3.23)#12=L	הַ/גָּד֖וֹל	ha./ga.Dol	<the>/ great	H9009/{H1419A}	HTd/Aamsa			H1419A			H9009=ה=the/{H1419A=גַּל=: large»great:1_large}					
+Mal.4.5(3.23)#13=L	וְ/הַ/נּוֹרָֽא\׃	ve./ha./no.Ra'	and/ <the>/ awesome	H9002/H9009/{H3372G}\H9016	HC/Td/VNrmsa			H3372G			H9002=ו=and/H9009=ה=the/{H3372G=יָרֵא=: frightening(DANGER)»to fear:1_fear}\H9016=׃=verseEnd					
+																
+# Mal.4.6 (Heb: 3.24)	ve.he.Shiv (וְהֵשִׁ֤יב)	lev- (לֵב־)	'a.Vot (אָבוֹת֙)	'al- (עַל־)	ba.Nim (בָּנִ֔ים)	ve.Lev (וְלֵ֥ב)	ba.Nim (בָּנִ֖ים)	'al- (עַל־)	'a.vo.Tam (אֲבוֹתָ֑ם)	pen- (פֶּן־)						
+#_Translation	and/ he will turn back	[the] heart of	fathers	to	sons	and/ [the] heart of	sons	to	fathers/ their	lest						
+#_Word+Grammar	H9001/H7725I=Hc/Vhq3ms	H3820A=HNcmsc	H0001G=HNcfpa	H5921A=HR	H1121A=HNcmpa	H9002/H3820A=HC/Ncmsc	H1121A=HNcmpa	H5921A=HR	H0001G/H9028=HNcfpc/Sp3mp	H6435=HTc						
+#_Significant variant																
+#_Mal.4.6 (Heb: 3.24)	'a.Vo' (אָב֕וֹא)	ve.hi.kei.Ti (וְהִכֵּיתִ֥י)	'et- (אֶת־)	ha.'A.retz (הָאָ֖רֶץ)	Che.rem (חֵֽרֶם׃)											
+#_Translation	I should come	and/ I will strike	<obj.>	the/ land	total destruction											
+#_Word+Grammar	H0935G=HVqi1cs	H9001/H5221=Hc/Vhq1cs	H0853=HTo	H9009/H0776G=HTd/Ncfsa	H2764A=HNcmsa											
+#_Significant variant																
+																
+Eng (Heb) Ref & Type	Hebrew	Transliteration	Translation	dStrongs	Grammar	Meaning Variants	Spelling Variants	Root dStrong+Instance	Alternative Strongs+Instance	Conjoin word	Expanded Strong tags					
+Mal.4.6(3.24)#01=L	וְ/הֵשִׁ֤יב	ve./he.Shiv	and/ he will turn back	H9001/{H7725I}	Hc/Vhq3ms			H7725I			H9001=ו=&/{H7725I=שׁוּב=: turn_back»to return:3_turn_back;_backslide}					
+Mal.4.6(3.24)#02=L	לֵב\־	lev-	[the] heart of	{H3820A}\H9014	HNcmsc			H3820A_A			{H3820A=לֵב=heart}\H9014=־=link					
+Mal.4.6(3.24)#03=L	אָבוֹת֙	'a.Vot	fathers	{H0001G}	HNcfpa			H0001G_A			{H0001G=אָב=father}					
+Mal.4.6(3.24)#04=L	עַל\־	'al-	to	{H5921A}\H9014	HR			H5921A_A			{H5921A=עַל=upon}\H9014=־=link					
+Mal.4.6(3.24)#05=L	בָּנִ֔ים	ba.Nim	sons	{H1121A}	HNcmpa			H1121A_A			{H1121A=בֵּן=: child»son:1_child;_son}					
+Mal.4.6(3.24)#06=L	וְ/לֵ֥ב	ve./Lev	and/ [the] heart of	H9002/{H3820A}	HC/Ncmsc			H3820A_B			H9002=ו=and/{H3820A=לֵב=heart}					
+Mal.4.6(3.24)#07=L	בָּנִ֖ים	ba.Nim	sons	{H1121A}	HNcmpa			H1121A_B			{H1121A=בֵּן=: child»son:1_child;_son}					
+Mal.4.6(3.24)#08=L	עַל\־	'al-	to	{H5921A}\H9014	HR			H5921A_B			{H5921A=עַל=upon}\H9014=־=link					
+Mal.4.6(3.24)#09=L	אֲבוֹתָ֑/ם	'a.vo.Ta/m	fathers/ their	{H0001G}/H9028	HNcfpc/Sp3mp			H0001G_B			{H0001G=אָב=father}/H9028=Pp3m=their					
+Mal.4.6(3.24)#10=L	פֶּן\־	pen-	lest	{H6435}\H9014	HTc			H6435			{H6435=פֶּן־=lest}\H9014=־=link					
+Mal.4.6(3.24)#11=L	אָב֕וֹא	'a.Vo'	I should come	{H0935G}	HVqi1cs			H0935G			{H0935G=בּוֹא=: come»to come (in):1_come;_go_in}					
+Mal.4.6(3.24)#12=L	וְ/הִכֵּיתִ֥י	ve./hi.kei.Ti	and/ I will strike	H9001/{H5221}	Hc/Vhq1cs			H5221			H9001=ו=&/{H5221=נָכָה=to smite}					
+Mal.4.6(3.24)#13=L	אֶת\־	'et-	<obj.>	{H0853}\H9014	HTo			H0853			{H0853=אֵת=[Obj.]}\H9014=־=link					
+Mal.4.6(3.24)#14=L	הָ/אָ֖רֶץ	ha./'A.retz	the/ land	H9009/{H0776G}	HTd/Ncfsa			H0776G			H9009=ה=the/{H0776G=אֶ֫רֶץ=: country;_planet»land:2_country;_planet}					
+Mal.4.6(3.24)#15=L	חֵֽרֶם\׃	Che.rem	total destruction	{H2764A}\H9016	HNcmsa			H2764A			{H2764A=חֵ֫רֶם=devoted thing}\H9016=׃=verseEnd					
+																

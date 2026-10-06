@@ -1,0 +1,947 @@
+DSS TF 2.0.1 — ENRICHED SOURCE EXPORT
+Attribution: Martin G. Abegg, Jr., James E. Bowley, and Edward M. Cook
+Conversion: Jarod Jacobs, Martijn Naaijer and Dirk Roorda
+Source licence: Creative Commons Attribution-NonCommercial 4.0 International License; http://creativecommons.org/licenses/by-nc/4.0/
+Repository: https://github.com/ETCBC/dss
+Status describes TF annotations; unmarked letters have not been independently verified as secure ink.
+Totals describe supplied sign slots, not how much of an entire biblical verse survives.
+Lexeme vowels and grammar are analyses; reconstructed letters are editorial readings.
+Read README.txt and DSS_SOURCE_USAGE.txt before interpretation.
+
+## Manuscript: 4Q117 | source scroll node 1606784
+
+### Ezra 4:2 | 4Q117 | fragment f1 | line 1
+Record: L1602167-R001
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f1; line=1; line_node=1602167
+Source locator: {"book":"Ezra","chapter":"4","verse":"2","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":17,"sign_slots":57,"letter_slots":54,"reconstructed_letter_slots":52,"uncertain_letter_slots":0,"unmarked_letter_slots":2,"reconstructed_sign_slots":55,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062241-2062257
+Unicode: [ כ׳כם נדרוש ל ]אל[ הי׳כם ולא אנחנו זבחים מימי אסר חדן מלך אשור המעלה את׳נו ] 
+Source: ]k/kM ndrwC l[al]hy/kM wla anjnw zbjyM mymy asr jdN mlK aCwr hmolh at/nw[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062241	"[ כ׳כם"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1290918","type":"cons","glyphs_unicode":["כ"],"rec":1},{"slots":"1290919","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1290920-1290921","type":"cons","glyphs_unicode":["כ","ם"],"rec":1}]
+2062242	"נדרוש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1290922-1290926","type":"cons","glyphs_unicode":["נ","ד","ר","ו","ש"],"rec":1}]
+2062243	"ל ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1290927","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2062244	"אל[ הי׳כם"	"PARTLY_RECONSTRUCTED"	6	4	0	0	[{"slots":"1290928-1290929","type":"cons","glyphs_unicode":["א","ל"]},{"slots":"1290930-1290931","type":"cons","glyphs_unicode":["ה","י"],"rec":1},{"slots":"1290932","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1290933-1290934","type":"cons","glyphs_unicode":["כ","ם"],"rec":1}]
+2062245	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1290935","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2062246	"לא"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1290936-1290937","type":"cons","glyphs_unicode":["ל","א"],"rec":1}]
+2062247	"אנחנו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1290938-1290942","type":"cons","glyphs_unicode":["א","נ","ח","נ","ו"],"rec":1}]
+2062248	"זבחים"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1290943-1290947","type":"cons","glyphs_unicode":["ז","ב","ח","י","ם"],"rec":1}]
+2062249	"מ"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1290948","type":"cons","glyphs_unicode":["מ"],"rec":1}]
+2062250	"ימי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1290949-1290951","type":"cons","glyphs_unicode":["י","מ","י"],"rec":1}]
+2062251	"אסר"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1290952-1290954","type":"cons","glyphs_unicode":["א","ס","ר"],"rec":1}]
+2062252	"חדן"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1290955-1290957","type":"cons","glyphs_unicode":["ח","ד","ן"],"rec":1}]
+2062253	"מלך"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1290958-1290960","type":"cons","glyphs_unicode":["מ","ל","ך"],"rec":1}]
+2062254	"אשור"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1290961-1290964","type":"cons","glyphs_unicode":["א","ש","ו","ר"],"rec":1}]
+2062255	"ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1290965","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2062256	"מעלה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1290966-1290969","type":"cons","glyphs_unicode":["מ","ע","ל","ה"],"rec":1}]
+2062257	"את׳נו ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1290970-1290971","type":"cons","glyphs_unicode":["א","ת"],"rec":1},{"slots":"1290972","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1290973-1290974","type":"cons","glyphs_unicode":["נ","ו"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1290975,"scroll":"4Q117","scroll_node":1606784,"fragment":"f1","line":"1","line_node":1602167,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2062257,"next_word":null}
+
+### Ezra 4:2 | 4Q117 | fragment f1 | line 2
+Record: L1602168-R001
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f1; line=2; line_node=1602168
+Source locator: {"book":"Ezra","chapter":"4","verse":"2","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: ALL_LETTER_SLOTS_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":2,"sign_slots":4,"letter_slots":2,"reconstructed_letter_slots":2,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":4,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062258-2062259
+Unicode: [ פה ׃ 
+Source: ]ph . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062258	"[ פה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1290976-1290977","type":"cons","glyphs_unicode":["פ","ה"],"rec":1}]
+2062259	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1290978","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1290979","type":"punct","glyphs_unicode":["׃"],"rec":1}]
+End critical word annotations
+
+### Ezra 4:3 | 4Q117 | fragment f1 | line 2
+Record: L1602168-R002
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f1; line=2; line_node=1602168
+Source locator: {"book":"Ezra","chapter":"4","verse":"3","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":19,"sign_slots":54,"letter_slots":51,"reconstructed_letter_slots":47,"uncertain_letter_slots":1,"unmarked_letter_slots":3,"reconstructed_sign_slots":49,"uncertain_sign_slots":1,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"1":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062260-2062278
+Unicode: ויאמר ] ל׳הם ז?[ רבבל וישוע ושאר ראשי האבות לישראל לא ל׳כם ול׳נו לבנות ] 
+Source: wyamr[ l/hM zØ]rbbl wyCwo wCar raCy habwt lyCral la l/kM wl/nw lbnwt[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062260	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1290980","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2062261	"יאמר ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1290981-1290984","type":"cons","glyphs_unicode":["י","א","מ","ר"],"rec":1}]
+2062262	"ל׳הם"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1290985","type":"cons","glyphs_unicode":["ל"]},{"slots":"1290986","type":"sep","glyphs_unicode":["׳"]},{"slots":"1290987-1290988","type":"cons","glyphs_unicode":["ה","ם"]}]
+2062263	"ז?[ רבבל"	"PARTLY_RECONSTRUCTED"	5	4	1	0	[{"slots":"1290989","type":"cons","glyphs_unicode":["ז"],"unc":1},{"slots":"1290990-1290993","type":"cons","glyphs_unicode":["ר","ב","ב","ל"],"rec":1}]
+2062264	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1290994","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2062265	"ישוע"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1290995-1290998","type":"cons","glyphs_unicode":["י","ש","ו","ע"],"rec":1}]
+2062266	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1290999","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2062267	"שאר"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291000-1291002","type":"cons","glyphs_unicode":["ש","א","ר"],"rec":1}]
+2062268	"ראשי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291003-1291006","type":"cons","glyphs_unicode":["ר","א","ש","י"],"rec":1}]
+2062269	"ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291007","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2062270	"אבות"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291008-1291011","type":"cons","glyphs_unicode":["א","ב","ו","ת"],"rec":1}]
+2062271	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291012","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2062272	"ישראל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291013-1291017","type":"cons","glyphs_unicode":["י","ש","ר","א","ל"],"rec":1}]
+2062273	"לא"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291018-1291019","type":"cons","glyphs_unicode":["ל","א"],"rec":1}]
+2062274	"ל׳כם"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291020","type":"cons","glyphs_unicode":["ל"],"rec":1},{"slots":"1291021","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1291022-1291023","type":"cons","glyphs_unicode":["כ","ם"],"rec":1}]
+2062275	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291024","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2062276	"ל׳נו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291025","type":"cons","glyphs_unicode":["ל"],"rec":1},{"slots":"1291026","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1291027-1291028","type":"cons","glyphs_unicode":["נ","ו"],"rec":1}]
+2062277	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291029","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2062278	"בנות ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291030-1291033","type":"cons","glyphs_unicode":["ב","נ","ו","ת"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1291034,"scroll":"4Q117","scroll_node":1606784,"fragment":"f1","line":"2","line_node":1602168,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2062278,"next_word":null}
+
+### Ezra 4:3 | 4Q117 | fragment f1 | line 3
+Record: L1602169-R001
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f1; line=3; line_node=1602169
+Source locator: {"book":"Ezra","chapter":"4","verse":"3","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":18,"sign_slots":59,"letter_slots":57,"reconstructed_letter_slots":52,"uncertain_letter_slots":2,"unmarked_letter_slots":3,"reconstructed_sign_slots":54,"uncertain_sign_slots":2,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"2":2},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062279-2062296
+Unicode: [ בית לאלהי׳נו  ]כי א#נח#[ נו יחד נבנה ליהוה אלהי ישראל כאשר צו׳נו המלך כורש מלך ] 
+Source: ]byt lalhy/nw [ky a«nj«]nw yjd nbnh lyhwh alhy yCral kaCr xw/nw hmlK kwrC mlK[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062279	"[ בית"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291035-1291037","type":"cons","glyphs_unicode":["ב","י","ת"],"rec":1}]
+2062280	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291038","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2062281	"אלהי׳נו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	6	6	0	0	[{"slots":"1291039-1291042","type":"cons","glyphs_unicode":["א","ל","ה","י"],"rec":1},{"slots":"1291043","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1291044-1291045","type":"cons","glyphs_unicode":["נ","ו"],"rec":1}]
+2062282	" ]כי"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1291046-1291047","type":"cons","glyphs_unicode":["כ","י"]}]
+2062283	"א#נח#[ נו"	"PARTLY_RECONSTRUCTED"	5	2	2	0	[{"slots":"1291048","type":"cons","glyphs_unicode":["א"],"unc":2},{"slots":"1291049","type":"cons","glyphs_unicode":["נ"]},{"slots":"1291050","type":"cons","glyphs_unicode":["ח"],"unc":2},{"slots":"1291051-1291052","type":"cons","glyphs_unicode":["נ","ו"],"rec":1}]
+2062284	"יחד"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291053-1291055","type":"cons","glyphs_unicode":["י","ח","ד"],"rec":1}]
+2062285	"נבנה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291056-1291059","type":"cons","glyphs_unicode":["נ","ב","נ","ה"],"rec":1}]
+2062286	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291060","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2062287	"יהוה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291061-1291064","type":"cons","glyphs_unicode":["י","ה","ו","ה"],"rec":1}]
+2062288	"אלהי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291065-1291068","type":"cons","glyphs_unicode":["א","ל","ה","י"],"rec":1}]
+2062289	"ישראל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291069-1291073","type":"cons","glyphs_unicode":["י","ש","ר","א","ל"],"rec":1}]
+2062290	"כ"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291074","type":"cons","glyphs_unicode":["כ"],"rec":1}]
+2062291	"אשר"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291075-1291077","type":"cons","glyphs_unicode":["א","ש","ר"],"rec":1}]
+2062292	"צו׳נו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291078-1291079","type":"cons","glyphs_unicode":["צ","ו"],"rec":1},{"slots":"1291080","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1291081-1291082","type":"cons","glyphs_unicode":["נ","ו"],"rec":1}]
+2062293	"ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291083","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2062294	"מלך"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291084-1291086","type":"cons","glyphs_unicode":["מ","ל","ך"],"rec":1}]
+2062295	"כורש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291087-1291090","type":"cons","glyphs_unicode":["כ","ו","ר","ש"],"rec":1}]
+2062296	"מלך ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291091-1291093","type":"cons","glyphs_unicode":["מ","ל","ך"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1291094,"scroll":"4Q117","scroll_node":1606784,"fragment":"f1","line":"3","line_node":1602169,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2062296,"next_word":null}
+
+### Ezra 4:3 | 4Q117 | fragment f1 | line 4
+Record: L1602170-R001
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f1; line=4; line_node=1602170
+Source locator: {"book":"Ezra","chapter":"4","verse":"3","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: ALL_LETTER_SLOTS_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":2,"sign_slots":5,"letter_slots":3,"reconstructed_letter_slots":3,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":5,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062297-2062298
+Unicode: [ פרס ׃ 
+Source: ]prs . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062297	"[ פרס"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291095-1291097","type":"cons","glyphs_unicode":["פ","ר","ס"],"rec":1}]
+2062298	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1291098","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1291099","type":"punct","glyphs_unicode":["׃"],"rec":1}]
+End critical word annotations
+
+### Ezra 4:4 | 4Q117 | fragment f1 | line 4
+Record: L1602170-R002
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f1; line=4; line_node=1602170
+Source locator: {"book":"Ezra","chapter":"4","verse":"4","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":15,"sign_slots":44,"letter_slots":41,"reconstructed_letter_slots":37,"uncertain_letter_slots":2,"unmarked_letter_slots":2,"reconstructed_sign_slots":40,"uncertain_sign_slots":2,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"2":1,"4":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062299-2062313
+Unicode: ויהי עם ה ]א#רץ מ##[ רפים ידי עם יהודה ומבלהים אות׳ם לבנות ׃ 
+Source: wyhy oM h[a«rX m|]rpyM ydy oM yhwdh wmblhyM awt/M lbnwt . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062299	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291100","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2062300	"יהי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291101-1291103","type":"cons","glyphs_unicode":["י","ה","י"],"rec":1}]
+2062301	"עם"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291104-1291105","type":"cons","glyphs_unicode":["ע","ם"],"rec":1}]
+2062302	"ה ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291106","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2062303	"א#רץ"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	1	0	[{"slots":"1291107","type":"cons","glyphs_unicode":["א"],"unc":2},{"slots":"1291108-1291109","type":"cons","glyphs_unicode":["ר","ץ"]}]
+2062304	"מ##[ רפים"	"PARTLY_RECONSTRUCTED"	5	4	1	0	[{"slots":"1291110","type":"cons","glyphs_unicode":["מ"],"unc":4},{"slots":"1291111-1291114","type":"cons","glyphs_unicode":["ר","פ","י","ם"],"rec":1}]
+2062305	"ידי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291115-1291117","type":"cons","glyphs_unicode":["י","ד","י"],"rec":1}]
+2062306	"עם"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291118-1291119","type":"cons","glyphs_unicode":["ע","ם"],"rec":1}]
+2062307	"יהודה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291120-1291124","type":"cons","glyphs_unicode":["י","ה","ו","ד","ה"],"rec":1}]
+2062308	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291125","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2062309	"מבלהים"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	6	6	0	0	[{"slots":"1291126-1291131","type":"cons","glyphs_unicode":["מ","ב","ל","ה","י","ם"],"rec":1}]
+2062310	"אות׳ם"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291132-1291134","type":"cons","glyphs_unicode":["א","ו","ת"],"rec":1},{"slots":"1291135","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1291136","type":"cons","glyphs_unicode":["ם"],"rec":1}]
+2062311	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291137","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2062312	"בנות"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291138-1291141","type":"cons","glyphs_unicode":["ב","נ","ו","ת"],"rec":1}]
+2062313	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1291142","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1291143","type":"punct","glyphs_unicode":["׃"],"rec":1}]
+End critical word annotations
+
+### Ezra 4:5 | 4Q117 | fragment f1 | line 4
+Record: L1602170-R003
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f1; line=4; line_node=1602170
+Source locator: {"book":"Ezra","chapter":"4","verse":"5","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: ALL_LETTER_SLOTS_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":2,"sign_slots":6,"letter_slots":6,"reconstructed_letter_slots":6,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":6,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062314-2062315
+Unicode: וסכרים ] 
+Source: wskryM[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062314	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291144","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2062315	"סכרים ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291145-1291149","type":"cons","glyphs_unicode":["ס","כ","ר","י","ם"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1291150,"scroll":"4Q117","scroll_node":1606784,"fragment":"f1","line":"4","line_node":1602170,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2062315,"next_word":null}
+
+### Ezra 4:5 | 4Q117 | fragment f1 | line 5
+Record: L1602171-R001
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f1; line=5; line_node=1602171
+Source locator: {"book":"Ezra","chapter":"4","verse":"5","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":17,"sign_slots":57,"letter_slots":53,"reconstructed_letter_slots":46,"uncertain_letter_slots":3,"unmarked_letter_slots":4,"reconstructed_sign_slots":47,"uncertain_sign_slots":3,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"2":2,"4":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062316-2062332
+Unicode: [ עלי׳הם יועצים ל ]ה#פר עצ#ת׳ם##[  כל ימי כורש מלך פרס ועד מלכות דריוש מלך פרס ] ׃ 
+Source: ]oly/hM ywoxyM l[h«pr ox«t/M|] kl ymy kwrC mlK prs wod mlkwt drywC mlK prs[ . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062316	"[ עלי׳הם"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291151-1291153","type":"cons","glyphs_unicode":["ע","ל","י"],"rec":1},{"slots":"1291154","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1291155-1291156","type":"cons","glyphs_unicode":["ה","ם"],"rec":1}]
+2062317	"יועצים"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	6	6	0	0	[{"slots":"1291157-1291162","type":"cons","glyphs_unicode":["י","ו","ע","צ","י","ם"],"rec":1}]
+2062318	"ל ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291163","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2062319	"ה#פר"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	1	0	[{"slots":"1291164","type":"cons","glyphs_unicode":["ה"],"unc":2},{"slots":"1291165-1291166","type":"cons","glyphs_unicode":["פ","ר"]}]
+2062320	"עצ#ת׳ם##[ "	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	2	0	[{"slots":"1291167","type":"cons","glyphs_unicode":["ע"]},{"slots":"1291168","type":"cons","glyphs_unicode":["צ"],"unc":2},{"slots":"1291169","type":"cons","glyphs_unicode":["ת"]},{"slots":"1291170","type":"sep","glyphs_unicode":["׳"]},{"slots":"1291171","type":"cons","glyphs_unicode":["ם"],"unc":4}]
+2062321	"כל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291172-1291173","type":"cons","glyphs_unicode":["כ","ל"],"rec":1}]
+2062322	"ימי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291174-1291176","type":"cons","glyphs_unicode":["י","מ","י"],"rec":1}]
+2062323	"כורש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291177-1291180","type":"cons","glyphs_unicode":["כ","ו","ר","ש"],"rec":1}]
+2062324	"מלך"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291181-1291183","type":"cons","glyphs_unicode":["מ","ל","ך"],"rec":1}]
+2062325	"פרס"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291184-1291186","type":"cons","glyphs_unicode":["פ","ר","ס"],"rec":1}]
+2062326	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291187","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2062327	"עד"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291188-1291189","type":"cons","glyphs_unicode":["ע","ד"],"rec":1}]
+2062328	"מלכות"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291190-1291194","type":"cons","glyphs_unicode":["מ","ל","כ","ו","ת"],"rec":1}]
+2062329	"דריוש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291195-1291199","type":"cons","glyphs_unicode":["ד","ר","י","ו","ש"],"rec":1}]
+2062330	"מלך"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291200-1291202","type":"cons","glyphs_unicode":["מ","ל","ך"],"rec":1}]
+2062331	"פרס ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291203-1291205","type":"cons","glyphs_unicode":["פ","ר","ס"],"rec":1}]
+2062332	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1291206","type":"empty","glyphs_unicode":[""]},{"slots":"1291207","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1291208,"scroll":"4Q117","scroll_node":1606784,"fragment":"f1","line":"5","line_node":1602171,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2062332,"next_word":null}
+
+### Ezra 4:6 | 4Q117 | fragment f1 | line 6
+Record: L1602172-R001
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f1; line=6; line_node=1602172
+Source locator: {"book":"Ezra","chapter":"4","verse":"6","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":15,"sign_slots":54,"letter_slots":51,"reconstructed_letter_slots":45,"uncertain_letter_slots":3,"unmarked_letter_slots":3,"reconstructed_sign_slots":46,"uncertain_sign_slots":3,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"2":2,"3":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062333-2062347
+Unicode: [ ובמלכות אחשורוש בתח ]לת# מלכ#ו#?[ ת׳ו כתבו שטנה על ישבי יהודה וירושלם ] ׃ 
+Source: ]wbmlkwt ajCwrwC btj[lt« mlk«w»]t/w ktbw Cfnh ol yCby yhwdh wyrwClM[ . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062333	"[ ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291209","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2062334	"ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291210","type":"cons","glyphs_unicode":["ב"],"rec":1}]
+2062335	"מלכות"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291211-1291215","type":"cons","glyphs_unicode":["מ","ל","כ","ו","ת"],"rec":1}]
+2062336	"אחשורוש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	7	7	0	0	[{"slots":"1291216-1291222","type":"cons","glyphs_unicode":["א","ח","ש","ו","ר","ו","ש"],"rec":1}]
+2062337	"ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291223","type":"cons","glyphs_unicode":["ב"],"rec":1}]
+2062338	"תח ]לת#"	"PARTLY_RECONSTRUCTED"	4	2	1	0	[{"slots":"1291224-1291225","type":"cons","glyphs_unicode":["ת","ח"],"rec":1},{"slots":"1291226","type":"cons","glyphs_unicode":["ל"]},{"slots":"1291227","type":"cons","glyphs_unicode":["ת"],"unc":2}]
+2062339	"מלכ#ו#?[ ת׳ו"	"PARTLY_RECONSTRUCTED"	6	2	2	0	[{"slots":"1291228-1291229","type":"cons","glyphs_unicode":["מ","ל"]},{"slots":"1291230","type":"cons","glyphs_unicode":["כ"],"unc":2},{"slots":"1291231","type":"cons","glyphs_unicode":["ו"],"unc":3},{"slots":"1291232","type":"cons","glyphs_unicode":["ת"],"rec":1},{"slots":"1291233","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1291234","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2062340	"כתבו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291235-1291238","type":"cons","glyphs_unicode":["כ","ת","ב","ו"],"rec":1}]
+2062341	"שטנה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291239-1291242","type":"cons","glyphs_unicode":["ש","ט","נ","ה"],"rec":1}]
+2062342	"על"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291243-1291244","type":"cons","glyphs_unicode":["ע","ל"],"rec":1}]
+2062343	"ישבי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291245-1291248","type":"cons","glyphs_unicode":["י","ש","ב","י"],"rec":1}]
+2062344	"יהודה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291249-1291253","type":"cons","glyphs_unicode":["י","ה","ו","ד","ה"],"rec":1}]
+2062345	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291254","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2062346	"ירושלם ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	6	6	0	0	[{"slots":"1291255-1291260","type":"cons","glyphs_unicode":["י","ר","ו","ש","ל","ם"],"rec":1}]
+2062347	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1291261","type":"empty","glyphs_unicode":[""]},{"slots":"1291262","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1291263,"scroll":"4Q117","scroll_node":1606784,"fragment":"f1","line":"6","line_node":1602172,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2062347,"next_word":null}
+
+### Ezra 4:9 | 4Q117 | fragment f2 | line 1
+Record: L1602173-R001
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f2; line=1; line_node=1602173
+Source locator: {"book":"Ezra","chapter":"4","verse":"9","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: 'a'; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":17,"sign_slots":52,"letter_slots":51,"reconstructed_letter_slots":46,"uncertain_letter_slots":5,"unmarked_letter_slots":0,"reconstructed_sign_slots":46,"uncertain_sign_slots":5,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":2,"1":1,"3":2},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062348-2062364
+Unicode: [ ספרא ושאר כנו ]ת##׳ה##[ ו ]ן?[  ד ]י#?נ#?[ יא ואפרסתכיא טרפליא אפרסיא ארכוי בבליא ] 
+Source: ]spra wCar knw[t|/h|]w[NØ] d[y»n»]ya waprstkya frplya aprsya arkwy bblya[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062348	"[ ספר"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291264-1291266","type":"cons","glyphs_unicode":["ס","פ","ר"],"language_flag":"a","rec":1}]
+2062349	"א"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291267","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062350	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291268","type":"cons","glyphs_unicode":["ו"],"language_flag":"a","rec":1}]
+2062351	"שאר"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291269-1291271","type":"cons","glyphs_unicode":["ש","א","ר"],"language_flag":"a","rec":1}]
+2062352	"כנו ]ת##׳ה##[ ו ]ן?[ "	"PARTLY_RECONSTRUCTED"	7	4	3	0	[{"slots":"1291272-1291274","type":"cons","glyphs_unicode":["כ","נ","ו"],"language_flag":"a","rec":1},{"slots":"1291275","type":"cons","glyphs_unicode":["ת"],"language_flag":"a","unc":4},{"slots":"1291276","type":"sep","glyphs_unicode":["׳"],"language_flag":"a"},{"slots":"1291277","type":"cons","glyphs_unicode":["ה"],"language_flag":"a","unc":4},{"slots":"1291278","type":"cons","glyphs_unicode":["ו"],"language_flag":"a","rec":1},{"slots":"1291279","type":"cons","glyphs_unicode":["ן"],"language_flag":"a","unc":1}]
+2062353	"ד ]י#?נ#?[ י"	"PARTLY_RECONSTRUCTED"	4	2	2	0	[{"slots":"1291280","type":"cons","glyphs_unicode":["ד"],"language_flag":"a","rec":1},{"slots":"1291281-1291282","type":"cons","glyphs_unicode":["י","נ"],"language_flag":"a","unc":3},{"slots":"1291283","type":"cons","glyphs_unicode":["י"],"language_flag":"a","rec":1}]
+2062354	"א"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291284","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062355	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291285","type":"cons","glyphs_unicode":["ו"],"language_flag":"a","rec":1}]
+2062356	"אפרסתכי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	7	7	0	0	[{"slots":"1291286-1291292","type":"cons","glyphs_unicode":["א","פ","ר","ס","ת","כ","י"],"language_flag":"a","rec":1}]
+2062357	"א"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291293","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062358	"טרפלי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291294-1291298","type":"cons","glyphs_unicode":["ט","ר","פ","ל","י"],"language_flag":"a","rec":1}]
+2062359	"א"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291299","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062360	"אפרסי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291300-1291304","type":"cons","glyphs_unicode":["א","פ","ר","ס","י"],"language_flag":"a","rec":1}]
+2062361	"א"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291305","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062362	"ארכוי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291306-1291310","type":"cons","glyphs_unicode":["א","ר","כ","ו","י"],"language_flag":"a","rec":1}]
+2062363	"בבלי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291311-1291314","type":"cons","glyphs_unicode":["ב","ב","ל","י"],"language_flag":"a","rec":1}]
+2062364	"א ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291315","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1291316,"scroll":"4Q117","scroll_node":1606784,"fragment":"f2","line":"1","line_node":1602173,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2062364,"next_word":null}
+
+### Ezra 4:9 | 4Q117 | fragment f2 | line 2
+Record: L1602174-R001
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f2; line=2; line_node=1602174
+Source locator: {"book":"Ezra","chapter":"4","verse":"9","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: 'a'; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":6,"sign_slots":16,"letter_slots":16,"reconstructed_letter_slots":12,"uncertain_letter_slots":2,"unmarked_letter_slots":2,"reconstructed_sign_slots":12,"uncertain_sign_slots":2,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":1,"2":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062365-2062370
+Unicode: [ שושנכיא דהוא ע ]ל##מ#יא 
+Source: ]CwCnkya dhwa o[l|m«ya 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062365	"[ שושנכי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	6	6	0	0	[{"slots":"1291317-1291322","type":"cons","glyphs_unicode":["ש","ו","ש","נ","כ","י"],"language_flag":"a","rec":1}]
+2062366	"א"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291323","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062367	"ד"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291324","type":"cons","glyphs_unicode":["ד"],"language_flag":"a","rec":1}]
+2062368	"הוא"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291325-1291327","type":"cons","glyphs_unicode":["ה","ו","א"],"language_flag":"a","rec":1}]
+2062369	"ע ]ל##מ#י"	"PARTLY_RECONSTRUCTED"	4	1	2	0	[{"slots":"1291328","type":"cons","glyphs_unicode":["ע"],"language_flag":"a","rec":1},{"slots":"1291329","type":"cons","glyphs_unicode":["ל"],"language_flag":"a","unc":4},{"slots":"1291330","type":"cons","glyphs_unicode":["מ"],"language_flag":"a","unc":2},{"slots":"1291331","type":"cons","glyphs_unicode":["י"],"language_flag":"a"}]
+2062370	"א"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1291332","type":"cons","glyphs_unicode":["א"],"language_flag":"a"}]
+End critical word annotations
+
+### Ezra 4:9 | 4Q117 | fragment f2 | line 2
+Record: L1602174-R002
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f2; line=2; line_node=1602174
+Source locator: {"book":"Ezra","chapter":"4","verse":"9","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":1,"sign_slots":2,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062371
+Unicode: ׃ 
+Source: . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062371	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1291333","type":"empty","glyphs_unicode":[""]},{"slots":"1291334","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+
+### Ezra 4:10 | 4Q117 | fragment f2 | line 2
+Record: L1602174-R003
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f2; line=2; line_node=1602174
+Source locator: {"book":"Ezra","chapter":"4","verse":"10","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: 'a'; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":15,"sign_slots":36,"letter_slots":36,"reconstructed_letter_slots":29,"uncertain_letter_slots":1,"unmarked_letter_slots":6,"reconstructed_sign_slots":29,"uncertain_sign_slots":1,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"3":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062372-2062386
+Unicode: ושאר אמי#?[ א די הגלי אסנפר רבא ויקירא והותב המו ] 
+Source: wCar amy»]a dy hgly asnpr rba wyqyra whwtb hmw[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062372	"ו"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1291335","type":"cons","glyphs_unicode":["ו"],"language_flag":"a"}]
+2062373	"שאר"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1291336-1291338","type":"cons","glyphs_unicode":["ש","א","ר"],"language_flag":"a"}]
+2062374	"אמי#?"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	1	0	[{"slots":"1291339-1291340","type":"cons","glyphs_unicode":["א","מ"],"language_flag":"a"},{"slots":"1291341","type":"cons","glyphs_unicode":["י"],"language_flag":"a","unc":3}]
+2062375	"[ א"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291342","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062376	"די"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291343-1291344","type":"cons","glyphs_unicode":["ד","י"],"language_flag":"a","rec":1}]
+2062377	"הגלי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291345-1291348","type":"cons","glyphs_unicode":["ה","ג","ל","י"],"language_flag":"a","rec":1}]
+2062378	"אסנפר"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291349-1291353","type":"cons","glyphs_unicode":["א","ס","נ","פ","ר"],"language_flag":"a","rec":1}]
+2062379	"רב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291354-1291355","type":"cons","glyphs_unicode":["ר","ב"],"language_flag":"a","rec":1}]
+2062380	"א"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291356","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062381	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291357","type":"cons","glyphs_unicode":["ו"],"language_flag":"a","rec":1}]
+2062382	"יקיר"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291358-1291361","type":"cons","glyphs_unicode":["י","ק","י","ר"],"language_flag":"a","rec":1}]
+2062383	"א"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291362","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062384	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291363","type":"cons","glyphs_unicode":["ו"],"language_flag":"a","rec":1}]
+2062385	"הותב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291364-1291367","type":"cons","glyphs_unicode":["ה","ו","ת","ב"],"language_flag":"a","rec":1}]
+2062386	"המו ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291368-1291370","type":"cons","glyphs_unicode":["ה","מ","ו"],"language_flag":"a","rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1291371,"scroll":"4Q117","scroll_node":1606784,"fragment":"f2","line":"2","line_node":1602174,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2062386,"next_word":null}
+
+### Ezra 4:10 | 4Q117 | fragment f2 | line 3
+Record: L1602175-R001
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f2; line=3; line_node=1602175
+Source locator: {"book":"Ezra","chapter":"4","verse":"10","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: 'a'; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":11,"sign_slots":28,"letter_slots":28,"reconstructed_letter_slots":12,"uncertain_letter_slots":3,"unmarked_letter_slots":13,"reconstructed_sign_slots":12,"uncertain_sign_slots":3,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"1":1,"2":1,"4":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062387-2062397
+Unicode: [ בקריה די שמרין  ]ו?שאר עבר# נהרא וכענת##[  
+Source: ]bqryh dy CmryN [wØCar obr« nhra wkont|] 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062387	"[ ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291372","type":"cons","glyphs_unicode":["ב"],"language_flag":"a","rec":1}]
+2062388	"קריה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291373-1291376","type":"cons","glyphs_unicode":["ק","ר","י","ה"],"language_flag":"a","rec":1}]
+2062389	"די"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291377-1291378","type":"cons","glyphs_unicode":["ד","י"],"language_flag":"a","rec":1}]
+2062390	"שמרין"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291379-1291383","type":"cons","glyphs_unicode":["ש","מ","ר","י","ן"],"language_flag":"a","rec":1}]
+2062391	" ]ו?"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	1	0	[{"slots":"1291384","type":"cons","glyphs_unicode":["ו"],"language_flag":"a","unc":1}]
+2062392	"שאר"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1291385-1291387","type":"cons","glyphs_unicode":["ש","א","ר"],"language_flag":"a"}]
+2062393	"עבר#"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	1	0	[{"slots":"1291388-1291389","type":"cons","glyphs_unicode":["ע","ב"],"language_flag":"a"},{"slots":"1291390","type":"cons","glyphs_unicode":["ר"],"language_flag":"a","unc":2}]
+2062394	"נהר"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1291391-1291393","type":"cons","glyphs_unicode":["נ","ה","ר"],"language_flag":"a"}]
+2062395	"א"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1291394","type":"cons","glyphs_unicode":["א"],"language_flag":"a"}]
+2062396	"ו"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1291395","type":"cons","glyphs_unicode":["ו"],"language_flag":"a"}]
+2062397	"כענת##[ "	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	1	0	[{"slots":"1291396-1291398","type":"cons","glyphs_unicode":["כ","ע","נ"],"language_flag":"a"},{"slots":"1291399","type":"cons","glyphs_unicode":["ת"],"language_flag":"a","unc":4}]
+End critical word annotations
+
+### Ezra 4:10 | 4Q117 | fragment f2 | line 3
+Record: L1602175-R002
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f2; line=3; line_node=1602175
+Source locator: {"book":"Ezra","chapter":"4","verse":"10","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":1,"sign_slots":2,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":2,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062398
+Unicode: ׃ 
+Source: . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062398	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1291400","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1291401","type":"punct","glyphs_unicode":["׃"],"rec":1}]
+End critical word annotations
+
+### Ezra 4:11 | 4Q117 | fragment f2 | line 3
+Record: L1602175-R003
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f2; line=3; line_node=1602175
+Source locator: {"book":"Ezra","chapter":"4","verse":"11","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: 'a'; script: None
+Reconstruction status: ALL_LETTER_SLOTS_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":7,"sign_slots":25,"letter_slots":24,"reconstructed_letter_slots":24,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":25,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062399-2062405
+Unicode: דנה פרשגן אגרתא די שלחו עלו׳הי ] 
+Source: dnh prCgN agrta dy Cljw olw/hy[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062399	"דנה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291402-1291404","type":"cons","glyphs_unicode":["ד","נ","ה"],"language_flag":"a","rec":1}]
+2062400	"פרשגן"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291405-1291409","type":"cons","glyphs_unicode":["פ","ר","ש","ג","ן"],"language_flag":"a","rec":1}]
+2062401	"אגרת"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291410-1291413","type":"cons","glyphs_unicode":["א","ג","ר","ת"],"language_flag":"a","rec":1}]
+2062402	"א"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291414","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062403	"די"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291415-1291416","type":"cons","glyphs_unicode":["ד","י"],"language_flag":"a","rec":1}]
+2062404	"שלחו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291417-1291420","type":"cons","glyphs_unicode":["ש","ל","ח","ו"],"language_flag":"a","rec":1}]
+2062405	"עלו׳הי ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291421-1291423","type":"cons","glyphs_unicode":["ע","ל","ו"],"language_flag":"a","rec":1},{"slots":"1291424","type":"sep","glyphs_unicode":["׳"],"language_flag":"a","rec":1},{"slots":"1291425-1291426","type":"cons","glyphs_unicode":["ה","י"],"language_flag":"a","rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1291427,"scroll":"4Q117","scroll_node":1606784,"fragment":"f2","line":"3","line_node":1602175,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2062405,"next_word":null}
+
+### Ezra 4:11 | 4Q117 | fragment f2 | line 4
+Record: L1602176-R001
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f2; line=4; line_node=1602176
+Source locator: {"book":"Ezra","chapter":"4","verse":"11","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: 'a'; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":12,"sign_slots":37,"letter_slots":34,"reconstructed_letter_slots":22,"uncertain_letter_slots":5,"unmarked_letter_slots":7,"reconstructed_sign_slots":24,"uncertain_sign_slots":5,"missing_sign_slots":1,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":4,"3":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062406-2062417
+Unicode: [ על ארתחששתא מ ]ל[ כא ] ע##ב##ד##י#?׳ך## אנש עבר[  נהרה וכענת ε 
+Source: ]ol artjCCta m[l]ka[ o|b|d|y»/K| anC obr] nhrh wkont -- 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062406	"[ על"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291428-1291429","type":"cons","glyphs_unicode":["ע","ל"],"language_flag":"a","rec":1}]
+2062407	"ארתחששתא"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	8	8	0	0	[{"slots":"1291430-1291437","type":"cons","glyphs_unicode":["א","ר","ת","ח","ש","ש","ת","א"],"language_flag":"a","rec":1}]
+2062408	"מ ]ל[ כ"	"PARTLY_RECONSTRUCTED"	3	2	0	0	[{"slots":"1291438","type":"cons","glyphs_unicode":["מ"],"language_flag":"a","rec":1},{"slots":"1291439","type":"cons","glyphs_unicode":["ל"],"language_flag":"a"},{"slots":"1291440","type":"cons","glyphs_unicode":["כ"],"language_flag":"a","rec":1}]
+2062409	"א ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291441","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062410	"ע##ב##ד##י#?׳ך##"	"NO_LETTER_RECONSTRUCTION_MARKED"	5	0	5	0	[{"slots":"1291442-1291444","type":"cons","glyphs_unicode":["ע","ב","ד"],"language_flag":"a","unc":4},{"slots":"1291445","type":"cons","glyphs_unicode":["י"],"language_flag":"a","unc":3},{"slots":"1291446","type":"sep","glyphs_unicode":["׳"],"language_flag":"a"},{"slots":"1291447","type":"cons","glyphs_unicode":["ך"],"language_flag":"a","unc":4}]
+2062411	"אנש"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1291448-1291450","type":"cons","glyphs_unicode":["א","נ","ש"],"language_flag":"a"}]
+2062412	"עבר[ "	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1291451-1291453","type":"cons","glyphs_unicode":["ע","ב","ר"],"language_flag":"a"}]
+2062413	"נהר"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291454-1291456","type":"cons","glyphs_unicode":["נ","ה","ר"],"language_flag":"a","rec":1}]
+2062414	"ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291457","type":"cons","glyphs_unicode":["ה"],"language_flag":"a","rec":1}]
+2062415	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291458","type":"cons","glyphs_unicode":["ו"],"language_flag":"a","rec":1}]
+2062416	"כענת"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291459-1291462","type":"cons","glyphs_unicode":["כ","ע","נ","ת"],"language_flag":"a","rec":1}]
+2062417	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1291463","type":"empty","glyphs_unicode":[""],"language_flag":"a","rec":1},{"slots":"1291464","type":"missing","glyphs_unicode":["ε"],"language_flag":"a","rec":1}]
+End critical word annotations
+
+### Ezra 4:11 | 4Q117 | fragment f2 | line 4
+Record: L1602176-R002
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f2; line=4; line_node=1602176
+Source locator: {"book":"Ezra","chapter":"4","verse":"11","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":1,"sign_slots":2,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062418
+Unicode: ׃ 
+Source: . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062418	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1291465","type":"empty","glyphs_unicode":[""]},{"slots":"1291466","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1291467,"scroll":"4Q117","scroll_node":1606784,"fragment":"f2","line":"4","line_node":1602176,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2062418,"next_word":null}
+
+### Ezra 5:17 | 4Q117 | fragment f3 | line 1
+Record: L1602177-R001
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f3; line=1; line_node=1602177
+Source locator: {"book":"Ezra","chapter":"5","verse":"17","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: 'a'; script: None
+Reconstruction status: ALL_LETTER_SLOTS_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":7,"sign_slots":16,"letter_slots":10,"reconstructed_letter_slots":10,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":15,"uncertain_sign_slots":1,"missing_sign_slots":2,"empty_sign_slots":3,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062419-2062425
+Unicode: ε  ] # [  ε הן איתי די מן ] 
+Source: -- [\] -- hN ayty dy mN[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062419	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1291468","type":"empty","glyphs_unicode":[""],"language_flag":"a","rec":1},{"slots":"1291469","type":"missing","glyphs_unicode":["ε"],"language_flag":"a","rec":1}]
+2062420	" ] # [ "	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1291470","type":"empty","glyphs_unicode":[""],"language_flag":"a","rec":1},{"slots":"1291471","type":"unc","glyphs_unicode":[" # "],"language_flag":"a"}]
+2062421	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1291472","type":"empty","glyphs_unicode":[""],"language_flag":"a","rec":1},{"slots":"1291473","type":"missing","glyphs_unicode":["ε"],"language_flag":"a","rec":1}]
+2062422	"הן"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291474-1291475","type":"cons","glyphs_unicode":["ה","ן"],"language_flag":"a","rec":1}]
+2062423	"איתי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291476-1291479","type":"cons","glyphs_unicode":["א","י","ת","י"],"language_flag":"a","rec":1}]
+2062424	"די"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291480-1291481","type":"cons","glyphs_unicode":["ד","י"],"language_flag":"a","rec":1}]
+2062425	"מן ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291482-1291483","type":"cons","glyphs_unicode":["מ","ן"],"language_flag":"a","rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1291484,"scroll":"4Q117","scroll_node":1606784,"fragment":"f3","line":"1","line_node":1602177,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2062425,"next_word":null}
+
+### Ezra 5:17 | 4Q117 | fragment f3 | line 2
+Record: L1602178-R001
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f3; line=2; line_node=1602178
+Source locator: {"book":"Ezra","chapter":"5","verse":"17","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: 'a'; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":21,"sign_slots":59,"letter_slots":58,"reconstructed_letter_slots":46,"uncertain_letter_slots":5,"unmarked_letter_slots":7,"reconstructed_sign_slots":47,"uncertain_sign_slots":5,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"3":3,"4":2},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062426-2062446
+Unicode: [ כורש מלכא שים טעם למבנא ב ]י#?ת אלהא דך ב##י#?ר##ו#?[ שלם ורעות מלכא על דנה ישלח עלי׳נא ] 
+Source: ]kwrC mlka CyM foM lmbna b[y»t alha dK b|y»r|w»]ClM wrowt mlka ol dnh yClj oly/na[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062426	"[ כורש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291485-1291488","type":"cons","glyphs_unicode":["כ","ו","ר","ש"],"language_flag":"a","rec":1}]
+2062427	"מלכ"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291489-1291491","type":"cons","glyphs_unicode":["מ","ל","כ"],"language_flag":"a","rec":1}]
+2062428	"א"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291492","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062429	"שים"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291493-1291495","type":"cons","glyphs_unicode":["ש","י","ם"],"language_flag":"a","rec":1}]
+2062430	"טעם"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291496-1291498","type":"cons","glyphs_unicode":["ט","ע","ם"],"language_flag":"a","rec":1}]
+2062431	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291499","type":"cons","glyphs_unicode":["ל"],"language_flag":"a","rec":1}]
+2062432	"מבנא"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291500-1291503","type":"cons","glyphs_unicode":["מ","ב","נ","א"],"language_flag":"a","rec":1}]
+2062433	"ב ]י#?ת"	"PARTLY_RECONSTRUCTED"	3	1	1	0	[{"slots":"1291504","type":"cons","glyphs_unicode":["ב"],"language_flag":"a","rec":1},{"slots":"1291505","type":"cons","glyphs_unicode":["י"],"language_flag":"a","unc":3},{"slots":"1291506","type":"cons","glyphs_unicode":["ת"],"language_flag":"a"}]
+2062434	"אלה"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1291507-1291509","type":"cons","glyphs_unicode":["א","ל","ה"],"language_flag":"a"}]
+2062435	"א"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1291510","type":"cons","glyphs_unicode":["א"],"language_flag":"a"}]
+2062436	"דך"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1291511-1291512","type":"cons","glyphs_unicode":["ד","ך"],"language_flag":"a"}]
+2062437	"ב##"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	1	0	[{"slots":"1291513","type":"cons","glyphs_unicode":["ב"],"language_flag":"a","unc":4}]
+2062438	"י#?ר##ו#?[ שלם"	"PARTLY_RECONSTRUCTED"	6	3	3	0	[{"slots":"1291514","type":"cons","glyphs_unicode":["י"],"language_flag":"a","unc":3},{"slots":"1291515","type":"cons","glyphs_unicode":["ר"],"language_flag":"a","unc":4},{"slots":"1291516","type":"cons","glyphs_unicode":["ו"],"language_flag":"a","unc":3},{"slots":"1291517-1291519","type":"cons","glyphs_unicode":["ש","ל","ם"],"language_flag":"a","rec":1}]
+2062439	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291520","type":"cons","glyphs_unicode":["ו"],"language_flag":"a","rec":1}]
+2062440	"רעות"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291521-1291524","type":"cons","glyphs_unicode":["ר","ע","ו","ת"],"language_flag":"a","rec":1}]
+2062441	"מלכ"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291525-1291527","type":"cons","glyphs_unicode":["מ","ל","כ"],"language_flag":"a","rec":1}]
+2062442	"א"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291528","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062443	"על"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291529-1291530","type":"cons","glyphs_unicode":["ע","ל"],"language_flag":"a","rec":1}]
+2062444	"דנה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291531-1291533","type":"cons","glyphs_unicode":["ד","נ","ה"],"language_flag":"a","rec":1}]
+2062445	"ישלח"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291534-1291537","type":"cons","glyphs_unicode":["י","ש","ל","ח"],"language_flag":"a","rec":1}]
+2062446	"עלי׳נא ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291538-1291540","type":"cons","glyphs_unicode":["ע","ל","י"],"language_flag":"a","rec":1},{"slots":"1291541","type":"sep","glyphs_unicode":["׳"],"language_flag":"a","rec":1},{"slots":"1291542-1291543","type":"cons","glyphs_unicode":["נ","א"],"language_flag":"a","rec":1}]
+End critical word annotations
+
+### Ezra 5:17 | 4Q117 | fragment f3 | line 2
+Record: L1602178-R002
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f3; line=2; line_node=1602178
+Source locator: {"book":"Ezra","chapter":"5","verse":"17","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":1,"sign_slots":2,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062447
+Unicode: ׃ 
+Source: . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062447	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1291544","type":"empty","glyphs_unicode":[""]},{"slots":"1291545","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1291546,"scroll":"4Q117","scroll_node":1606784,"fragment":"f3","line":"2","line_node":1602178,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2062447,"next_word":null}
+
+### Ezra 6:1 | 4Q117 | fragment f3 | line 3
+Record: L1602179-R001
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f3; line=3; line_node=1602179
+Source locator: {"book":"Ezra","chapter":"6","verse":"1","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: 'a'; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":20,"sign_slots":52,"letter_slots":52,"reconstructed_letter_slots":40,"uncertain_letter_slots":3,"unmarked_letter_slots":9,"reconstructed_sign_slots":40,"uncertain_sign_slots":3,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":2,"1":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062448-2062467
+Unicode: [ באדין דריוש מלכא שם ט ]ע##ם ו?בקר בבית ספ##[ ריא די גנזיא מהחתין תמה בבבל 
+Source: ]badyN drywC mlka CM f[o|M wØbqr bbyt sp|]rya dy gnzya mhjtyN tmh bbbl 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062448	"[ ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291547","type":"cons","glyphs_unicode":["ב"],"language_flag":"a","rec":1}]
+2062449	"אדין"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291548-1291551","type":"cons","glyphs_unicode":["א","ד","י","ן"],"language_flag":"a","rec":1}]
+2062450	"דריוש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291552-1291556","type":"cons","glyphs_unicode":["ד","ר","י","ו","ש"],"language_flag":"a","rec":1}]
+2062451	"מלכ"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291557-1291559","type":"cons","glyphs_unicode":["מ","ל","כ"],"language_flag":"a","rec":1}]
+2062452	"א"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291560","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062453	"שם"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291561-1291562","type":"cons","glyphs_unicode":["ש","ם"],"language_flag":"a","rec":1}]
+2062454	"ט ]ע##ם"	"PARTLY_RECONSTRUCTED"	3	1	1	0	[{"slots":"1291563","type":"cons","glyphs_unicode":["ט"],"language_flag":"a","rec":1},{"slots":"1291564","type":"cons","glyphs_unicode":["ע"],"language_flag":"a","unc":4},{"slots":"1291565","type":"cons","glyphs_unicode":["ם"],"language_flag":"a"}]
+2062455	"ו?"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	1	0	[{"slots":"1291566","type":"cons","glyphs_unicode":["ו"],"language_flag":"a","unc":1}]
+2062456	"בקר"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1291567-1291569","type":"cons","glyphs_unicode":["ב","ק","ר"],"language_flag":"a"}]
+2062457	"ב"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1291570","type":"cons","glyphs_unicode":["ב"],"language_flag":"a"}]
+2062458	"בית"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1291571-1291573","type":"cons","glyphs_unicode":["ב","י","ת"],"language_flag":"a"}]
+2062459	"ספ##[ רי"	"PARTLY_RECONSTRUCTED"	4	2	1	0	[{"slots":"1291574","type":"cons","glyphs_unicode":["ס"],"language_flag":"a"},{"slots":"1291575","type":"cons","glyphs_unicode":["פ"],"language_flag":"a","unc":4},{"slots":"1291576-1291577","type":"cons","glyphs_unicode":["ר","י"],"language_flag":"a","rec":1}]
+2062460	"א"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291578","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062461	"די"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291579-1291580","type":"cons","glyphs_unicode":["ד","י"],"language_flag":"a","rec":1}]
+2062462	"גנזי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291581-1291584","type":"cons","glyphs_unicode":["ג","נ","ז","י"],"language_flag":"a","rec":1}]
+2062463	"א"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291585","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062464	"מהחתין"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	6	6	0	0	[{"slots":"1291586-1291591","type":"cons","glyphs_unicode":["מ","ה","ח","ת","י","ן"],"language_flag":"a","rec":1}]
+2062465	"תמה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291592-1291594","type":"cons","glyphs_unicode":["ת","מ","ה"],"language_flag":"a","rec":1}]
+2062466	"ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291595","type":"cons","glyphs_unicode":["ב"],"language_flag":"a","rec":1}]
+2062467	"בבל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291596-1291598","type":"cons","glyphs_unicode":["ב","ב","ל"],"language_flag":"a","rec":1}]
+End critical word annotations
+
+### Ezra 6:1 | 4Q117 | fragment f3 | line 3
+Record: L1602179-R002
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f3; line=3; line_node=1602179
+Source locator: {"book":"Ezra","chapter":"6","verse":"1","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":1,"sign_slots":2,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":2,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062468
+Unicode: ׃ 
+Source: . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062468	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1291599","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1291600","type":"punct","glyphs_unicode":["׃"],"rec":1}]
+End critical word annotations
+
+### Ezra 6:2 | 4Q117 | fragment f3 | line 3
+Record: L1602179-R003
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f3; line=3; line_node=1602179
+Source locator: {"book":"Ezra","chapter":"6","verse":"2","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: 'a'; script: None
+Reconstruction status: ALL_LETTER_SLOTS_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":2,"sign_slots":6,"letter_slots":6,"reconstructed_letter_slots":6,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":6,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062469-2062470
+Unicode: והשתכח ] 
+Source: whCtkj[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062469	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291601","type":"cons","glyphs_unicode":["ו"],"language_flag":"a","rec":1}]
+2062470	"השתכח ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291602-1291606","type":"cons","glyphs_unicode":["ה","ש","ת","כ","ח"],"language_flag":"a","rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1291607,"scroll":"4Q117","scroll_node":1606784,"fragment":"f3","line":"3","line_node":1602179,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2062470,"next_word":null}
+
+### Ezra 6:2 | 4Q117 | fragment f3 | line 4
+Record: L1602180-R001
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f3; line=4; line_node=1602180
+Source locator: {"book":"Ezra","chapter":"6","verse":"2","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: 'a'; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":19,"sign_slots":49,"letter_slots":48,"reconstructed_letter_slots":31,"uncertain_letter_slots":7,"unmarked_letter_slots":10,"reconstructed_sign_slots":32,"uncertain_sign_slots":7,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":3,"3":2,"2":2},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062471-2062489
+Unicode: [ באחמתא בבירתא די במדי  ]מ##ד##י#?נ#?תא מגלה חדה [ ו ]כ#ן כ#ת##[ יב בגו׳ה דכרונה 
+Source: ]bajmta bbyrta dy bmdy [m|d|y»n»ta mglh jdh ]w[k«N k«t|]yb bgw/h dkrwnh 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062471	"[ ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291608","type":"cons","glyphs_unicode":["ב"],"language_flag":"a","rec":1}]
+2062472	"אחמתא"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291609-1291613","type":"cons","glyphs_unicode":["א","ח","מ","ת","א"],"language_flag":"a","rec":1}]
+2062473	"ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291614","type":"cons","glyphs_unicode":["ב"],"language_flag":"a","rec":1}]
+2062474	"בירת"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291615-1291618","type":"cons","glyphs_unicode":["ב","י","ר","ת"],"language_flag":"a","rec":1}]
+2062475	"א"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291619","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062476	"די"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291620-1291621","type":"cons","glyphs_unicode":["ד","י"],"language_flag":"a","rec":1}]
+2062477	"ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291622","type":"cons","glyphs_unicode":["ב"],"language_flag":"a","rec":1}]
+2062478	"מדי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291623-1291625","type":"cons","glyphs_unicode":["מ","ד","י"],"language_flag":"a","rec":1}]
+2062479	" ]מ##ד##י#?נ#?ת"	"NO_LETTER_RECONSTRUCTION_MARKED"	5	0	4	0	[{"slots":"1291626-1291627","type":"cons","glyphs_unicode":["מ","ד"],"language_flag":"a","unc":4},{"slots":"1291628-1291629","type":"cons","glyphs_unicode":["י","נ"],"language_flag":"a","unc":3},{"slots":"1291630","type":"cons","glyphs_unicode":["ת"],"language_flag":"a"}]
+2062480	"א"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1291631","type":"cons","glyphs_unicode":["א"],"language_flag":"a"}]
+2062481	"מגלה"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1291632-1291635","type":"cons","glyphs_unicode":["מ","ג","ל","ה"],"language_flag":"a"}]
+2062482	"חדה"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1291636-1291638","type":"cons","glyphs_unicode":["ח","ד","ה"],"language_flag":"a"}]
+2062483	"[ ו ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291639","type":"cons","glyphs_unicode":["ו"],"language_flag":"a","rec":1}]
+2062484	"כ#ן"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	1	0	[{"slots":"1291640","type":"cons","glyphs_unicode":["כ"],"language_flag":"a","unc":2},{"slots":"1291641","type":"cons","glyphs_unicode":["ן"],"language_flag":"a"}]
+2062485	"כ#ת##[ יב"	"PARTLY_RECONSTRUCTED"	4	2	2	0	[{"slots":"1291642","type":"cons","glyphs_unicode":["כ"],"language_flag":"a","unc":2},{"slots":"1291643","type":"cons","glyphs_unicode":["ת"],"language_flag":"a","unc":4},{"slots":"1291644-1291645","type":"cons","glyphs_unicode":["י","ב"],"language_flag":"a","rec":1}]
+2062486	"ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291646","type":"cons","glyphs_unicode":["ב"],"language_flag":"a","rec":1}]
+2062487	"גו׳ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291647-1291648","type":"cons","glyphs_unicode":["ג","ו"],"language_flag":"a","rec":1},{"slots":"1291649","type":"sep","glyphs_unicode":["׳"],"language_flag":"a","rec":1},{"slots":"1291650","type":"cons","glyphs_unicode":["ה"],"language_flag":"a","rec":1}]
+2062488	"דכרונ"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291651-1291655","type":"cons","glyphs_unicode":["ד","כ","ר","ו","נ"],"language_flag":"a","rec":1}]
+2062489	"ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291656","type":"cons","glyphs_unicode":["ה"],"language_flag":"a","rec":1}]
+End critical word annotations
+
+### Ezra 6:2 | 4Q117 | fragment f3 | line 4
+Record: L1602180-R002
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f3; line=4; line_node=1602180
+Source locator: {"book":"Ezra","chapter":"6","verse":"2","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":1,"sign_slots":2,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":2,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062490
+Unicode: ׃ 
+Source: . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062490	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1291657","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1291658","type":"punct","glyphs_unicode":["׃"],"rec":1}]
+End critical word annotations
+
+### Ezra 6:3 | 4Q117 | fragment f3 | line 4
+Record: L1602180-R003
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f3; line=4; line_node=1602180
+Source locator: {"book":"Ezra","chapter":"6","verse":"3","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: 'a'; script: None
+Reconstruction status: ALL_LETTER_SLOTS_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":5,"sign_slots":12,"letter_slots":12,"reconstructed_letter_slots":12,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":12,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062491-2062495
+Unicode: בשנת חדה לכורש ] 
+Source: bCnt jdh lkwrC[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062491	"ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291659","type":"cons","glyphs_unicode":["ב"],"language_flag":"a","rec":1}]
+2062492	"שנת"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291660-1291662","type":"cons","glyphs_unicode":["ש","נ","ת"],"language_flag":"a","rec":1}]
+2062493	"חדה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291663-1291665","type":"cons","glyphs_unicode":["ח","ד","ה"],"language_flag":"a","rec":1}]
+2062494	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291666","type":"cons","glyphs_unicode":["ל"],"language_flag":"a","rec":1}]
+2062495	"כורש ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291667-1291670","type":"cons","glyphs_unicode":["כ","ו","ר","ש"],"language_flag":"a","rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1291671,"scroll":"4Q117","scroll_node":1606784,"fragment":"f3","line":"4","line_node":1602180,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2062495,"next_word":null}
+
+### Ezra 6:3 | 4Q117 | fragment f3 | line 5
+Record: L1602181-R001
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f3; line=5; line_node=1602181
+Source locator: {"book":"Ezra","chapter":"6","verse":"3","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: 'a'; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":19,"sign_slots":55,"letter_slots":55,"reconstructed_letter_slots":37,"uncertain_letter_slots":2,"unmarked_letter_slots":16,"reconstructed_sign_slots":37,"uncertain_sign_slots":2,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":2},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062496-2062514
+Unicode: [ מלכא כורש מלכא שם טע ]ם## בית אלהא בירושלם בית##[ א יתבנא אתר די דבחין דבחין ] 
+Source: ]mlka kwrC mlka CM fo[M| byt alha byrwClM byt|]a ytbna atr dy dbjyN dbjyN[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062496	"[ מלכ"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291672-1291674","type":"cons","glyphs_unicode":["מ","ל","כ"],"language_flag":"a","rec":1}]
+2062497	"א"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291675","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062498	"כורש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291676-1291679","type":"cons","glyphs_unicode":["כ","ו","ר","ש"],"language_flag":"a","rec":1}]
+2062499	"מלכ"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291680-1291682","type":"cons","glyphs_unicode":["מ","ל","כ"],"language_flag":"a","rec":1}]
+2062500	"א"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291683","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062501	"שם"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291684-1291685","type":"cons","glyphs_unicode":["ש","ם"],"language_flag":"a","rec":1}]
+2062502	"טע ]ם##"	"PARTLY_RECONSTRUCTED"	3	2	1	0	[{"slots":"1291686-1291687","type":"cons","glyphs_unicode":["ט","ע"],"language_flag":"a","rec":1},{"slots":"1291688","type":"cons","glyphs_unicode":["ם"],"language_flag":"a","unc":4}]
+2062503	"בית"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1291689-1291691","type":"cons","glyphs_unicode":["ב","י","ת"],"language_flag":"a"}]
+2062504	"אלה"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1291692-1291694","type":"cons","glyphs_unicode":["א","ל","ה"],"language_flag":"a"}]
+2062505	"א"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1291695","type":"cons","glyphs_unicode":["א"],"language_flag":"a"}]
+2062506	"ב"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1291696","type":"cons","glyphs_unicode":["ב"],"language_flag":"a"}]
+2062507	"ירושלם"	"NO_LETTER_RECONSTRUCTION_MARKED"	6	0	0	0	[{"slots":"1291697-1291702","type":"cons","glyphs_unicode":["י","ר","ו","ש","ל","ם"],"language_flag":"a"}]
+2062508	"בית##"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	1	0	[{"slots":"1291703-1291704","type":"cons","glyphs_unicode":["ב","י"],"language_flag":"a"},{"slots":"1291705","type":"cons","glyphs_unicode":["ת"],"language_flag":"a","unc":4}]
+2062509	"[ א"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291706","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062510	"יתבנא"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291707-1291711","type":"cons","glyphs_unicode":["י","ת","ב","נ","א"],"language_flag":"a","rec":1}]
+2062511	"אתר"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291712-1291714","type":"cons","glyphs_unicode":["א","ת","ר"],"language_flag":"a","rec":1}]
+2062512	"די"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291715-1291716","type":"cons","glyphs_unicode":["ד","י"],"language_flag":"a","rec":1}]
+2062513	"דבחין"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291717-1291721","type":"cons","glyphs_unicode":["ד","ב","ח","י","ן"],"language_flag":"a","rec":1}]
+2062514	"דבחין ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291722-1291726","type":"cons","glyphs_unicode":["ד","ב","ח","י","ן"],"language_flag":"a","rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1291727,"scroll":"4Q117","scroll_node":1606784,"fragment":"f3","line":"5","line_node":1602181,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2062514,"next_word":null}
+
+### Ezra 6:3 | 4Q117 | fragment f3 | line 6
+Record: L1602182-R001
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f3; line=6; line_node=1602182
+Source locator: {"book":"Ezra","chapter":"6","verse":"3","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: 'a'; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":9,"sign_slots":40,"letter_slots":37,"reconstructed_letter_slots":17,"uncertain_letter_slots":6,"unmarked_letter_slots":14,"reconstructed_sign_slots":18,"uncertain_sign_slots":6,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":1,"2":4,"1":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062515-2062523
+Unicode: [ ואשו׳הי מסובלין רומ ]׳ה## אמ#[ י ]ן? שת#ין פ#ת#י׳ה אמין שתין 
+Source: ]waCw/hy mswblyN rwm[/h| am«]y[NØ Ct«yN p«t«y/h amyN CtyN 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062515	"[ ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291728","type":"cons","glyphs_unicode":["ו"],"language_flag":"a","rec":1}]
+2062516	"אשו׳הי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1291729-1291731","type":"cons","glyphs_unicode":["א","ש","ו"],"language_flag":"a","rec":1},{"slots":"1291732","type":"sep","glyphs_unicode":["׳"],"language_flag":"a","rec":1},{"slots":"1291733-1291734","type":"cons","glyphs_unicode":["ה","י"],"language_flag":"a","rec":1}]
+2062517	"מסובלין"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	7	7	0	0	[{"slots":"1291735-1291741","type":"cons","glyphs_unicode":["מ","ס","ו","ב","ל","י","ן"],"language_flag":"a","rec":1}]
+2062518	"רומ ]׳ה##"	"PARTLY_RECONSTRUCTED"	4	3	1	0	[{"slots":"1291742-1291744","type":"cons","glyphs_unicode":["ר","ו","מ"],"language_flag":"a","rec":1},{"slots":"1291745","type":"sep","glyphs_unicode":["׳"],"language_flag":"a"},{"slots":"1291746","type":"cons","glyphs_unicode":["ה"],"language_flag":"a","unc":4}]
+2062519	"אמ#[ י ]ן?"	"PARTLY_RECONSTRUCTED"	4	1	2	0	[{"slots":"1291747","type":"cons","glyphs_unicode":["א"],"language_flag":"a"},{"slots":"1291748","type":"cons","glyphs_unicode":["מ"],"language_flag":"a","unc":2},{"slots":"1291749","type":"cons","glyphs_unicode":["י"],"language_flag":"a","rec":1},{"slots":"1291750","type":"cons","glyphs_unicode":["ן"],"language_flag":"a","unc":1}]
+2062520	"שת#ין"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	1	0	[{"slots":"1291751","type":"cons","glyphs_unicode":["ש"],"language_flag":"a"},{"slots":"1291752","type":"cons","glyphs_unicode":["ת"],"language_flag":"a","unc":2},{"slots":"1291753-1291754","type":"cons","glyphs_unicode":["י","ן"],"language_flag":"a"}]
+2062521	"פ#ת#י׳ה"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	2	0	[{"slots":"1291755-1291756","type":"cons","glyphs_unicode":["פ","ת"],"language_flag":"a","unc":2},{"slots":"1291757","type":"cons","glyphs_unicode":["י"],"language_flag":"a"},{"slots":"1291758","type":"sep","glyphs_unicode":["׳"],"language_flag":"a"},{"slots":"1291759","type":"cons","glyphs_unicode":["ה"],"language_flag":"a"}]
+2062522	"אמין"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1291760-1291763","type":"cons","glyphs_unicode":["א","מ","י","ן"],"language_flag":"a"}]
+2062523	"שתין"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1291764-1291767","type":"cons","glyphs_unicode":["ש","ת","י","ן"],"language_flag":"a"}]
+End critical word annotations
+
+### Ezra 6:3 | 4Q117 | fragment f3 | line 6
+Record: L1602182-R002
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f3; line=6; line_node=1602182
+Source locator: {"book":"Ezra","chapter":"6","verse":"3","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":1,"sign_slots":2,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062524
+Unicode: ׃ 
+Source: . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062524	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1291768","type":"empty","glyphs_unicode":[""]},{"slots":"1291769","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+
+### Ezra 6:4 | 4Q117 | fragment f3 | line 6
+Record: L1602182-R003
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f3; line=6; line_node=1602182
+Source locator: {"book":"Ezra","chapter":"6","verse":"4","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: 'a'; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":5,"sign_slots":18,"letter_slots":18,"reconstructed_letter_slots":10,"uncertain_letter_slots":4,"unmarked_letter_slots":4,"reconstructed_sign_slots":10,"uncertain_sign_slots":4,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"3":1,"4":2,"2":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062525-2062529
+Unicode: נ#?ד####ב####כין ד#י[  אבן גלל תלתא ] 
+Source: n»d||b||kyN d«y] abN gll tlta[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062525	"נ#?ד####ב####כין"	"NO_LETTER_RECONSTRUCTION_MARKED"	6	0	3	0	[{"slots":"1291770","type":"cons","glyphs_unicode":["נ"],"language_flag":"a","unc":3},{"slots":"1291771-1291772","type":"cons","glyphs_unicode":["ד","ב"],"language_flag":"a","unc":4},{"slots":"1291773-1291775","type":"cons","glyphs_unicode":["כ","י","ן"],"language_flag":"a"}]
+2062526	"ד#י[ "	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	1	0	[{"slots":"1291776","type":"cons","glyphs_unicode":["ד"],"language_flag":"a","unc":2},{"slots":"1291777","type":"cons","glyphs_unicode":["י"],"language_flag":"a"}]
+2062527	"אבן"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291778-1291780","type":"cons","glyphs_unicode":["א","ב","ן"],"language_flag":"a","rec":1}]
+2062528	"גלל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291781-1291783","type":"cons","glyphs_unicode":["ג","ל","ל"],"language_flag":"a","rec":1}]
+2062529	"תלתא ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291784-1291787","type":"cons","glyphs_unicode":["ת","ל","ת","א"],"language_flag":"a","rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1291788,"scroll":"4Q117","scroll_node":1606784,"fragment":"f3","line":"6","line_node":1602182,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2062529,"next_word":null}
+
+### Ezra 6:4 | 4Q117 | fragment f3 | line 7
+Record: L1602183-R001
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f3; line=7; line_node=1602183
+Source locator: {"book":"Ezra","chapter":"6","verse":"4","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: 'a'; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":13,"sign_slots":32,"letter_slots":32,"reconstructed_letter_slots":17,"uncertain_letter_slots":2,"unmarked_letter_slots":13,"reconstructed_sign_slots":17,"uncertain_sign_slots":2,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"2":1,"1":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062530-2062542
+Unicode: [ ונדבך די אע חדת ונפקת ]א מן בית# מלכא תתי?הב 
+Source: ]wndbK dy ao jdt wnpqt[a mN byt« mlka ttyØhb 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062530	"[ ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291789","type":"cons","glyphs_unicode":["ו"],"language_flag":"a","rec":1}]
+2062531	"נדבך"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291790-1291793","type":"cons","glyphs_unicode":["נ","ד","ב","ך"],"language_flag":"a","rec":1}]
+2062532	"די"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291794-1291795","type":"cons","glyphs_unicode":["ד","י"],"language_flag":"a","rec":1}]
+2062533	"אע"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291796-1291797","type":"cons","glyphs_unicode":["א","ע"],"language_flag":"a","rec":1}]
+2062534	"חדת"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291798-1291800","type":"cons","glyphs_unicode":["ח","ד","ת"],"language_flag":"a","rec":1}]
+2062535	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291801","type":"cons","glyphs_unicode":["ו"],"language_flag":"a","rec":1}]
+2062536	"נפקת"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291802-1291805","type":"cons","glyphs_unicode":["נ","פ","ק","ת"],"language_flag":"a","rec":1}]
+2062537	" ]א"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1291806","type":"cons","glyphs_unicode":["א"],"language_flag":"a"}]
+2062538	"מן"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1291807-1291808","type":"cons","glyphs_unicode":["מ","ן"],"language_flag":"a"}]
+2062539	"בית#"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	1	0	[{"slots":"1291809-1291810","type":"cons","glyphs_unicode":["ב","י"],"language_flag":"a"},{"slots":"1291811","type":"cons","glyphs_unicode":["ת"],"language_flag":"a","unc":2}]
+2062540	"מלכ"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1291812-1291814","type":"cons","glyphs_unicode":["מ","ל","כ"],"language_flag":"a"}]
+2062541	"א"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1291815","type":"cons","glyphs_unicode":["א"],"language_flag":"a"}]
+2062542	"תתי?הב"	"NO_LETTER_RECONSTRUCTION_MARKED"	5	0	1	0	[{"slots":"1291816-1291817","type":"cons","glyphs_unicode":["ת","ת"],"language_flag":"a"},{"slots":"1291818","type":"cons","glyphs_unicode":["י"],"language_flag":"a","unc":1},{"slots":"1291819-1291820","type":"cons","glyphs_unicode":["ה","ב"],"language_flag":"a"}]
+End critical word annotations
+
+### Ezra 6:4 | 4Q117 | fragment f3 | line 7
+Record: L1602183-R002
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f3; line=7; line_node=1602183
+Source locator: {"book":"Ezra","chapter":"6","verse":"4","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":1,"sign_slots":2,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062543
+Unicode: ׃ 
+Source: . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062543	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1291821","type":"empty","glyphs_unicode":[""]},{"slots":"1291822","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+
+### Ezra 6:5 | 4Q117 | fragment f3 | line 7
+Record: L1602183-R003
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f3; line=7; line_node=1602183
+Source locator: {"book":"Ezra","chapter":"6","verse":"5","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: 'a'; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":9,"sign_slots":20,"letter_slots":20,"reconstructed_letter_slots":11,"uncertain_letter_slots":0,"unmarked_letter_slots":9,"reconstructed_sign_slots":11,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062544-2062552
+Unicode: ואף מאני בי[ ת אלהא די דהבה ] 
+Source: waP many by]t alha dy dhbh[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062544	"ו"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1291823","type":"cons","glyphs_unicode":["ו"],"language_flag":"a"}]
+2062545	"אף"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1291824-1291825","type":"cons","glyphs_unicode":["א","ף"],"language_flag":"a"}]
+2062546	"מאני"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1291826-1291829","type":"cons","glyphs_unicode":["מ","א","נ","י"],"language_flag":"a"}]
+2062547	"בי[ ת"	"PARTLY_RECONSTRUCTED"	3	1	0	0	[{"slots":"1291830-1291831","type":"cons","glyphs_unicode":["ב","י"],"language_flag":"a"},{"slots":"1291832","type":"cons","glyphs_unicode":["ת"],"language_flag":"a","rec":1}]
+2062548	"אלה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291833-1291835","type":"cons","glyphs_unicode":["א","ל","ה"],"language_flag":"a","rec":1}]
+2062549	"א"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291836","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062550	"די"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291837-1291838","type":"cons","glyphs_unicode":["ד","י"],"language_flag":"a","rec":1}]
+2062551	"דהב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291839-1291841","type":"cons","glyphs_unicode":["ד","ה","ב"],"language_flag":"a","rec":1}]
+2062552	"ה ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291842","type":"cons","glyphs_unicode":["ה"],"language_flag":"a","rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1291843,"scroll":"4Q117","scroll_node":1606784,"fragment":"f3","line":"7","line_node":1602183,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2062552,"next_word":null}
+
+### Ezra 6:5 | 4Q117 | fragment f3 | line 8
+Record: L1602184-R001
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f3; line=8; line_node=1602184
+Source locator: {"book":"Ezra","chapter":"6","verse":"5","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: 'a'; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":19,"sign_slots":56,"letter_slots":56,"reconstructed_letter_slots":32,"uncertain_letter_slots":3,"unmarked_letter_slots":21,"reconstructed_sign_slots":32,"uncertain_sign_slots":3,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":1,"2":2},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062553-2062571
+Unicode: [ וכספא די נבוכדנצר הנפק  ]מ##ן היכ#לא# די בירושלם והיבלו לב[ בל יהתיבון ויהך ] 
+Source: ]wkspa dy nbwkdnxr hnpq [m|N hyk«la« dy byrwClM whyblw lb]bl yhtybwN wyhK[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062553	"[ ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291844","type":"cons","glyphs_unicode":["ו"],"language_flag":"a","rec":1}]
+2062554	"כספ"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291845-1291847","type":"cons","glyphs_unicode":["כ","ס","פ"],"language_flag":"a","rec":1}]
+2062555	"א"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291848","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062556	"די"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291849-1291850","type":"cons","glyphs_unicode":["ד","י"],"language_flag":"a","rec":1}]
+2062557	"נבוכדנצר"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	8	8	0	0	[{"slots":"1291851-1291858","type":"cons","glyphs_unicode":["נ","ב","ו","כ","ד","נ","צ","ר"],"language_flag":"a","rec":1}]
+2062558	"הנפק"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291859-1291862","type":"cons","glyphs_unicode":["ה","נ","פ","ק"],"language_flag":"a","rec":1}]
+2062559	" ]מ##ן"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	1	0	[{"slots":"1291863","type":"cons","glyphs_unicode":["מ"],"language_flag":"a","unc":4},{"slots":"1291864","type":"cons","glyphs_unicode":["ן"],"language_flag":"a"}]
+2062560	"היכ#ל"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	1	0	[{"slots":"1291865-1291866","type":"cons","glyphs_unicode":["ה","י"],"language_flag":"a"},{"slots":"1291867","type":"cons","glyphs_unicode":["כ"],"language_flag":"a","unc":2},{"slots":"1291868","type":"cons","glyphs_unicode":["ל"],"language_flag":"a"}]
+2062561	"א#"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	1	0	[{"slots":"1291869","type":"cons","glyphs_unicode":["א"],"language_flag":"a","unc":2}]
+2062562	"די"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1291870-1291871","type":"cons","glyphs_unicode":["ד","י"],"language_flag":"a"}]
+2062563	"ב"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1291872","type":"cons","glyphs_unicode":["ב"],"language_flag":"a"}]
+2062564	"ירושלם"	"NO_LETTER_RECONSTRUCTION_MARKED"	6	0	0	0	[{"slots":"1291873-1291878","type":"cons","glyphs_unicode":["י","ר","ו","ש","ל","ם"],"language_flag":"a"}]
+2062565	"ו"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1291879","type":"cons","glyphs_unicode":["ו"],"language_flag":"a"}]
+2062566	"היבלו"	"NO_LETTER_RECONSTRUCTION_MARKED"	5	0	0	0	[{"slots":"1291880-1291884","type":"cons","glyphs_unicode":["ה","י","ב","ל","ו"],"language_flag":"a"}]
+2062567	"ל"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1291885","type":"cons","glyphs_unicode":["ל"],"language_flag":"a"}]
+2062568	"ב[ בל"	"PARTLY_RECONSTRUCTED"	3	2	0	0	[{"slots":"1291886","type":"cons","glyphs_unicode":["ב"],"language_flag":"a"},{"slots":"1291887-1291888","type":"cons","glyphs_unicode":["ב","ל"],"language_flag":"a","rec":1}]
+2062569	"יהתיבון"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	7	7	0	0	[{"slots":"1291889-1291895","type":"cons","glyphs_unicode":["י","ה","ת","י","ב","ו","ן"],"language_flag":"a","rec":1}]
+2062570	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291896","type":"cons","glyphs_unicode":["ו"],"language_flag":"a","rec":1}]
+2062571	"יהך ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1291897-1291899","type":"cons","glyphs_unicode":["י","ה","ך"],"language_flag":"a","rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1291900,"scroll":"4Q117","scroll_node":1606784,"fragment":"f3","line":"8","line_node":1602184,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2062571,"next_word":null}
+
+### Ezra 6:5 | 4Q117 | fragment f3 | line 9
+Record: L1602185-R001
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f3; line=9; line_node=1602185
+Source locator: {"book":"Ezra","chapter":"6","verse":"5","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: 'a'; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":14,"sign_slots":33,"letter_slots":32,"reconstructed_letter_slots":20,"uncertain_letter_slots":4,"unmarked_letter_slots":8,"reconstructed_sign_slots":21,"uncertain_sign_slots":4,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"3":1,"2":2,"4":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062572-2062585
+Unicode: [ להיכלא די בירושלם לאתר׳ה  ]ו#?ת#חת# ב##בית אלהא 
+Source: ]lhykla dy byrwClM latr/h [w»t«jt« b|byt alha 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062572	"[ ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291901","type":"cons","glyphs_unicode":["ל"],"language_flag":"a","rec":1}]
+2062573	"היכל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291902-1291905","type":"cons","glyphs_unicode":["ה","י","כ","ל"],"language_flag":"a","rec":1}]
+2062574	"א"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291906","type":"cons","glyphs_unicode":["א"],"language_flag":"a","rec":1}]
+2062575	"די"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1291907-1291908","type":"cons","glyphs_unicode":["ד","י"],"language_flag":"a","rec":1}]
+2062576	"ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291909","type":"cons","glyphs_unicode":["ב"],"language_flag":"a","rec":1}]
+2062577	"ירושלם"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	6	6	0	0	[{"slots":"1291910-1291915","type":"cons","glyphs_unicode":["י","ר","ו","ש","ל","ם"],"language_flag":"a","rec":1}]
+2062578	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1291916","type":"cons","glyphs_unicode":["ל"],"language_flag":"a","rec":1}]
+2062579	"אתר׳ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1291917-1291919","type":"cons","glyphs_unicode":["א","ת","ר"],"language_flag":"a","rec":1},{"slots":"1291920","type":"sep","glyphs_unicode":["׳"],"language_flag":"a","rec":1},{"slots":"1291921","type":"cons","glyphs_unicode":["ה"],"language_flag":"a","rec":1}]
+2062580	" ]ו#?"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	1	0	[{"slots":"1291922","type":"cons","glyphs_unicode":["ו"],"language_flag":"a","unc":3}]
+2062581	"ת#חת#"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	2	0	[{"slots":"1291923","type":"cons","glyphs_unicode":["ת"],"language_flag":"a","unc":2},{"slots":"1291924","type":"cons","glyphs_unicode":["ח"],"language_flag":"a"},{"slots":"1291925","type":"cons","glyphs_unicode":["ת"],"language_flag":"a","unc":2}]
+2062582	"ב##"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	1	0	[{"slots":"1291926","type":"cons","glyphs_unicode":["ב"],"language_flag":"a","unc":4}]
+2062583	"בית"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1291927-1291929","type":"cons","glyphs_unicode":["ב","י","ת"],"language_flag":"a"}]
+2062584	"אלה"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1291930-1291932","type":"cons","glyphs_unicode":["א","ל","ה"],"language_flag":"a"}]
+2062585	"א"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1291933","type":"cons","glyphs_unicode":["א"],"language_flag":"a"}]
+End critical word annotations
+
+### Ezra 6:5 | 4Q117 | fragment f3 | line 9
+Record: L1602185-R002
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f3; line=9; line_node=1602185
+Source locator: {"book":"Ezra","chapter":"6","verse":"5","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":1,"sign_slots":2,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062586
+Unicode: ׃ 
+Source: . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062586	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1291934","type":"empty","glyphs_unicode":[""]},{"slots":"1291935","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+
+### Ezra 6:6 | 4Q117 | fragment f3 | line 9
+Record: L1602185-R003
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f3; line=9; line_node=1602185
+Source locator: {"book":"Ezra","chapter":"6","verse":"6","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: 'a'; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":2,"sign_slots":5,"letter_slots":1,"reconstructed_letter_slots":0,"uncertain_letter_slots":1,"unmarked_letter_slots":0,"reconstructed_sign_slots":2,"uncertain_sign_slots":3,"missing_sign_slots":1,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"2":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062587-2062588
+Unicode: כ# #  # [  ε 
+Source: k«\\] -- 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062587	"כ# #  # [ "	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	1	0	[{"slots":"1291937","type":"cons","glyphs_unicode":["כ"],"language_flag":"a","unc":2},{"slots":"1291938-1291939","type":"unc","glyphs_unicode":[" # "," # "],"language_flag":"a"}]
+2062588	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1291940","type":"empty","glyphs_unicode":[""],"language_flag":"a","rec":1},{"slots":"1291941","type":"missing","glyphs_unicode":["ε"],"language_flag":"a","rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1291936,"scroll":"4Q117","scroll_node":1606784,"fragment":"f3","line":"9","line_node":1602185,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"vac":1},"clusters":[{"node":1524530,"type":"vac","slots":"1291936"}],"previous_word":2062586,"next_word":2062587}
+
+### Ezra 6:6 | 4Q117 | fragment f3 | line 9
+Record: L1602185-R004
+Physical: scroll=4Q117; scroll_node=1606784; fragment=f3; line=9; line_node=1602185
+Source locator: {"book":"Ezra","chapter":"6","verse":"6","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":1,"sign_slots":2,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2062589
+Unicode: ׃ 
+Source: . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2062589	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1291942","type":"empty","glyphs_unicode":[""]},{"slots":"1291943","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1291944,"scroll":"4Q117","scroll_node":1606784,"fragment":"f3","line":"9","line_node":1602185,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2062589,"next_word":null}
+

@@ -1,0 +1,346 @@
+{
+  "status": "passed_structural_and_preservation_checks",
+  "books_per_edition": 39,
+  "chapters_per_edition": 929,
+  "verses_per_edition": 23213,
+  "native_reference_sets_match": true,
+  "unparsed_upload_lines": 0,
+  "duplicate_verse_references": 0,
+  "noncontiguous_chapters": 0,
+  "oshb_word_elements": 306785,
+  "oshb_unique_nonempty_word_ids": 306785,
+  "oshb_missing_id_lemma_morph": 0,
+  "oshb_word_reading_roles": {
+    "body_word": 304239,
+    "ketiv": 1268,
+    "qere": 1278
+  },
+  "oshb_note_types": {
+    ":c": 189,
+    ":p": 86,
+    ":1": 207,
+    "variant:": 1260,
+    ":q": 51,
+    ":k": 28,
+    ":n": 109,
+    ":v": 33,
+    ":4": 16,
+    ":a": 39,
+    ":": 2027,
+    "alternative:": 119,
+    "exegesis:": 21,
+    ":5": 4,
+    ":8": 9,
+    ":P": 16,
+    ":Q": 116,
+    ":U": 79,
+    ":C": 48,
+    ":y": 27,
+    ":7": 4,
+    ":V": 4,
+    ":K": 1,
+    ":M": 2,
+    ":6": 3,
+    ":F": 1
+  },
+  "uxlc_transcription_note_codes": {
+    "t": 218,
+    "c": 101,
+    "m": 39,
+    "4": 16,
+    "q": 35,
+    "5": 4,
+    "8": 9,
+    "y": 36,
+    "X": 2,
+    "7": 4,
+    "d": 27,
+    "6": 3
+  },
+  "uxlc_verses_with_asterisk_markup": 1111,
+  "original_upload_sha256": "f91fe99449636741e12f7a1f3590971994f3a654225db77a302609334c517f02",
+  "sqlite_integrity_check": "ok",
+  "not_claimed": [
+    "Independent manuscript-image verification",
+    "Independent review of every morphological analysis",
+    "Byte identity of the OSHB edition with a separately obtained Groves release",
+    "Verified English/LXX reference maps",
+    "A full textual-critical apparatus",
+    "Live plugin installation"
+  ],
+  "book_statistics": [
+    {
+      "book_id": "Gen",
+      "book_name": "Genesis",
+      "chapters": 50,
+      "uxlc_verses": 1533,
+      "wlc_verses": 1533
+    },
+    {
+      "book_id": "Exod",
+      "book_name": "Exodus",
+      "chapters": 40,
+      "uxlc_verses": 1213,
+      "wlc_verses": 1213
+    },
+    {
+      "book_id": "Lev",
+      "book_name": "Leviticus",
+      "chapters": 27,
+      "uxlc_verses": 859,
+      "wlc_verses": 859
+    },
+    {
+      "book_id": "Num",
+      "book_name": "Numbers",
+      "chapters": 36,
+      "uxlc_verses": 1289,
+      "wlc_verses": 1289
+    },
+    {
+      "book_id": "Deut",
+      "book_name": "Deuteronomy",
+      "chapters": 34,
+      "uxlc_verses": 959,
+      "wlc_verses": 959
+    },
+    {
+      "book_id": "Josh",
+      "book_name": "Joshua",
+      "chapters": 24,
+      "uxlc_verses": 658,
+      "wlc_verses": 658
+    },
+    {
+      "book_id": "Judg",
+      "book_name": "Judges",
+      "chapters": 21,
+      "uxlc_verses": 618,
+      "wlc_verses": 618
+    },
+    {
+      "book_id": "Ruth",
+      "book_name": "Ruth",
+      "chapters": 4,
+      "uxlc_verses": 85,
+      "wlc_verses": 85
+    },
+    {
+      "book_id": "1Sam",
+      "book_name": "1 Samuel",
+      "chapters": 31,
+      "uxlc_verses": 811,
+      "wlc_verses": 811
+    },
+    {
+      "book_id": "2Sam",
+      "book_name": "2 Samuel",
+      "chapters": 24,
+      "uxlc_verses": 695,
+      "wlc_verses": 695
+    },
+    {
+      "book_id": "1Kgs",
+      "book_name": "1 Kings",
+      "chapters": 22,
+      "uxlc_verses": 817,
+      "wlc_verses": 817
+    },
+    {
+      "book_id": "2Kgs",
+      "book_name": "2 Kings",
+      "chapters": 25,
+      "uxlc_verses": 719,
+      "wlc_verses": 719
+    },
+    {
+      "book_id": "1Chr",
+      "book_name": "1 Chronicles",
+      "chapters": 29,
+      "uxlc_verses": 943,
+      "wlc_verses": 943
+    },
+    {
+      "book_id": "2Chr",
+      "book_name": "2 Chronicles",
+      "chapters": 36,
+      "uxlc_verses": 822,
+      "wlc_verses": 822
+    },
+    {
+      "book_id": "Ezra",
+      "book_name": "Ezra",
+      "chapters": 10,
+      "uxlc_verses": 280,
+      "wlc_verses": 280
+    },
+    {
+      "book_id": "Neh",
+      "book_name": "Nehemiah",
+      "chapters": 13,
+      "uxlc_verses": 405,
+      "wlc_verses": 405
+    },
+    {
+      "book_id": "Esth",
+      "book_name": "Esther",
+      "chapters": 10,
+      "uxlc_verses": 167,
+      "wlc_verses": 167
+    },
+    {
+      "book_id": "Job",
+      "book_name": "Job",
+      "chapters": 42,
+      "uxlc_verses": 1070,
+      "wlc_verses": 1070
+    },
+    {
+      "book_id": "Ps",
+      "book_name": "Psalms",
+      "chapters": 150,
+      "uxlc_verses": 2527,
+      "wlc_verses": 2527
+    },
+    {
+      "book_id": "Prov",
+      "book_name": "Proverbs",
+      "chapters": 31,
+      "uxlc_verses": 915,
+      "wlc_verses": 915
+    },
+    {
+      "book_id": "Eccl",
+      "book_name": "Ecclesiastes",
+      "chapters": 12,
+      "uxlc_verses": 222,
+      "wlc_verses": 222
+    },
+    {
+      "book_id": "Song",
+      "book_name": "Song of Songs",
+      "chapters": 8,
+      "uxlc_verses": 117,
+      "wlc_verses": 117
+    },
+    {
+      "book_id": "Isa",
+      "book_name": "Isaiah",
+      "chapters": 66,
+      "uxlc_verses": 1291,
+      "wlc_verses": 1291
+    },
+    {
+      "book_id": "Jer",
+      "book_name": "Jeremiah",
+      "chapters": 52,
+      "uxlc_verses": 1364,
+      "wlc_verses": 1364
+    },
+    {
+      "book_id": "Lam",
+      "book_name": "Lamentations",
+      "chapters": 5,
+      "uxlc_verses": 154,
+      "wlc_verses": 154
+    },
+    {
+      "book_id": "Ezek",
+      "book_name": "Ezekiel",
+      "chapters": 48,
+      "uxlc_verses": 1273,
+      "wlc_verses": 1273
+    },
+    {
+      "book_id": "Dan",
+      "book_name": "Daniel",
+      "chapters": 12,
+      "uxlc_verses": 357,
+      "wlc_verses": 357
+    },
+    {
+      "book_id": "Hos",
+      "book_name": "Hosea",
+      "chapters": 14,
+      "uxlc_verses": 197,
+      "wlc_verses": 197
+    },
+    {
+      "book_id": "Joel",
+      "book_name": "Joel",
+      "chapters": 4,
+      "uxlc_verses": 73,
+      "wlc_verses": 73
+    },
+    {
+      "book_id": "Amos",
+      "book_name": "Amos",
+      "chapters": 9,
+      "uxlc_verses": 146,
+      "wlc_verses": 146
+    },
+    {
+      "book_id": "Obad",
+      "book_name": "Obadiah",
+      "chapters": 1,
+      "uxlc_verses": 21,
+      "wlc_verses": 21
+    },
+    {
+      "book_id": "Jonah",
+      "book_name": "Jonah",
+      "chapters": 4,
+      "uxlc_verses": 48,
+      "wlc_verses": 48
+    },
+    {
+      "book_id": "Mic",
+      "book_name": "Micah",
+      "chapters": 7,
+      "uxlc_verses": 105,
+      "wlc_verses": 105
+    },
+    {
+      "book_id": "Nah",
+      "book_name": "Nahum",
+      "chapters": 3,
+      "uxlc_verses": 47,
+      "wlc_verses": 47
+    },
+    {
+      "book_id": "Hab",
+      "book_name": "Habakkuk",
+      "chapters": 3,
+      "uxlc_verses": 56,
+      "wlc_verses": 56
+    },
+    {
+      "book_id": "Zeph",
+      "book_name": "Zephaniah",
+      "chapters": 3,
+      "uxlc_verses": 53,
+      "wlc_verses": 53
+    },
+    {
+      "book_id": "Hag",
+      "book_name": "Haggai",
+      "chapters": 2,
+      "uxlc_verses": 38,
+      "wlc_verses": 38
+    },
+    {
+      "book_id": "Zech",
+      "book_name": "Zechariah",
+      "chapters": 14,
+      "uxlc_verses": 211,
+      "wlc_verses": 211
+    },
+    {
+      "book_id": "Mal",
+      "book_name": "Malachi",
+      "chapters": 3,
+      "uxlc_verses": 55,
+      "wlc_verses": 55
+    }
+  ]
+}

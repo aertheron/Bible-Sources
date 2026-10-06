@@ -1,0 +1,1695 @@
+DSS TF 2.0.1 — ENRICHED SOURCE EXPORT
+Attribution: Martin G. Abegg, Jr., James E. Bowley, and Edward M. Cook
+Conversion: Jarod Jacobs, Martijn Naaijer and Dirk Roorda
+Source licence: Creative Commons Attribution-NonCommercial 4.0 International License; http://creativecommons.org/licenses/by-nc/4.0/
+Repository: https://github.com/ETCBC/dss
+Status describes TF annotations; unmarked letters have not been independently verified as secure ink.
+Totals describe supplied sign slots, not how much of an entire biblical verse survives.
+Lexeme vowels and grammar are analyses; reconstructed letters are editorial readings.
+Read README.txt and DSS_SOURCE_USAGE.txt before interpretation.
+
+## Manuscript: 4Q109 | source scroll node 1606776
+
+### Eccl 5:13 | 4Q109 | fragment f1i | line 1
+Record: L1601764-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1i; line=1; line_node=1601764
+Source locator: {"book":"Eccl","chapter":"5","verse":"13","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":12,"sign_slots":31,"letter_slots":28,"reconstructed_letter_slots":26,"uncertain_letter_slots":1,"unmarked_letter_slots":1,"reconstructed_sign_slots":27,"uncertain_sign_slots":1,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"2":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2056880-2056891
+Unicode: [ בענין רע והוליד בן ואין ביד׳ו מאו ]מ#ה ׃ 
+Source: ]bonyN ro whwlyd bN wayN byd/w maw[m«h . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2056880	"[ ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275071","type":"cons","glyphs_unicode":["ב"],"rec":1}]
+2056881	"ענין"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275072-1275075","type":"cons","glyphs_unicode":["ע","נ","י","ן"],"rec":1}]
+2056882	"רע"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1275076-1275077","type":"cons","glyphs_unicode":["ר","ע"],"rec":1}]
+2056883	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275078","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2056884	"הוליד"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1275079-1275083","type":"cons","glyphs_unicode":["ה","ו","ל","י","ד"],"rec":1}]
+2056885	"בן"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1275084-1275085","type":"cons","glyphs_unicode":["ב","ן"],"rec":1}]
+2056886	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275086","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2056887	"אין"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275087-1275089","type":"cons","glyphs_unicode":["א","י","ן"],"rec":1}]
+2056888	"ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275090","type":"cons","glyphs_unicode":["ב"],"rec":1}]
+2056889	"יד׳ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275091-1275092","type":"cons","glyphs_unicode":["י","ד"],"rec":1},{"slots":"1275093","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1275094","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2056890	"מאו ]מ#ה"	"PARTLY_RECONSTRUCTED"	5	3	1	0	[{"slots":"1275095-1275097","type":"cons","glyphs_unicode":["מ","א","ו"],"rec":1},{"slots":"1275098","type":"cons","glyphs_unicode":["מ"],"unc":2},{"slots":"1275099","type":"cons","glyphs_unicode":["ה"]}]
+2056891	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275100","type":"empty","glyphs_unicode":[""]},{"slots":"1275101","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+
+### Eccl 5:14 | 4Q109 | fragment f1i | line 1
+Record: L1601764-R002
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1i; line=1; line_node=1601764
+Source locator: {"book":"Eccl","chapter":"5","verse":"14","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":1,"sign_slots":3,"letter_slots":3,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":3,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2056892
+Unicode: כיא 
+Source: kya 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2056892	"כיא"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275102-1275104","type":"cons","glyphs_unicode":["כ","י","א"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275105,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1i","line":"1","line_node":1601764,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2056892,"next_word":null}
+
+### Eccl 5:14 | 4Q109 | fragment f1i | line 2
+Record: L1601765-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1i; line=2; line_node=1601765
+Source locator: {"book":"Eccl","chapter":"5","verse":"14","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":11,"sign_slots":27,"letter_slots":26,"reconstructed_letter_slots":22,"uncertain_letter_slots":1,"unmarked_letter_slots":3,"reconstructed_sign_slots":23,"uncertain_sign_slots":1,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2056893-2056903
+Unicode: [ יצא מבטן אמ׳ו ערום ישוב ללכת  ]כ##שבא 
+Source: ]yxa mbfN am/w orwM yCwb llkt [k|Cba 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2056893	"[ יצא"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275106-1275108","type":"cons","glyphs_unicode":["י","צ","א"],"rec":1}]
+2056894	"מ"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275109","type":"cons","glyphs_unicode":["מ"],"rec":1}]
+2056895	"בטן"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275110-1275112","type":"cons","glyphs_unicode":["ב","ט","ן"],"rec":1}]
+2056896	"אמ׳ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275113-1275114","type":"cons","glyphs_unicode":["א","מ"],"rec":1},{"slots":"1275115","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1275116","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2056897	"ערום"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275117-1275120","type":"cons","glyphs_unicode":["ע","ר","ו","ם"],"rec":1}]
+2056898	"ישוב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275121-1275124","type":"cons","glyphs_unicode":["י","ש","ו","ב"],"rec":1}]
+2056899	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275125","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2056900	"לכת"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275126-1275128","type":"cons","glyphs_unicode":["ל","כ","ת"],"rec":1}]
+2056901	" ]כ##"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	1	0	[{"slots":"1275129","type":"cons","glyphs_unicode":["כ"],"unc":4}]
+2056902	"ש"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275130","type":"cons","glyphs_unicode":["ש"]}]
+2056903	"בא"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1275131-1275132","type":"cons","glyphs_unicode":["ב","א"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275133,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1i","line":"2","line_node":1601765,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2056903,"next_word":null}
+
+### Eccl 5:14 | 4Q109 | fragment f1i | line 3
+Record: L1601766-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1i; line=3; line_node=1601766
+Source locator: {"book":"Eccl","chapter":"5","verse":"14","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":11,"sign_slots":28,"letter_slots":24,"reconstructed_letter_slots":22,"uncertain_letter_slots":0,"unmarked_letter_slots":2,"reconstructed_sign_slots":23,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2056904-2056914
+Unicode: [ ומאומה לא ישא בעמל׳ו שילך בי ]ד׳ו ׃ 
+Source: ]wmawmh la yCa boml/w CylK by[d/w . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2056904	"[ ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275134","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2056905	"מאומה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1275135-1275139","type":"cons","glyphs_unicode":["מ","א","ו","מ","ה"],"rec":1}]
+2056906	"לא"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1275140-1275141","type":"cons","glyphs_unicode":["ל","א"],"rec":1}]
+2056907	"ישא"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275142-1275144","type":"cons","glyphs_unicode":["י","ש","א"],"rec":1}]
+2056908	"ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275145","type":"cons","glyphs_unicode":["ב"],"rec":1}]
+2056909	"עמל׳ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275146-1275148","type":"cons","glyphs_unicode":["ע","מ","ל"],"rec":1},{"slots":"1275149","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1275150","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2056910	"ש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275151","type":"cons","glyphs_unicode":["ש"],"rec":1}]
+2056911	"ילך"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275152-1275154","type":"cons","glyphs_unicode":["י","ל","ך"],"rec":1}]
+2056912	"ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275155","type":"cons","glyphs_unicode":["ב"],"rec":1}]
+2056913	"י ]ד׳ו"	"PARTLY_RECONSTRUCTED"	3	1	0	0	[{"slots":"1275156","type":"cons","glyphs_unicode":["י"],"rec":1},{"slots":"1275157","type":"cons","glyphs_unicode":["ד"]},{"slots":"1275158","type":"sep","glyphs_unicode":["׳"]},{"slots":"1275159","type":"cons","glyphs_unicode":["ו"]}]
+2056914	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275160","type":"empty","glyphs_unicode":[""]},{"slots":"1275161","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+
+### Eccl 5:15 | 4Q109 | fragment f1i | line 3
+Record: L1601766-R002
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1i; line=3; line_node=1601766
+Source locator: {"book":"Eccl","chapter":"5","verse":"15","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":2,"sign_slots":4,"letter_slots":4,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":4,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2056915-2056916
+Unicode: גם זה 
+Source: gM zh 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2056915	"גם"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1275162-1275163","type":"cons","glyphs_unicode":["ג","ם"]}]
+2056916	"זה"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1275164-1275165","type":"cons","glyphs_unicode":["ז","ה"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275166,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1i","line":"3","line_node":1601766,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2056916,"next_word":null}
+
+### Eccl 5:15 | 4Q109 | fragment f1i | line 4
+Record: L1601767-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1i; line=4; line_node=1601767
+Source locator: {"book":"Eccl","chapter":"5","verse":"15","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":12,"sign_slots":32,"letter_slots":31,"reconstructed_letter_slots":21,"uncertain_letter_slots":1,"unmarked_letter_slots":9,"reconstructed_sign_slots":21,"uncertain_sign_slots":1,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"3":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2056917-2056928
+Unicode: [ רעה חולה כול עמת שבא כן ילך  ]ו#?מה יתרון ל׳ו 
+Source: ]roh jwlh kwl omt Cba kN ylK [w»mh ytrwN l/w 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2056917	"[ רעה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275167-1275169","type":"cons","glyphs_unicode":["ר","ע","ה"],"rec":1}]
+2056918	"חולה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275170-1275173","type":"cons","glyphs_unicode":["ח","ו","ל","ה"],"rec":1}]
+2056919	"כול"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275174-1275176","type":"cons","glyphs_unicode":["כ","ו","ל"],"rec":1}]
+2056920	"עמת"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275177-1275179","type":"cons","glyphs_unicode":["ע","מ","ת"],"rec":1}]
+2056921	"ש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275180","type":"cons","glyphs_unicode":["ש"],"rec":1}]
+2056922	"בא"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1275181-1275182","type":"cons","glyphs_unicode":["ב","א"],"rec":1}]
+2056923	"כן"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1275183-1275184","type":"cons","glyphs_unicode":["כ","ן"],"rec":1}]
+2056924	"ילך"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275185-1275187","type":"cons","glyphs_unicode":["י","ל","ך"],"rec":1}]
+2056925	" ]ו#?"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	1	0	[{"slots":"1275188","type":"cons","glyphs_unicode":["ו"],"unc":3}]
+2056926	"מה"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1275189-1275190","type":"cons","glyphs_unicode":["מ","ה"]}]
+2056927	"יתרון"	"NO_LETTER_RECONSTRUCTION_MARKED"	5	0	0	0	[{"slots":"1275191-1275195","type":"cons","glyphs_unicode":["י","ת","ר","ו","ן"]}]
+2056928	"ל׳ו"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1275196","type":"cons","glyphs_unicode":["ל"]},{"slots":"1275197","type":"sep","glyphs_unicode":["׳"]},{"slots":"1275198","type":"cons","glyphs_unicode":["ו"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275199,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1i","line":"4","line_node":1601767,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2056928,"next_word":null}
+
+### Eccl 5:15 | 4Q109 | fragment f1i | line 5
+Record: L1601768-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1i; line=5; line_node=1601768
+Source locator: {"book":"Eccl","chapter":"5","verse":"15","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: ALL_LETTER_SLOTS_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":5,"sign_slots":11,"letter_slots":9,"reconstructed_letter_slots":9,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":11,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2056929-2056933
+Unicode: [ שיעמל לרוח ׃ 
+Source: ]Cyoml lrwj . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2056929	"[ ש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275200","type":"cons","glyphs_unicode":["ש"],"rec":1}]
+2056930	"יעמל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275201-1275204","type":"cons","glyphs_unicode":["י","ע","מ","ל"],"rec":1}]
+2056931	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275205","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2056932	"רוח"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275206-1275208","type":"cons","glyphs_unicode":["ר","ו","ח"],"rec":1}]
+2056933	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275209","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1275210","type":"punct","glyphs_unicode":["׃"],"rec":1}]
+End critical word annotations
+
+### Eccl 5:16 | 4Q109 | fragment f1i | line 5
+Record: L1601768-R002
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1i; line=5; line_node=1601768
+Source locator: {"book":"Eccl","chapter":"5","verse":"16","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":8,"sign_slots":21,"letter_slots":16,"reconstructed_letter_slots":13,"uncertain_letter_slots":0,"unmarked_letter_slots":3,"reconstructed_sign_slots":17,"uncertain_sign_slots":1,"missing_sign_slots":1,"empty_sign_slots":2,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2056934-2056941
+Unicode: גם כול ימי׳ו בחשך ε  ] # כעס 
+Source: gM kwl ymy/w bjCK -- [\kos 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2056934	"גם"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1275211-1275212","type":"cons","glyphs_unicode":["ג","ם"],"rec":1}]
+2056935	"כול"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275213-1275215","type":"cons","glyphs_unicode":["כ","ו","ל"],"rec":1}]
+2056936	"ימי׳ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275216-1275218","type":"cons","glyphs_unicode":["י","מ","י"],"rec":1},{"slots":"1275219","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1275220","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2056937	"ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275221","type":"cons","glyphs_unicode":["ב"],"rec":1}]
+2056938	"חשך"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275222-1275224","type":"cons","glyphs_unicode":["ח","ש","ך"],"rec":1}]
+2056939	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1275225","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1275226","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2056940	" ] # "	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275227","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1275228","type":"unc","glyphs_unicode":[" # "]}]
+2056941	"כעס"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275229-1275231","type":"cons","glyphs_unicode":["כ","ע","ס"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275232,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1i","line":"5","line_node":1601768,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2056941,"next_word":null}
+
+### Eccl 5:16 | 4Q109 | fragment f1i | line 6
+Record: L1601769-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1i; line=6; line_node=1601769
+Source locator: {"book":"Eccl","chapter":"5","verse":"16","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: ALL_LETTER_SLOTS_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":6,"sign_slots":16,"letter_slots":13,"reconstructed_letter_slots":13,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":16,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2056942-2056947
+Unicode: [ הרבה וחלי׳ו וקצף ׃ 
+Source: ]hrbh wjly/w wqxP . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2056942	"[ הרבה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275233-1275236","type":"cons","glyphs_unicode":["ה","ר","ב","ה"],"rec":1}]
+2056943	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275237","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2056944	"חלי׳ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275238-1275240","type":"cons","glyphs_unicode":["ח","ל","י"],"rec":1},{"slots":"1275241","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1275242","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2056945	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275243","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2056946	"קצף"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275244-1275246","type":"cons","glyphs_unicode":["ק","צ","ף"],"rec":1}]
+2056947	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275247","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1275248","type":"punct","glyphs_unicode":["׃"],"rec":1}]
+End critical word annotations
+
+### Eccl 5:17 | 4Q109 | fragment f1i | line 6
+Record: L1601769-R002
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1i; line=6; line_node=1601769
+Source locator: {"book":"Eccl","chapter":"5","verse":"17","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":5,"sign_slots":17,"letter_slots":17,"reconstructed_letter_slots":10,"uncertain_letter_slots":3,"unmarked_letter_slots":4,"reconstructed_sign_slots":10,"uncertain_sign_slots":3,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":2,"3":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2056948-2056952
+Unicode: הנה אשר ראי ]ת##[ י ] א##נ#?י טוב 
+Source: hnh aCr ray[t|]y[ a|n»y fwb 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2056948	"הנה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275249-1275251","type":"cons","glyphs_unicode":["ה","נ","ה"],"rec":1}]
+2056949	"אשר"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275252-1275254","type":"cons","glyphs_unicode":["א","ש","ר"],"rec":1}]
+2056950	"ראי ]ת##[ י ]"	"PARTLY_RECONSTRUCTED"	5	4	1	0	[{"slots":"1275255-1275257","type":"cons","glyphs_unicode":["ר","א","י"],"rec":1},{"slots":"1275258","type":"cons","glyphs_unicode":["ת"],"unc":4},{"slots":"1275259","type":"cons","glyphs_unicode":["י"],"rec":1}]
+2056951	"א##נ#?י"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	2	0	[{"slots":"1275260","type":"cons","glyphs_unicode":["א"],"unc":4},{"slots":"1275261","type":"cons","glyphs_unicode":["נ"],"unc":3},{"slots":"1275262","type":"cons","glyphs_unicode":["י"]}]
+2056952	"טוב"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275263-1275265","type":"cons","glyphs_unicode":["ט","ו","ב"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275266,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1i","line":"6","line_node":1601769,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2056952,"next_word":null}
+
+### Eccl 5:17 | 4Q109 | fragment f1i | line 7
+Record: L1601770-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1i; line=7; line_node=1601770
+Source locator: {"book":"Eccl","chapter":"5","verse":"17","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":14,"sign_slots":36,"letter_slots":35,"reconstructed_letter_slots":25,"uncertain_letter_slots":1,"unmarked_letter_slots":9,"reconstructed_sign_slots":25,"uncertain_sign_slots":1,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2056953-2056966
+Unicode: [ אשר יפה לאכול ולשתות ולראות טו ]ב##ה בכול עמל׳ו 
+Source: ]aCr yph lakwl wlCtwt wlrawt fw[b|h bkwl oml/w 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2056953	"[ אשר"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275267-1275269","type":"cons","glyphs_unicode":["א","ש","ר"],"rec":1}]
+2056954	"יפה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275270-1275272","type":"cons","glyphs_unicode":["י","פ","ה"],"rec":1}]
+2056955	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275273","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2056956	"אכול"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275274-1275277","type":"cons","glyphs_unicode":["א","כ","ו","ל"],"rec":1}]
+2056957	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275278","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2056958	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275279","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2056959	"שתות"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275280-1275283","type":"cons","glyphs_unicode":["ש","ת","ו","ת"],"rec":1}]
+2056960	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275284","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2056961	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275285","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2056962	"ראות"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275286-1275289","type":"cons","glyphs_unicode":["ר","א","ו","ת"],"rec":1}]
+2056963	"טו ]ב##ה"	"PARTLY_RECONSTRUCTED"	4	2	1	0	[{"slots":"1275290-1275291","type":"cons","glyphs_unicode":["ט","ו"],"rec":1},{"slots":"1275292","type":"cons","glyphs_unicode":["ב"],"unc":4},{"slots":"1275293","type":"cons","glyphs_unicode":["ה"]}]
+2056964	"ב"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275294","type":"cons","glyphs_unicode":["ב"]}]
+2056965	"כול"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275295-1275297","type":"cons","glyphs_unicode":["כ","ו","ל"]}]
+2056966	"עמל׳ו"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1275298-1275300","type":"cons","glyphs_unicode":["ע","מ","ל"]},{"slots":"1275301","type":"sep","glyphs_unicode":["׳"]},{"slots":"1275302","type":"cons","glyphs_unicode":["ו"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275303,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1i","line":"7","line_node":1601770,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2056966,"next_word":null}
+
+### Eccl 5:17 | 4Q109 | fragment f1i | line 8
+Record: L1601771-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1i; line=8; line_node=1601771
+Source locator: {"book":"Eccl","chapter":"5","verse":"17","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":12,"sign_slots":34,"letter_slots":30,"reconstructed_letter_slots":22,"uncertain_letter_slots":5,"unmarked_letter_slots":3,"reconstructed_sign_slots":23,"uncertain_sign_slots":5,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"2":2,"4":1,"3":2},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2056967-2056978
+Unicode: [ שיעמל תחת השמש מספר ימי חי׳ו  ]א#שר## נ(# ת #)ן#? ל׳ו#? ׃ 
+Source: ]Cyoml tjt hCmC mspr ymy jy/w [a«Cr| n»t«N» l/w» . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2056967	"[ ש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275304","type":"cons","glyphs_unicode":["ש"],"rec":1}]
+2056968	"יעמל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275305-1275308","type":"cons","glyphs_unicode":["י","ע","מ","ל"],"rec":1}]
+2056969	"תחת"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275309-1275311","type":"cons","glyphs_unicode":["ת","ח","ת"],"rec":1}]
+2056970	"ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275312","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2056971	"שמש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275313-1275315","type":"cons","glyphs_unicode":["ש","מ","ש"],"rec":1}]
+2056972	"מספר"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275316-1275319","type":"cons","glyphs_unicode":["מ","ס","פ","ר"],"rec":1}]
+2056973	"ימי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275320-1275322","type":"cons","glyphs_unicode":["י","מ","י"],"rec":1}]
+2056974	"חי׳ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275323-1275324","type":"cons","glyphs_unicode":["ח","י"],"rec":1},{"slots":"1275325","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1275326","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2056975	" ]א#שר##"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	2	0	[{"slots":"1275327","type":"cons","glyphs_unicode":["א"],"unc":2},{"slots":"1275328","type":"cons","glyphs_unicode":["ש"]},{"slots":"1275329","type":"cons","glyphs_unicode":["ר"],"unc":4}]
+2056976	"נ(# ת #)ן#?"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	2	0	[{"slots":"1275330","type":"cons","glyphs_unicode":["נ"]},{"slots":"1275331","type":"cons","glyphs_unicode":["ת"],"unc":2},{"slots":"1275332","type":"cons","glyphs_unicode":["ן"],"unc":3}]
+2056977	"ל׳ו#?"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	1	0	[{"slots":"1275333","type":"cons","glyphs_unicode":["ל"]},{"slots":"1275334","type":"sep","glyphs_unicode":["׳"]},{"slots":"1275335","type":"cons","glyphs_unicode":["ו"],"unc":3}]
+2056978	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275336","type":"empty","glyphs_unicode":[""]},{"slots":"1275337","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275338,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1i","line":"8","line_node":1601771,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2056978,"next_word":null}
+
+### Eccl 6:1 | 4Q109 | fragment f2 | line 1
+Record: L1601772-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f2; line=1; line_node=1601772
+Source locator: {"book":"Eccl","chapter":"6","verse":"1","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":12,"sign_slots":29,"letter_slots":25,"reconstructed_letter_slots":21,"uncertain_letter_slots":2,"unmarked_letter_slots":2,"reconstructed_sign_slots":23,"uncertain_sign_slots":2,"missing_sign_slots":1,"empty_sign_slots":2,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"2":1,"4":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2056979-2056990
+Unicode: [ ראיתי תחת השמש ורבה הי ]א על# ה##[ אדם ε ׃ 
+Source: ]rayty tjt hCmC wrbh hy[a ol« h|]adM -- . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2056979	"[ ראיתי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1275339-1275343","type":"cons","glyphs_unicode":["ר","א","י","ת","י"],"rec":1}]
+2056980	"תחת"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275344-1275346","type":"cons","glyphs_unicode":["ת","ח","ת"],"rec":1}]
+2056981	"ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275347","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2056982	"שמש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275348-1275350","type":"cons","glyphs_unicode":["ש","מ","ש"],"rec":1}]
+2056983	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275351","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2056984	"רבה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275352-1275354","type":"cons","glyphs_unicode":["ר","ב","ה"],"rec":1}]
+2056985	"הי ]א"	"PARTLY_RECONSTRUCTED"	3	2	0	0	[{"slots":"1275355-1275356","type":"cons","glyphs_unicode":["ה","י"],"rec":1},{"slots":"1275357","type":"cons","glyphs_unicode":["א"]}]
+2056986	"על#"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	1	0	[{"slots":"1275358","type":"cons","glyphs_unicode":["ע"]},{"slots":"1275359","type":"cons","glyphs_unicode":["ל"],"unc":2}]
+2056987	"ה##"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	1	0	[{"slots":"1275360","type":"cons","glyphs_unicode":["ה"],"unc":4}]
+2056988	"[ אדם"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275361-1275363","type":"cons","glyphs_unicode":["א","ד","ם"],"rec":1}]
+2056989	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1275364","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1275365","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2056990	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275366","type":"empty","glyphs_unicode":[""]},{"slots":"1275367","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275368,"scroll":"4Q109","scroll_node":1606776,"fragment":"f2","line":"1","line_node":1601772,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2056990,"next_word":null}
+
+### Eccl 6:3 | 4Q109 | fragment f1ii+3_6i | line 1
+Record: L1601773-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=1; line_node=1601773
+Source locator: {"book":"Eccl","chapter":"6","verse":"3","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":6,"sign_slots":19,"letter_slots":16,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":16,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2056991-2056996
+Unicode: אמרתי טוב הנפל ממ׳נו ׃ 
+Source: amrty fwb hnpl mm/nw . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2056991	"אמרתי"	"NO_LETTER_RECONSTRUCTION_MARKED"	5	0	0	0	[{"slots":"1275369-1275373","type":"cons","glyphs_unicode":["א","מ","ר","ת","י"]}]
+2056992	"טוב"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275374-1275376","type":"cons","glyphs_unicode":["ט","ו","ב"]}]
+2056993	"ה"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275377","type":"cons","glyphs_unicode":["ה"]}]
+2056994	"נפל"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275378-1275380","type":"cons","glyphs_unicode":["נ","פ","ל"]}]
+2056995	"ממ׳נו"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1275381-1275382","type":"cons","glyphs_unicode":["מ","מ"]},{"slots":"1275383","type":"sep","glyphs_unicode":["׳"]},{"slots":"1275384-1275385","type":"cons","glyphs_unicode":["נ","ו"]}]
+2056996	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275386","type":"empty","glyphs_unicode":[""]},{"slots":"1275387","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+
+### Eccl 6:4 | 4Q109 | fragment f1ii+3_6i | line 1
+Record: L1601773-R002
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=1; line_node=1601773
+Source locator: {"book":"Eccl","chapter":"6","verse":"4","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":12,"sign_slots":28,"letter_slots":26,"reconstructed_letter_slots":0,"uncertain_letter_slots":1,"unmarked_letter_slots":13,"reconstructed_sign_slots":0,"uncertain_sign_slots":1,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":13,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"2":1},"correction_levels":{"2":13},"removal_levels":{}}
+Word nodes: 2056997-2057008
+Unicode: כי בהבל ב׳ה ובח#ושך (<< הלך ובחושך שמ׳ו >>) 
+Source: ky bhbl b/h wbj«wCK >>hlK wbjwCK Cm/w<< 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2056997	"כי"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1275388-1275389","type":"cons","glyphs_unicode":["כ","י"]}]
+2056998	"ב"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275390","type":"cons","glyphs_unicode":["ב"]}]
+2056999	"הבל"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275391-1275393","type":"cons","glyphs_unicode":["ה","ב","ל"]}]
+2057000	"ב׳ה"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1275394","type":"cons","glyphs_unicode":["ב"]},{"slots":"1275395","type":"sep","glyphs_unicode":["׳"]},{"slots":"1275396","type":"cons","glyphs_unicode":["ה"]}]
+2057001	"ו"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275397","type":"cons","glyphs_unicode":["ו"]}]
+2057002	"ב"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275398","type":"cons","glyphs_unicode":["ב"]}]
+2057003	"ח#ושך"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	1	0	[{"slots":"1275399","type":"cons","glyphs_unicode":["ח"],"unc":2},{"slots":"1275400-1275402","type":"cons","glyphs_unicode":["ו","ש","ך"]}]
+2057004	"(<< הלך"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275403-1275405","type":"cons","glyphs_unicode":["ה","ל","ך"],"cor":2}]
+2057005	"ו"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275406","type":"cons","glyphs_unicode":["ו"],"cor":2}]
+2057006	"ב"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275407","type":"cons","glyphs_unicode":["ב"],"cor":2}]
+2057007	"חושך"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1275408-1275411","type":"cons","glyphs_unicode":["ח","ו","ש","ך"],"cor":2}]
+2057008	"שמ׳ו >>)"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275412-1275413","type":"cons","glyphs_unicode":["ש","מ"],"cor":2},{"slots":"1275414","type":"sep","glyphs_unicode":["׳"],"cor":2},{"slots":"1275415","type":"cons","glyphs_unicode":["ו"],"cor":2}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275416,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1ii+3_6i","line":"1","line_node":1601773,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057008,"next_word":null}
+
+### Eccl 6:4 | 4Q109 | fragment f1ii+3_6i | line 2
+Record: L1601774-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=2; line_node=1601774
+Source locator: {"book":"Eccl","chapter":"6","verse":"4","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":3,"sign_slots":10,"letter_slots":7,"reconstructed_letter_slots":0,"uncertain_letter_slots":3,"unmarked_letter_slots":4,"reconstructed_sign_slots":0,"uncertain_sign_slots":3,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":4,"alternative_sign_slots":0,"uncertainty_levels":{"2":1,"4":1,"1":1},"correction_levels":{},"removal_levels":{"2":4}}
+Word nodes: 2057009-2057011
+Unicode: {{ ש#מ##׳ו? }} יכסה ׃ 
+Source: }}C«m|/wØ{{ yksh . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057009	"{{ ש#מ##׳ו? }}"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	3	0	[{"slots":"1275417","type":"cons","glyphs_unicode":["ש"],"rem":2,"unc":2},{"slots":"1275418","type":"cons","glyphs_unicode":["מ"],"rem":2,"unc":4},{"slots":"1275419","type":"sep","glyphs_unicode":["׳"],"rem":2},{"slots":"1275420","type":"cons","glyphs_unicode":["ו"],"rem":2,"unc":1}]
+2057010	"יכסה"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1275421-1275424","type":"cons","glyphs_unicode":["י","כ","ס","ה"]}]
+2057011	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275425","type":"empty","glyphs_unicode":[""]},{"slots":"1275426","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+
+### Eccl 6:5 | 4Q109 | fragment f1ii+3_6i | line 2
+Record: L1601774-R002
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=2; line_node=1601774
+Source locator: {"book":"Eccl","chapter":"6","verse":"5","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":10,"sign_slots":25,"letter_slots":25,"reconstructed_letter_slots":0,"uncertain_letter_slots":1,"unmarked_letter_slots":24,"reconstructed_sign_slots":0,"uncertain_sign_slots":1,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"3":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057012-2057021
+Unicode: גם שמש לוא ראה ו#?לוא ידע נוחת לזה 
+Source: gM CmC lwa rah w»lwa ydo nwjt lzh 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057012	"גם"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1275427-1275428","type":"cons","glyphs_unicode":["ג","ם"]}]
+2057013	"שמש"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275429-1275431","type":"cons","glyphs_unicode":["ש","מ","ש"]}]
+2057014	"לוא"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275432-1275434","type":"cons","glyphs_unicode":["ל","ו","א"]}]
+2057015	"ראה"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275435-1275437","type":"cons","glyphs_unicode":["ר","א","ה"]}]
+2057016	"ו#?"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	1	0	[{"slots":"1275438","type":"cons","glyphs_unicode":["ו"],"unc":3}]
+2057017	"לוא"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275439-1275441","type":"cons","glyphs_unicode":["ל","ו","א"]}]
+2057018	"ידע"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275442-1275444","type":"cons","glyphs_unicode":["י","ד","ע"]}]
+2057019	"נוחת"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1275445-1275448","type":"cons","glyphs_unicode":["נ","ו","ח","ת"]}]
+2057020	"ל"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275449","type":"cons","glyphs_unicode":["ל"]}]
+2057021	"זה"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1275450-1275451","type":"cons","glyphs_unicode":["ז","ה"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275452,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1ii+3_6i","line":"2","line_node":1601774,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057021,"next_word":null}
+
+### Eccl 6:5 | 4Q109 | fragment f1ii+3_6i | line 3
+Record: L1601775-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=3; line_node=1601775
+Source locator: {"book":"Eccl","chapter":"6","verse":"5","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":3,"sign_slots":5,"letter_slots":3,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":3,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057022-2057024
+Unicode: מזה ׃ 
+Source: mzh . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057022	"מ"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275453","type":"cons","glyphs_unicode":["מ"]}]
+2057023	"זה"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1275454-1275455","type":"cons","glyphs_unicode":["ז","ה"]}]
+2057024	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275456","type":"empty","glyphs_unicode":[""]},{"slots":"1275457","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+
+### Eccl 6:6 | 4Q109 | fragment f1ii+3_6i | line 3
+Record: L1601775-R002
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=3; line_node=1601775
+Source locator: {"book":"Eccl","chapter":"6","verse":"6","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":9,"sign_slots":26,"letter_slots":26,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":26,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057025-2057033
+Unicode: ואם לוא חיה אלף שנים פעמים וטובה 
+Source: waM lwa jyh alP CnyM pomyM wfwbh 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057025	"ו"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275458","type":"cons","glyphs_unicode":["ו"]}]
+2057026	"אם"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1275459-1275460","type":"cons","glyphs_unicode":["א","ם"]}]
+2057027	"לוא"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275461-1275463","type":"cons","glyphs_unicode":["ל","ו","א"]}]
+2057028	"חיה"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275464-1275466","type":"cons","glyphs_unicode":["ח","י","ה"]}]
+2057029	"אלף"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275467-1275469","type":"cons","glyphs_unicode":["א","ל","ף"]}]
+2057030	"שנים"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1275470-1275473","type":"cons","glyphs_unicode":["ש","נ","י","ם"]}]
+2057031	"פעמים"	"NO_LETTER_RECONSTRUCTION_MARKED"	5	0	0	0	[{"slots":"1275474-1275478","type":"cons","glyphs_unicode":["פ","ע","מ","י","ם"]}]
+2057032	"ו"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275479","type":"cons","glyphs_unicode":["ו"]}]
+2057033	"טובה"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1275480-1275483","type":"cons","glyphs_unicode":["ט","ו","ב","ה"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275484,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1ii+3_6i","line":"3","line_node":1601775,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057033,"next_word":null}
+
+### Eccl 6:6 | 4Q109 | fragment f1ii+3_6i | line 4
+Record: L1601776-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=4; line_node=1601776
+Source locator: {"book":"Eccl","chapter":"6","verse":"6","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":11,"sign_slots":29,"letter_slots":27,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":27,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057034-2057044
+Unicode: לוא ראה הלוא אל מקום אחד הכול הולך ׃ 
+Source: lwa rah hlwa al mqwM ajd hkwl hwlK . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057034	"לוא"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275485-1275487","type":"cons","glyphs_unicode":["ל","ו","א"]}]
+2057035	"ראה"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275488-1275490","type":"cons","glyphs_unicode":["ר","א","ה"]}]
+2057036	"ה"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275491","type":"cons","glyphs_unicode":["ה"]}]
+2057037	"לוא"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275492-1275494","type":"cons","glyphs_unicode":["ל","ו","א"]}]
+2057038	"אל"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1275495-1275496","type":"cons","glyphs_unicode":["א","ל"]}]
+2057039	"מקום"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1275497-1275500","type":"cons","glyphs_unicode":["מ","ק","ו","ם"]}]
+2057040	"אחד"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275501-1275503","type":"cons","glyphs_unicode":["א","ח","ד"]}]
+2057041	"ה"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275504","type":"cons","glyphs_unicode":["ה"]}]
+2057042	"כול"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275505-1275507","type":"cons","glyphs_unicode":["כ","ו","ל"]}]
+2057043	"הולך"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1275508-1275511","type":"cons","glyphs_unicode":["ה","ו","ל","ך"]}]
+2057044	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275512","type":"empty","glyphs_unicode":[""]},{"slots":"1275513","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+
+### Eccl 6:7 | 4Q109 | fragment f1ii+3_6i | line 4
+Record: L1601776-R002
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=4; line_node=1601776
+Source locator: {"book":"Eccl","chapter":"6","verse":"7","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":1,"sign_slots":3,"letter_slots":3,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":3,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057045
+Unicode: כול 
+Source: kwl 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057045	"כול"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275514-1275516","type":"cons","glyphs_unicode":["כ","ו","ל"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275517,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1ii+3_6i","line":"4","line_node":1601776,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057045,"next_word":null}
+
+### Eccl 6:7 | 4Q109 | fragment f1ii+3_6i | line 5
+Record: L1601777-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=5; line_node=1601777
+Source locator: {"book":"Eccl","chapter":"6","verse":"7","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":12,"sign_slots":29,"letter_slots":26,"reconstructed_letter_slots":1,"uncertain_letter_slots":4,"unmarked_letter_slots":21,"reconstructed_sign_slots":1,"uncertain_sign_slots":4,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"1":1,"2":2,"4":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057046-2057057
+Unicode: עמל האדם לפי׳הו וגם הנ?פ#ש לוא ת#מל##[ א ] ׃ 
+Source: oml hadM lpy/hw wgM hnØp«C lwa t«ml|]a[ . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057046	"עמל"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275518-1275520","type":"cons","glyphs_unicode":["ע","מ","ל"]}]
+2057047	"ה"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275521","type":"cons","glyphs_unicode":["ה"]}]
+2057048	"אדם"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275522-1275524","type":"cons","glyphs_unicode":["א","ד","ם"]}]
+2057049	"ל"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275525","type":"cons","glyphs_unicode":["ל"]}]
+2057050	"פי׳הו"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1275526-1275527","type":"cons","glyphs_unicode":["פ","י"]},{"slots":"1275528","type":"sep","glyphs_unicode":["׳"]},{"slots":"1275529-1275530","type":"cons","glyphs_unicode":["ה","ו"]}]
+2057051	"ו"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275531","type":"cons","glyphs_unicode":["ו"]}]
+2057052	"גם"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1275532-1275533","type":"cons","glyphs_unicode":["ג","ם"]}]
+2057053	"ה"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275534","type":"cons","glyphs_unicode":["ה"]}]
+2057054	"נ?פ#ש"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	2	0	[{"slots":"1275535","type":"cons","glyphs_unicode":["נ"],"unc":1},{"slots":"1275536","type":"cons","glyphs_unicode":["פ"],"unc":2},{"slots":"1275537","type":"cons","glyphs_unicode":["ש"]}]
+2057055	"לוא"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275538-1275540","type":"cons","glyphs_unicode":["ל","ו","א"]}]
+2057056	"ת#מל##[ א ]"	"PARTLY_RECONSTRUCTED"	4	1	2	0	[{"slots":"1275541","type":"cons","glyphs_unicode":["ת"],"unc":2},{"slots":"1275542","type":"cons","glyphs_unicode":["מ"]},{"slots":"1275543","type":"cons","glyphs_unicode":["ל"],"unc":4},{"slots":"1275544","type":"cons","glyphs_unicode":["א"],"rec":1}]
+2057057	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275545","type":"empty","glyphs_unicode":[""]},{"slots":"1275546","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275547,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1ii+3_6i","line":"5","line_node":1601777,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057057,"next_word":null}
+
+### Eccl 6:8 | 4Q109 | fragment f1ii+3_6i | line 6
+Record: L1601778-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=6; line_node=1601778
+Source locator: {"book":"Eccl","chapter":"6","verse":"8","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":12,"sign_slots":28,"letter_slots":28,"reconstructed_letter_slots":15,"uncertain_letter_slots":1,"unmarked_letter_slots":12,"reconstructed_sign_slots":15,"uncertain_sign_slots":1,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"3":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057058-2057069
+Unicode: כמה יותר לחכם מן#?[  הכסיל מה לעני יודע ] 
+Source: kmh ywtr ljkM mN»] hksyl mh lony ywdo[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057058	"כ"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275548","type":"cons","glyphs_unicode":["כ"]}]
+2057059	"מה"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1275549-1275550","type":"cons","glyphs_unicode":["מ","ה"]}]
+2057060	"יותר"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1275551-1275554","type":"cons","glyphs_unicode":["י","ו","ת","ר"]}]
+2057061	"ל"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275555","type":"cons","glyphs_unicode":["ל"]}]
+2057062	"חכם"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275556-1275558","type":"cons","glyphs_unicode":["ח","כ","ם"]}]
+2057063	"מן#?[ "	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	1	0	[{"slots":"1275559","type":"cons","glyphs_unicode":["מ"]},{"slots":"1275560","type":"cons","glyphs_unicode":["ן"],"unc":3}]
+2057064	"ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275561","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2057065	"כסיל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275562-1275565","type":"cons","glyphs_unicode":["כ","ס","י","ל"],"rec":1}]
+2057066	"מה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1275566-1275567","type":"cons","glyphs_unicode":["מ","ה"],"rec":1}]
+2057067	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275568","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2057068	"עני"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275569-1275571","type":"cons","glyphs_unicode":["ע","נ","י"],"rec":1}]
+2057069	"יודע ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275572-1275575","type":"cons","glyphs_unicode":["י","ו","ד","ע"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275576,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1ii+3_6i","line":"6","line_node":1601778,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057069,"next_word":null}
+
+### Eccl 6:8 | 4Q109 | fragment f1ii+3_6i | line 7
+Record: L1601779-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=7; line_node=1601779
+Source locator: {"book":"Eccl","chapter":"6","verse":"8","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":6,"sign_slots":16,"letter_slots":7,"reconstructed_letter_slots":5,"uncertain_letter_slots":1,"unmarked_letter_slots":1,"reconstructed_sign_slots":7,"uncertain_sign_slots":6,"missing_sign_slots":1,"empty_sign_slots":2,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"2":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057070-2057075
+Unicode:  #  # ל #  #   # ל#[  החיים ε ׃ 
+Source: \\l\\ \l«] hjyyM -- . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057070	" #  # ל #  # "	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275577-1275578","type":"unc","glyphs_unicode":[" # "," # "]},{"slots":"1275579","type":"cons","glyphs_unicode":["ל"]},{"slots":"1275580-1275581","type":"unc","glyphs_unicode":[" # "," # "]}]
+2057071	" # ל#[ "	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	1	0	[{"slots":"1275582","type":"unc","glyphs_unicode":[" # "]},{"slots":"1275583","type":"cons","glyphs_unicode":["ל"],"unc":2}]
+2057072	"ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275584","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2057073	"חיים"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275585-1275588","type":"cons","glyphs_unicode":["ח","י","י","ם"],"rec":1}]
+2057074	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1275589","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1275590","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2057075	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275591","type":"empty","glyphs_unicode":[""]},{"slots":"1275592","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275593,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1ii+3_6i","line":"7","line_node":1601779,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057075,"next_word":null}
+
+### Eccl 6:12 | 4Q109 | fragment f1ii+3_6i | line 11
+Record: L1601780-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=11; line_node=1601780
+Source locator: {"book":"Eccl","chapter":"6","verse":"12","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: ALL_LETTER_SLOTS_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":8,"sign_slots":19,"letter_slots":17,"reconstructed_letter_slots":17,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":19,"uncertain_sign_slots":0,"missing_sign_slots":1,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057076-2057083
+Unicode: ε כי מי יודע מה טוב לאדם ] 
+Source: -- ky my ywdo mh fwb ladM[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057076	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1275594","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1275595","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2057077	"כי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1275596-1275597","type":"cons","glyphs_unicode":["כ","י"],"rec":1}]
+2057078	"מי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1275598-1275599","type":"cons","glyphs_unicode":["מ","י"],"rec":1}]
+2057079	"יודע"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275600-1275603","type":"cons","glyphs_unicode":["י","ו","ד","ע"],"rec":1}]
+2057080	"מה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1275604-1275605","type":"cons","glyphs_unicode":["מ","ה"],"rec":1}]
+2057081	"טוב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275606-1275608","type":"cons","glyphs_unicode":["ט","ו","ב"],"rec":1}]
+2057082	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275609","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2057083	"אדם ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275610-1275612","type":"cons","glyphs_unicode":["א","ד","ם"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275613,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1ii+3_6i","line":"11","line_node":1601780,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057083,"next_word":null}
+
+### Eccl 6:12 | 4Q109 | fragment f1ii+3_6i | line 12
+Record: L1601781-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=12; line_node=1601781
+Source locator: {"book":"Eccl","chapter":"6","verse":"12","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":7,"sign_slots":21,"letter_slots":15,"reconstructed_letter_slots":11,"uncertain_letter_slots":4,"unmarked_letter_slots":0,"reconstructed_sign_slots":15,"uncertain_sign_slots":5,"missing_sign_slots":1,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"2":1,"4":1,"1":1,"3":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057084-2057090
+Unicode: [ בחיים ε  ] # [    ]ש#׳ם## י?ג#?[ יד לאדם ] 
+Source: ]bjyyM -- [\]  [C«/M| yØg»]yd ladM[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057084	"[ ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275614","type":"cons","glyphs_unicode":["ב"],"rec":1}]
+2057085	"חיים"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275615-1275618","type":"cons","glyphs_unicode":["ח","י","י","ם"],"rec":1}]
+2057086	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1275619","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1275620","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2057087	" ] # [    ]ש#׳ם##"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	2	0	[{"slots":"1275621","type":"unc","glyphs_unicode":[" # "]},{"slots":"1275622-1275623","type":"sep","glyphs_unicode":[" "," "],"rec":1},{"slots":"1275624","type":"cons","glyphs_unicode":["ש"],"unc":2},{"slots":"1275625","type":"sep","glyphs_unicode":["׳"]},{"slots":"1275626","type":"cons","glyphs_unicode":["ם"],"unc":4}]
+2057088	"י?ג#?[ יד"	"PARTLY_RECONSTRUCTED"	4	2	2	0	[{"slots":"1275627","type":"cons","glyphs_unicode":["י"],"unc":1},{"slots":"1275628","type":"cons","glyphs_unicode":["ג"],"unc":3},{"slots":"1275629-1275630","type":"cons","glyphs_unicode":["י","ד"],"rec":1}]
+2057089	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275631","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2057090	"אדם ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275632-1275634","type":"cons","glyphs_unicode":["א","ד","ם"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275635,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1ii+3_6i","line":"12","line_node":1601781,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057090,"next_word":null}
+
+### Eccl 6:12 | 4Q109 | fragment f1ii+3_6i | line 13
+Record: L1601782-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=13; line_node=1601782
+Source locator: {"book":"Eccl","chapter":"6","verse":"12","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":7,"sign_slots":21,"letter_slots":18,"reconstructed_letter_slots":17,"uncertain_letter_slots":0,"unmarked_letter_slots":1,"reconstructed_sign_slots":18,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057091-2057097
+Unicode: [ מה יהיה אחרי׳ו תחת השמ ]ש ׃ 
+Source: ]mh yhyh ajry/w tjt hCm[C . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057091	"[ מה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1275636-1275637","type":"cons","glyphs_unicode":["מ","ה"],"rec":1}]
+2057092	"יהיה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275638-1275641","type":"cons","glyphs_unicode":["י","ה","י","ה"],"rec":1}]
+2057093	"אחרי׳ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1275642-1275645","type":"cons","glyphs_unicode":["א","ח","ר","י"],"rec":1},{"slots":"1275646","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1275647","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2057094	"תחת"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275648-1275650","type":"cons","glyphs_unicode":["ת","ח","ת"],"rec":1}]
+2057095	"ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275651","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2057096	"שמ ]ש"	"PARTLY_RECONSTRUCTED"	3	2	0	0	[{"slots":"1275652-1275653","type":"cons","glyphs_unicode":["ש","מ"],"rec":1},{"slots":"1275654","type":"cons","glyphs_unicode":["ש"]}]
+2057097	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275655","type":"empty","glyphs_unicode":[""]},{"slots":"1275656","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+
+### Eccl 7:1 | 4Q109 | fragment f1ii+3_6i | line 13
+Record: L1601782-R002
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=13; line_node=1601782
+Source locator: {"book":"Eccl","chapter":"7","verse":"1","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":3,"sign_slots":10,"letter_slots":6,"reconstructed_letter_slots":0,"uncertain_letter_slots":1,"unmarked_letter_slots":5,"reconstructed_sign_slots":2,"uncertain_sign_slots":3,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"1":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057098-2057100
+Unicode: טוב שם  # [    ] # ן? 
+Source: fwb CM \]  [\NØ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057098	"טוב"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275657-1275659","type":"cons","glyphs_unicode":["ט","ו","ב"]}]
+2057099	"שם"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1275660-1275661","type":"cons","glyphs_unicode":["ש","ם"]}]
+2057100	" # [    ] # ן?"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	1	0	[{"slots":"1275662","type":"unc","glyphs_unicode":[" # "]},{"slots":"1275663-1275664","type":"sep","glyphs_unicode":[" "," "],"rec":1},{"slots":"1275665","type":"unc","glyphs_unicode":[" # "]},{"slots":"1275666","type":"cons","glyphs_unicode":["ן"],"unc":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275667,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1ii+3_6i","line":"13","line_node":1601782,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057100,"next_word":null}
+
+### Eccl 7:1 | 4Q109 | fragment f1ii+3_6i | line 14
+Record: L1601783-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=14; line_node=1601783
+Source locator: {"book":"Eccl","chapter":"7","verse":"1","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":9,"sign_slots":23,"letter_slots":20,"reconstructed_letter_slots":17,"uncertain_letter_slots":3,"unmarked_letter_slots":0,"reconstructed_sign_slots":17,"uncertain_sign_slots":3,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"2":1,"4":1,"3":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057101-2057109
+Unicode: [ טוב ויום המות מיום הו ]ל#ד##׳ו#? ׃ 
+Source: ]fwb wywM hmwt mywM hw[l«d|/w» . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057101	"[ טוב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275668-1275670","type":"cons","glyphs_unicode":["ט","ו","ב"],"rec":1}]
+2057102	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275671","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2057103	"יום"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275672-1275674","type":"cons","glyphs_unicode":["י","ו","ם"],"rec":1}]
+2057104	"ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275675","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2057105	"מות"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275676-1275678","type":"cons","glyphs_unicode":["מ","ו","ת"],"rec":1}]
+2057106	"מ"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275679","type":"cons","glyphs_unicode":["מ"],"rec":1}]
+2057107	"יום"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275680-1275682","type":"cons","glyphs_unicode":["י","ו","ם"],"rec":1}]
+2057108	"הו ]ל#ד##׳ו#?"	"PARTLY_RECONSTRUCTED"	5	2	3	0	[{"slots":"1275683-1275684","type":"cons","glyphs_unicode":["ה","ו"],"rec":1},{"slots":"1275685","type":"cons","glyphs_unicode":["ל"],"unc":2},{"slots":"1275686","type":"cons","glyphs_unicode":["ד"],"unc":4},{"slots":"1275687","type":"sep","glyphs_unicode":["׳"]},{"slots":"1275688","type":"cons","glyphs_unicode":["ו"],"unc":3}]
+2057109	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275689","type":"empty","glyphs_unicode":[""]},{"slots":"1275690","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+
+### Eccl 7:2 | 4Q109 | fragment f1ii+3_6i | line 14
+Record: L1601783-R002
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=14; line_node=1601783
+Source locator: {"book":"Eccl","chapter":"7","verse":"2","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":5,"sign_slots":12,"letter_slots":12,"reconstructed_letter_slots":0,"uncertain_letter_slots":1,"unmarked_letter_slots":11,"reconstructed_sign_slots":0,"uncertain_sign_slots":1,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057110-2057114
+Unicode: ט##וב ללכת אל בית 
+Source: f|wb llkt al byt 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057110	"ט##וב"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	1	0	[{"slots":"1275691","type":"cons","glyphs_unicode":["ט"],"unc":4},{"slots":"1275692-1275693","type":"cons","glyphs_unicode":["ו","ב"]}]
+2057111	"ל"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275694","type":"cons","glyphs_unicode":["ל"]}]
+2057112	"לכת"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275695-1275697","type":"cons","glyphs_unicode":["ל","כ","ת"]}]
+2057113	"אל"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1275698-1275699","type":"cons","glyphs_unicode":["א","ל"]}]
+2057114	"בית"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275700-1275702","type":"cons","glyphs_unicode":["ב","י","ת"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275703,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1ii+3_6i","line":"14","line_node":1601783,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057114,"next_word":null}
+
+### Eccl 7:2 | 4Q109 | fragment f1ii+3_6i | line 15
+Record: L1601784-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=15; line_node=1601784
+Source locator: {"book":"Eccl","chapter":"7","verse":"2","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":11,"sign_slots":30,"letter_slots":30,"reconstructed_letter_slots":18,"uncertain_letter_slots":2,"unmarked_letter_slots":10,"reconstructed_sign_slots":18,"uncertain_sign_slots":2,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"3":1,"2":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057115-2057125
+Unicode: [ אבל מלכת אל בית ש ]מחה[  באשר ה ]ו#?אה כול סוף# 
+Source: ]abl mlkt al byt C[mjh] baCr h[w»ah kwl swP« 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057115	"[ אבל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275704-1275706","type":"cons","glyphs_unicode":["א","ב","ל"],"rec":1}]
+2057116	"מ"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275707","type":"cons","glyphs_unicode":["מ"],"rec":1}]
+2057117	"לכת"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275708-1275710","type":"cons","glyphs_unicode":["ל","כ","ת"],"rec":1}]
+2057118	"אל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1275711-1275712","type":"cons","glyphs_unicode":["א","ל"],"rec":1}]
+2057119	"בית"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275713-1275715","type":"cons","glyphs_unicode":["ב","י","ת"],"rec":1}]
+2057120	"ש ]מחה[ "	"PARTLY_RECONSTRUCTED"	4	1	0	0	[{"slots":"1275716","type":"cons","glyphs_unicode":["ש"],"rec":1},{"slots":"1275717-1275719","type":"cons","glyphs_unicode":["מ","ח","ה"]}]
+2057121	"ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275720","type":"cons","glyphs_unicode":["ב"],"rec":1}]
+2057122	"אשר"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275721-1275723","type":"cons","glyphs_unicode":["א","ש","ר"],"rec":1}]
+2057123	"ה ]ו#?אה"	"PARTLY_RECONSTRUCTED"	4	1	1	0	[{"slots":"1275724","type":"cons","glyphs_unicode":["ה"],"rec":1},{"slots":"1275725","type":"cons","glyphs_unicode":["ו"],"unc":3},{"slots":"1275726-1275727","type":"cons","glyphs_unicode":["א","ה"]}]
+2057124	"כול"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275728-1275730","type":"cons","glyphs_unicode":["כ","ו","ל"]}]
+2057125	"סוף#"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	1	0	[{"slots":"1275731-1275732","type":"cons","glyphs_unicode":["ס","ו"]},{"slots":"1275733","type":"cons","glyphs_unicode":["ף"],"unc":2}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275734,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1ii+3_6i","line":"15","line_node":1601784,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057125,"next_word":null}
+
+### Eccl 7:2 | 4Q109 | fragment f1ii+3_6i | line 16
+Record: L1601785-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=16; line_node=1601785
+Source locator: {"book":"Eccl","chapter":"7","verse":"2","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":9,"sign_slots":19,"letter_slots":14,"reconstructed_letter_slots":10,"uncertain_letter_slots":0,"unmarked_letter_slots":4,"reconstructed_sign_slots":10,"uncertain_sign_slots":2,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057126-2057134
+Unicode: [ האדם והחי ית ] #  # ל לב׳ו ׃ 
+Source: ]hadM whjy yt[\\l lb/w . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057126	"[ ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275735","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2057127	"אדם"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275736-1275738","type":"cons","glyphs_unicode":["א","ד","ם"],"rec":1}]
+2057128	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275739","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2057129	"ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275740","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2057130	"חי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1275741-1275742","type":"cons","glyphs_unicode":["ח","י"],"rec":1}]
+2057131	"ית ] # "	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1275743-1275744","type":"cons","glyphs_unicode":["י","ת"],"rec":1},{"slots":"1275745","type":"unc","glyphs_unicode":[" # "]}]
+2057132	" # ל"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275746","type":"unc","glyphs_unicode":[" # "]},{"slots":"1275747","type":"cons","glyphs_unicode":["ל"]}]
+2057133	"לב׳ו"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275748-1275749","type":"cons","glyphs_unicode":["ל","ב"]},{"slots":"1275750","type":"sep","glyphs_unicode":["׳"]},{"slots":"1275751","type":"cons","glyphs_unicode":["ו"]}]
+2057134	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275752","type":"empty","glyphs_unicode":[""]},{"slots":"1275753","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+
+### Eccl 7:3 | 4Q109 | fragment f1ii+3_6i | line 16
+Record: L1601785-R002
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=16; line_node=1601785
+Source locator: {"book":"Eccl","chapter":"7","verse":"3","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":4,"sign_slots":11,"letter_slots":11,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":11,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057135-2057138
+Unicode: טוב כעס משחוק 
+Source: fwb kos mCjwq 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057135	"טוב"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275754-1275756","type":"cons","glyphs_unicode":["ט","ו","ב"]}]
+2057136	"כעס"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275757-1275759","type":"cons","glyphs_unicode":["כ","ע","ס"]}]
+2057137	"מ"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275760","type":"cons","glyphs_unicode":["מ"]}]
+2057138	"שחוק"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1275761-1275764","type":"cons","glyphs_unicode":["ש","ח","ו","ק"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275765,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1ii+3_6i","line":"16","line_node":1601785,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057138,"next_word":null}
+
+### Eccl 7:3 | 4Q109 | fragment f1ii+3_6i | line 17
+Record: L1601786-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=17; line_node=1601786
+Source locator: {"book":"Eccl","chapter":"7","verse":"3","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":7,"sign_slots":17,"letter_slots":15,"reconstructed_letter_slots":11,"uncertain_letter_slots":0,"unmarked_letter_slots":4,"reconstructed_sign_slots":11,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057139-2057145
+Unicode: [ כי ברע פנים יי ]טבלב ׃ 
+Source: ]ky bro pnyM yy[fblb . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057139	"[ כי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1275766-1275767","type":"cons","glyphs_unicode":["כ","י"],"rec":1}]
+2057140	"ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275768","type":"cons","glyphs_unicode":["ב"],"rec":1}]
+2057141	"רע"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1275769-1275770","type":"cons","glyphs_unicode":["ר","ע"],"rec":1}]
+2057142	"פנים"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275771-1275774","type":"cons","glyphs_unicode":["פ","נ","י","ם"],"rec":1}]
+2057143	"יי ]טב"	"PARTLY_RECONSTRUCTED"	4	2	0	0	[{"slots":"1275775-1275776","type":"cons","glyphs_unicode":["י","י"],"rec":1},{"slots":"1275777-1275778","type":"cons","glyphs_unicode":["ט","ב"]}]
+2057144	"לב"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1275779-1275780","type":"cons","glyphs_unicode":["ל","ב"]}]
+2057145	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275781","type":"empty","glyphs_unicode":[""]},{"slots":"1275782","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+
+### Eccl 7:4 | 4Q109 | fragment f1ii+3_6i | line 17
+Record: L1601786-R002
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=17; line_node=1601786
+Source locator: {"book":"Eccl","chapter":"7","verse":"4","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":4,"sign_slots":13,"letter_slots":13,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":13,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057146-2057149
+Unicode: לב חכמים בית אבל 
+Source: lb jkmyM byt abl 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057146	"לב"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1275783-1275784","type":"cons","glyphs_unicode":["ל","ב"]}]
+2057147	"חכמים"	"NO_LETTER_RECONSTRUCTION_MARKED"	5	0	0	0	[{"slots":"1275785-1275789","type":"cons","glyphs_unicode":["ח","כ","מ","י","ם"]}]
+2057148	"בית"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275790-1275792","type":"cons","glyphs_unicode":["ב","י","ת"]}]
+2057149	"אבל"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275793-1275795","type":"cons","glyphs_unicode":["א","ב","ל"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275796,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1ii+3_6i","line":"17","line_node":1601786,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057149,"next_word":null}
+
+### Eccl 7:4 | 4Q109 | fragment f1ii+3_6i | line 18
+Record: L1601787-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=18; line_node=1601787
+Source locator: {"book":"Eccl","chapter":"7","verse":"4","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":7,"sign_slots":20,"letter_slots":16,"reconstructed_letter_slots":9,"uncertain_letter_slots":0,"unmarked_letter_slots":7,"reconstructed_sign_slots":10,"uncertain_sign_slots":1,"missing_sign_slots":0,"empty_sign_slots":2,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057150-2057156
+Unicode: [ ולב כסילים  ] # בית שמחה ׃ 
+Source: ]wlb ksylyM [\byt Cmjh . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057150	"[ ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275797","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2057151	"לב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1275798-1275799","type":"cons","glyphs_unicode":["ל","ב"],"rec":1}]
+2057152	"כסילים"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	6	6	0	0	[{"slots":"1275800-1275805","type":"cons","glyphs_unicode":["כ","ס","י","ל","י","ם"],"rec":1}]
+2057153	" ] # "	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275806","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1275807","type":"unc","glyphs_unicode":[" # "]}]
+2057154	"בית"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275808-1275810","type":"cons","glyphs_unicode":["ב","י","ת"]}]
+2057155	"שמחה"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1275811-1275814","type":"cons","glyphs_unicode":["ש","מ","ח","ה"]}]
+2057156	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275815","type":"empty","glyphs_unicode":[""]},{"slots":"1275816","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+
+### Eccl 7:5 | 4Q109 | fragment f1ii+3_6i | line 18
+Record: L1601787-R002
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=18; line_node=1601787
+Source locator: {"book":"Eccl","chapter":"7","verse":"5","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":4,"sign_slots":13,"letter_slots":13,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":13,"reconstructed_sign_slots":0,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057157-2057160
+Unicode: טוב לשמוע גערות 
+Source: fwb lCmwo gorwt 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057157	"טוב"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275817-1275819","type":"cons","glyphs_unicode":["ט","ו","ב"]}]
+2057158	"ל"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275820","type":"cons","glyphs_unicode":["ל"]}]
+2057159	"שמוע"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1275821-1275824","type":"cons","glyphs_unicode":["ש","מ","ו","ע"]}]
+2057160	"גערות"	"NO_LETTER_RECONSTRUCTION_MARKED"	5	0	0	0	[{"slots":"1275825-1275829","type":"cons","glyphs_unicode":["ג","ע","ר","ו","ת"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275830,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1ii+3_6i","line":"18","line_node":1601787,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057160,"next_word":null}
+
+### Eccl 7:5 | 4Q109 | fragment f1ii+3_6i | line 19
+Record: L1601788-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=19; line_node=1601788
+Source locator: {"book":"Eccl","chapter":"7","verse":"5","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":8,"sign_slots":27,"letter_slots":18,"reconstructed_letter_slots":4,"uncertain_letter_slots":2,"unmarked_letter_slots":11,"reconstructed_sign_slots":4,"uncertain_sign_slots":8,"missing_sign_slots":0,"empty_sign_slots":2,"vacat_sign_slots":0,"corrected_sign_slots":1,"removed_sign_slots":6,"alternative_sign_slots":0,"uncertainty_levels":{"2":2},"correction_levels":{"3":1},"removal_levels":{"2":6}}
+Word nodes: 2057161-2057168
+Unicode: [ חכם מ ]ל#(^ ש ^)מ#וע {{  #  #  #  #  #  #  }} שיר כסילים ׃ 
+Source: ]jkM m[l«^C^m«wo }}\\\\\\{{ Cyr ksylyM . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057161	"[ חכם"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275831-1275833","type":"cons","glyphs_unicode":["ח","כ","ם"],"rec":1}]
+2057162	"מ ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275834","type":"cons","glyphs_unicode":["מ"],"rec":1}]
+2057163	"ל#"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	1	0	[{"slots":"1275835","type":"cons","glyphs_unicode":["ל"],"unc":2}]
+2057164	"(^ ש ^)מ#וע"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	1	0	[{"slots":"1275836","type":"cons","glyphs_unicode":["ש"],"cor":3},{"slots":"1275837","type":"cons","glyphs_unicode":["מ"],"unc":2},{"slots":"1275838-1275839","type":"cons","glyphs_unicode":["ו","ע"]}]
+2057165	"{{  #  #  #  #  #  #  }}"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275840","type":"empty","glyphs_unicode":[""]},{"slots":"1275841-1275846","type":"unc","glyphs_unicode":[" # "," # "," # "," # "," # "," # "],"rem":2}]
+2057166	"שיר"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275847-1275849","type":"cons","glyphs_unicode":["ש","י","ר"]}]
+2057167	"כסילים"	"NO_LETTER_RECONSTRUCTION_MARKED"	6	0	0	0	[{"slots":"1275850-1275855","type":"cons","glyphs_unicode":["כ","ס","י","ל","י","ם"]}]
+2057168	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275856","type":"empty","glyphs_unicode":[""]},{"slots":"1275857","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+
+### Eccl 7:6 | 4Q109 | fragment f1ii+3_6i | line 19
+Record: L1601788-R002
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=19; line_node=1601788
+Source locator: {"book":"Eccl","chapter":"7","verse":"6","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":3,"sign_slots":6,"letter_slots":6,"reconstructed_letter_slots":0,"uncertain_letter_slots":1,"unmarked_letter_slots":5,"reconstructed_sign_slots":0,"uncertain_sign_slots":1,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"2":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057169-2057171
+Unicode: כי כ#קול 
+Source: ky k«qwl 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057169	"כי"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1275858-1275859","type":"cons","glyphs_unicode":["כ","י"]}]
+2057170	"כ#"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	1	0	[{"slots":"1275860","type":"cons","glyphs_unicode":["כ"],"unc":2}]
+2057171	"קול"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275861-1275863","type":"cons","glyphs_unicode":["ק","ו","ל"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275864,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1ii+3_6i","line":"19","line_node":1601788,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057171,"next_word":null}
+
+### Eccl 7:6 | 4Q109 | fragment f1ii+3_6i | line 20
+Record: L1601789-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=20; line_node=1601789
+Source locator: {"book":"Eccl","chapter":"7","verse":"6","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":11,"sign_slots":28,"letter_slots":28,"reconstructed_letter_slots":7,"uncertain_letter_slots":2,"unmarked_letter_slots":19,"reconstructed_sign_slots":7,"uncertain_sign_slots":2,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":1,"2":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057172-2057182
+Unicode: [ הסירים ת ]ח##ת הסיר כן שחוק ה#כסיל גם זה 
+Source: ]hsyryM t[j|t hsyr kN Cjwq h«ksyl gM zh 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057172	"[ ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275865","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2057173	"סירים"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1275866-1275870","type":"cons","glyphs_unicode":["ס","י","ר","י","ם"],"rec":1}]
+2057174	"ת ]ח##ת"	"PARTLY_RECONSTRUCTED"	3	1	1	0	[{"slots":"1275871","type":"cons","glyphs_unicode":["ת"],"rec":1},{"slots":"1275872","type":"cons","glyphs_unicode":["ח"],"unc":4},{"slots":"1275873","type":"cons","glyphs_unicode":["ת"]}]
+2057175	"ה"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275874","type":"cons","glyphs_unicode":["ה"]}]
+2057176	"סיר"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275875-1275877","type":"cons","glyphs_unicode":["ס","י","ר"]}]
+2057177	"כן"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1275878-1275879","type":"cons","glyphs_unicode":["כ","ן"]}]
+2057178	"שחוק"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1275880-1275883","type":"cons","glyphs_unicode":["ש","ח","ו","ק"]}]
+2057179	"ה#"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	1	0	[{"slots":"1275884","type":"cons","glyphs_unicode":["ה"],"unc":2}]
+2057180	"כסיל"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1275885-1275888","type":"cons","glyphs_unicode":["כ","ס","י","ל"]}]
+2057181	"גם"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1275889-1275890","type":"cons","glyphs_unicode":["ג","ם"]}]
+2057182	"זה"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1275891-1275892","type":"cons","glyphs_unicode":["ז","ה"]}]
+End critical word annotations
+
+### Eccl 7:6 | 4Q109 | fragment f1ii+3_6i | line 21
+Record: L1601790-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1ii+3_6i; line=21; line_node=1601790
+Source locator: {"book":"Eccl","chapter":"7","verse":"6","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_RECONSTRUCTION_MARKED
+Critical summary (word sign slots): {"word_nodes":2,"sign_slots":5,"letter_slots":3,"reconstructed_letter_slots":0,"uncertain_letter_slots":1,"unmarked_letter_slots":2,"reconstructed_sign_slots":2,"uncertain_sign_slots":1,"missing_sign_slots":1,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057183-2057184
+Unicode: ε  ]ה##בל 
+Source: -- [h|bl 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057183	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1275893","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1275894","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2057184	" ]ה##בל"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	1	0	[{"slots":"1275895","type":"cons","glyphs_unicode":["ה"],"unc":4},{"slots":"1275896-1275897","type":"cons","glyphs_unicode":["ב","ל"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275898,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1ii+3_6i","line":"21","line_node":1601790,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"vac":1},"clusters":[{"node":1523690,"type":"vac","slots":"1275898"}],"previous_word":2057184,"next_word":null}
+  {"slot":1275899,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1ii+3_6i","line":"21","line_node":1601790,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057184,"next_word":null}
+
+### Eccl 7:6 | 4Q109 | fragment f1iii+6ii_7 | line 1
+Record: L1601791-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1iii+6ii_7; line=1; line_node=1601791
+Source locator: {"book":"Eccl","chapter":"7","verse":"6","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":3,"sign_slots":30,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":4,"uncertain_sign_slots":25,"missing_sign_slots":1,"empty_sign_slots":3,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":25,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{"2":25}}
+Word nodes: 2057185-2057187
+Unicode: {{  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  }} ε ׃ 
+Source: }}\\\\\\\\\\\\\\\\\\\\\\\\\{{ -- . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057185	"{{  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  }}"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275900","type":"empty","glyphs_unicode":[""]},{"slots":"1275901-1275925","type":"unc","glyphs_unicode":[" # "," # "," # "," # "," # "," # "," # "," # "," # "," # "," # "," # "," # "," # "," # "," # "," # "," # "," # "," # "," # "," # "," # "," # "," # "],"rem":2}]
+2057186	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1275926","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1275927","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2057187	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275928","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1275929","type":"punct","glyphs_unicode":["׃"],"rec":1}]
+End critical word annotations
+
+### Eccl 7:7 | 4Q109 | fragment f1iii+6ii_7 | line 1
+Record: L1601791-R002
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1iii+6ii_7; line=1; line_node=1601791
+Source locator: {"book":"Eccl","chapter":"7","verse":"7","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: ALL_LETTER_SLOTS_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":4,"sign_slots":11,"letter_slots":11,"reconstructed_letter_slots":11,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":11,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057188-2057191
+Unicode: כי העשק יהולל ] 
+Source: ky hoCq yhwll[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057188	"כי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1275930-1275931","type":"cons","glyphs_unicode":["כ","י"],"rec":1}]
+2057189	"ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275932","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2057190	"עשק"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275933-1275935","type":"cons","glyphs_unicode":["ע","ש","ק"],"rec":1}]
+2057191	"יהולל ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1275936-1275940","type":"cons","glyphs_unicode":["י","ה","ו","ל","ל"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275941,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1iii+6ii_7","line":"1","line_node":1601791,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057191,"next_word":null}
+
+### Eccl 7:7 | 4Q109 | fragment f1iii+6ii_7 | line 2
+Record: L1601792-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1iii+6ii_7; line=2; line_node=1601792
+Source locator: {"book":"Eccl","chapter":"7","verse":"7","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":7,"sign_slots":18,"letter_slots":16,"reconstructed_letter_slots":8,"uncertain_letter_slots":2,"unmarked_letter_slots":6,"reconstructed_sign_slots":10,"uncertain_sign_slots":2,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"1":1,"4":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057192-2057198
+Unicode: חכם ויעו?ה##[  את לב מתנה ׃ 
+Source: jkM wyowØh|] at lb mtnh . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057192	"חכם"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1275942-1275944","type":"cons","glyphs_unicode":["ח","כ","ם"]}]
+2057193	"ו"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275945","type":"cons","glyphs_unicode":["ו"]}]
+2057194	"יעו?ה##[ "	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	2	0	[{"slots":"1275946-1275947","type":"cons","glyphs_unicode":["י","ע"]},{"slots":"1275948","type":"cons","glyphs_unicode":["ו"],"unc":1},{"slots":"1275949","type":"cons","glyphs_unicode":["ה"],"unc":4}]
+2057195	"את"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1275950-1275951","type":"cons","glyphs_unicode":["א","ת"],"rec":1}]
+2057196	"לב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1275952-1275953","type":"cons","glyphs_unicode":["ל","ב"],"rec":1}]
+2057197	"מתנה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275954-1275957","type":"cons","glyphs_unicode":["מ","ת","נ","ה"],"rec":1}]
+2057198	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275958","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1275959","type":"punct","glyphs_unicode":["׃"],"rec":1}]
+End critical word annotations
+
+### Eccl 7:8 | 4Q109 | fragment f1iii+6ii_7 | line 2
+Record: L1601792-R002
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1iii+6ii_7; line=2; line_node=1601792
+Source locator: {"book":"Eccl","chapter":"7","verse":"8","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: ALL_LETTER_SLOTS_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":3,"sign_slots":11,"letter_slots":11,"reconstructed_letter_slots":11,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":11,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057199-2057201
+Unicode: טוב אחרית דבר ] 
+Source: fwb ajryt dbr[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057199	"טוב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275960-1275962","type":"cons","glyphs_unicode":["ט","ו","ב"],"rec":1}]
+2057200	"אחרית"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1275963-1275967","type":"cons","glyphs_unicode":["א","ח","ר","י","ת"],"rec":1}]
+2057201	"דבר ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275968-1275970","type":"cons","glyphs_unicode":["ד","ב","ר"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1275971,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1iii+6ii_7","line":"2","line_node":1601792,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057201,"next_word":null}
+
+### Eccl 7:8 | 4Q109 | fragment f1iii+6ii_7 | line 3
+Record: L1601793-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1iii+6ii_7; line=3; line_node=1601793
+Source locator: {"book":"Eccl","chapter":"7","verse":"8","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":9,"sign_slots":25,"letter_slots":22,"reconstructed_letter_slots":16,"uncertain_letter_slots":0,"unmarked_letter_slots":6,"reconstructed_sign_slots":18,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057202-2057210
+Unicode: מרשית׳ו [ טוב ארך רוח מגבה רוח ׃ 
+Source: mrCyt/w ]fwb arK rwj mgbh rwj . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057202	"מ"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1275972","type":"cons","glyphs_unicode":["מ"]}]
+2057203	"רשית׳ו"	"NO_LETTER_RECONSTRUCTION_MARKED"	5	0	0	0	[{"slots":"1275973-1275976","type":"cons","glyphs_unicode":["ר","ש","י","ת"]},{"slots":"1275977","type":"sep","glyphs_unicode":["׳"]},{"slots":"1275978","type":"cons","glyphs_unicode":["ו"]}]
+2057204	"[ טוב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275979-1275981","type":"cons","glyphs_unicode":["ט","ו","ב"],"rec":1}]
+2057205	"ארך"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275982-1275984","type":"cons","glyphs_unicode":["א","ר","ך"],"rec":1}]
+2057206	"רוח"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275985-1275987","type":"cons","glyphs_unicode":["ר","ו","ח"],"rec":1}]
+2057207	"מ"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1275988","type":"cons","glyphs_unicode":["מ"],"rec":1}]
+2057208	"גבה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275989-1275991","type":"cons","glyphs_unicode":["ג","ב","ה"],"rec":1}]
+2057209	"רוח"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1275992-1275994","type":"cons","glyphs_unicode":["ר","ו","ח"],"rec":1}]
+2057210	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1275995","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1275996","type":"punct","glyphs_unicode":["׃"],"rec":1}]
+End critical word annotations
+
+### Eccl 7:9 | 4Q109 | fragment f1iii+6ii_7 | line 3
+Record: L1601793-R002
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1iii+6ii_7; line=3; line_node=1601793
+Source locator: {"book":"Eccl","chapter":"7","verse":"9","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: ALL_LETTER_SLOTS_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":2,"sign_slots":6,"letter_slots":6,"reconstructed_letter_slots":6,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":6,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057211-2057212
+Unicode: אל תבהל ] 
+Source: al tbhl[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057211	"אל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1275997-1275998","type":"cons","glyphs_unicode":["א","ל"],"rec":1}]
+2057212	"תבהל ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1275999-1276002","type":"cons","glyphs_unicode":["ת","ב","ה","ל"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1276003,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1iii+6ii_7","line":"3","line_node":1601793,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057212,"next_word":null}
+
+### Eccl 7:9 | 4Q109 | fragment f1iii+6ii_7 | line 4
+Record: L1601794-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1iii+6ii_7; line=4; line_node=1601794
+Source locator: {"book":"Eccl","chapter":"7","verse":"9","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":11,"sign_slots":32,"letter_slots":29,"reconstructed_letter_slots":25,"uncertain_letter_slots":0,"unmarked_letter_slots":4,"reconstructed_sign_slots":25,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057213-2057223
+Unicode: ברוח׳[ ך לכעוס כי כעס בחיק כסילים ינוח ] ׃ 
+Source: brwj/]K lkows ky kos bjyq ksylyM ynwj[ . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057213	"ב"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1276004","type":"cons","glyphs_unicode":["ב"]}]
+2057214	"רוח׳[ ך"	"PARTLY_RECONSTRUCTED"	4	1	0	0	[{"slots":"1276005-1276007","type":"cons","glyphs_unicode":["ר","ו","ח"]},{"slots":"1276008","type":"sep","glyphs_unicode":["׳"]},{"slots":"1276009","type":"cons","glyphs_unicode":["ך"],"rec":1}]
+2057215	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276010","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2057216	"כעוס"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276011-1276014","type":"cons","glyphs_unicode":["כ","ע","ו","ס"],"rec":1}]
+2057217	"כי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1276015-1276016","type":"cons","glyphs_unicode":["כ","י"],"rec":1}]
+2057218	"כעס"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276017-1276019","type":"cons","glyphs_unicode":["כ","ע","ס"],"rec":1}]
+2057219	"ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276020","type":"cons","glyphs_unicode":["ב"],"rec":1}]
+2057220	"חיק"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276021-1276023","type":"cons","glyphs_unicode":["ח","י","ק"],"rec":1}]
+2057221	"כסילים"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	6	6	0	0	[{"slots":"1276024-1276029","type":"cons","glyphs_unicode":["כ","ס","י","ל","י","ם"],"rec":1}]
+2057222	"ינוח ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276030-1276033","type":"cons","glyphs_unicode":["י","נ","ו","ח"],"rec":1}]
+2057223	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1276034","type":"empty","glyphs_unicode":[""]},{"slots":"1276035","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1276036,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1iii+6ii_7","line":"4","line_node":1601794,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057223,"next_word":null}
+
+### Eccl 7:10 | 4Q109 | fragment f1iii+6ii_7 | line 5
+Record: L1601795-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1iii+6ii_7; line=5; line_node=1601795
+Source locator: {"book":"Eccl","chapter":"7","verse":"10","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":11,"sign_slots":29,"letter_slots":27,"reconstructed_letter_slots":26,"uncertain_letter_slots":0,"unmarked_letter_slots":1,"reconstructed_sign_slots":26,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057224-2057234
+Unicode: [ א ]ל [ תאמר מה היה שהימים הראשנים היו ] ׃ 
+Source: ]a[l ]tamr mh hyh ChymyM hraCnyM hyw[ . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057224	"[ א ]ל"	"PARTLY_RECONSTRUCTED"	2	1	0	0	[{"slots":"1276037","type":"cons","glyphs_unicode":["א"],"rec":1},{"slots":"1276038","type":"cons","glyphs_unicode":["ל"]}]
+2057225	"[ תאמר"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276039-1276042","type":"cons","glyphs_unicode":["ת","א","מ","ר"],"rec":1}]
+2057226	"מה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1276043-1276044","type":"cons","glyphs_unicode":["מ","ה"],"rec":1}]
+2057227	"היה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276045-1276047","type":"cons","glyphs_unicode":["ה","י","ה"],"rec":1}]
+2057228	"ש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276048","type":"cons","glyphs_unicode":["ש"],"rec":1}]
+2057229	"ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276049","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2057230	"ימים"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276050-1276053","type":"cons","glyphs_unicode":["י","מ","י","ם"],"rec":1}]
+2057231	"ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276054","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2057232	"ראשנים"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	6	6	0	0	[{"slots":"1276055-1276060","type":"cons","glyphs_unicode":["ר","א","ש","נ","י","ם"],"rec":1}]
+2057233	"היו ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276061-1276063","type":"cons","glyphs_unicode":["ה","י","ו"],"rec":1}]
+2057234	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1276064","type":"empty","glyphs_unicode":[""]},{"slots":"1276065","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1276066,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1iii+6ii_7","line":"5","line_node":1601795,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057234,"next_word":null}
+
+### Eccl 7:18 | 4Q109 | fragment f1iii+6ii_7 | line 17
+Record: L1601796-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1iii+6ii_7; line=17; line_node=1601796
+Source locator: {"book":"Eccl","chapter":"7","verse":"18","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: NO_LETTER_SLOTS
+Critical summary (word sign slots): {"word_nodes":3,"sign_slots":6,"letter_slots":0,"reconstructed_letter_slots":0,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":2,"uncertain_sign_slots":1,"missing_sign_slots":1,"empty_sign_slots":3,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057235-2057237
+Unicode:  # [  ε ׃ 
+Source: \] -- . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057235	" # [ "	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1276067","type":"empty","glyphs_unicode":[""]},{"slots":"1276068","type":"unc","glyphs_unicode":[" # "]}]
+2057236	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1276069","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1276070","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2057237	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1276071","type":"empty","glyphs_unicode":[""]},{"slots":"1276072","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1276073,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1iii+6ii_7","line":"17","line_node":1601796,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057237,"next_word":null}
+
+### Eccl 7:19 | 4Q109 | fragment f1iii+6ii_7 | line 18
+Record: L1601797-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1iii+6ii_7; line=18; line_node=1601797
+Source locator: {"book":"Eccl","chapter":"7","verse":"19","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":8,"sign_slots":25,"letter_slots":20,"reconstructed_letter_slots":15,"uncertain_letter_slots":2,"unmarked_letter_slots":3,"reconstructed_sign_slots":17,"uncertain_sign_slots":4,"missing_sign_slots":1,"empty_sign_slots":2,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":1,"1":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057238-2057245
+Unicode: ה##[ חכמה ] תעז?ר  #  # [  ε מעשרה שליטים ] 
+Source: h|]jkmh[ tozØr \\] -- moCrh ClyfyM[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057238	"ה##"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	1	0	[{"slots":"1276074","type":"cons","glyphs_unicode":["ה"],"unc":4}]
+2057239	"[ חכמה ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276075-1276078","type":"cons","glyphs_unicode":["ח","כ","מ","ה"],"rec":1}]
+2057240	"תעז?ר"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	1	0	[{"slots":"1276079-1276080","type":"cons","glyphs_unicode":["ת","ע"]},{"slots":"1276081","type":"cons","glyphs_unicode":["ז"],"unc":1},{"slots":"1276082","type":"cons","glyphs_unicode":["ר"]}]
+2057241	" #  # [ "	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1276083","type":"empty","glyphs_unicode":[""]},{"slots":"1276084-1276085","type":"unc","glyphs_unicode":[" # "," # "]}]
+2057242	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1276086","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1276087","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2057243	"מ"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276088","type":"cons","glyphs_unicode":["מ"],"rec":1}]
+2057244	"עשרה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276089-1276092","type":"cons","glyphs_unicode":["ע","ש","ר","ה"],"rec":1}]
+2057245	"שליטים ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	6	6	0	0	[{"slots":"1276093-1276098","type":"cons","glyphs_unicode":["ש","ל","י","ט","י","ם"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1276099,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1iii+6ii_7","line":"18","line_node":1601797,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057245,"next_word":null}
+
+### Eccl 7:19 | 4Q109 | fragment f1iii+6ii_7 | line 19
+Record: L1601798-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1iii+6ii_7; line=19; line_node=1601798
+Source locator: {"book":"Eccl","chapter":"7","verse":"19","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":5,"sign_slots":10,"letter_slots":8,"reconstructed_letter_slots":3,"uncertain_letter_slots":0,"unmarked_letter_slots":5,"reconstructed_sign_slots":3,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057246-2057250
+Unicode: ש[ היו ] בעיר ׃ 
+Source: C]hyw[ boyr . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057246	"ש"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1276100","type":"cons","glyphs_unicode":["ש"]}]
+2057247	"[ היו ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276101-1276103","type":"cons","glyphs_unicode":["ה","י","ו"],"rec":1}]
+2057248	"ב"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1276104","type":"cons","glyphs_unicode":["ב"]}]
+2057249	"עיר"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1276105-1276107","type":"cons","glyphs_unicode":["ע","י","ר"]}]
+2057250	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1276108","type":"empty","glyphs_unicode":[""]},{"slots":"1276109","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+
+### Eccl 7:20 | 4Q109 | fragment f1iii+6ii_7 | line 19
+Record: L1601798-R002
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1iii+6ii_7; line=19; line_node=1601798
+Source locator: {"book":"Eccl","chapter":"7","verse":"20","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":6,"sign_slots":16,"letter_slots":16,"reconstructed_letter_slots":15,"uncertain_letter_slots":1,"unmarked_letter_slots":0,"reconstructed_sign_slots":15,"uncertain_sign_slots":1,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057251-2057256
+Unicode: כ##[ י אדם אין צדיק בארץ ] 
+Source: k|]y adM ayN xdyq barX[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057251	"כ##[ י"	"PARTLY_RECONSTRUCTED"	2	1	1	0	[{"slots":"1276110","type":"cons","glyphs_unicode":["כ"],"unc":4},{"slots":"1276111","type":"cons","glyphs_unicode":["י"],"rec":1}]
+2057252	"אדם"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276112-1276114","type":"cons","glyphs_unicode":["א","ד","ם"],"rec":1}]
+2057253	"אין"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276115-1276117","type":"cons","glyphs_unicode":["א","י","ן"],"rec":1}]
+2057254	"צדיק"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276118-1276121","type":"cons","glyphs_unicode":["צ","ד","י","ק"],"rec":1}]
+2057255	"ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276122","type":"cons","glyphs_unicode":["ב"],"rec":1}]
+2057256	"ארץ ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276123-1276125","type":"cons","glyphs_unicode":["א","ר","ץ"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1276126,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1iii+6ii_7","line":"19","line_node":1601798,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057256,"next_word":null}
+
+### Eccl 7:20 | 4Q109 | fragment f1iii+6ii_7 | line 20
+Record: L1601799-R001
+Physical: scroll=4Q109; scroll_node=1606776; fragment=f1iii+6ii_7; line=20; line_node=1601799
+Source locator: {"book":"Eccl","chapter":"7","verse":"20","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":8,"sign_slots":19,"letter_slots":15,"reconstructed_letter_slots":8,"uncertain_letter_slots":2,"unmarked_letter_slots":5,"reconstructed_sign_slots":10,"uncertain_sign_slots":2,"missing_sign_slots":1,"empty_sign_slots":2,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"2":1,"3":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057257-2057264
+Unicode: ש#[ יע ]שה טוב ו#?[ לא יחטא ε ׃ 
+Source: C«]yo[Ch fwb w»]la yjfa -- . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057257	"ש#"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	1	0	[{"slots":"1276127","type":"cons","glyphs_unicode":["ש"],"unc":2}]
+2057258	"[ יע ]שה"	"PARTLY_RECONSTRUCTED"	4	2	0	0	[{"slots":"1276128-1276129","type":"cons","glyphs_unicode":["י","ע"],"rec":1},{"slots":"1276130-1276131","type":"cons","glyphs_unicode":["ש","ה"]}]
+2057259	"טוב"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1276132-1276134","type":"cons","glyphs_unicode":["ט","ו","ב"]}]
+2057260	"ו#?"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	1	0	[{"slots":"1276135","type":"cons","glyphs_unicode":["ו"],"unc":3}]
+2057261	"[ לא"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1276136-1276137","type":"cons","glyphs_unicode":["ל","א"],"rec":1}]
+2057262	"יחטא"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276138-1276141","type":"cons","glyphs_unicode":["י","ח","ט","א"],"rec":1}]
+2057263	"ε"	"NO_LETTER_SLOTS"	0	0	0	1	[{"slots":"1276142","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1276143","type":"missing","glyphs_unicode":["ε"],"rec":1}]
+2057264	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1276144","type":"empty","glyphs_unicode":[""]},{"slots":"1276145","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1276146,"scroll":"4Q109","scroll_node":1606776,"fragment":"f1iii+6ii_7","line":"20","line_node":1601799,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057264,"next_word":null}
+
+## Manuscript: 4Q110 | source scroll node 1606777
+
+### Eccl 1:7 | 4Q110 | fragment f1_3 | line 1
+Record: L1601800-R001
+Physical: scroll=4Q110; scroll_node=1606777; fragment=f1_3; line=1; line_node=1601800
+Source locator: {"book":"Eccl","chapter":"1","verse":"7","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: ALL_LETTER_SLOTS_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":3,"sign_slots":6,"letter_slots":4,"reconstructed_letter_slots":4,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":6,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057265-2057267
+Unicode: [ ללכת ׃ 
+Source: ]llkt . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057265	"[ ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276147","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2057266	"לכת"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276148-1276150","type":"cons","glyphs_unicode":["ל","כ","ת"],"rec":1}]
+2057267	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1276151","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1276152","type":"punct","glyphs_unicode":["׃"],"rec":1}]
+End critical word annotations
+
+### Eccl 1:8 | 4Q110 | fragment f1_3 | line 1
+Record: L1601800-R002
+Physical: scroll=4Q110; scroll_node=1606777; fragment=f1_3; line=1; line_node=1601800
+Source locator: {"book":"Eccl","chapter":"1","verse":"8","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":12,"sign_slots":38,"letter_slots":38,"reconstructed_letter_slots":28,"uncertain_letter_slots":0,"unmarked_letter_slots":10,"reconstructed_sign_slots":28,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057268-2057279
+Unicode: כול הדברים  ]יגע[ ים ] לוא[  י ]וכ[ ל  ]א[ י ]ש[  לדבר לוא תשבע עין ] 
+Source: kwl hdbryM [ygo]yM[ lwa] y[wk]l [a]y[C] ldbr lwa tCbo oyN[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057268	"כול"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276153-1276155","type":"cons","glyphs_unicode":["כ","ו","ל"],"rec":1}]
+2057269	"ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276156","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2057270	"דברים"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1276157-1276161","type":"cons","glyphs_unicode":["ד","ב","ר","י","ם"],"rec":1}]
+2057271	" ]יגע[ ים ]"	"PARTLY_RECONSTRUCTED"	5	2	0	0	[{"slots":"1276162-1276164","type":"cons","glyphs_unicode":["י","ג","ע"]},{"slots":"1276165-1276166","type":"cons","glyphs_unicode":["י","ם"],"rec":1}]
+2057272	"לוא[ "	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1276167-1276169","type":"cons","glyphs_unicode":["ל","ו","א"]}]
+2057273	"י ]וכ[ ל"	"PARTLY_RECONSTRUCTED"	4	2	0	0	[{"slots":"1276170","type":"cons","glyphs_unicode":["י"],"rec":1},{"slots":"1276171-1276172","type":"cons","glyphs_unicode":["ו","כ"]},{"slots":"1276173","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2057274	" ]א[ י ]ש[ "	"PARTLY_RECONSTRUCTED"	3	1	0	0	[{"slots":"1276174","type":"cons","glyphs_unicode":["א"]},{"slots":"1276175","type":"cons","glyphs_unicode":["י"],"rec":1},{"slots":"1276176","type":"cons","glyphs_unicode":["ש"]}]
+2057275	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276177","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2057276	"דבר"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276178-1276180","type":"cons","glyphs_unicode":["ד","ב","ר"],"rec":1}]
+2057277	"לוא"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276181-1276183","type":"cons","glyphs_unicode":["ל","ו","א"],"rec":1}]
+2057278	"תשבע"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276184-1276187","type":"cons","glyphs_unicode":["ת","ש","ב","ע"],"rec":1}]
+2057279	"עין ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276188-1276190","type":"cons","glyphs_unicode":["ע","י","ן"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1276191,"scroll":"4Q110","scroll_node":1606777,"fragment":"f1_3","line":"1","line_node":1601800,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057279,"next_word":null}
+
+### Eccl 1:8 | 4Q110 | fragment f1_3 | line 2
+Record: L1601801-R001
+Physical: scroll=4Q110; scroll_node=1606777; fragment=f1_3; line=2; line_node=1601801
+Source locator: {"book":"Eccl","chapter":"1","verse":"8","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":9,"sign_slots":24,"letter_slots":22,"reconstructed_letter_slots":16,"uncertain_letter_slots":0,"unmarked_letter_slots":6,"reconstructed_sign_slots":16,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057280-2057288
+Unicode: [ לראות ולוא תמלא אוז ]ן משמוע ׃ 
+Source: ]lrawt wlwa tmla awz[N mCmwo . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057280	"[ ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276192","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2057281	"ראות"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276193-1276196","type":"cons","glyphs_unicode":["ר","א","ו","ת"],"rec":1}]
+2057282	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276197","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2057283	"לוא"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276198-1276200","type":"cons","glyphs_unicode":["ל","ו","א"],"rec":1}]
+2057284	"תמלא"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276201-1276204","type":"cons","glyphs_unicode":["ת","מ","ל","א"],"rec":1}]
+2057285	"אוז ]ן"	"PARTLY_RECONSTRUCTED"	4	3	0	0	[{"slots":"1276205-1276207","type":"cons","glyphs_unicode":["א","ו","ז"],"rec":1},{"slots":"1276208","type":"cons","glyphs_unicode":["ן"]}]
+2057286	"מ"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1276209","type":"cons","glyphs_unicode":["מ"]}]
+2057287	"שמוע"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1276210-1276213","type":"cons","glyphs_unicode":["ש","מ","ו","ע"]}]
+2057288	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1276214","type":"empty","glyphs_unicode":[""]},{"slots":"1276215","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+
+### Eccl 1:9 | 4Q110 | fragment f1_3 | line 2
+Record: L1601801-R002
+Physical: scroll=4Q110; scroll_node=1606777; fragment=f1_3; line=2; line_node=1601801
+Source locator: {"book":"Eccl","chapter":"1","verse":"9","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":10,"sign_slots":22,"letter_slots":22,"reconstructed_letter_slots":18,"uncertain_letter_slots":0,"unmarked_letter_slots":4,"reconstructed_sign_slots":18,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057289-2057298
+Unicode: מה שה[ יה הוא שיהיה ומה שנעשה ] 
+Source: mh Ch]yh hwa Cyhyh wmh CnoCh[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057289	"מה"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1276216-1276217","type":"cons","glyphs_unicode":["מ","ה"]}]
+2057290	"ש"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1276218","type":"cons","glyphs_unicode":["ש"]}]
+2057291	"ה[ יה"	"PARTLY_RECONSTRUCTED"	3	2	0	0	[{"slots":"1276219","type":"cons","glyphs_unicode":["ה"]},{"slots":"1276220-1276221","type":"cons","glyphs_unicode":["י","ה"],"rec":1}]
+2057292	"הוא"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276222-1276224","type":"cons","glyphs_unicode":["ה","ו","א"],"rec":1}]
+2057293	"ש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276225","type":"cons","glyphs_unicode":["ש"],"rec":1}]
+2057294	"יהיה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276226-1276229","type":"cons","glyphs_unicode":["י","ה","י","ה"],"rec":1}]
+2057295	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276230","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2057296	"מה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1276231-1276232","type":"cons","glyphs_unicode":["מ","ה"],"rec":1}]
+2057297	"ש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276233","type":"cons","glyphs_unicode":["ש"],"rec":1}]
+2057298	"נעשה ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276234-1276237","type":"cons","glyphs_unicode":["נ","ע","ש","ה"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1276238,"scroll":"4Q110","scroll_node":1606777,"fragment":"f1_3","line":"2","line_node":1601801,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057298,"next_word":null}
+
+### Eccl 1:9 | 4Q110 | fragment f1_3 | line 3
+Record: L1601802-R001
+Physical: scroll=4Q110; scroll_node=1606777; fragment=f1_3; line=3; line_node=1601802
+Source locator: {"book":"Eccl","chapter":"1","verse":"9","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: ALL_LETTER_SLOTS_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":11,"sign_slots":27,"letter_slots":25,"reconstructed_letter_slots":25,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":27,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057299-2057309
+Unicode: [ הוא שיעשה ואין כול חדש תחת השמש ׃ 
+Source: ]hwa CyoCh wayN kwl jdC tjt hCmC . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057299	"[ הוא"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276239-1276241","type":"cons","glyphs_unicode":["ה","ו","א"],"rec":1}]
+2057300	"ש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276242","type":"cons","glyphs_unicode":["ש"],"rec":1}]
+2057301	"יעשה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276243-1276246","type":"cons","glyphs_unicode":["י","ע","ש","ה"],"rec":1}]
+2057302	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276247","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2057303	"אין"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276248-1276250","type":"cons","glyphs_unicode":["א","י","ן"],"rec":1}]
+2057304	"כול"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276251-1276253","type":"cons","glyphs_unicode":["כ","ו","ל"],"rec":1}]
+2057305	"חדש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276254-1276256","type":"cons","glyphs_unicode":["ח","ד","ש"],"rec":1}]
+2057306	"תחת"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276257-1276259","type":"cons","glyphs_unicode":["ת","ח","ת"],"rec":1}]
+2057307	"ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276260","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2057308	"שמש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276261-1276263","type":"cons","glyphs_unicode":["ש","מ","ש"],"rec":1}]
+2057309	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1276264","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1276265","type":"punct","glyphs_unicode":["׃"],"rec":1}]
+End critical word annotations
+
+### Eccl 1:10 | 4Q110 | fragment f1_3 | line 3
+Record: L1601802-R002
+Physical: scroll=4Q110; scroll_node=1606777; fragment=f1_3; line=3; line_node=1601802
+Source locator: {"book":"Eccl","chapter":"1","verse":"10","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: ALL_LETTER_SLOTS_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":6,"sign_slots":16,"letter_slots":16,"reconstructed_letter_slots":16,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":16,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057310-2057315
+Unicode: יש דבר שיואמר ראה זה ] 
+Source: yC dbr Cywamr rah zh[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057310	"יש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1276266-1276267","type":"cons","glyphs_unicode":["י","ש"],"rec":1}]
+2057311	"דבר"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276268-1276270","type":"cons","glyphs_unicode":["ד","ב","ר"],"rec":1}]
+2057312	"ש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276271","type":"cons","glyphs_unicode":["ש"],"rec":1}]
+2057313	"יואמר"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1276272-1276276","type":"cons","glyphs_unicode":["י","ו","א","מ","ר"],"rec":1}]
+2057314	"ראה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276277-1276279","type":"cons","glyphs_unicode":["ר","א","ה"],"rec":1}]
+2057315	"זה ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1276280-1276281","type":"cons","glyphs_unicode":["ז","ה"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1276282,"scroll":"4Q110","scroll_node":1606777,"fragment":"f1_3","line":"3","line_node":1601802,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057315,"next_word":null}
+
+### Eccl 1:10 | 4Q110 | fragment f1_3 | line 4
+Record: L1601803-R001
+Physical: scroll=4Q110; scroll_node=1606777; fragment=f1_3; line=4; line_node=1601803
+Source locator: {"book":"Eccl","chapter":"1","verse":"10","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":12,"sign_slots":34,"letter_slots":31,"reconstructed_letter_slots":19,"uncertain_letter_slots":3,"unmarked_letter_slots":9,"reconstructed_sign_slots":22,"uncertain_sign_slots":3,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"2":2,"1":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057316-2057327
+Unicode: [ חדש הוא כ ]ב#ר היה לעו?למים#[  אשר היה מלפנ׳נו ׃ 
+Source: ]jdC hwa k[b«r hyh lowØlmyM«] aCr hyh mlpn/nw . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057316	"[ חדש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276283-1276285","type":"cons","glyphs_unicode":["ח","ד","ש"],"rec":1}]
+2057317	"הוא"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276286-1276288","type":"cons","glyphs_unicode":["ה","ו","א"],"rec":1}]
+2057318	"כ ]ב#ר"	"PARTLY_RECONSTRUCTED"	3	1	1	0	[{"slots":"1276289","type":"cons","glyphs_unicode":["כ"],"rec":1},{"slots":"1276290","type":"cons","glyphs_unicode":["ב"],"unc":2},{"slots":"1276291","type":"cons","glyphs_unicode":["ר"]}]
+2057319	"היה"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1276292-1276294","type":"cons","glyphs_unicode":["ה","י","ה"]}]
+2057320	"ל"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1276295","type":"cons","glyphs_unicode":["ל"]}]
+2057321	"עו?למים#[ "	"NO_LETTER_RECONSTRUCTION_MARKED"	6	0	2	0	[{"slots":"1276296","type":"cons","glyphs_unicode":["ע"]},{"slots":"1276297","type":"cons","glyphs_unicode":["ו"],"unc":1},{"slots":"1276298-1276300","type":"cons","glyphs_unicode":["ל","מ","י"]},{"slots":"1276301","type":"cons","glyphs_unicode":["ם"],"unc":2}]
+2057322	"אשר"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276302-1276304","type":"cons","glyphs_unicode":["א","ש","ר"],"rec":1}]
+2057323	"היה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276305-1276307","type":"cons","glyphs_unicode":["ה","י","ה"],"rec":1}]
+2057324	"מ"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276308","type":"cons","glyphs_unicode":["מ"],"rec":1}]
+2057325	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276309","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2057326	"פנ׳נו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276310-1276311","type":"cons","glyphs_unicode":["פ","נ"],"rec":1},{"slots":"1276312","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1276313-1276314","type":"cons","glyphs_unicode":["נ","ו"],"rec":1}]
+2057327	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1276315","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1276316","type":"punct","glyphs_unicode":["׃"],"rec":1}]
+End critical word annotations
+
+### Eccl 1:11 | 4Q110 | fragment f1_3 | line 4
+Record: L1601803-R002
+Physical: scroll=4Q110; scroll_node=1606777; fragment=f1_3; line=4; line_node=1601803
+Source locator: {"book":"Eccl","chapter":"1","verse":"11","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: ALL_LETTER_SLOTS_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":4,"sign_slots":15,"letter_slots":15,"reconstructed_letter_slots":15,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":15,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057328-2057331
+Unicode: אין זכרון לראשנים ] 
+Source: ayN zkrwN lraCnyM[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057328	"אין"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276317-1276319","type":"cons","glyphs_unicode":["א","י","ן"],"rec":1}]
+2057329	"זכרון"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1276320-1276324","type":"cons","glyphs_unicode":["ז","כ","ר","ו","ן"],"rec":1}]
+2057330	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276325","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2057331	"ראשנים ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	6	6	0	0	[{"slots":"1276326-1276331","type":"cons","glyphs_unicode":["ר","א","ש","נ","י","ם"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1276332,"scroll":"4Q110","scroll_node":1606777,"fragment":"f1_3","line":"4","line_node":1601803,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057331,"next_word":null}
+
+### Eccl 1:11 | 4Q110 | fragment f1_3 | line 5
+Record: L1601804-R001
+Physical: scroll=4Q110; scroll_node=1606777; fragment=f1_3; line=5; line_node=1601804
+Source locator: {"book":"Eccl","chapter":"1","verse":"11","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":16,"sign_slots":46,"letter_slots":43,"reconstructed_letter_slots":30,"uncertain_letter_slots":2,"unmarked_letter_slots":11,"reconstructed_sign_slots":31,"uncertain_sign_slots":2,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":2},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057332-2057347
+Unicode: [ וגם לאחרני ]ם## שיהיו לוא יהיה##[  ל׳הם זכרון עם שיהיו לאחרנה ] ׃ 
+Source: ]wgM lajrny[M| Cyhyw lwa yhyh|] l/hM zkrwN oM Cyhyw lajrnh[ . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057332	"[ ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276333","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2057333	"גם"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1276334-1276335","type":"cons","glyphs_unicode":["ג","ם"],"rec":1}]
+2057334	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276336","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2057335	"אחרני ]ם##"	"PARTLY_RECONSTRUCTED"	6	5	1	0	[{"slots":"1276337-1276341","type":"cons","glyphs_unicode":["א","ח","ר","נ","י"],"rec":1},{"slots":"1276342","type":"cons","glyphs_unicode":["ם"],"unc":4}]
+2057336	"ש"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1276343","type":"cons","glyphs_unicode":["ש"]}]
+2057337	"יהיו"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1276344-1276347","type":"cons","glyphs_unicode":["י","ה","י","ו"]}]
+2057338	"לוא"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1276348-1276350","type":"cons","glyphs_unicode":["ל","ו","א"]}]
+2057339	"יהיה##[ "	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	1	0	[{"slots":"1276351-1276353","type":"cons","glyphs_unicode":["י","ה","י"]},{"slots":"1276354","type":"cons","glyphs_unicode":["ה"],"unc":4}]
+2057340	"ל׳הם"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276355","type":"cons","glyphs_unicode":["ל"],"rec":1},{"slots":"1276356","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1276357-1276358","type":"cons","glyphs_unicode":["ה","ם"],"rec":1}]
+2057341	"זכרון"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1276359-1276363","type":"cons","glyphs_unicode":["ז","כ","ר","ו","ן"],"rec":1}]
+2057342	"עם"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1276364-1276365","type":"cons","glyphs_unicode":["ע","ם"],"rec":1}]
+2057343	"ש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276366","type":"cons","glyphs_unicode":["ש"],"rec":1}]
+2057344	"יהיו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276367-1276370","type":"cons","glyphs_unicode":["י","ה","י","ו"],"rec":1}]
+2057345	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276371","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2057346	"אחרנה ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1276372-1276376","type":"cons","glyphs_unicode":["א","ח","ר","נ","ה"],"rec":1}]
+2057347	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1276377","type":"empty","glyphs_unicode":[""]},{"slots":"1276378","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1276379,"scroll":"4Q110","scroll_node":1606777,"fragment":"f1_3","line":"5","line_node":1601804,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057347,"next_word":null}
+
+### Eccl 1:12 | 4Q110 | fragment f1_3 | line 6
+Record: L1601805-R001
+Physical: scroll=4Q110; scroll_node=1606777; fragment=f1_3; line=6; line_node=1601805
+Source locator: {"book":"Eccl","chapter":"1","verse":"12","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":9,"sign_slots":31,"letter_slots":29,"reconstructed_letter_slots":19,"uncertain_letter_slots":1,"unmarked_letter_slots":9,"reconstructed_sign_slots":21,"uncertain_sign_slots":1,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057348-2057356
+Unicode: אני ק ]הלת הייתי מל##[ ך על ישראל בירושלם ׃ 
+Source: any q[hlt hyyty ml|]K ol yCral byrwClM . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057348	"אני"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276381-1276383","type":"cons","glyphs_unicode":["א","נ","י"],"rec":1}]
+2057349	"ק ]הלת"	"PARTLY_RECONSTRUCTED"	4	1	0	0	[{"slots":"1276384","type":"cons","glyphs_unicode":["ק"],"rec":1},{"slots":"1276385-1276387","type":"cons","glyphs_unicode":["ה","ל","ת"]}]
+2057350	"הייתי"	"NO_LETTER_RECONSTRUCTION_MARKED"	5	0	0	0	[{"slots":"1276388-1276392","type":"cons","glyphs_unicode":["ה","י","י","ת","י"]}]
+2057351	"מל##[ ך"	"PARTLY_RECONSTRUCTED"	3	1	1	0	[{"slots":"1276393","type":"cons","glyphs_unicode":["מ"]},{"slots":"1276394","type":"cons","glyphs_unicode":["ל"],"unc":4},{"slots":"1276395","type":"cons","glyphs_unicode":["ך"],"rec":1}]
+2057352	"על"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1276396-1276397","type":"cons","glyphs_unicode":["ע","ל"],"rec":1}]
+2057353	"ישראל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1276398-1276402","type":"cons","glyphs_unicode":["י","ש","ר","א","ל"],"rec":1}]
+2057354	"ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276403","type":"cons","glyphs_unicode":["ב"],"rec":1}]
+2057355	"ירושלם"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	6	6	0	0	[{"slots":"1276404-1276409","type":"cons","glyphs_unicode":["י","ר","ו","ש","ל","ם"],"rec":1}]
+2057356	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1276410","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1276411","type":"punct","glyphs_unicode":["׃"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1276380,"scroll":"4Q110","scroll_node":1606777,"fragment":"f1_3","line":"6","line_node":1601805,"type":"empty","glyph_unicode":" ","glyph_source":"□","language_flag":null,"script":null,"flags":{"rec":1,"vac":1},"clusters":[{"node":1523719,"type":"vac","slots":"1276380"},{"node":1523718,"type":"rec","slots":"1276380-1276384"}],"previous_word":null,"next_word":2057348}
+
+### Eccl 1:13 | 4Q110 | fragment f1_3 | line 6
+Record: L1601805-R002
+Physical: scroll=4Q110; scroll_node=1606777; fragment=f1_3; line=6; line_node=1601805
+Source locator: {"book":"Eccl","chapter":"1","verse":"13","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: ALL_LETTER_SLOTS_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":2,"sign_slots":5,"letter_slots":5,"reconstructed_letter_slots":5,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":5,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057357-2057358
+Unicode: ונתתי ] 
+Source: wntty[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057357	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276412","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2057358	"נתתי ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276413-1276416","type":"cons","glyphs_unicode":["נ","ת","ת","י"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1276417,"scroll":"4Q110","scroll_node":1606777,"fragment":"f1_3","line":"6","line_node":1601805,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057358,"next_word":null}
+
+### Eccl 1:13 | 4Q110 | fragment f1_3 | line 7
+Record: L1601806-R001
+Physical: scroll=4Q110; scroll_node=1606777; fragment=f1_3; line=7; line_node=1601806
+Source locator: {"book":"Eccl","chapter":"1","verse":"13","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":17,"sign_slots":43,"letter_slots":42,"reconstructed_letter_slots":32,"uncertain_letter_slots":0,"unmarked_letter_slots":10,"reconstructed_sign_slots":32,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057359-2057375
+Unicode: [ א ]ת לב׳י לדרוש [ ולתור בחכמה ע ]ל[  כל אשר נעשה תחת השמים הוא ] 
+Source: ]a[t lb/y ldrwC ]wltwr bjkmh o[l] kl aCr noCh tjt hCmyM hwa[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057359	"[ א ]ת"	"PARTLY_RECONSTRUCTED"	2	1	0	0	[{"slots":"1276418","type":"cons","glyphs_unicode":["א"],"rec":1},{"slots":"1276419","type":"cons","glyphs_unicode":["ת"]}]
+2057360	"לב׳י"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1276420-1276421","type":"cons","glyphs_unicode":["ל","ב"]},{"slots":"1276422","type":"sep","glyphs_unicode":["׳"]},{"slots":"1276423","type":"cons","glyphs_unicode":["י"]}]
+2057361	"ל"	"NO_LETTER_RECONSTRUCTION_MARKED"	1	0	0	0	[{"slots":"1276424","type":"cons","glyphs_unicode":["ל"]}]
+2057362	"דרוש"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1276425-1276428","type":"cons","glyphs_unicode":["ד","ר","ו","ש"]}]
+2057363	"[ ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276429","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2057364	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276430","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2057365	"תור"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276431-1276433","type":"cons","glyphs_unicode":["ת","ו","ר"],"rec":1}]
+2057366	"ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276434","type":"cons","glyphs_unicode":["ב"],"rec":1}]
+2057367	"חכמה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276435-1276438","type":"cons","glyphs_unicode":["ח","כ","מ","ה"],"rec":1}]
+2057368	"ע ]ל[ "	"PARTLY_RECONSTRUCTED"	2	1	0	0	[{"slots":"1276439","type":"cons","glyphs_unicode":["ע"],"rec":1},{"slots":"1276440","type":"cons","glyphs_unicode":["ל"]}]
+2057369	"כל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1276441-1276442","type":"cons","glyphs_unicode":["כ","ל"],"rec":1}]
+2057370	"אשר"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276443-1276445","type":"cons","glyphs_unicode":["א","ש","ר"],"rec":1}]
+2057371	"נעשה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276446-1276449","type":"cons","glyphs_unicode":["נ","ע","ש","ה"],"rec":1}]
+2057372	"תחת"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276450-1276452","type":"cons","glyphs_unicode":["ת","ח","ת"],"rec":1}]
+2057373	"ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276453","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2057374	"שמים"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276454-1276457","type":"cons","glyphs_unicode":["ש","מ","י","ם"],"rec":1}]
+2057375	"הוא ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276458-1276460","type":"cons","glyphs_unicode":["ה","ו","א"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1276461,"scroll":"4Q110","scroll_node":1606777,"fragment":"f1_3","line":"7","line_node":1601806,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057375,"next_word":null}
+
+### Eccl 1:13 | 4Q110 | fragment f1_3 | line 8
+Record: L1601807-R001
+Physical: scroll=4Q110; scroll_node=1606777; fragment=f1_3; line=8; line_node=1601807
+Source locator: {"book":"Eccl","chapter":"1","verse":"13","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":12,"sign_slots":32,"letter_slots":29,"reconstructed_letter_slots":20,"uncertain_letter_slots":1,"unmarked_letter_slots":8,"reconstructed_sign_slots":23,"uncertain_sign_slots":1,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"2":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057376-2057387
+Unicode: ע#נין רע נתן [ אלהים לבני האדם לענות ב׳ו ׃ 
+Source: o«nyN ro ntN ]alhyM lbny hadM lonwt b/w . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057376	"ע#נין"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	1	0	[{"slots":"1276462","type":"cons","glyphs_unicode":["ע"],"unc":2},{"slots":"1276463-1276465","type":"cons","glyphs_unicode":["נ","י","ן"]}]
+2057377	"רע"	"NO_LETTER_RECONSTRUCTION_MARKED"	2	0	0	0	[{"slots":"1276466-1276467","type":"cons","glyphs_unicode":["ר","ע"]}]
+2057378	"נתן"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1276468-1276470","type":"cons","glyphs_unicode":["נ","ת","ן"]}]
+2057379	"[ אלהים"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1276471-1276475","type":"cons","glyphs_unicode":["א","ל","ה","י","ם"],"rec":1}]
+2057380	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276476","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2057381	"בני"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276477-1276479","type":"cons","glyphs_unicode":["ב","נ","י"],"rec":1}]
+2057382	"ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276480","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2057383	"אדם"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276481-1276483","type":"cons","glyphs_unicode":["א","ד","ם"],"rec":1}]
+2057384	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276484","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2057385	"ענות"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276485-1276488","type":"cons","glyphs_unicode":["ע","נ","ו","ת"],"rec":1}]
+2057386	"ב׳ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1276489","type":"cons","glyphs_unicode":["ב"],"rec":1},{"slots":"1276490","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1276491","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2057387	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1276492","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1276493","type":"punct","glyphs_unicode":["׃"],"rec":1}]
+End critical word annotations
+
+### Eccl 1:14 | 4Q110 | fragment f1_3 | line 8
+Record: L1601807-R002
+Physical: scroll=4Q110; scroll_node=1606777; fragment=f1_3; line=8; line_node=1601807
+Source locator: {"book":"Eccl","chapter":"1","verse":"14","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: ALL_LETTER_SLOTS_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":5,"sign_slots":15,"letter_slots":15,"reconstructed_letter_slots":15,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":15,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057388-2057392
+Unicode: ראיתי את כל המעשים ] 
+Source: rayty at kl hmoCyM[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057388	"ראיתי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1276494-1276498","type":"cons","glyphs_unicode":["ר","א","י","ת","י"],"rec":1}]
+2057389	"את"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1276499-1276500","type":"cons","glyphs_unicode":["א","ת"],"rec":1}]
+2057390	"כל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1276501-1276502","type":"cons","glyphs_unicode":["כ","ל"],"rec":1}]
+2057391	"ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276503","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2057392	"מעשים ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1276504-1276508","type":"cons","glyphs_unicode":["מ","ע","ש","י","ם"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1276509,"scroll":"4Q110","scroll_node":1606777,"fragment":"f1_3","line":"8","line_node":1601807,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057392,"next_word":null}
+
+### Eccl 1:14 | 4Q110 | fragment f1_3 | line 9
+Record: L1601808-R001
+Physical: scroll=4Q110; scroll_node=1606777; fragment=f1_3; line=9; line_node=1601808
+Source locator: {"book":"Eccl","chapter":"1","verse":"14","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":14,"sign_slots":34,"letter_slots":32,"reconstructed_letter_slots":22,"uncertain_letter_slots":1,"unmarked_letter_slots":9,"reconstructed_sign_slots":24,"uncertain_sign_slots":1,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"4":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057393-2057406
+Unicode: אשר נעשו תחת##[  השמש והנה הכל הבל ורעות רוח ׃ 
+Source: aCr noCw tjt|] hCmC whnh hkl hbl wrowt rwj . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057393	"אשר"	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	0	0	[{"slots":"1276510-1276512","type":"cons","glyphs_unicode":["א","ש","ר"]}]
+2057394	"נעשו"	"NO_LETTER_RECONSTRUCTION_MARKED"	4	0	0	0	[{"slots":"1276513-1276516","type":"cons","glyphs_unicode":["נ","ע","ש","ו"]}]
+2057395	"תחת##[ "	"NO_LETTER_RECONSTRUCTION_MARKED"	3	0	1	0	[{"slots":"1276517-1276518","type":"cons","glyphs_unicode":["ת","ח"]},{"slots":"1276519","type":"cons","glyphs_unicode":["ת"],"unc":4}]
+2057396	"ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276520","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2057397	"שמש"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276521-1276523","type":"cons","glyphs_unicode":["ש","מ","ש"],"rec":1}]
+2057398	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276524","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2057399	"הנה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276525-1276527","type":"cons","glyphs_unicode":["ה","נ","ה"],"rec":1}]
+2057400	"ה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276528","type":"cons","glyphs_unicode":["ה"],"rec":1}]
+2057401	"כל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1276529-1276530","type":"cons","glyphs_unicode":["כ","ל"],"rec":1}]
+2057402	"הבל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276531-1276533","type":"cons","glyphs_unicode":["ה","ב","ל"],"rec":1}]
+2057403	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276534","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2057404	"רעות"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276535-1276538","type":"cons","glyphs_unicode":["ר","ע","ו","ת"],"rec":1}]
+2057405	"רוח"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276539-1276541","type":"cons","glyphs_unicode":["ר","ו","ח"],"rec":1}]
+2057406	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1276542","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1276543","type":"punct","glyphs_unicode":["׃"],"rec":1}]
+End critical word annotations
+
+### Eccl 1:15 | 4Q110 | fragment f1_3 | line 9
+Record: L1601808-R002
+Physical: scroll=4Q110; scroll_node=1606777; fragment=f1_3; line=9; line_node=1601808
+Source locator: {"book":"Eccl","chapter":"1","verse":"15","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: ALL_LETTER_SLOTS_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":3,"sign_slots":12,"letter_slots":12,"reconstructed_letter_slots":12,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":12,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057407-2057409
+Unicode: מעוות לוא יוכל ] 
+Source: mowwt lwa ywkl[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057407	"מעוות"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1276544-1276548","type":"cons","glyphs_unicode":["מ","ע","ו","ו","ת"],"rec":1}]
+2057408	"לוא"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276549-1276551","type":"cons","glyphs_unicode":["ל","ו","א"],"rec":1}]
+2057409	"יוכל ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276552-1276555","type":"cons","glyphs_unicode":["י","ו","כ","ל"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1276556,"scroll":"4Q110","scroll_node":1606777,"fragment":"f1_3","line":"9","line_node":1601808,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057409,"next_word":null}
+
+### Eccl 1:15 | 4Q110 | fragment f1_3 | line 10
+Record: L1601809-R001
+Physical: scroll=4Q110; scroll_node=1606777; fragment=f1_3; line=10; line_node=1601809
+Source locator: {"book":"Eccl","chapter":"1","verse":"15","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":10,"sign_slots":30,"letter_slots":28,"reconstructed_letter_slots":25,"uncertain_letter_slots":1,"unmarked_letter_slots":2,"reconstructed_sign_slots":27,"uncertain_sign_slots":1,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{"3":1},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057410-2057419
+Unicode: [ להיות ] גבו#?[ ר וחסרון לוא יוכל להמנות ׃ 
+Source: ]lhywt[ gbw»]r wjsrwN lwa ywkl lhmnwt . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057410	"[ ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276557","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2057411	"היות ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276558-1276561","type":"cons","glyphs_unicode":["ה","י","ו","ת"],"rec":1}]
+2057412	"גבו#?[ ר"	"PARTLY_RECONSTRUCTED"	4	1	1	0	[{"slots":"1276562-1276563","type":"cons","glyphs_unicode":["ג","ב"]},{"slots":"1276564","type":"cons","glyphs_unicode":["ו"],"unc":3},{"slots":"1276565","type":"cons","glyphs_unicode":["ר"],"rec":1}]
+2057413	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276566","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2057414	"חסרון"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1276567-1276571","type":"cons","glyphs_unicode":["ח","ס","ר","ו","ן"],"rec":1}]
+2057415	"לוא"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276572-1276574","type":"cons","glyphs_unicode":["ל","ו","א"],"rec":1}]
+2057416	"יוכל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276575-1276578","type":"cons","glyphs_unicode":["י","ו","כ","ל"],"rec":1}]
+2057417	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276579","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2057418	"המנות"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1276580-1276584","type":"cons","glyphs_unicode":["ה","מ","נ","ו","ת"],"rec":1}]
+2057419	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1276585","type":"empty","glyphs_unicode":[""],"rec":1},{"slots":"1276586","type":"punct","glyphs_unicode":["׃"],"rec":1}]
+End critical word annotations
+
+### Eccl 1:16 | 4Q110 | fragment f1_3 | line 10
+Record: L1601809-R002
+Physical: scroll=4Q110; scroll_node=1606777; fragment=f1_3; line=10; line_node=1601809
+Source locator: {"book":"Eccl","chapter":"1","verse":"16","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: ALL_LETTER_SLOTS_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":8,"sign_slots":25,"letter_slots":24,"reconstructed_letter_slots":24,"uncertain_letter_slots":0,"unmarked_letter_slots":0,"reconstructed_sign_slots":25,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":0,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057420-2057427
+Unicode: דברתי אני עם לב׳י לאמור אני הנה ] 
+Source: dbrty any oM lb/y lamwr any hnh[ 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057420	"דברתי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	5	5	0	0	[{"slots":"1276587-1276591","type":"cons","glyphs_unicode":["ד","ב","ר","ת","י"],"rec":1}]
+2057421	"אני"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276592-1276594","type":"cons","glyphs_unicode":["א","נ","י"],"rec":1}]
+2057422	"עם"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1276595-1276596","type":"cons","glyphs_unicode":["ע","ם"],"rec":1}]
+2057423	"לב׳י"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276597-1276598","type":"cons","glyphs_unicode":["ל","ב"],"rec":1},{"slots":"1276599","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1276600","type":"cons","glyphs_unicode":["י"],"rec":1}]
+2057424	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276601","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2057425	"אמור"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276602-1276605","type":"cons","glyphs_unicode":["א","מ","ו","ר"],"rec":1}]
+2057426	"אני"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276606-1276608","type":"cons","glyphs_unicode":["א","נ","י"],"rec":1}]
+2057427	"הנה ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276609-1276611","type":"cons","glyphs_unicode":["ה","נ","ה"],"rec":1}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1276612,"scroll":"4Q110","scroll_node":1606777,"fragment":"f1_3","line":"10","line_node":1601809,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057427,"next_word":null}
+
+### Eccl 1:16 | 4Q110 | fragment f1_3 | line 11
+Record: L1601810-R001
+Physical: scroll=4Q110; scroll_node=1606777; fragment=f1_3; line=11; line_node=1601810
+Source locator: {"book":"Eccl","chapter":"1","verse":"16","halfverse":null}
+Source biblical flag: 1; interlinear: None; language: None; script: None
+Reconstruction status: PARTLY_RECONSTRUCTED
+Critical summary (word sign slots): {"word_nodes":16,"sign_slots":50,"letter_slots":46,"reconstructed_letter_slots":45,"uncertain_letter_slots":0,"unmarked_letter_slots":1,"reconstructed_sign_slots":47,"uncertain_sign_slots":0,"missing_sign_slots":0,"empty_sign_slots":1,"vacat_sign_slots":0,"corrected_sign_slots":0,"removed_sign_slots":0,"alternative_sign_slots":0,"uncertainty_levels":{},"correction_levels":{},"removal_levels":{}}
+Word nodes: 2057428-2057443
+Unicode: [ הגד ]ל[ תי והוספתי חכמה על כול אשר היה לפנ׳י בירושלם ולב׳י ראה ] ׃ 
+Source: ]hgd[l]ty whwspty jkmh ol kwl aCr hyh lpn/y byrwClM wlb/y rah[ . 
+Critical word annotations (TF sign features; independent of visible bracket boundaries):
+word_node	surface_unicode	letter_reconstruction	letter_slots	reconstructed_letter_slots	uncertain_letter_slots	missing_sign_slots	sign_runs
+2057428	"[ הגד ]ל[ תי"	"PARTLY_RECONSTRUCTED"	6	5	0	0	[{"slots":"1276613-1276615","type":"cons","glyphs_unicode":["ה","ג","ד"],"rec":1},{"slots":"1276616","type":"cons","glyphs_unicode":["ל"]},{"slots":"1276617-1276618","type":"cons","glyphs_unicode":["ת","י"],"rec":1}]
+2057429	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276619","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2057430	"הוספתי"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	6	6	0	0	[{"slots":"1276620-1276625","type":"cons","glyphs_unicode":["ה","ו","ס","פ","ת","י"],"rec":1}]
+2057431	"חכמה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	4	4	0	0	[{"slots":"1276626-1276629","type":"cons","glyphs_unicode":["ח","כ","מ","ה"],"rec":1}]
+2057432	"על"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	2	2	0	0	[{"slots":"1276630-1276631","type":"cons","glyphs_unicode":["ע","ל"],"rec":1}]
+2057433	"כול"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276632-1276634","type":"cons","glyphs_unicode":["כ","ו","ל"],"rec":1}]
+2057434	"אשר"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276635-1276637","type":"cons","glyphs_unicode":["א","ש","ר"],"rec":1}]
+2057435	"היה"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276638-1276640","type":"cons","glyphs_unicode":["ה","י","ה"],"rec":1}]
+2057436	"ל"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276641","type":"cons","glyphs_unicode":["ל"],"rec":1}]
+2057437	"פנ׳י"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276642-1276643","type":"cons","glyphs_unicode":["פ","נ"],"rec":1},{"slots":"1276644","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1276645","type":"cons","glyphs_unicode":["י"],"rec":1}]
+2057438	"ב"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276646","type":"cons","glyphs_unicode":["ב"],"rec":1}]
+2057439	"ירושלם"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	6	6	0	0	[{"slots":"1276647-1276652","type":"cons","glyphs_unicode":["י","ר","ו","ש","ל","ם"],"rec":1}]
+2057440	"ו"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	1	1	0	0	[{"slots":"1276653","type":"cons","glyphs_unicode":["ו"],"rec":1}]
+2057441	"לב׳י"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276654-1276655","type":"cons","glyphs_unicode":["ל","ב"],"rec":1},{"slots":"1276656","type":"sep","glyphs_unicode":["׳"],"rec":1},{"slots":"1276657","type":"cons","glyphs_unicode":["י"],"rec":1}]
+2057442	"ראה ]"	"ALL_LETTER_SLOTS_RECONSTRUCTED"	3	3	0	0	[{"slots":"1276658-1276660","type":"cons","glyphs_unicode":["ר","א","ה"],"rec":1}]
+2057443	"׃"	"NO_LETTER_SLOTS"	0	0	0	0	[{"slots":"1276661","type":"empty","glyphs_unicode":[""]},{"slots":"1276662","type":"punct","glyphs_unicode":["׃"]}]
+End critical word annotations
+Standalone signs (physical positions; not assigned to a verse):
+  {"slot":1276663,"scroll":"4Q110","scroll_node":1606777,"fragment":"f1_3","line":"11","line_node":1601810,"type":"term","glyph_unicode":"╱","glyph_source":"╱","language_flag":null,"script":null,"flags":{},"clusters":[],"previous_word":2057443,"next_word":null}
+

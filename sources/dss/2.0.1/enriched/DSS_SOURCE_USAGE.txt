@@ -1,0 +1,35 @@
+DSS SOURCE USE FOR THE BIBLE STUDY PLUGIN
+
+Retrieve an exact passage per source scroll node. Use the explicit critical
+annotations, which retain reconstruction and uncertainty across bracket
+boundaries. Read the supplied edition's Unicode transcription and original
+encoding together where a disputed detail matters. Keep fragment/line references.
+
+Quote reconstructed letters as editorial reconstructions. Separate unmarked
+letters, uncertainty, missing-sign tokens, corrections, removals, and alternatives.
+Unmarked means no relevant TF flag; it is not an independent ink verification.
+Counts describe the supplied slots; never turn them into a percentage of how
+much of an entire verse survives. Do not fill gaps from MT/LXX without labelling it.
+
+For grammar, retrieve the linguistic schema, raw source tag, source lexeme,
+converted source features, and any derived analysis. Lexeme pointing and parsing
+are linguistic analyses, including where the surface text is reconstructed.
+Original morpho is Abegg's tag; source decompositions and BHSA additions are
+distinct. Preserve both analyses when they differ and explain their tag systems.
+Do not claim a derived model was independently verified or that a pipeline-level
+correction statement proves manual review of this token. Inspect merr if present.
+Vocabulary and roots support contextual interpretation; they do not generate it.
+
+Source biblical flags describe source classification. Non-biblical material can
+quote scripture, and verse mapping does not by itself establish manuscript genre.
+Unmapped fragments keep their physical identities. Repeated manuscript labels
+may be multiple TF source groups; do not count them as independent corroboration.
+
+Use manuscript catalogues, editions, images, and primary scholarship for dating,
+genre, palaeography, or arguments preferring a reading. These exports do not supply
+those judgements. Cite the particular witness and distinguish its transcription,
+editorial reconstruction, linguistic analysis, and the study's own inference.
+
+Proceed from textual evidence to translation and contextual exegesis, then biblical
+development and canonical synthesis. A theological preference cannot establish
+a manuscript reading. Explain material alternatives and the limits of the evidence.

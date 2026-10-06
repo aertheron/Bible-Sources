@@ -1,0 +1,33 @@
+{
+  "source_version": "2.0.1",
+  "saved_records_checked": 66557,
+  "original_transcription_lines_unchanged": true,
+  "saved_words_checked_directly_against_tf": 500995,
+  "saved_word_sign_annotations_checked_directly_against_tf": 1409980,
+  "all_65_word_feature_streams_unchanged": true,
+  "verse_scroll_node_summaries_checked": 11910,
+  "all_source_sign_slots_accounted_for": 1430241,
+  "gzip_inventories_losslessly_preserved": {
+    "record_status.jsonl.gz": 66557,
+    "other_linguistic_nodes.jsonl.gz": 10890,
+    "standalone_signs.jsonl.gz": 20261
+  },
+  "bracket_boundary_regressions": {
+    "1802296": {
+      "surface": "ו",
+      "status": "ALL_LETTER_SLOTS_RECONSTRUCTED"
+    },
+    "1802297": {
+      "surface": "יברך",
+      "status": "ALL_LETTER_SLOTS_RECONSTRUCTED"
+    },
+    "1802298": {
+      "surface": "אות׳ ]ם",
+      "status": "PARTLY_RECONSTRUCTED"
+    }
+  },
+  "scope": "Conversion and annotation fidelity to supplied TF; not independent examination of scroll images.",
+  "exact_passage_lookup_checked": true,
+  "exact_record_lookup_checked": true,
+  "absent_passage_not_treated_as_a_reading": true
+}

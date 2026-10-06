@@ -1,0 +1,4850 @@
+{
+  "OSHB:aev": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 0,
+      "byte_length": 1282,
+      "sha256": "6d36dca074c5b993d53da1ee1ae1c876687a5b86cfda8a32460d02893ae3b7f9"
+    }
+  ],
+  "OSHB:aft": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 1282,
+      "byte_length": 1287,
+      "sha256": "b9e8708e8b9a8aa9beaaac710b389f6fbab5f7372dcaa4b5625b154d0f78e709"
+    }
+  ],
+  "OSHB:agk": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 2569,
+      "byte_length": 1293,
+      "sha256": "94c284229958903e9b779d6ff573090db7e31d348d7b552cd98ec242eb714913"
+    }
+  ],
+  "OSHB:agm": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 3862,
+      "byte_length": 963,
+      "sha256": "35d292e0b8248bfd32e2cddfdd5686ce5e79fb1c36210f2c759f489036248d2d"
+    }
+  ],
+  "OSHB:aks": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 4825,
+      "byte_length": 1289,
+      "sha256": "62aadf449f9da341aff2d0263220666ee57bea775726ded737253fb3d7e10014"
+    }
+  ],
+  "OSHB:aqq": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 6114,
+      "byte_length": 1359,
+      "sha256": "9a3dc42daea754012a589c577fb048e605dbeb68b3005c1db53655a32c598fb1"
+    }
+  ],
+  "OSHB:are": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 7473,
+      "byte_length": 1109,
+      "sha256": "d89a8849b3f924b32602b3672402b650da00c117ce9f0f0dd1cc21ca0f30b448"
+    }
+  ],
+  "OSHB:arn": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 8582,
+      "byte_length": 1595,
+      "sha256": "fb0fa66bf125266afa774c974ae9f336fbc4563ed038fc91d1103ca727af8cc3"
+    }
+  ],
+  "OSHB:avh": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 10177,
+      "byte_length": 1200,
+      "sha256": "7cbe7e9882ac972624f957b723ef11da941113d349f736f1f952529e4d7558fc"
+    }
+  ],
+  "OSHB:avu": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 11377,
+      "byte_length": 1760,
+      "sha256": "b64bcc1da29edef17aaa3d637a1f9dc968205b1d8ff498d79492ef450574a185"
+    }
+  ],
+  "OSHB:aww": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 13137,
+      "byte_length": 1274,
+      "sha256": "9d9d22e4af01eccde85eb06114e8f438ce2a187eaa42cf6a844337b729a4952f"
+    }
+  ],
+  "OSHB:axn": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 14411,
+      "byte_length": 978,
+      "sha256": "544abf1d508b840236789b86395aa18b7bf163f00ae37be6f1f617e3eda52cfe"
+    }
+  ],
+  "OSHB:azf": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 15389,
+      "byte_length": 1119,
+      "sha256": "28eb1ad900b93bcae4c0ad9c3392fb5ecba30d6852f75b535a8c79d4ef2ad6a6"
+    }
+  ],
+  "OSHB:bdr": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 16508,
+      "byte_length": 961,
+      "sha256": "4806acf25e3b0b70fbc047c7651424f70aacf56600c5136a02bfff0e3162aebb"
+    }
+  ],
+  "OSHB:bgj": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 17469,
+      "byte_length": 1201,
+      "sha256": "8056403934131546d7f9c6f7d2f6fb948359eab1dd72b5514190d36aff49466c"
+    }
+  ],
+  "OSHB:bkr": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 18670,
+      "byte_length": 968,
+      "sha256": "40a75450d916c43852fe361827f3bf6592c37059ff38951cfdaa2a42a1991154"
+    }
+  ],
+  "OSHB:bne": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 19638,
+      "byte_length": 1906,
+      "sha256": "10312f3b84ce322a9e8f57f41d949b8c7b9917bb8f7246c12df8068c9eba08f1"
+    }
+  ],
+  "OSHB:bss": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 21544,
+      "byte_length": 1521,
+      "sha256": "82d95e23890208b16ee33bb654c2e16ebf493314fd4ec1fe7149666222f63720"
+    }
+  ],
+  "OSHB:bth": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 23065,
+      "byte_length": 1104,
+      "sha256": "01c0735733b8d88901783c7a85f56dbdfe9892df14e98ad958f52e0d34d0b0a4"
+    }
+  ],
+  "OSHB:bxx": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 24169,
+      "byte_length": 1032,
+      "sha256": "44d61e4ab4282546f96efdcee47b39e787a3f0369de8609e98ffac7ccf689c05"
+    }
+  ],
+  "OSHB:bxy": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 25201,
+      "byte_length": 1313,
+      "sha256": "e6506fa3f5433834a181d40962bb7368d1efeceada4245da5288cfbeb44c6f1b"
+    }
+  ],
+  "OSHB:bzf": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 26514,
+      "byte_length": 1731,
+      "sha256": "de81f5bd4499c0d87856025ce85cd0b196e46d0bba5d8c2657dd253f2322d9b1"
+    }
+  ],
+  "OSHB:caq": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 28245,
+      "byte_length": 1243,
+      "sha256": "23806e06356f4e973c258b82f9ea63455a7d3883c7433deb05145be33474b925"
+    }
+  ],
+  "OSHB:car": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 29488,
+      "byte_length": 1336,
+      "sha256": "88797d6a63c65cb30b3437a6123504cc805f1891b87e1b1c89c46032e384fe10"
+    }
+  ],
+  "OSHB:cbv": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 30824,
+      "byte_length": 999,
+      "sha256": "25f94b35775481334e910da358122c79dea558da3c7dc88053d9f859c75a3db7"
+    }
+  ],
+  "OSHB:cca": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 31823,
+      "byte_length": 1398,
+      "sha256": "6ea96a9743561ecc18b5ceee5c3dcc4c65341a680ea1d968c268a65af5991854"
+    }
+  ],
+  "OSHB:cqj": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 33221,
+      "byte_length": 1425,
+      "sha256": "9595067d361a940b84fe8c4e9049a6f8539f6faa76c0b8145d0985905a15b30e"
+    }
+  ],
+  "OSHB:cqm": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 34646,
+      "byte_length": 1363,
+      "sha256": "a52bfbba8c75e79729f71f1e3e1d7a5d36293657c8d6955d113637d9ac67196e"
+    }
+  ],
+  "OSHB:czn": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 36009,
+      "byte_length": 1808,
+      "sha256": "476ca613bc369f293e14150d3f9da0f0b7d2492ff15a8f6a21350bc4f63ceb5c"
+    }
+  ],
+  "OSHB:daq": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 37817,
+      "byte_length": 3217,
+      "sha256": "16790fe40fbe364340b5b94b06527f6a3f91ceee63c46c287b1986e3b6a3724c"
+    }
+  ],
+  "OSHB:dlw": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 41034,
+      "byte_length": 1341,
+      "sha256": "30a8a1a54464ec81c60ff970d1e275f3d277dffff7e412a2fc9d1c4752871e90"
+    }
+  ],
+  "OSHB:dsy": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 42375,
+      "byte_length": 2016,
+      "sha256": "ad4fa02cc6f6ddb662951addff515bbccb8c4f16fc7871a601c378f9fa9b7084"
+    }
+  ],
+  "OSHB:dta": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 44391,
+      "byte_length": 1033,
+      "sha256": "daebc48bfaf2ee4f47d5fd69b01a85312847bc9a94fd32f26233b222eddf70f4"
+    }
+  ],
+  "OSHB:dtb": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 45424,
+      "byte_length": 1271,
+      "sha256": "62e74f1aaa21db82c7f7c04a713e007c49d8460b24b83dbc3681f40b59143b5f"
+    }
+  ],
+  "OSHB:ebf": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 46695,
+      "byte_length": 1093,
+      "sha256": "7ed2c322b49677532125f076d17994aa7ff7899a98505698c8356f7c62fc1fcf"
+    }
+  ],
+  "OSHB:ebk": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 47788,
+      "byte_length": 1006,
+      "sha256": "82e06294e80520fd93f8e61d4402d69d550596370d09f52f6c73e5b9923f260c"
+    }
+  ],
+  "OSHB:ecb": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 48794,
+      "byte_length": 983,
+      "sha256": "b4c94cd841e1712e4ce5242f69ae622ad0cc18a60ab45b9def7086bc6ef4d255"
+    }
+  ],
+  "OSHB:ecc": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 49777,
+      "byte_length": 1321,
+      "sha256": "5b494d02d0ad8c16a277d39c70603654ea242899dab5554f6b7498d69e39144b"
+    }
+  ],
+  "OSHB:eco": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 51098,
+      "byte_length": 984,
+      "sha256": "a2894d2e3ce165c83837b308c98890e67fb40d8a5c914df01a1e84a3e4e3c77a"
+    }
+  ],
+  "OSHB:ecp": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 52082,
+      "byte_length": 1510,
+      "sha256": "6606b4e9084858c9f78d49ff592e1212e9273027cfa18b26e5f36f70837a5b5b"
+    }
+  ],
+  "OSHB:evc": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 53592,
+      "byte_length": 992,
+      "sha256": "17b14c17e69e8f50f916046e531c96dcbd9106a538a55704e79d9ddfa5ab6a21"
+    }
+  ],
+  "OSHB:evt": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 54584,
+      "byte_length": 1707,
+      "sha256": "f62ab51120a87695eed589600e3da49d5d1344b2b4a21019ae853db97887e17b"
+    }
+  ],
+  "OSHB:fad": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 56291,
+      "byte_length": 1205,
+      "sha256": "72971f3d5fb76b17d451c110699e0d515e81598c55e2ecb26683bc7bb86c821d"
+    }
+  ],
+  "OSHB:fkv": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 57496,
+      "byte_length": 1220,
+      "sha256": "618440bf3e2f42e0c66c64601db122c0511580a247fa27de667b80c0e45ed98a"
+    }
+  ],
+  "OSHB:flu": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 58716,
+      "byte_length": 1493,
+      "sha256": "128f2df40811a7a21a0e90e950a3b40253b4c708fc2386ff7e1d83b0f1492056"
+    }
+  ],
+  "OSHB:foc": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 60209,
+      "byte_length": 1626,
+      "sha256": "a670a9eaec16206d2bac4a308462230b80a4ed557ed9ab88f0309772769dd7f1"
+    }
+  ],
+  "OSHB:fxa": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 61835,
+      "byte_length": 1762,
+      "sha256": "6ff6aa36a36cb00aa9958b6b46268009158740983a82ddd2f1e4fb586c4dd7a6"
+    }
+  ],
+  "OSHB:fxb": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 63597,
+      "byte_length": 1036,
+      "sha256": "dd289b2c1a098b8de9555cc04aad51845f5845eccc092543e2e1d6a79bc332ed"
+    }
+  ],
+  "OSHB:fxn": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 64633,
+      "byte_length": 1119,
+      "sha256": "22c00173c04375085a69c1dfcf12cac01ada77ec8e35cadeb76a1b97a2bcf225"
+    }
+  ],
+  "OSHB:gbj": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 65752,
+      "byte_length": 1826,
+      "sha256": "25cb54f062039b43bc5658063fd277daeaae1974fbfeca0330b9682cb0b0c49e"
+    }
+  ],
+  "OSHB:gbk": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 67578,
+      "byte_length": 979,
+      "sha256": "893e35fdc94a25148e00715590d3454e791565ae3a453adec574646814dec080"
+    }
+  ],
+  "OSHB:gbp": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 68557,
+      "byte_length": 1884,
+      "sha256": "521b4e83be28d3a87e3e71b0ea20ae4d94e511fbdf870828f0cd9b8e9b6ddcff"
+    }
+  ],
+  "OSHB:ghx": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 70441,
+      "byte_length": 1240,
+      "sha256": "570c9c00b0bad9c109a34ba58bd22ccc4600eeee94b4a7e412ff1bd8df8e5424"
+    }
+  ],
+  "OSHB:han": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 71681,
+      "byte_length": 1178,
+      "sha256": "06fad93c8ae297e2da2b88e9d0c26464156c26c128344850c8734991104e0b0d"
+    }
+  ],
+  "OSHB:hip": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 72859,
+      "byte_length": 989,
+      "sha256": "aad3556956843f18dbb29de0875d804bd8b81392891d240d12d3976b41be22de"
+    }
+  ],
+  "OSHB:hsr": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 73848,
+      "byte_length": 1313,
+      "sha256": "b9148b9d7514c3b4b50a3ef87efa3824d4f009712c7a2a9934d98ebf16fd7b01"
+    }
+  ],
+  "OSHB:htg": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 75161,
+      "byte_length": 1219,
+      "sha256": "be9faa3b842ee6fe244dd050f425958f7264c6e0cca6006083aae3935c097faa"
+    }
+  ],
+  "OSHB:hvf": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 76380,
+      "byte_length": 1456,
+      "sha256": "ea02ad9043c88de5bce1cef458de9c112cbd35698d2d82c25064bed8d10b8b4f"
+    }
+  ],
+  "OSHB:hxt": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 77836,
+      "byte_length": 978,
+      "sha256": "8fb8d0918cf77fc580fabd1cea3a28625322e5472f1deb8b35ad9b0d83736211"
+    }
+  ],
+  "OSHB:hyc": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 78814,
+      "byte_length": 1483,
+      "sha256": "4221b087584a983f87f231a71bc33aed60eabc420274d8cfdcdee07e347ef703"
+    }
+  ],
+  "OSHB:hyr": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 80297,
+      "byte_length": 1158,
+      "sha256": "559076b7e45dc219f61aa56a2cc7c72bc7201c0f2a7f8f4f41575a192d2d7497"
+    }
+  ],
+  "OSHB:ied": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 81455,
+      "byte_length": 1898,
+      "sha256": "f20934b49d8f48d70d99f0605944b98050c48dbb6056e25f108774aac39a50da"
+    }
+  ],
+  "OSHB:iib": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 83353,
+      "byte_length": 1207,
+      "sha256": "c9b7159694bc3e8c7e223f229049c756313471df69b9c713126c99b842fec001"
+    }
+  ],
+  "OSHB:ikq": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 84560,
+      "byte_length": 1814,
+      "sha256": "f82df3d5a32c9a1634c2b13cb0b9bf162db5cb12c723fc0abc1bd8a8a43b2cb1"
+    }
+  ],
+  "OSHB:inm": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 86374,
+      "byte_length": 1940,
+      "sha256": "6b99343294f3c474d06fd7b5134fe3789b19045d1a4121162e6fa951a07c7925"
+    }
+  ],
+  "OSHB:iof": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 88314,
+      "byte_length": 973,
+      "sha256": "eb8bbb12d610ee64cb9b6dbc0987c43071e9e781494a20d3c234ac4ee26fa867"
+    }
+  ],
+  "OSHB:iuq": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 89287,
+      "byte_length": 1137,
+      "sha256": "6a8ad81cf3f110f8b8c662ec31c281cad0383b704dc9f0502d4091c046d4c117"
+    }
+  ],
+  "OSHB:iyz": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 90424,
+      "byte_length": 1447,
+      "sha256": "a7b580d4d5c8ea1bbee0f9421f45fc041abb906c659eebed40b889ee41c46ab9"
+    }
+  ],
+  "OSHB:izb": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 91871,
+      "byte_length": 1781,
+      "sha256": "b9eef284d75636f03f041ed885954d86f2d77428fa0ebcd232aea471116b7fd7"
+    }
+  ],
+  "OSHB:izh": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 93652,
+      "byte_length": 1262,
+      "sha256": "fe7cb66ab2fa66db40adcf0f0928934afd3d78cd2a3caf92dd2f152d362abcf5"
+    }
+  ],
+  "OSHB:jbe": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 94914,
+      "byte_length": 1185,
+      "sha256": "618fc6ccb176a37d007d6eff17e774d4bef2e2e1f645d6c25a31a0d1d83face8"
+    }
+  ],
+  "OSHB:jei": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 96099,
+      "byte_length": 1036,
+      "sha256": "f786d4408773a97166059fd71fddd3ba4f6f12661992400c6c8b64b246734354"
+    }
+  ],
+  "OSHB:jlm": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 97135,
+      "byte_length": 1064,
+      "sha256": "f16c1e60586be447e6d5d68d228f8bf5ff3e1b2436173a2e6ddd6e8f47ef594d"
+    }
+  ],
+  "OSHB:jln": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 98199,
+      "byte_length": 1077,
+      "sha256": "7b4a271ec3efec2eff25c54e82bab48e5823a89a6d18259c1c6d6377fa905778"
+    }
+  ],
+  "OSHB:kay": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 99276,
+      "byte_length": 1182,
+      "sha256": "10a266190e6e4248546e35d86a1fca1b0aec8f867a4568e3eb129c7b91a9e466"
+    }
+  ],
+  "OSHB:kgr": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 100458,
+      "byte_length": 1507,
+      "sha256": "90fba31edb15a242ca6657017fe15adfad1e01c00a40e130c300f57844e77df2"
+    }
+  ],
+  "OSHB:khg": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 101965,
+      "byte_length": 1236,
+      "sha256": "c42b41c093ee8b48d83f6626e30a9b8851f87730f3cda58577239889c685c3d8"
+    }
+  ],
+  "OSHB:kmw": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 103201,
+      "byte_length": 984,
+      "sha256": "a3a6c1d2db319514360555abb75497439e5a67b15fa38a3dd766154fb8511ce8"
+    }
+  ],
+  "OSHB:kmy": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 104185,
+      "byte_length": 1208,
+      "sha256": "ae14257fe64201e1d6182a4d5716239da1e1322cc45a8ed732644a7118d0b1f3"
+    }
+  ],
+  "OSHB:koy": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 105393,
+      "byte_length": 1279,
+      "sha256": "ca6e2b0a8ce157525aba04acc2bea23ecae1859c71269f4d3a72dab171153e06"
+    }
+  ],
+  "OSHB:koz": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 106672,
+      "byte_length": 1279,
+      "sha256": "780cbd05cb15122fa8d4440e3c002b10ce701562452631d1322032f166352060"
+    }
+  ],
+  "OSHB:kqi": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 107951,
+      "byte_length": 1620,
+      "sha256": "46630bd462442b23fd04eb9a25a5a61eee78c466fcb4cbb18aca62a5bf8f4b38"
+    }
+  ],
+  "OSHB:kqj": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 109571,
+      "byte_length": 1802,
+      "sha256": "b5b2eec714cc98667fa64df4af23e60d0add84f63aaac74fcedadbcea7338f64"
+    }
+  ],
+  "OSHB:kql": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 111373,
+      "byte_length": 1459,
+      "sha256": "f2fdda072aa48592eaeab0b929f6ee827c4b5d3f440ff05044d0e1525f6dbf99"
+    }
+  ],
+  "OSHB:kuu": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 112832,
+      "byte_length": 1149,
+      "sha256": "584ec418e503c8016b5326e90ef142de9cc04c4b5a047bb19d3b7ee225681f79"
+    }
+  ],
+  "OSHB:lct": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 113981,
+      "byte_length": 983,
+      "sha256": "d02814be1e48551d186d1549e341009a09515f81eb2c26853c937ece387ac642"
+    }
+  ],
+  "OSHB:lds": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 114964,
+      "byte_length": 2574,
+      "sha256": "37442dd75d62b2999063891bc488bbba510ab12da20e2406c98590609047b814"
+    }
+  ],
+  "OSHB:lek": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 117538,
+      "byte_length": 1217,
+      "sha256": "2f11c28dd1e8694bba4d9d79969c17383f181123e5f6b4c6fcc481205aefddac"
+    }
+  ],
+  "OSHB:lel": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 118755,
+      "byte_length": 1003,
+      "sha256": "2aa8bfcb8fdbc97bc2dde0c072dcc5e337217d2cdf16b7ae6fb8d159641a36ff"
+    }
+  ],
+  "OSHB:ltm": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 119758,
+      "byte_length": 1557,
+      "sha256": "d8f271048c4fed9b9decba8af8b6ee7f77882ab52cc70758922c12079798b169"
+    }
+  ],
+  "OSHB:lva": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 121315,
+      "byte_length": 977,
+      "sha256": "20090867eed1df51fc0accb172d970c0bdb0a66f18ea767a7141712860c5d1d6"
+    }
+  ],
+  "OSHB:lvg": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 122292,
+      "byte_length": 972,
+      "sha256": "380419d55a32eebb0a2309331c1551204d2bde1ea3111bd030cb74ca6872fe7c"
+    }
+  ],
+  "OSHB:lvm": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 123264,
+      "byte_length": 1001,
+      "sha256": "8dbcec6aadbc77b3b96c621a9c4f2e6c861fa84b81c6d70a00bd4fea260a65f3"
+    }
+  ],
+  "OSHB:mfl": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 124265,
+      "byte_length": 1078,
+      "sha256": "0e3c42d8a40ef6994ef74688676f2f9dde7dc2d8c1a2e22507d6b4a236b23289"
+    }
+  ],
+  "OSHB:mkk": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 125343,
+      "byte_length": 1034,
+      "sha256": "ee8d13c02493ab8b32cb01d2e3a56d64d5efafedc9224ab1abb3831b5e5bac76"
+    }
+  ],
+  "OSHB:mlk": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 126377,
+      "byte_length": 3866,
+      "sha256": "6d7a680d221cc933827bb6eb0e8f9e16a4b0f98bfaa31540d7b6c012e4797c89"
+    }
+  ],
+  "OSHB:mvo": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 130243,
+      "byte_length": 1510,
+      "sha256": "e0ce8e515a34e7954c97038a344cd4c4f0d7b7367c858fec04414055b91be16d"
+    }
+  ],
+  "OSHB:mzb": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 131753,
+      "byte_length": 1275,
+      "sha256": "296b76f35af4f4cd7709be770af2056afaba2e4d5aa86dcccfeb35974bca6d76"
+    }
+  ],
+  "OSHB:mzc": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 133028,
+      "byte_length": 1011,
+      "sha256": "1eb729ea35d48a65c1ee0ee235988b1e980182eba45a5b18501489d7be6796a8"
+    }
+  ],
+  "OSHB:nam": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 134039,
+      "byte_length": 1441,
+      "sha256": "4775de46b80ab99ad50d6355b976cada9884b00adf046b55549de54c4d41b647"
+    }
+  ],
+  "OSHB:noq": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 135480,
+      "byte_length": 1195,
+      "sha256": "3d55030f52a3a053a8c70f5b7abae2e9b6c1f76483d0221e92a696b2fb909f4c"
+    }
+  ],
+  "OSHB:nqc": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 136675,
+      "byte_length": 1157,
+      "sha256": "caffe8761fc24b34dce0a674a492fe2152b89c8be2af60642d661572467d9d76"
+    }
+  ],
+  "OSHB:oaf": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 137832,
+      "byte_length": 975,
+      "sha256": "e440c6978b5ee070b70d414ac0128bae361fede649e3a30fd889f517ac6c4d44"
+    }
+  ],
+  "OSHB:oax": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 138807,
+      "byte_length": 981,
+      "sha256": "c7269c6a62c1edfbf8a4719bcd3d4322feb8f5e71d39ee0435c9030ceaae4cea"
+    }
+  ],
+  "OSHB:ods": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 139788,
+      "byte_length": 946,
+      "sha256": "65dc6ac31c445be08602d9bebe585f5130dfca8987666d73c6f763b6dcf0abbe"
+    }
+  ],
+  "OSHB:out": [
+    {
+      "file": "sources/lexical/selected/LEX-OSHB.jsonl",
+      "byte_offset": 140734,
+      "byte_length": 989,
+      "sha256": "5bed71f14c991846acafa9186f4b547fc915c661a9ed279f40958899dd2c6a26"
+    }
+  ],
+  "STEP:TBESH:H0113:L199": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 0,
+      "byte_length": 1191,
+      "sha256": "139eb16805d6db429628b0ed00d85ebeb635c8f1fb8125cbbdd8389e6e5b5653"
+    }
+  ],
+  "STEP:TBESH:H0136:L228": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 1191,
+      "byte_length": 1197,
+      "sha256": "d3cd618490cbcfedde7a8ee7ef1b52215e28072b123a48dedfbd09a4c59016c3"
+    }
+  ],
+  "STEP:TBESH:H0157G:L253": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 2388,
+      "byte_length": 1190,
+      "sha256": "607a4ee09bed2d22b950d12ce19fc5ffbe21bcc4d449069aa996fd612023a774"
+    }
+  ],
+  "STEP:TBESH:H0157H:L254": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 3578,
+      "byte_length": 1190,
+      "sha256": "9dffb1b19eb90613e117f85e22cfa350ad19127f63895bfdb06ebe804c12031f"
+    }
+  ],
+  "STEP:TBESH:H0160:L257": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 4768,
+      "byte_length": 1196,
+      "sha256": "d29e38e487d11674bdfa52984ee1854787333872ac9a6ea71e2643a7e4d1e286"
+    }
+  ],
+  "STEP:TBESH:H0259:L390": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 5964,
+      "byte_length": 1188,
+      "sha256": "143dbb7463bc25aadf15cf81d9392ec21acee0512fdcc8cc1c09e4e9c4490016"
+    }
+  ],
+  "STEP:TBESH:H0410G:L587": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 7152,
+      "byte_length": 1185,
+      "sha256": "d8a4fb3d935c54c2f1e093bab5efce24017fd15efe14bdfd30666c7b2be1a04f"
+    }
+  ],
+  "STEP:TBESH:H0410H:L588": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 8337,
+      "byte_length": 1185,
+      "sha256": "3129d6946bdab4b1b2a646f64bb3f96a2ec6a829301a9a592dde915f41d637f8"
+    }
+  ],
+  "STEP:TBESH:H0410I:L589": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 9522,
+      "byte_length": 1201,
+      "sha256": "1f4211e4252a7480483b65afab178d056d745cdd065d9601280ee80b30baf091"
+    }
+  ],
+  "STEP:TBESH:H0410J:L590": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 10723,
+      "byte_length": 1185,
+      "sha256": "135d0e4ef5f426c49b38b73e52c0896b1e737fce1730c23586e682e22ce7f000"
+    }
+  ],
+  "STEP:TBESH:H0410K:L591": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 11908,
+      "byte_length": 1185,
+      "sha256": "2c9dc933e8a9d750e4beda38526df918ed4332740cea51a76e41c78c9d38bc60"
+    }
+  ],
+  "STEP:TBESH:H0410L:L592": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 13093,
+      "byte_length": 1185,
+      "sha256": "0e4d13f7301fc320c30779ec09b45837c3ddd3d3f0961fc7f06d956f2ab731b8"
+    }
+  ],
+  "STEP:TBESH:H0426:L613": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 14278,
+      "byte_length": 1191,
+      "sha256": "5ed98e6bbd90fd58a949c434d68095897a17ea75664130f845e65168d5cef6e2"
+    }
+  ],
+  "STEP:TBESH:H0430G:L617": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 15469,
+      "byte_length": 1201,
+      "sha256": "ecd894fc7a69a4215dbb250610ccb59bec839838caa60d9a4666e785e0003df4"
+    }
+  ],
+  "STEP:TBESH:H0430H:L618": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 16670,
+      "byte_length": 1201,
+      "sha256": "19accd7308560127b95b121f1a37bf77221b1dda225f03c20f0a5df1e8735ea4"
+    }
+  ],
+  "STEP:TBESH:H0430I:L619": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 17871,
+      "byte_length": 1201,
+      "sha256": "bbd51cc7565a5964925d40f47e91ba54fae81c47ef15ec77e339b0685b7627e3"
+    }
+  ],
+  "STEP:TBESH:H0433:L622": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 19072,
+      "byte_length": 1195,
+      "sha256": "00beb9c9d0c3c1e68cbc87982adaff6bebbb5e32d52da94849a6843b9fd6fe8a"
+    }
+  ],
+  "STEP:TBESH:H0530:L816": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 20267,
+      "byte_length": 1198,
+      "sha256": "02e3eab7b3b1cbc43429f348c6f56bfd8adfa79177f849742074eecb979180dc"
+    }
+  ],
+  "STEP:TBESH:H0539:L825": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 21465,
+      "byte_length": 1187,
+      "sha256": "38861bf6f2a068b8244a8488eb72ca4906324229227ea220bc87fc88d681abf0"
+    }
+  ],
+  "STEP:TBESH:H0571G:L876": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 22652,
+      "byte_length": 1192,
+      "sha256": "eac5a422009bdf51062501246742df86fdca5aa37898f7cb7e0f462a7870316c"
+    }
+  ],
+  "STEP:TBESH:H0571H:L877": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 23844,
+      "byte_length": 1192,
+      "sha256": "6eadfa93d6b7ea0902f5bc4c4c5ca0020c37704b856f773de432326be67f2ac2"
+    }
+  ],
+  "STEP:TBESH:H0571I:L878": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 25036,
+      "byte_length": 1192,
+      "sha256": "cb593e8ddabaa61f459e61fc5b8212755b99df0ea9f8edd6c83380f6481b51cb"
+    }
+  ],
+  "STEP:TBESH:H0589:L898": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 26228,
+      "byte_length": 1192,
+      "sha256": "9ab8351931f53fc1ad0f8db729f7e1c1a4c3d0b85054314819f88d1064025ff4"
+    }
+  ],
+  "STEP:TBESH:H0606:L915": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 27420,
+      "byte_length": 1192,
+      "sha256": "253dd7bc11e37033af7c8939ba42b7905188e8a334dfc1813986e1425ea64fe4"
+    }
+  ],
+  "STEP:TBESH:H0639G:L954": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 28612,
+      "byte_length": 1186,
+      "sha256": "bd6d85aef7575040b212e4b483eedcd2f83d2eb48fd488e2c6ff07f5d3744aec"
+    }
+  ],
+  "STEP:TBESH:H0639H:L955": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 29798,
+      "byte_length": 1186,
+      "sha256": "1b1855bf68a1ae55289f509c2b70d6cc780e6ffcfd9b21e6dee453f05beb4022"
+    }
+  ],
+  "STEP:TBESH:H0639I:L956": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 30984,
+      "byte_length": 1186,
+      "sha256": "2ac57d958ed026b9fc51568778bc289c387e196fe0b4d841bf314baf941140e9"
+    }
+  ],
+  "STEP:TBESH:H0750:L1088": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 32170,
+      "byte_length": 1193,
+      "sha256": "69a236c7376076040c252e6864c3dd406906169eee878bd45aa1fbe74d3623e0"
+    }
+  ],
+  "STEP:TBESH:H0817:L1180": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 33363,
+      "byte_length": 1195,
+      "sha256": "d89f7756a2c8b7f25a326f5bf3dc37161779bb9703d4f3d4846a89c1982be369"
+    }
+  ],
+  "STEP:TBESH:H0922:L1309": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 34558,
+      "byte_length": 1194,
+      "sha256": "843057db994c849cdad624df39eb629fcbeb287dc99b25926b6922257767513b"
+    }
+  ],
+  "STEP:TBESH:H0977:L1378": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 35752,
+      "byte_length": 1194,
+      "sha256": "0e26b3315c5be7c9f561a72ffee2e3e787c966fbb048c833fb1a1e5cdab260aa"
+    }
+  ],
+  "STEP:TBESH:H1247:L1765": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 36946,
+      "byte_length": 1190,
+      "sha256": "a520486c68c371c5710f6d2eb84da8a5481de3247e5329cc40cbb611d3ca9c8d"
+    }
+  ],
+  "STEP:TBESH:H1285:L1815": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 38136,
+      "byte_length": 1198,
+      "sha256": "6205fd9c0df02c6894e1316f398be52405e0b167d6048784dda11ea7ca4efe05"
+    }
+  ],
+  "STEP:TBESH:H1319:L1860": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 39334,
+      "byte_length": 1196,
+      "sha256": "a487465346c87ae3f0ca605eb594f99c7fa05122984d45a2557249e2456c32f1"
+    }
+  ],
+  "STEP:TBESH:H1320:L1861": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 40530,
+      "byte_length": 1198,
+      "sha256": "e3d2b74d9f58f72ca979805a6e52ee48ab27e30896243a5bc8ddac5abc76e958"
+    }
+  ],
+  "STEP:TBESH:H1696G:L2323": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 41728,
+      "byte_length": 1195,
+      "sha256": "3c7203dd4539ab11cb1b34cc740b2f957ad769c724bab46412fec4925ced9533"
+    }
+  ],
+  "STEP:TBESH:H1696H:L2324": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 42923,
+      "byte_length": 1195,
+      "sha256": "1b39918e63449482edded37c5b8917562c0544a9c4362737ff1f37254d6797ee"
+    }
+  ],
+  "STEP:TBESH:H1696I:L2325": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 44118,
+      "byte_length": 1195,
+      "sha256": "ab34843f773a8086038437a29cff1bb5fd317405459dd31ed874ce3929cfe26f"
+    }
+  ],
+  "STEP:TBESH:H1697G:L2326": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 45313,
+      "byte_length": 1199,
+      "sha256": "053e7344ffb1865cb4ec5d695feb23dd06240b88579370ed866dd1bd7286ed72"
+    }
+  ],
+  "STEP:TBESH:H1697H:L2327": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 46512,
+      "byte_length": 1199,
+      "sha256": "d9ae0dcde5b299f710f6396ad80cdda935c46671b32e043052c3aeb951dd4fef"
+    }
+  ],
+  "STEP:TBESH:H1697I:L2328": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 47711,
+      "byte_length": 1199,
+      "sha256": "f23ef62e0dc771c8bb960cdf8cb5f127fb6aae9af29645a1492a83e9e4da3ae7"
+    }
+  ],
+  "STEP:TBESH:H1697J:L2329": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 48910,
+      "byte_length": 1199,
+      "sha256": "c6868cbc927705bf28c193d2afbd431c501d14e20b8d03b0f6a7135cd204a45d"
+    }
+  ],
+  "STEP:TBESH:H1697K:L2330": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 50109,
+      "byte_length": 1199,
+      "sha256": "9fdfea889a7abe889b07ce5b84949794fe0b08b31230762240278984ab71d632"
+    }
+  ],
+  "STEP:TBESH:H1697L:L2331": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 51308,
+      "byte_length": 1199,
+      "sha256": "ed0c53a0e08afbf649e10dd0784d01ff667e7a609f9100ee46b7e50d92a8ffe2"
+    }
+  ],
+  "STEP:TBESH:H1697M:L2332": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 52507,
+      "byte_length": 1199,
+      "sha256": "058e81eb45b2f90ae560e9ce8fdd6d13fbced732c8888f554f4efe8634090519"
+    }
+  ],
+  "STEP:TBESH:H1697N:L2333": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 53706,
+      "byte_length": 1199,
+      "sha256": "93dfe8eabd7d3e359d13d265983305689902f84b6da1936e962bf16b65109f18"
+    }
+  ],
+  "STEP:TBESH:H1697O:L2334": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 54905,
+      "byte_length": 1199,
+      "sha256": "34a1f74aedef5b53a12c81124eb6bf41baab18baa78bd4b162fa194838af4ccf"
+    }
+  ],
+  "STEP:TBESH:H1931:L2616": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 56104,
+      "byte_length": 1192,
+      "sha256": "b37e010b71755e7c321529c5359be1bafc7068cafc515c08d51b2d5ac05ebe07"
+    }
+  ],
+  "STEP:TBESH:H1961:L2657": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 57296,
+      "byte_length": 1192,
+      "sha256": "39b3979d7dda6432b70a0eccad4f2445aebc1267ccbbe456debb52ef37dfb679"
+    }
+  ],
+  "STEP:TBESH:H2233G:L3050": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 58488,
+      "byte_length": 1198,
+      "sha256": "344cc07b4f415ce9ba296bb2a664cfe043fbf8d414a6a02d4285bad939c4fc6f"
+    }
+  ],
+  "STEP:TBESH:H2233H:L3051": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 59686,
+      "byte_length": 1198,
+      "sha256": "242728b38d50f65f534a60f1918b6658009de5d33c35776110aa8cd1190cf2ed"
+    }
+  ],
+  "STEP:TBESH:H2233I:L3052": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 60884,
+      "byte_length": 1198,
+      "sha256": "66b1f4f51bbdc306f259a35a06c5621c69cca0dd7fb231a661cb7f328611d05c"
+    }
+  ],
+  "STEP:TBESH:H2398:L3265": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 62082,
+      "byte_length": 1192,
+      "sha256": "37151a83ab056a724357a59bfafd17f1c1c55941da4abe9fde788767e4a8dff6"
+    }
+  ],
+  "STEP:TBESH:H2580:L3503": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 63274,
+      "byte_length": 1188,
+      "sha256": "bc40ecbbe6b7800cd85f56b81b976b2d3d6db94d9c65f90536bdfbe045fc5c9e"
+    }
+  ],
+  "STEP:TBESH:H2587:L3517": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 64462,
+      "byte_length": 1198,
+      "sha256": "ade6949ef1822bbe5ed2110ae7523c6bcc7c248127dae41fa9eae0dc7a5c28da"
+    }
+  ],
+  "STEP:TBESH:H3050:L4132": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 65660,
+      "byte_length": 1192,
+      "sha256": "fc7b50980ec8561c5258bfb4ccadfcad79c2af4e8c9cb215404d0c05d17701bc"
+    }
+  ],
+  "STEP:TBESH:H3068G:L4168": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 66852,
+      "byte_length": 1205,
+      "sha256": "b33b25843bb36693c2c885ad7c62787bd54ca36e308b465e5ae27ef7cc375a77"
+    }
+  ],
+  "STEP:TBESH:H3068H:L4169": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 68057,
+      "byte_length": 1204,
+      "sha256": "037bab2e8190787176f1e71e31d5c82202b41b46076df95951b7825666da2104"
+    }
+  ],
+  "STEP:TBESH:H3068I:L4170": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 69261,
+      "byte_length": 1204,
+      "sha256": "22b08e4d0fa2dea54e90d99fe665415f1642489c5a8d3740a0ea4c8e7272c680"
+    }
+  ],
+  "STEP:TBESH:H3176G:L4420": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 70465,
+      "byte_length": 1196,
+      "sha256": "cc70806aac743aecd486af9b2db7d8e6c0c6226cc9b8a94d63fa37a97d40a31e"
+    }
+  ],
+  "STEP:TBESH:H3176H:L4421": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 71661,
+      "byte_length": 1196,
+      "sha256": "0134f55e8ccc35c48b13d168e203ccc8f7e62be8fd8771b4069b6a9055ea22e4"
+    }
+  ],
+  "STEP:TBESH:H3444:L4807": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 72857,
+      "byte_length": 1205,
+      "sha256": "ab7a91d32c15995312d561a245ffd12bff8ef772f7247db79fffe76d98e00f36"
+    }
+  ],
+  "STEP:TBESH:H3467:L4843": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 74062,
+      "byte_length": 1194,
+      "sha256": "cd2af94b930d2f0bd89dd3715bb852036ae62f807b959fd29a2dcf39df965499"
+    }
+  ],
+  "STEP:TBESH:H3519:L4919": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 75256,
+      "byte_length": 1198,
+      "sha256": "92880bb4c66cb2008c2832fb8f36f4d9936a2a68c82b38d349e3a506a49eb082"
+    }
+  ],
+  "STEP:TBESH:H3727:L5180": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 76454,
+      "byte_length": 1206,
+      "sha256": "802c355c5f1360300e1f28acbf421cb0b12c2445e665b9b07a4bc2dea9df4dd7"
+    }
+  ],
+  "STEP:TBESH:H3824:L5292": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 77660,
+      "byte_length": 1194,
+      "sha256": "cc0c9fdb04febfde8858fca4e9ae4a21adb4b7a6c45bf7d5c2249c6f464cc671"
+    }
+  ],
+  "STEP:TBESH:H3966:L5465": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 78854,
+      "byte_length": 1191,
+      "sha256": "b1b438711a10d94d36702fcbb45aaf4334792421d93635f9b387743b65fd7e2d"
+    }
+  ],
+  "STEP:TBESH:H4438:L6040": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 80045,
+      "byte_length": 1202,
+      "sha256": "65ac38497a78d6c52eda43a04e2e4183df8b8f15e565a7fb954c13a3ebe2ad00"
+    }
+  ],
+  "STEP:TBESH:H4639G:L6290": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 81247,
+      "byte_length": 1205,
+      "sha256": "894a6f1cd78a107e93d38f94dc454526a1d2004ee2d68652277add41de87072c"
+    }
+  ],
+  "STEP:TBESH:H4639H:L6291": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 82452,
+      "byte_length": 1205,
+      "sha256": "683f441fba084c1ae26c10e688cb9c29147c0ec03bbfab7ce0d225118d8580ad"
+    }
+  ],
+  "STEP:TBESH:H4639I:L6292": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 83657,
+      "byte_length": 1205,
+      "sha256": "ffd8a5aee9274312563b5810772f589a242b9fdb4c774ba68a659621686f7f92"
+    }
+  ],
+  "STEP:TBESH:H4639J:L6293": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 84862,
+      "byte_length": 1205,
+      "sha256": "205e7c39688cbdec125d650b126d452f30248abbe1eb663420d30e980880a9f6"
+    }
+  ],
+  "STEP:TBESH:H4639K:L6294": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 86067,
+      "byte_length": 1205,
+      "sha256": "4c8c9c0f785b94035565d34b2c6daa42c4152fb13088350af0daa7801075c9d9"
+    }
+  ],
+  "STEP:TBESH:H4886:L6594": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 87272,
+      "byte_length": 1196,
+      "sha256": "f1fbc022bf4e2a89013febc7578ee8d9a00cbdeb7df562dcee184d40db4a0d70"
+    }
+  ],
+  "STEP:TBESH:H4899:L6612": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 88468,
+      "byte_length": 1204,
+      "sha256": "df9ea1e0864a9c21599e621ddf76061c1323961a4172f798de28cbcb19c1e2aa"
+    }
+  ],
+  "STEP:TBESH:H4941G:L6687": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 89672,
+      "byte_length": 1207,
+      "sha256": "f6cd99a770c82dab7ee4b27a94f51429270dde51cb0d2251cbbb2220ffb4269e"
+    }
+  ],
+  "STEP:TBESH:H4941H:L6688": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 90879,
+      "byte_length": 1207,
+      "sha256": "e1e5ab6bf555c9fec9212612f6b9316bc031e0ba70b5d135d37eb6e9a1bf1707"
+    }
+  ],
+  "STEP:TBESH:H4941I:L6689": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 92086,
+      "byte_length": 1207,
+      "sha256": "ede81bff7b65dce48a7943f7c753fd29ab92f50b944a0fb477926f2aa8eda018"
+    }
+  ],
+  "STEP:TBESH:H4941J:L6690": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 93293,
+      "byte_length": 1207,
+      "sha256": "0d9928cad8ffc2f13939ee43a7f17530d93567848ddaa768d602f7a5111f2ad6"
+    }
+  ],
+  "STEP:TBESH:H4941K:L6691": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 94500,
+      "byte_length": 1207,
+      "sha256": "7bc6c5f49d94fe566a91440b750487bdfbf208ce6d025b6ed8777055d69a9d45"
+    }
+  ],
+  "STEP:TBESH:H5003:L6771": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 95707,
+      "byte_length": 1192,
+      "sha256": "499537f1f0901b88a45cd0a3c755b9d74de7f92737bd8b8bda10727718b5e743"
+    }
+  ],
+  "STEP:TBESH:H5012:L6781": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 96899,
+      "byte_length": 1191,
+      "sha256": "ab23be4f78739ef3a95e0e92b474aeefa1b3e151a0e45b4f9a3c454861ad1c04"
+    }
+  ],
+  "STEP:TBESH:H5030:L6803": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 98090,
+      "byte_length": 1195,
+      "sha256": "fe6f91299075c0a701ae77731504fd7e8759615134f04dd4075a4d81a3df9446"
+    }
+  ],
+  "STEP:TBESH:H5162G:L6969": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 99285,
+      "byte_length": 1196,
+      "sha256": "01c6de1574571493cd5a5fb2da07c6d0aad2f28357852cfda3cee400b87a66e5"
+    }
+  ],
+  "STEP:TBESH:H5162H:L6970": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 100481,
+      "byte_length": 1196,
+      "sha256": "a1faf9027d8301ddf5b026adf6cb1b55b51ea120e3ef44cff78543ad62ca040e"
+    }
+  ],
+  "STEP:TBESH:H5254G:L7081": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 101677,
+      "byte_length": 1195,
+      "sha256": "c5fe895a859e4c533edfddfc0ecc2cfe359af3b3134b8b58f2503d128d709e88"
+    }
+  ],
+  "STEP:TBESH:H5254H:L7082": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 102872,
+      "byte_length": 1195,
+      "sha256": "5b6ff02ff9134e5f27497164c2f681975950fd9834b8e3a7add484cf1d3d4db2"
+    }
+  ],
+  "STEP:TBESH:H5315G:L7165": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 104067,
+      "byte_length": 1203,
+      "sha256": "d54bc6c6f1ba0ce1fd7317d7a29f1fa9169a8f5b6dd2019f3adf174635b9f020"
+    }
+  ],
+  "STEP:TBESH:H5315H:L7166": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 105270,
+      "byte_length": 1203,
+      "sha256": "128882dc36da87106b079a7f830dfeacdc559215d5f4ff1ef9684b7f0b8c08eb"
+    }
+  ],
+  "STEP:TBESH:H5315I:L7167": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 106473,
+      "byte_length": 1203,
+      "sha256": "5896f4c3206bd7ec9bceb0bd27323aabeada2ca3ad49eea45b565cbc38829a7e"
+    }
+  ],
+  "STEP:TBESH:H5315J:L7168": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 107676,
+      "byte_length": 1203,
+      "sha256": "498f21e4a25794246bb479d7dc5b348863932dd1685bceb0b9d9c19601d32e5e"
+    }
+  ],
+  "STEP:TBESH:H5315K:L7169": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 108879,
+      "byte_length": 1203,
+      "sha256": "dff88eb37cc918004bee1725f200031f42f279391e03e1266ad5e448df3a9962"
+    }
+  ],
+  "STEP:TBESH:H5315L:L7170": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 110082,
+      "byte_length": 1203,
+      "sha256": "46365f7ea2ff1bcc0cd701f171eb831876be2958c490db8b12d107a49428607b"
+    }
+  ],
+  "STEP:TBESH:H5315M:L7171": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 111285,
+      "byte_length": 1203,
+      "sha256": "382449d397bc2d659d96b78dc1a8a0ddce5b8a4cfcc41c30651fcb730f225d83"
+    }
+  ],
+  "STEP:TBESH:H5315N:L7172": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 112488,
+      "byte_length": 1203,
+      "sha256": "624e6045be1fc6710bcf222169fef79b3b8572d5fdbffb2dcf89ee92e04f76cb"
+    }
+  ],
+  "STEP:TBESH:H5375G:L7243": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 113691,
+      "byte_length": 1196,
+      "sha256": "a2b416b87d970c5b2ed9a486bc2549eb2e1adea833197094fbafac91e09d3d6c"
+    }
+  ],
+  "STEP:TBESH:H5375H:L7244": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 114887,
+      "byte_length": 1196,
+      "sha256": "8b551e21d29e76c4e4317c1391615e7b6a6375f0208c5069cdffea28792aca47"
+    }
+  ],
+  "STEP:TBESH:H5375I:L7245": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 116083,
+      "byte_length": 1196,
+      "sha256": "b07a55a523bea76637b3c9ac353f996f1989f32adb00672f4131a510c6e2e12e"
+    }
+  ],
+  "STEP:TBESH:H5375J:L7246": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 117279,
+      "byte_length": 1196,
+      "sha256": "88aa8508e4f460bdc6a14aab466c9de9cbbfe034589fe639501341dc6b37822a"
+    }
+  ],
+  "STEP:TBESH:H5375K:L7247": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 118475,
+      "byte_length": 1196,
+      "sha256": "034acaf0bf4059b3cd37dddac7135cd7594c6d6e0fe87738f0529b293ed23b5f"
+    }
+  ],
+  "STEP:TBESH:H5375L:L7248": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 119671,
+      "byte_length": 1196,
+      "sha256": "852602b1311fd1328fa0aba8643edff5d5c981abd034b36e1df3008c1123116c"
+    }
+  ],
+  "STEP:TBESH:H5375M:L7249": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 120867,
+      "byte_length": 1196,
+      "sha256": "0c6bc93a1389add1363679dff5cac6ff23a311bfc742b4cb2dd963e6a9005994"
+    }
+  ],
+  "STEP:TBESH:H5375N:L7250": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 122063,
+      "byte_length": 1196,
+      "sha256": "db0f60ee826a42fbd61c24c03ab4f62cc9d9319771645f18498bc576be3a902f"
+    }
+  ],
+  "STEP:TBESH:H5375O:L7251": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 123259,
+      "byte_length": 1196,
+      "sha256": "6d82e159c3902906748db82fc2110738be83af546cb04e9c936026ba94d52025"
+    }
+  ],
+  "STEP:TBESH:H5375P:L7252": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 124455,
+      "byte_length": 1196,
+      "sha256": "79d3226056c17fee21929d98fdd5d026a38ef964fd89656857906b00a4198b24"
+    }
+  ],
+  "STEP:TBESH:H5375Q:L7253": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 125651,
+      "byte_length": 1196,
+      "sha256": "35bac9627377b650d616a053608b47a4662b2331afcb279f025bc20d3920084e"
+    }
+  ],
+  "STEP:TBESH:H5375R:L7254": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 126847,
+      "byte_length": 1196,
+      "sha256": "09a6d369b2f46c5bccb7c2475d575bfb3bf1dcf607abd00842fed82471e56481"
+    }
+  ],
+  "STEP:TBESH:H5375S:L7255": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 128043,
+      "byte_length": 1196,
+      "sha256": "187b12ba7145c9fedda2583102098c16c9e0ae440b72fa8d2423c5c5b272426d"
+    }
+  ],
+  "STEP:TBESH:H5375T:L7256": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 129239,
+      "byte_length": 1196,
+      "sha256": "d389a1a2cfdc5a9a2ffba657f85a25fbdc691fde31f583eb59b37237ec37bb33"
+    }
+  ],
+  "STEP:TBESH:H5375U:L7257": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 130435,
+      "byte_length": 1196,
+      "sha256": "f4d8932dce86e724fccbeb4114a120fdd992c3eb0b0396d91807ec4b4d35746f"
+    }
+  ],
+  "STEP:TBESH:H5375V:L7258": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 131631,
+      "byte_length": 1196,
+      "sha256": "415bc664af7c1d8ca074a73babe449222705c64cfd498959e25efb170175a877"
+    }
+  ],
+  "STEP:TBESH:H5375W:L7259": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 132827,
+      "byte_length": 1196,
+      "sha256": "2bde5d1f5cdbaa91aab6f4e8e426ad009438b3c9b3221de3a84434b0594c5045"
+    }
+  ],
+  "STEP:TBESH:H5375X:L7260": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 134023,
+      "byte_length": 1196,
+      "sha256": "cd58c93558085d2bd19a6502615669318e66a25c065b356803ec5ae768d4dec2"
+    }
+  ],
+  "STEP:TBESH:H5397:L7284": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 135219,
+      "byte_length": 1204,
+      "sha256": "f61414a81c060e0c8107b2b29508376b3f31ce4d011386751a17251cbbe03ee7"
+    }
+  ],
+  "STEP:TBESH:H5545:L7497": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 136423,
+      "byte_length": 1193,
+      "sha256": "e9b3ae9c93b027fd935bc780dd98f0df9a72aee70ed20b746d4a44ce9ac85a45"
+    }
+  ],
+  "STEP:TBESH:H5647G:L7616": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 137616,
+      "byte_length": 1194,
+      "sha256": "1bd512a671ff2cda13635e12fb2a7c4e1723f737e4b3ac0f08e75771dc45af6a"
+    }
+  ],
+  "STEP:TBESH:H5647H:L7617": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 138810,
+      "byte_length": 1194,
+      "sha256": "da9f158ecffa64cd9a2b0f1576f838278a09822e5c82a871a3690942a9c54bb2"
+    }
+  ],
+  "STEP:TBESH:H5647I:L7618": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 140004,
+      "byte_length": 1194,
+      "sha256": "a0b9b43988ad31df52566bd3150626366ae56a593134cecd5aa710b3db284be6"
+    }
+  ],
+  "STEP:TBESH:H5647J:L7619": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 141198,
+      "byte_length": 1194,
+      "sha256": "cfc0f4e8a6c2250f180da21daf96b6d3abfd691766af0dcf57dbb89b19eca1d1"
+    }
+  ],
+  "STEP:TBESH:H5650:L7622": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 142392,
+      "byte_length": 1195,
+      "sha256": "a327d4d1b63e2c750e3321e05362c04cb09ff929e63f327859bef1f598bf9c9b"
+    }
+  ],
+  "STEP:TBESH:H5656G:L7630": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 143587,
+      "byte_length": 1203,
+      "sha256": "07eae4c06d76c0b0e6df67c85f26d6f88060054c35c05655033e857b6367850d"
+    }
+  ],
+  "STEP:TBESH:H5656H:L7631": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 144790,
+      "byte_length": 1203,
+      "sha256": "879ba1fa0c813c1f1b91549a1c7866338827cc48e96758a5ad6482f8a87b8708"
+    }
+  ],
+  "STEP:TBESH:H5656I:L7632": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 145993,
+      "byte_length": 1203,
+      "sha256": "7681b22af89a57dc76ed2bb60f03d943fbef46202e4f021867751d2468a89a78"
+    }
+  ],
+  "STEP:TBESH:H5707:L7713": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 147196,
+      "byte_length": 1186,
+      "sha256": "d8fc651e0a06cb671b35c33e82f4b2ddcc151f5ba7d21575fc14d10579687bf1"
+    }
+  ],
+  "STEP:TBESH:H5771G:L7816": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 148382,
+      "byte_length": 1196,
+      "sha256": "1561c3521f6671f9b64770d14e33341ab9929bd97e1c466ac778a8f8f0f54840"
+    }
+  ],
+  "STEP:TBESH:H5771H:L7817": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 149578,
+      "byte_length": 1196,
+      "sha256": "d1b4100e36a69cd81ca1a55c1f0158f6fab641651c118dc64c7a693ab471bb91"
+    }
+  ],
+  "STEP:TBESH:H5771I:L7818": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 150774,
+      "byte_length": 1196,
+      "sha256": "7de2b50395c4d28e3842a07bb0c40d50c38fa4b227235854224494e33c74b7ce"
+    }
+  ],
+  "STEP:TBESH:H6268:L8566": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 151970,
+      "byte_length": 1196,
+      "sha256": "9ea8e7c73c076cf6b2dcf4d3f46150be5ae7e199609824122ff8cdc3c552399c"
+    }
+  ],
+  "STEP:TBESH:H6299:L8603": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 153166,
+      "byte_length": 1194,
+      "sha256": "b7da0018566129a19e5e6df2ab5d4a48414693d9accecf62b91ff67e09cee4a8"
+    }
+  ],
+  "STEP:TBESH:H6440G:L8784": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 154360,
+      "byte_length": 1199,
+      "sha256": "dcb363512621ff4aa274120c928112dcdc6767fb9a55f6d290ccfbf8c3ce0dce"
+    }
+  ],
+  "STEP:TBESH:H6440H:L8785": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 155559,
+      "byte_length": 1199,
+      "sha256": "85cfb0493242baa852e1ba64569d7aa3384702bda6acad0c744ad096a29ce680"
+    }
+  ],
+  "STEP:TBESH:H6440I:L8786": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 156758,
+      "byte_length": 1199,
+      "sha256": "45f3f38719d9ec65ce988701769bb71ff23b22d27ee67f06eeabab8bd640afd7"
+    }
+  ],
+  "STEP:TBESH:H6440J:L8787": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 157957,
+      "byte_length": 1199,
+      "sha256": "a9b05944f2dac25db53a8eb69d0e7784593d04988589400d49ab674b39928479"
+    }
+  ],
+  "STEP:TBESH:H6440K:L8788": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 159156,
+      "byte_length": 1199,
+      "sha256": "4424952518f0c920e1d2c6de5483cd1aabc650df3f6b1b1ab1bdba90c525db82"
+    }
+  ],
+  "STEP:TBESH:H6440L:L8789": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 160355,
+      "byte_length": 1199,
+      "sha256": "104466c277671df19970a9b9dda7b23335c4147e01c2dcf5178a14185d2d1890"
+    }
+  ],
+  "STEP:TBESH:H6440M:L8790": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 161554,
+      "byte_length": 1199,
+      "sha256": "139266c34eb8b0bdfd398d3e5f080a23ee6378ce9360db9301459b362344b531"
+    }
+  ],
+  "STEP:TBESH:H6440N:L8791": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 162753,
+      "byte_length": 1199,
+      "sha256": "b92d80256555e65ae597c4f2eac259339e3c9e9e674a9c20b512e1a17f98b73e"
+    }
+  ],
+  "STEP:TBESH:H6453:L8805": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 163952,
+      "byte_length": 1199,
+      "sha256": "253ee09b0c62c59e957c3d1e0e3c5aa729fd3b5bc9e6b967dc54ed28c13f5a26"
+    }
+  ],
+  "STEP:TBESH:H6586:L8973": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 165151,
+      "byte_length": 1196,
+      "sha256": "e97ab4876fc88aac2df001a735bbe5ba42ce035c1d73daddd6f50e6f4195e996"
+    }
+  ],
+  "STEP:TBESH:H6588:L8975": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 166347,
+      "byte_length": 1200,
+      "sha256": "5afab956e2de8372bbc282be925aeebab294b9f1b85a84988aab1c827142ff29"
+    }
+  ],
+  "STEP:TBESH:H6663:L9072": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 167547,
+      "byte_length": 1193,
+      "sha256": "d5aa8db84833e9187e758227fa5d20be5cff67034419649f5d9d6e49d3bae93d"
+    }
+  ],
+  "STEP:TBESH:H6664G:L9073": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 168740,
+      "byte_length": 1200,
+      "sha256": "bc569b90dfb76853fc5869d4c737f8ebb74f021e2b44d013cb08d7d800f9d90f"
+    }
+  ],
+  "STEP:TBESH:H6664H:L9074": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 169940,
+      "byte_length": 1200,
+      "sha256": "840ca4d4d5da0af3ead9ecf9dc17cda7744206a265ac1c9f7df28e394cd8abef"
+    }
+  ],
+  "STEP:TBESH:H6666:L9076": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 171140,
+      "byte_length": 1202,
+      "sha256": "00fad2123c43115d0ece9c304cf74dba78b64f8dc5b89962007e542d1b15439b"
+    }
+  ],
+  "STEP:TBESH:H6754:L9191": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 172342,
+      "byte_length": 1197,
+      "sha256": "65eab7a3fca35a8389ac53bf8135e99354e3f8d8372ddd7cb9de9990c50d3a80"
+    }
+  ],
+  "STEP:TBESH:H6918G:L9386": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 173539,
+      "byte_length": 1200,
+      "sha256": "53a4f78bac40b32b7e44cb94b672548abbebf0c542c2ff34774cad2ac902deec"
+    }
+  ],
+  "STEP:TBESH:H6918H:L9387": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 174739,
+      "byte_length": 1200,
+      "sha256": "d0f52b7266174552a8036676de70fd54443765e20a7e94883562db8ea6fc356c"
+    }
+  ],
+  "STEP:TBESH:H6942G:L9416": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 175939,
+      "byte_length": 1198,
+      "sha256": "c407b865ecb72bfbaf7a13a6636ec656ae6463766daf5a77b4829867e2dfcd87"
+    }
+  ],
+  "STEP:TBESH:H6942H:L9417": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 177137,
+      "byte_length": 1198,
+      "sha256": "84d220d6d2fe45721d65df6d8b794ecc4568371b0203e9b5b67bb49402140001"
+    }
+  ],
+  "STEP:TBESH:H6942I:L9418": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 178335,
+      "byte_length": 1198,
+      "sha256": "033ec0de58643294a1c6a1f24e16b85c88605dada64495f979572f012d7f443d"
+    }
+  ],
+  "STEP:TBESH:H6942J:L9419": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 179533,
+      "byte_length": 1198,
+      "sha256": "ad773f5218bf67696f66462a8b04c1c5657a6f1b76e64b814d1e77df1ac40632"
+    }
+  ],
+  "STEP:TBESH:H6942K:L9420": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 180731,
+      "byte_length": 1198,
+      "sha256": "926902a0e7aecfd480726d087815814f50d8694d3d6e3e329a8e9a18fa27bea9"
+    }
+  ],
+  "STEP:TBESH:H7307G:L9898": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 181929,
+      "byte_length": 1197,
+      "sha256": "1291ff76025d14f8e17599b71d15b801bdb03fc71c37fbf70c6badeb69076a16"
+    }
+  ],
+  "STEP:TBESH:H7307H:L9899": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 183126,
+      "byte_length": 1197,
+      "sha256": "a81f7894f6de54abece6d6c5b995857d551bf65e50550ee9efcc8fa43771ec75"
+    }
+  ],
+  "STEP:TBESH:H7307I:L9900": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 184323,
+      "byte_length": 1197,
+      "sha256": "24e9d4ad4d344f6fb26c4d22310849a601463f594fd7eb8858d6dfd4228350ed"
+    }
+  ],
+  "STEP:TBESH:H7307J:L9901": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 185520,
+      "byte_length": 1197,
+      "sha256": "3bbc95cab277c5a42194f553b3426f116d98318ad6f1c980afd05f056fd15a36"
+    }
+  ],
+  "STEP:TBESH:H7349:L9958": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 186717,
+      "byte_length": 1195,
+      "sha256": "e2c18e3992c9f755190a67fd67c2fe66381c8f7b7ba09fc33bc92f08d6f917eb"
+    }
+  ],
+  "STEP:TBESH:H7585:L10245": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 187912,
+      "byte_length": 1202,
+      "sha256": "2152700638604c3f40677c82d05df05189c000662d03cdca08ae78124060d316"
+    }
+  ],
+  "STEP:TBESH:H7706:L10404": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 189114,
+      "byte_length": 1204,
+      "sha256": "39230921243806f210caf643591119b0420b3d8bbb2344b397a71190f43a327e"
+    }
+  ],
+  "STEP:TBESH:H7725G:L10427": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 190318,
+      "byte_length": 1196,
+      "sha256": "b0a42eba009dfee403226bb69ead1aa2313e2b5b8a59803fbfdcadb805676ed3"
+    }
+  ],
+  "STEP:TBESH:H7725H:L10428": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 191514,
+      "byte_length": 1196,
+      "sha256": "6724e12cf1780e82ab17a3ebafd7899921dbf3477d6cb1c8cee16f3f9fa57e1b"
+    }
+  ],
+  "STEP:TBESH:H7725I:L10429": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 192710,
+      "byte_length": 1196,
+      "sha256": "6dc87a5d9c2b212c6d85e6a181121420066adcf0db667c06e2e327a28b0f1e17"
+    }
+  ],
+  "STEP:TBESH:H7725J:L10430": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 193906,
+      "byte_length": 1196,
+      "sha256": "c39220692736403a373973cded728df6066a0f76d48a9c243a451345a66e05b3"
+    }
+  ],
+  "STEP:TBESH:H7725K:L10431": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 195102,
+      "byte_length": 1196,
+      "sha256": "46b75fe7200cab20911e9ae18ca12ef5d0a7cc71b5833007ef42c63c026c9acf"
+    }
+  ],
+  "STEP:TBESH:H7725L:L10432": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 196298,
+      "byte_length": 1196,
+      "sha256": "21fa38c0068560d1bbb823d02ce2629c948589471bef70a3d5965d5d52ca5b6c"
+    }
+  ],
+  "STEP:TBESH:H7725M:L10433": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 197494,
+      "byte_length": 1196,
+      "sha256": "23e6a29d43f55152f769544a2156872efbed9e60f7ac463d089f37978efd9170"
+    }
+  ],
+  "STEP:TBESH:H7725N:L10434": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 198690,
+      "byte_length": 1196,
+      "sha256": "05b0226988404fc5881b2cd544c735526ca9687fa59a7b8546d5eb47bca5d46b"
+    }
+  ],
+  "STEP:TBESH:H7725O:L10435": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 199886,
+      "byte_length": 1196,
+      "sha256": "fd6b93717ed4cc3f2f3dd30dd4f45debab7061ed0e212868e77639c9518e481a"
+    }
+  ],
+  "STEP:TBESH:H7965G:L10725": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 201082,
+      "byte_length": 1205,
+      "sha256": "66acef1ff014e7fc67dac73ebff82cb6b4f2e3f7362adfe4c5a5dc81d83bc1ee"
+    }
+  ],
+  "STEP:TBESH:H7965H:L10726": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 202287,
+      "byte_length": 1217,
+      "sha256": "1a6f7556a6cedb685c71ff586c165816e1184ab0cd15e6c4989e902d68bc0a19"
+    }
+  ],
+  "STEP:TBESH:H7965I:L10727": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 203504,
+      "byte_length": 1205,
+      "sha256": "920381e7632f8b1160427824de0bb260378dfa329eafb01e388c7d74922e2e8b"
+    }
+  ],
+  "STEP:TBESH:H7965J:L10728": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 204709,
+      "byte_length": 1205,
+      "sha256": "e27ea786859625aa005d0b83863e9a3ff3c634be658d4294f9091cc339af8d2e"
+    }
+  ],
+  "STEP:TBESH:H7965K:L10729": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 205914,
+      "byte_length": 1205,
+      "sha256": "b1a617ed4105aff67a4517eadeefc636d0e754c21e947f6fd06b4c76ffac9448"
+    }
+  ],
+  "STEP:TBESH:H7965L:L10730": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 207119,
+      "byte_length": 1205,
+      "sha256": "d2ee13c433b8deb06d34bf9ff754e72ec0d66736d1fdefd13834ea8ee59da31a"
+    }
+  ],
+  "STEP:TBESH:H8055:L10875": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 208324,
+      "byte_length": 1198,
+      "sha256": "d088c4b371afa36a719f42bc544a3c83178f6c4c0fc64c88ba03c7c52ac2ad88"
+    }
+  ],
+  "STEP:TBESH:H8057:L10877": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 209522,
+      "byte_length": 1205,
+      "sha256": "f4890519fdca54d8de8a6c440a9e94478dfa290a00679db666219b180c1b1b3b"
+    }
+  ],
+  "STEP:TBESH:H8085G:L10913": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 210727,
+      "byte_length": 1200,
+      "sha256": "f91a3f08a54c19e9ebf256d266f7ba62d84b1e1b1ac57f81880c92396b775bea"
+    }
+  ],
+  "STEP:TBESH:H8085H:L10914": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 211927,
+      "byte_length": 1200,
+      "sha256": "6d5c83d8826a497ffa90f4a2f281211052ba9ced448b644d6f9f60be0b5ac237"
+    }
+  ],
+  "STEP:TBESH:H8085I:L10915": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 213127,
+      "byte_length": 1200,
+      "sha256": "bfba8733d13889e16377a7ca8205cd8d6d9c94e83465bb0f21762dc340267c28"
+    }
+  ],
+  "STEP:TBESH:H8085J:L10916": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 214327,
+      "byte_length": 1200,
+      "sha256": "ebf7ef050569eebd67efdd6f75a9553277f0e61d5c81804b0e5b8ff95c49a88c"
+    }
+  ],
+  "STEP:TBESH:H8085K:L10917": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 215527,
+      "byte_length": 1200,
+      "sha256": "fd9ecb8f40498f74d5c077c4f4866110668fc70c198dbebdb45f69bd8eb6a551"
+    }
+  ],
+  "STEP:TBESH:H8085L:L10918": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 216727,
+      "byte_length": 1200,
+      "sha256": "71c5ace581ae565c089126f08c4f2c23e0c0002a7ccb8b8aaeb009c5e1e2e924"
+    }
+  ],
+  "STEP:TBESH:H8414:L11374": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 217927,
+      "byte_length": 1200,
+      "sha256": "c252a1cac867b8655243a30109bdb21949bd1ea3e443adfe3f2d78d25d6dfa7c"
+    }
+  ],
+  "STEP:TBESH:H8451:L11419": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 219127,
+      "byte_length": 1201,
+      "sha256": "fd28cf4b54434bba16b32c5b1e1592c2a8b7013da02ed0756bdb0ce6c0f582b5"
+    }
+  ],
+  "STEP:TBESG:G0012:L104": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 220328,
+      "byte_length": 1667,
+      "sha256": "6ece763d253a845c2c3cb24784bea55e712465ef090f7f6e4a197ba6a334c762"
+    }
+  ],
+  "STEP:TFLSJ:G0012:L77": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 221995,
+      "byte_length": 1310,
+      "sha256": "fb49ed1c42b75dd0fa0c58ba41b7d81fa7ee40768746a7c56de878820a97cfec"
+    }
+  ],
+  "STEP:TBESG:G0022:L114": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 223305,
+      "byte_length": 1188,
+      "sha256": "a736d9b162d3c0d9c69f76e7511cee42f74828dee68e35bc91553e5d30e97ba4"
+    }
+  ],
+  "STEP:TFLSJ:G0022:L87": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 224493,
+      "byte_length": 1343,
+      "sha256": "8eb1cfcb36e224afd331bf0544673ff92f55e039021b923fc5432bad4f91ccde"
+    }
+  ],
+  "STEP:TBESG:G0025:L117": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 225836,
+      "byte_length": 2336,
+      "sha256": "f9e4f4da2ce56b5a86fa056ff5b543a20751471bcf87a1269e02bf62c47f4a9f"
+    }
+  ],
+  "STEP:TFLSJ:G0025:L90": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 228172,
+      "byte_length": 3936,
+      "sha256": "efd6636b982fd149b63b55e4ad3981be9216a02ad7b7976c8ea129d161bfa276"
+    }
+  ],
+  "STEP:TBESG:G0026:L118": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 232108,
+      "byte_length": 2432,
+      "sha256": "48200e11054f1feb04c589d8c1a4394a94e20c65da9f78552b9e7c6aefe2ad59"
+    }
+  ],
+  "STEP:TFLSJ:G0026:L91": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 234540,
+      "byte_length": 1423,
+      "sha256": "f79bc542a09012750de7b84282037c47161eead9a8bdb9624d8389c62831dfcc"
+    }
+  ],
+  "STEP:TBESG:G0037:L130": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 235963,
+      "byte_length": 1953,
+      "sha256": "bc70fd911dbfdc462f12df8ec2ce4ff55f98637789150aaad3255702dafbe289"
+    }
+  ],
+  "STEP:TFLSJ:G0037:L103": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 237916,
+      "byte_length": 1176,
+      "sha256": "45d9915310f8897b1afcaf9b8d0873d624b403872a7fea7c9980034463458334"
+    }
+  ],
+  "STEP:TBESG:G0038:L131": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 239092,
+      "byte_length": 1632,
+      "sha256": "92cae60d12cdbbe1d028bf4495965af684031ef63f8e59821d7c48b06c88f6e8"
+    }
+  ],
+  "STEP:TFLSJ:G0038:L104": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 240724,
+      "byte_length": 1136,
+      "sha256": "3a41a615acbbeee8c821f82b2d1406d73ad84241be36c0400645136767b821a7"
+    }
+  ],
+  "STEP:TBESG:G0040G:L134": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 241860,
+      "byte_length": 2446,
+      "sha256": "e7948f87671be5424e9afeb200f440bd34e5e9a7a98e3086c26a719efc0553fa"
+    }
+  ],
+  "STEP:TBESG:G0040H:L135": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 244306,
+      "byte_length": 2453,
+      "sha256": "df551a6554d58535b5bb312b271ec3673c27e5d313d3b7a5ddcc13d837da22da"
+    }
+  ],
+  "STEP:TFLSJ:G0040G:L107": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 246759,
+      "byte_length": 1796,
+      "sha256": "0446d38dbebc7892778f5a107c45696d554e912bfd9233608b81f5912142d0a7"
+    }
+  ],
+  "STEP:TFLSJ:G0040H:L108": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 248555,
+      "byte_length": 1803,
+      "sha256": "9abb33e5e3b188464cc80b579e906e68963127df57b2c5259b8670d9935d004c"
+    }
+  ],
+  "STEP:TBESG:G0059:L154": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 250358,
+      "byte_length": 1588,
+      "sha256": "8ebf0832100b461b8efeac7f70bd2993e0f761749ca49455db5877eb16ffaf13"
+    }
+  ],
+  "STEP:TFLSJ:G0059:L127": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 251946,
+      "byte_length": 2173,
+      "sha256": "a8cfd1f29e44ac93b7ae09336e78d94fefe70ffb857f58a67ba1173df0154c53"
+    }
+  ],
+  "STEP:TBESG:G0086:L183": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 254119,
+      "byte_length": 1581,
+      "sha256": "372c5376bfac2c33bbfa03bcf5730e1e197ac813d93ee76901768859e2565f7e"
+    }
+  ],
+  "STEP:TFLSJ:G0086:L156": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 255700,
+      "byte_length": 2389,
+      "sha256": "a93dd63c983297d60de9364778f3b4733b639a0e21d79b253e1ffeb021ca1d67"
+    }
+  ],
+  "STEP:TBESG:G0110:L207": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 258089,
+      "byte_length": 1289,
+      "sha256": "31b3f55663da08cedc3209c97fed3a735d2122ff4851d3c3897855ccfa6f65c2"
+    }
+  ],
+  "STEP:TFLSJ:G0110:L180": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 259378,
+      "byte_length": 1257,
+      "sha256": "f93db981096a885ad6343c2e6127d79c942462b06f86e01ab16175bd720cf59d"
+    }
+  ],
+  "STEP:TBESG:G0165G:L263": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 260635,
+      "byte_length": 2827,
+      "sha256": "9aab697cbbe0e889466b5de8a847be8fdbb36b44987773649a9a1da0cafaa54e"
+    }
+  ],
+  "STEP:TBESG:G0165H:L264": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 263462,
+      "byte_length": 2832,
+      "sha256": "dcd62e4d5283ea638b28e26a6491e0a087c652176981daa773201effe9ea6087"
+    }
+  ],
+  "STEP:TFLSJ:G0165G:L236": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 266294,
+      "byte_length": 3196,
+      "sha256": "a3cb5ae3d1281e1e3e668e70b4ec638653b756a8c5896f9c846a8379c3ee00b5"
+    }
+  ],
+  "STEP:TFLSJ:G0165H:L237": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 269490,
+      "byte_length": 3201,
+      "sha256": "7884e9978dbe8e9f08794370bb27ebae8995335dd5a579fff915d36af02f728e"
+    }
+  ],
+  "STEP:TBESG:G0166:L265": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 272691,
+      "byte_length": 1996,
+      "sha256": "872b7986e320cfc3da5915ed9e7c22f1521b52f665bdcf97c612e55e1822a2e0"
+    }
+  ],
+  "STEP:TFLSJ:G0166:L238": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 274687,
+      "byte_length": 1910,
+      "sha256": "6c3f48c9f76721854f8e85bf89c72ff20ebbb0b6c30070c2077b20cb1c8d865a"
+    }
+  ],
+  "STEP:TBESG:G0191:L290": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 276597,
+      "byte_length": 2308,
+      "sha256": "0b38dccb27a3f46b77e18ddc4ffa9c19de669098f9f72c93083b14f0900fb9cb"
+    }
+  ],
+  "STEP:TFLSJ:G0191:L263": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 278905,
+      "byte_length": 5911,
+      "sha256": "a21ed3c457bc679b6932015a2db04edfd3da9ad413ba24f2bc5e75f864ae53ab"
+    }
+  ],
+  "STEP:TBESG:G0225:L327": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 284816,
+      "byte_length": 1870,
+      "sha256": "37f80e38a4cedf7ac383ae207dcde1c1a2ac0c6b1ffde5e17555dd289e5d9af9"
+    }
+  ],
+  "STEP:TFLSJ:G0225:L300": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 286686,
+      "byte_length": 2549,
+      "sha256": "29ff788b37390c0fbf3c16808df120f95b90c16247f27c344c3a4ad3db19012d"
+    }
+  ],
+  "STEP:TBESG:G0264:L367": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 289235,
+      "byte_length": 2001,
+      "sha256": "dd3a70f16960c5d13718eda6b53aa506bee6c42b11e68a5f62de42738fcbec1c"
+    }
+  ],
+  "STEP:TFLSJ:G0264:L340": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 291236,
+      "byte_length": 3865,
+      "sha256": "b17dd185a8e52bade5222c423c70f61beaa41d11b0f2ed07e8e68695e8bb0ecb"
+    }
+  ],
+  "STEP:TBESG:G0266:L369": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 295101,
+      "byte_length": 2988,
+      "sha256": "a8490e4f016641ddaa109b2df845b3cce7ecd66d862e62209b2f55d3701b3fae"
+    }
+  ],
+  "STEP:TFLSJ:G0266:L342": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 298089,
+      "byte_length": 1269,
+      "sha256": "bccdd3fea4bd4e667ac7b2ca14bccfe16e07f7eb3e90ff85543a186cc90dc7e0"
+    }
+  ],
+  "STEP:TBESG:G0286:L389": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 299358,
+      "byte_length": 1266,
+      "sha256": "8830e40650431f037ce1ed0c1d03f91b680f8d19843d629531520346c2d7744b"
+    }
+  ],
+  "STEP:TFLSJ:G0286:L362": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 300624,
+      "byte_length": 1205,
+      "sha256": "eda34304b455a6d0486bf812dd4f2b80d71dbbae599a79403a540be23af2a07f"
+    }
+  ],
+  "STEP:TBESG:G0386:L492": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 301829,
+      "byte_length": 2398,
+      "sha256": "5a5eca6020a1bc4ea70e6de011385d60a8bce998963e6cc1d80fe04bfffb3d79"
+    }
+  ],
+  "STEP:TFLSJ:G0386:L465": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 304227,
+      "byte_length": 2403,
+      "sha256": "8bc67f3fd976600848498a9b4eca88080fd9957bd6593e440c110067f4ee061b"
+    }
+  ],
+  "STEP:TBESG:G0444:L551": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 306630,
+      "byte_length": 3139,
+      "sha256": "af06d6a76ab03a2c40168492e37e83bb8adcd1d81af76bfd414478e6f8fc9efd"
+    }
+  ],
+  "STEP:TFLSJ:G0444:L524": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 309769,
+      "byte_length": 4012,
+      "sha256": "5b01a6530a95752d0d83c49484a9fef3038436fdb58fa330c508258df9149113"
+    }
+  ],
+  "STEP:TBESG:G0458:L565": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 313781,
+      "byte_length": 1535,
+      "sha256": "29ba6e78ae685a56e489bdfd0650c42f56cbb2546e0dcdb1a77e9069a79e9aa5"
+    }
+  ],
+  "STEP:TFLSJ:G0458:L538": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 315316,
+      "byte_length": 1262,
+      "sha256": "96cb01d26b6846bb5a7775226d9ec6d307b1040cfe01a9e19100ecaa8deadb43"
+    }
+  ],
+  "STEP:TBESG:G0536:L644": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 316578,
+      "byte_length": 1635,
+      "sha256": "15e3d96107dd56c655a8b68ee6c91295cf646fada5aeba64f696b9b78d0318bc"
+    }
+  ],
+  "STEP:TFLSJ:G0536:L617": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 318213,
+      "byte_length": 1915,
+      "sha256": "229d29b190fc1153cfebaa6a7741ec2f54ddf14acc1b32fa4b732203cbd901b2"
+    }
+  ],
+  "STEP:TBESG:G0551:L659": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 320128,
+      "byte_length": 1262,
+      "sha256": "f359d41f0f3ecc2896d4bedc6d9c2a6bd019c99b0c9476b7c5656461c31aa7c4"
+    }
+  ],
+  "STEP:TFLSJ:G0551:L632": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 321390,
+      "byte_length": 1312,
+      "sha256": "501de82575fd28e720bcb53b4947c284dc542157f3806b08e2109676c00a8725"
+    }
+  ],
+  "STEP:TBESG:G0622:L730": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 322702,
+      "byte_length": 2128,
+      "sha256": "c6059cf13da3ed34737198aa5d988a2bb50421b1055e5002f0202b98b2abef05"
+    }
+  ],
+  "STEP:TFLSJ:G0622:L703": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 324830,
+      "byte_length": 4188,
+      "sha256": "7b08644012cafea5d2f7e66ecdfa617287be9b2cd19e69fe71faf35826c2c174"
+    }
+  ],
+  "STEP:TBESG:G0629:L737": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 329018,
+      "byte_length": 1731,
+      "sha256": "b108fd41cae5780eab4dc510a3e08c93ab4236c597dfabdef52dce2c07cd93fe"
+    }
+  ],
+  "STEP:TFLSJ:G0629:L710": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 330749,
+      "byte_length": 1301,
+      "sha256": "758db694858e18fd532069bea875bff90153262a8d197a4a6727881fb4fb585a"
+    }
+  ],
+  "STEP:TBESG:G0721:L830": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 332050,
+      "byte_length": 1295,
+      "sha256": "6a917e0374714dca7fb7cf598c1e79c909d90397b4be7c4dac7ca0fdf6e8912b"
+    }
+  ],
+  "STEP:TFLSJ:G0721:L803": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 333345,
+      "byte_length": 1187,
+      "sha256": "8c506924fb836fe928270e3119b6a23e894d13b1a9f9ae11b8441c194b28bc53"
+    }
+  ],
+  "STEP:TBESG:G0725:L834": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 334532,
+      "byte_length": 2407,
+      "sha256": "035aad3b1e2969065247846238209e046985a70f9087417696df6e098ba82507"
+    }
+  ],
+  "STEP:TFLSJ:G0725:L807": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 336939,
+      "byte_length": 1308,
+      "sha256": "45bc78ce9833dcbb178d89feec46942314a4ff26e418231d399cd9e48a3c0559"
+    }
+  ],
+  "STEP:TBESG:G0728:L837": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 338247,
+      "byte_length": 1520,
+      "sha256": "3ef01b4d07e662bf5988d0ea1b10593f85aca91b3138363f712b85849b8ffbaf"
+    }
+  ],
+  "STEP:TFLSJ:G0728:L810": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 339767,
+      "byte_length": 1678,
+      "sha256": "eb08261d31de703f4a4383aeda01ac702f3208231f3fe5e91e4086841622427b"
+    }
+  ],
+  "STEP:TBESG:G0733:L842": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 341445,
+      "byte_length": 1316,
+      "sha256": "08ca1e92852cdd981bc9b190c890be57f293ff4588013eac951b77760c0e52be"
+    }
+  ],
+  "STEP:TFLSJ:G0733:L815": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 342761,
+      "byte_length": 1300,
+      "sha256": "dc40c7ed300e8f47349ff017bc58312f205baecc082bc445a5e160ec483ddf39"
+    }
+  ],
+  "STEP:TBESG:G0859:L971": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 344061,
+      "byte_length": 1630,
+      "sha256": "c13c0426d817f3dfd22344abbef6366b7a130b1d6ce650f4e3db044c7a3b13d7"
+    }
+  ],
+  "STEP:TFLSJ:G0859:L944": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 345691,
+      "byte_length": 3018,
+      "sha256": "0c209f308ae04120dca7b48c97289b7518a979dd1088ce0bdb81f4b73915e17a"
+    }
+  ],
+  "STEP:TBESG:G0863G:L975": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 348709,
+      "byte_length": 2551,
+      "sha256": "fe04ba1367ae353029a4dc3d523e6467518bd5c4e55384cd26a48616c302d0d6"
+    }
+  ],
+  "STEP:TBESG:G0863H:L976": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 351260,
+      "byte_length": 2553,
+      "sha256": "259e43a0cbc108f7c4661cb137a3dca25ee05c3192ada34f74d38ceddf3831d7"
+    }
+  ],
+  "STEP:TBESG:G0863I:L977": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 353813,
+      "byte_length": 2552,
+      "sha256": "66b4ede1fdcbf2104f2620dd8bf89779037065a16d3739d883e59489b83144f2"
+    }
+  ],
+  "STEP:TFLSJ:G0863G:L948": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 356365,
+      "byte_length": 8382,
+      "sha256": "75a8e0fccc58dbe27fdd3c35e15925fcf22a3eec9de0c36b8e0ea5692aec618b"
+    }
+  ],
+  "STEP:TFLSJ:G0863H:L949": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 364747,
+      "byte_length": 8384,
+      "sha256": "99434b1c6823a836887b724bf4792034e015b083b161cf0df754cfa2e7dfcd10"
+    }
+  ],
+  "STEP:TFLSJ:G0863I:L950": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 373131,
+      "byte_length": 8383,
+      "sha256": "d83e4c937489aaacde03f2c5efb58e0155d4c2281443f0e5ca5c3e5f64ff5dc2"
+    }
+  ],
+  "STEP:TBESG:G0907:L1025": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 381514,
+      "byte_length": 2710,
+      "sha256": "b9a99aa6af65d281bc2ba6dc432c96da1ee0a8f012e5cf485c38651b05b5bf3b"
+    }
+  ],
+  "STEP:TFLSJ:G0907:L998": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 384224,
+      "byte_length": 2166,
+      "sha256": "56f16d7f94f84507a5e8bac68bac7c8aae91610ce93e689a46e5175f76230271"
+    }
+  ],
+  "STEP:TBESG:G0908:L1026": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 386390,
+      "byte_length": 1680,
+      "sha256": "894779e1a0dda0d11d8e2533097f8ec0acc638286e56a6e782dc8170a777619a"
+    }
+  ],
+  "STEP:TFLSJ:G0908:L999": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 388070,
+      "byte_length": 1114,
+      "sha256": "9fb92175db257bdad7d4dd7f45a940149f79f66f5e63bc551c102639e7273dbc"
+    }
+  ],
+  "STEP:TBESG:G0932:L1053": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 389184,
+      "byte_length": 3381,
+      "sha256": "b9bdbd278ed6d9ba5718a393cc9638fae662ae7828e8138e4d70054900ad3f0b"
+    }
+  ],
+  "STEP:TFLSJ:G0932:L1026": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 392565,
+      "byte_length": 1905,
+      "sha256": "7ecf25a4bd27c8e697afffc732fd3a563cc4b230127e8b04920a00ef2c915e42"
+    }
+  ],
+  "STEP:TBESG:G1067:L1193": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 394470,
+      "byte_length": 2036,
+      "sha256": "eeb17f0b77056a8d0b78bcd2920fad17b3d3d24fd76c0dd830fe4104275e7cb7"
+    }
+  ],
+  "STEP:TFLSJ:G1067:L1166": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 396506,
+      "byte_length": 1195,
+      "sha256": "0cb430e307758f25e4da59d6f71dd78ea4919fc99e2d8acd769f25fa51320cfc"
+    }
+  ],
+  "STEP:TBESG:G1163:L1295": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 397701,
+      "byte_length": 2095,
+      "sha256": "69b9ea0d094fa01db2a3b0c13a404414d6c1e5faa514ae473b057fefc12d65b1"
+    }
+  ],
+  "STEP:TFLSJ:G1163:L1268": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 399796,
+      "byte_length": 4542,
+      "sha256": "5bc583359f5da419ffb349b2e7b6e502fce4b77913adc7e105bb232db0558163"
+    }
+  ],
+  "STEP:TBESG:G1242:L1374": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 404338,
+      "byte_length": 2259,
+      "sha256": "0792477380ccfb6785b1cc7d1f3138b2d2269d4611933312cfd274b6784715ab"
+    }
+  ],
+  "STEP:TFLSJ:G1242:L1347": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 406597,
+      "byte_length": 1806,
+      "sha256": "8ea9f18cab47c2b0706c0fbcaca7ed0b2d9c6cac883ac8828cf4ec2a4f6808ed"
+    }
+  ],
+  "STEP:TBESG:G1342:L1474": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 408403,
+      "byte_length": 2875,
+      "sha256": "7ec37ec9e149790c7d2e7c123d355fc85773d3ea073d4ead259c7b321798c8f4"
+    }
+  ],
+  "STEP:TFLSJ:G1342:L1447": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 411278,
+      "byte_length": 5506,
+      "sha256": "5d15cd6fd4f40882613e028d17b0de385a82df83d2c39f9eff3ed1c95f4bad86"
+    }
+  ],
+  "STEP:TBESG:G1343:L1475": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 416784,
+      "byte_length": 2920,
+      "sha256": "547d95eaa2c19f152dd314f95d39c56b3ad38e345b45c9d023b398019f1b4560"
+    }
+  ],
+  "STEP:TFLSJ:G1343:L1448": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 419704,
+      "byte_length": 1542,
+      "sha256": "a06a0d6c07529290f25771af050d5fb357ef6d4ce38b6c8703fe634011b31651"
+    }
+  ],
+  "STEP:TBESG:G1344:L1476": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 421246,
+      "byte_length": 2227,
+      "sha256": "c774c1903a7bc5e174523aa754742d4201bad92fe47f62fd7407d442b8cae0b3"
+    }
+  ],
+  "STEP:TFLSJ:G1344:L1449": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 423473,
+      "byte_length": 2645,
+      "sha256": "c4a313853a5946ef677231a1c8d4b8588d307571a5a7cb72d13164563a7898f7"
+    }
+  ],
+  "STEP:TBESG:G1347:L1479": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 426118,
+      "byte_length": 1280,
+      "sha256": "a5956f867156308b3f56db177cc5919dc18d40326af9de8515be5c786c400829"
+    }
+  ],
+  "STEP:TFLSJ:G1347:L1452": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 427398,
+      "byte_length": 1560,
+      "sha256": "cb14906df2e77a73b7261bca9769526a6ddf42ba91ef3d38b5bb4a2e79efbcc8"
+    }
+  ],
+  "STEP:TBESG:G1391:L1523": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 428958,
+      "byte_length": 2809,
+      "sha256": "8a33166042813e16a509da844c0955cfdf22da56aed29aba7eccffd0a529e004"
+    }
+  ],
+  "STEP:TFLSJ:G1391:L1496": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 431767,
+      "byte_length": 3549,
+      "sha256": "7a77734dae5fad6f185f4918b0e0f5961fc90515f9812e49d9d3da0cc5342114"
+    }
+  ],
+  "STEP:TBESG:G1401:L1533": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 435316,
+      "byte_length": 2334,
+      "sha256": "4e348890fced76dc4fb8960c5645f1c9ed9d6e1611f375a80bc4dae40409da94"
+    }
+  ],
+  "STEP:TFLSJ:G1401:L1506": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 437650,
+      "byte_length": 2277,
+      "sha256": "7b663d2a812607f08e1a7dc0b4931714cb817518f7871deb47f8a48bce844354"
+    }
+  ],
+  "STEP:TBESG:G1473:L1605": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 439927,
+      "byte_length": 2810,
+      "sha256": "6fab442494c4b7656cddab5bd20fffd3e0ec17b235ce687cd97b4a2c718e0bd0"
+    }
+  ],
+  "STEP:TFLSJ:G1473:L1578": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 442737,
+      "byte_length": 4192,
+      "sha256": "c4a87a6c768a3cc10a871e663368728335b63f3349ed4056de299e818738ae63"
+    }
+  ],
+  "STEP:TBESG:G1504:L1644": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 446929,
+      "byte_length": 1969,
+      "sha256": "2ead0cde89e66681bc5646b12db9879d4654043c652d1852b4636f8845e051b7"
+    }
+  ],
+  "STEP:TFLSJ:G1504:L1617": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 448898,
+      "byte_length": 2147,
+      "sha256": "2667ea046375958efbe9eb4f0e77bfd923b143c0d36c20f1f20779d0a6aba8bd"
+    }
+  ],
+  "STEP:TBESG:G1510:L1650": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 451045,
+      "byte_length": 4117,
+      "sha256": "e82be2b4ed38bb00cca655dea7f76d9b60effd7575abfc198e0a28a93de92fe4"
+    }
+  ],
+  "STEP:TFLSJ:G1510:L1623": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 455162,
+      "byte_length": 19761,
+      "sha256": "d97f32863994ebbafe7c9ba991753c7693e8fa2d8e833c8460251ad9c34f250f"
+    }
+  ],
+  "STEP:TBESG:G1515:L1655": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 474923,
+      "byte_length": 2394,
+      "sha256": "b974acaf5e0402796531ef671cd48fda9038d8547e8ed326e8dd40e8372529f1"
+    }
+  ],
+  "STEP:TFLSJ:G1515:L1628": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 477317,
+      "byte_length": 2693,
+      "sha256": "709f47df2c5b0adb7d1fe3c6feefba636fd9c84d7d9707eb25d796dc5dd05c4a"
+    }
+  ],
+  "STEP:TBESG:G1520:L1660": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 480010,
+      "byte_length": 2999,
+      "sha256": "893798884f3801a5612fee72e66d8262af64fa30de696df8dc613188c03a1ab6"
+    }
+  ],
+  "STEP:TFLSJ:G1520:L1633": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 483009,
+      "byte_length": 5549,
+      "sha256": "2225e9ab0b9813175ae8f99e46a71f3f9432378b23215f54e72e020ff410f634"
+    }
+  ],
+  "STEP:TBESG:G1577:L1717": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 488558,
+      "byte_length": 2525,
+      "sha256": "495fec3939f259ac7bc587c780bda6d215d30ed3c18a57f634d1e180d9529702"
+    }
+  ],
+  "STEP:TFLSJ:G1577:L1690": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 491083,
+      "byte_length": 2207,
+      "sha256": "65760d0fae5eb96801ef4837f06b0b9e1323955d97b4a0fecb2919d77eb7b70e"
+    }
+  ],
+  "STEP:TBESG:G1586:L1726": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 493290,
+      "byte_length": 1655,
+      "sha256": "ff8d19476538505bce72104bf755c87417164a00a5288768aeb6fa9e93a7eda7"
+    }
+  ],
+  "STEP:TFLSJ:G1586:L1699": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 494945,
+      "byte_length": 1955,
+      "sha256": "27054df1bc832094d25b4df01be9a643ef0db1a286a76e9562b1710e70b41aad"
+    }
+  ],
+  "STEP:TBESG:G1632:L1772": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 496900,
+      "byte_length": 1774,
+      "sha256": "59064de5b9b1f76677981daf152eda2f1e2426368f46a0350a25c6faa3b2adc2"
+    }
+  ],
+  "STEP:TFLSJ:G1632:L1745": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 498674,
+      "byte_length": 3564,
+      "sha256": "6d94039188bac91cc01d12f303ea18f0c071f82aa62468cf84f97e6f6ea0378d"
+    }
+  ],
+  "STEP:TBESG:G1656:L1796": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 502238,
+      "byte_length": 1981,
+      "sha256": "fa9731d3338c6b8bc4474367fb22d6b3b47320956885f6dc2ae6d420930a339c"
+    }
+  ],
+  "STEP:TFLSJ:G1656:L1769": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 504219,
+      "byte_length": 1452,
+      "sha256": "35ccdf8c9775b7327fa714b8cda02fc5843136d3b7a786f33c92a61e78230cc6"
+    }
+  ],
+  "STEP:TBESG:G1657:L1797": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 505671,
+      "byte_length": 1522,
+      "sha256": "7a42864be27b7064a9cbe2f6720c5596be810060efb2c716dbbc3690b94e1177"
+    }
+  ],
+  "STEP:TFLSJ:G1657:L1770": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 507193,
+      "byte_length": 1674,
+      "sha256": "bba08f4d26226c7eda13649efa56ee2a9bae43dcaea5fcdf21ad05e32f02f5ef"
+    }
+  ],
+  "STEP:TBESG:G1658:L1798": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 508867,
+      "byte_length": 1620,
+      "sha256": "e80371d4ac3a0bb36cb91048750ab9eb9763df3b6f372ba684dbe9c875c32e03"
+    }
+  ],
+  "STEP:TFLSJ:G1658:L1771": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 510487,
+      "byte_length": 2973,
+      "sha256": "85ebbf2f067767d974f6b2224803bef6b5881f95ef96a273b179bb1d2c11a08f"
+    }
+  ],
+  "STEP:TBESG:G1679:L1820": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 513460,
+      "byte_length": 1998,
+      "sha256": "3c03c6bde93341e5eb0660baadd5141ba3fb36954849921d3cc1371b6e69c7dd"
+    }
+  ],
+  "STEP:TFLSJ:G1679:L1793": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 515458,
+      "byte_length": 2757,
+      "sha256": "79ac77c83c351f257bf9f35570fcd547321e93264c691754438657bd1a6229c6"
+    }
+  ],
+  "STEP:TBESG:G1680:L1821": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 518215,
+      "byte_length": 2513,
+      "sha256": "2650da9e43b786cae9c20ade13b15b2337d691996c53789fc9b2012888c697af"
+    }
+  ],
+  "STEP:TFLSJ:G1680:L1794": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 520728,
+      "byte_length": 2989,
+      "sha256": "b1de664ab4f2aa783b8dbeb206890922fbef475aa30938e6f75ef2d9a45f5714"
+    }
+  ],
+  "STEP:TBESG:G1906:L2047": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 523717,
+      "byte_length": 1399,
+      "sha256": "670ccdc77077b608953d9673f4fec79ec115bec3c1b0d50ffa2749fdc309bee6"
+    }
+  ],
+  "STEP:TFLSJ:G1906:L2020": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 525116,
+      "byte_length": 1494,
+      "sha256": "030c12e8ec330c4259659134d18749fa9a071167f115d6f4cf0b86504c67f8ea"
+    }
+  ],
+  "STEP:TBESG:G1937:L2078": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 526610,
+      "byte_length": 1824,
+      "sha256": "d342b441b8ae2e77aa2090faafb259c5e520cc8caee8807fadb653929eaffe81"
+    }
+  ],
+  "STEP:TFLSJ:G1937:L2051": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 528434,
+      "byte_length": 1754,
+      "sha256": "22c1692b037ea9cc018e1cbcd8feef3ff9bbb169a382084700c86e71c7fe68ce"
+    }
+  ],
+  "STEP:TBESG:G1939:L2080": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 530188,
+      "byte_length": 2394,
+      "sha256": "9aa90e779ec1e119dabec147d15ee43ea2cc6eac1d8638ba25734b03b716a879"
+    }
+  ],
+  "STEP:TFLSJ:G1939:L2053": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 532582,
+      "byte_length": 1936,
+      "sha256": "53bd93c3d61ed086748b0e4593019be5512c91db2d5cbbcb22d19303c6345198"
+    }
+  ],
+  "STEP:TBESG:G2038:L2179": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 534518,
+      "byte_length": 2529,
+      "sha256": "5fa15fddccbb10138d0d825d6b4a79dc71819c7cb7c26fe39daa4e5ee16ae7ac"
+    }
+  ],
+  "STEP:TFLSJ:G2038:L2152": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 537047,
+      "byte_length": 4141,
+      "sha256": "d72b11daafdd395b78580bc8add54a757ec43c9c5f044f736713fd8d861c4eb8"
+    }
+  ],
+  "STEP:TBESG:G2041:L2182": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 541188,
+      "byte_length": 2665,
+      "sha256": "69c87ab5797b0687a18f46f3fe128b0361721b6f78b2cad957b9399cf94a61f5"
+    }
+  ],
+  "STEP:TFLSJ:G2041:L2155": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 543853,
+      "byte_length": 5534,
+      "sha256": "4afb8c18002bf2293d5778ed83cb88d6629e95edaae8ccc6bb724728ca847016"
+    }
+  ],
+  "STEP:TBESG:G2097:L2239": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 549387,
+      "byte_length": 2406,
+      "sha256": "9970cc37bbedf78136ac411cedd2e1c0da15d43acc04fc5a47745664f4f8b3fd"
+    }
+  ],
+  "STEP:TFLSJ:G2097:L2212": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 551793,
+      "byte_length": 2287,
+      "sha256": "af0340ea278abce0d1586ca0ac2aeea646061451a066f33fe7e921d62bfdd033"
+    }
+  ],
+  "STEP:TBESG:G2098:L2240": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 554080,
+      "byte_length": 2280,
+      "sha256": "1e76fe7a891e928c4b43679dad0f639e09862e9f2e7a0c40598b6d8ff4fd0f10"
+    }
+  ],
+  "STEP:TFLSJ:G2098:L2213": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 556360,
+      "byte_length": 1620,
+      "sha256": "90b29b38b7c5cda6af87d83890e9235f600ea106288efce936dac2881bea9ec1"
+    }
+  ],
+  "STEP:TBESG:G2227:L2372": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 557980,
+      "byte_length": 1469,
+      "sha256": "749188c8de779f8c3a9040105be2c087694b6d1f15865a92b706ad55a95303cc"
+    }
+  ],
+  "STEP:TFLSJ:G2227:L2345": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 559449,
+      "byte_length": 1352,
+      "sha256": "5d79c6bd5cfd46638b3e87339d3150a03d8e2c6bcbe3797eefdf2b48e7eb5b13"
+    }
+  ],
+  "STEP:TBESG:G2288:L2437": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 560801,
+      "byte_length": 2203,
+      "sha256": "f0e099e8b572101dd98e4b9b1295ce7c80e122a995108d2650f8d1e4ab935ccd"
+    }
+  ],
+  "STEP:TFLSJ:G2288:L2410": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 563004,
+      "byte_length": 3186,
+      "sha256": "88671586103dd3bea1cfed469b9c0d49ca8f013785b86cd3d70940b5a5346333"
+    }
+  ],
+  "STEP:TBESG:G2307:L2456": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 566190,
+      "byte_length": 2304,
+      "sha256": "9c32d7f2ee7551ae5e308e7aba4e0dfe3486d9496b78581e4580a3fe2e78efb3"
+    }
+  ],
+  "STEP:TFLSJ:G2307:L2429": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 568494,
+      "byte_length": 1255,
+      "sha256": "a80a59d4996ac51d445ebf01950e23bcd664294a2534b55921df64eb43c687e7"
+    }
+  ],
+  "STEP:TBESG:G2309:L2458": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 569749,
+      "byte_length": 3949,
+      "sha256": "4f2813d586bf83f36c96400eede286a60ae9d453bd748552fc4ba2df86d49d31"
+    }
+  ],
+  "STEP:TFLSJ:G2309:L2431": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 573698,
+      "byte_length": 1137,
+      "sha256": "e37aa28a74872d51b3e74222b0f4e00e1f871d1db09540f3f509d7f87dd08a8f"
+    }
+  ],
+  "STEP:TBESG:G2316:L2465": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 574835,
+      "byte_length": 2900,
+      "sha256": "2a1b0bad4c7097f3d5fbbd9caf96bb4230a63f705cf5c39f0002ea17cd84687d"
+    }
+  ],
+  "STEP:TFLSJ:G2316:L2438": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 577735,
+      "byte_length": 5375,
+      "sha256": "dfda6338ad97d23a0cf55a97693a544b5eac1a9f9122a79a6e0067fcfcbec03b"
+    }
+  ],
+  "STEP:TBESG:G2411:L2564": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 583110,
+      "byte_length": 1920,
+      "sha256": "fcb01e01268bb0b7f42a09e5a521f272286e295e613ecbd8e90595f6ece2f28e"
+    }
+  ],
+  "STEP:TFLSJ:G2411:L2537": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 585030,
+      "byte_length": 7595,
+      "sha256": "e625c1ffa4a2e7005e17ee59c9abeb9a956a33b58e424efa83423a5c44028362"
+    }
+  ],
+  "STEP:TBESG:G2435:L2592": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 592625,
+      "byte_length": 1740,
+      "sha256": "60417e345503739f6fc7dcf8798ba627f75d61006a4f3336b0a18c4edf332c0f"
+    }
+  ],
+  "STEP:TFLSJ:G2435:L2565": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 594365,
+      "byte_length": 1563,
+      "sha256": "b6a820e6af62aa1103d437c9b1a32c6e54ef67b4432cc33e69e937c1ff06e92b"
+    }
+  ],
+  "STEP:TBESG:G2479:L2645": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 595928,
+      "byte_length": 1582,
+      "sha256": "d03f6f1f8333a37af9b7df1e75ef2f2160890e8dc22cea75de73b9d03f66aa9a"
+    }
+  ],
+  "STEP:TFLSJ:G2479:L2618": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 597510,
+      "byte_length": 2163,
+      "sha256": "e781f47978a0ae57627e182004b4a59cadfeac1f083f5e08098fc56427ec77aa"
+    }
+  ],
+  "STEP:TBESG:G2537:L2720": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 599673,
+      "byte_length": 2365,
+      "sha256": "861c85ae15aad634826acf7cf639564ea2ba493f443014fb4eb306bcc7ac0d53"
+    }
+  ],
+  "STEP:TFLSJ:G2537:L2693": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 602038,
+      "byte_length": 2952,
+      "sha256": "88a0ff583f2573c19c195bb306e681264e80021c88a3bd373e819bad07f8e152"
+    }
+  ],
+  "STEP:TBESG:G2588:L2779": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 604990,
+      "byte_length": 2755,
+      "sha256": "7c6a14f350f5a47d39d7106668e9ae5d01e1712d5564304173c33a69155af051"
+    }
+  ],
+  "STEP:TFLSJ:G2588:L2752": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 607745,
+      "byte_length": 3324,
+      "sha256": "6161e5b2f176f1ece22c4673543a19f307513c29137e185d4a1e69cb5e450d6a"
+    }
+  ],
+  "STEP:TBESG:G2758:L2948": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 611069,
+      "byte_length": 1443,
+      "sha256": "031dd2da77616aab08dc04d4d35dec0aaae482c238596df323f7e48b5d85c58c"
+    }
+  ],
+  "STEP:TFLSJ:G2758:L2921": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 612512,
+      "byte_length": 3130,
+      "sha256": "6c76bd5096c702282f5abf7c699e16c64416ceb8eff0cb9499085237fb33ad62"
+    }
+  ],
+  "STEP:TBESG:G2817:L3010": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 615642,
+      "byte_length": 1497,
+      "sha256": "ae37ea3d6a819bc341b24bc0b4383f6b93c36977cd222a8900736ed19c2212bb"
+    }
+  ],
+  "STEP:TFLSJ:G2817:L2983": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 617139,
+      "byte_length": 1385,
+      "sha256": "758ff4cfc8bb7105ee396a8b342881c0d6b8685db4544c7b491069d97ab6a8b7"
+    }
+  ],
+  "STEP:TBESG:G2851:L3045": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 618524,
+      "byte_length": 1734,
+      "sha256": "5c0711a0b3b9d5ee587cbe64afad3587c69414bdcc75b0309f85a4a2d8e3cf9e"
+    }
+  ],
+  "STEP:TFLSJ:G2851:L3018": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 620258,
+      "byte_length": 1317,
+      "sha256": "53193a5a74868e8eeabec3729117b7a9ace22137f4d066009a1d224a63ee1820"
+    }
+  ],
+  "STEP:TBESG:G2920:L3115": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 621575,
+      "byte_length": 1974,
+      "sha256": "28e86c9ce60cf6fff866531053981f9aa26e179a6585ab7f0f77832b06d77d3a"
+    }
+  ],
+  "STEP:TFLSJ:G2920:L3088": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 623549,
+      "byte_length": 2870,
+      "sha256": "f759e1f20b8462faffe9f9c4cc9f1d0e3ca7be048171b920b1ef3c80719eb3c7"
+    }
+  ],
+  "STEP:TBESG:G2936:L3131": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 626419,
+      "byte_length": 1588,
+      "sha256": "5018d52b745dd6a5427bad24ab4c0f4969e5be11cfa03d50bac956b4321cb803"
+    }
+  ],
+  "STEP:TFLSJ:G2936:L3104": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 628007,
+      "byte_length": 2950,
+      "sha256": "c63154b244e91b9bd653457381fcdc624e684cbe7189ad44bd7b81a5dcb1379e"
+    }
+  ],
+  "STEP:TBESG:G2937:L3132": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 630957,
+      "byte_length": 1750,
+      "sha256": "6bf1880d0c2a2192414ca3cff79db3a822fd851b85f3bb51ab0349516790750b"
+    }
+  ],
+  "STEP:TFLSJ:G2937:L3105": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 632707,
+      "byte_length": 1385,
+      "sha256": "8d7ea7a74330c7e9234d449d03dbd0bb88751d9ca996de7cb3e34b8f7bb986da"
+    }
+  ],
+  "STEP:TBESG:G2962G:L3157": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 634092,
+      "byte_length": 3302,
+      "sha256": "b1e55c250b57b176fb257f11fac41995fe8047a8bfe6c3e1746922760e3ad01a"
+    }
+  ],
+  "STEP:TBESG:G2962H:L3158": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 637394,
+      "byte_length": 3305,
+      "sha256": "0f7a8927b4af01b9d9654c2fb58bc0481648305861b7c3cb9591da6a9f54c9b9"
+    }
+  ],
+  "STEP:TFLSJ:G2962G:L3130": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 640699,
+      "byte_length": 6220,
+      "sha256": "ca37adfcd15092ba11b41590fbbec88833071509120abeeddebc5eb6b6e057b1"
+    }
+  ],
+  "STEP:TFLSJ:G2962H:L3131": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 646919,
+      "byte_length": 6223,
+      "sha256": "5620795ecd201cf2eb05426113866d0fde09f5bb844162159d0c821ec8a14f7b"
+    }
+  ],
+  "STEP:TBESG:G3056:L3258": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 653142,
+      "byte_length": 4609,
+      "sha256": "93d0b97468416ae03528455fd1648438fb13d0a4af5d44379a4756ff5e26df75"
+    }
+  ],
+  "STEP:TFLSJ:G3056:L3231": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 657751,
+      "byte_length": 29818,
+      "sha256": "10cdf0760aac68c84228a8ce90da657ff533ae3b2f5018e6fd23fe0263bc8bed"
+    }
+  ],
+  "STEP:TBESG:G3083:L3285": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 687569,
+      "byte_length": 1515,
+      "sha256": "41df11f4c98d067d300db5b4079dd706508a5127a9265f336811471c9091efe7"
+    }
+  ],
+  "STEP:TFLSJ:G3083:L3258": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 689084,
+      "byte_length": 2250,
+      "sha256": "915887be91253a107d520cd8d69a0b04227d57ccb5d98bdc9c7b8fa65c5b53e1"
+    }
+  ],
+  "STEP:TBESG:G3115:L3317": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 691334,
+      "byte_length": 1593,
+      "sha256": "46bcf0f9c818bc42446dc715cdcb71d4b50c9a14b7adb972b6bc13cacac57866"
+    }
+  ],
+  "STEP:TFLSJ:G3115:L3290": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 692927,
+      "byte_length": 1203,
+      "sha256": "3ad9344d0cfb0df743bdbe57c71c6f8bb1b48e2d8fa4560d73cf5e1da707402a"
+    }
+  ],
+  "STEP:TBESG:G3120:L3322": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 694130,
+      "byte_length": 1594,
+      "sha256": "9db7a7bed87bf67141f7c6d4e8c57c03e47a970f6fe8b5670ba71d1a0b966f53"
+    }
+  ],
+  "STEP:TFLSJ:G3120:L3295": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 695724,
+      "byte_length": 4362,
+      "sha256": "704e7fedd8e97324bf683f620eb948527f0f8e23500d00d40a5473f263da6290"
+    }
+  ],
+  "STEP:TBESG:G3140:L3350": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 700086,
+      "byte_length": 2495,
+      "sha256": "f07e28ebec6f0a1ed772eccf504ecf9767f2a7142c4bc31af64fe1db5694dfaf"
+    }
+  ],
+  "STEP:TFLSJ:G3140:L3323": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 702581,
+      "byte_length": 3722,
+      "sha256": "1a75ec361695b5fcf5aa97c56fec3f61c5885c203e0d1d7e7170ff9dec14a50e"
+    }
+  ],
+  "STEP:TBESG:G3141:L3351": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 706303,
+      "byte_length": 1822,
+      "sha256": "a70cc966ceb035752a87d6f692ad5d2c82274b712e3f254a5332f6df85860642"
+    }
+  ],
+  "STEP:TFLSJ:G3141:L3324": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 708125,
+      "byte_length": 1623,
+      "sha256": "d6b1e071ea33598c82f9697f01a40178a6735aaba48c57610b17097103cde4a5"
+    }
+  ],
+  "STEP:TBESG:G3144:L3354": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 709748,
+      "byte_length": 1738,
+      "sha256": "8ad98d3f533d6ae1b673856d6e195417dc77a8dafece4c02ecab77958cb590ff"
+    }
+  ],
+  "STEP:TFLSJ:G3144:L3327": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 711486,
+      "byte_length": 1832,
+      "sha256": "a7500421db128dea49787a0f83373da3b76ce679fb3f2920076425243fd624ce"
+    }
+  ],
+  "STEP:TBESG:G3306:L3419": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 713318,
+      "byte_length": 2431,
+      "sha256": "787bfb6512b29c99943896b6bd736779561814544f498f70e5f5688f0686d89f"
+    }
+  ],
+  "STEP:TFLSJ:G3306:L3392": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 715749,
+      "byte_length": 4988,
+      "sha256": "109379e244a4366939debe5494da057c87b7f0e2ef218cc330dc43a8f0626bfc"
+    }
+  ],
+  "STEP:TBESG:G3338:L3451": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 720737,
+      "byte_length": 1426,
+      "sha256": "707fe67a3127674928e9420390c04857a269ae77cbe778fe9c2a86a4f5f2d212"
+    }
+  ],
+  "STEP:TFLSJ:G3338:L3424": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 722163,
+      "byte_length": 2063,
+      "sha256": "aa2be4997beba3c1326afcfdeb1cc93de1bab62c300e68648d28cff116d6dc0b"
+    }
+  ],
+  "STEP:TBESG:G3340:L3453": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 724226,
+      "byte_length": 1668,
+      "sha256": "04877c6465a5d3b413b381d0d897368238298c286a5e53ecfaf402f20fac5dd8"
+    }
+  ],
+  "STEP:TFLSJ:G3340:L3426": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 725894,
+      "byte_length": 1725,
+      "sha256": "facb0b119afd2b1869f299074370c4559f9416ae146fba5bc41d679002d6ef74"
+    }
+  ],
+  "STEP:TBESG:G3341:L3454": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 727619,
+      "byte_length": 1713,
+      "sha256": "067267d58185ee56d02cc5f3d76d8564353a36ca2cc5a08299aceee8e962776a"
+    }
+  ],
+  "STEP:TFLSJ:G3341:L3427": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 729332,
+      "byte_length": 1209,
+      "sha256": "0bea0443ae73bf235117c32b34c210fe8219c2e6bc9de1cf95ec0d7be4b758eb"
+    }
+  ],
+  "STEP:TBESG:G3430:L3543": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 730541,
+      "byte_length": 1307,
+      "sha256": "beb22e01d165ced5162b6597856b22b605d40ea6ab33fd4e069c0e6b5f9ed833"
+    }
+  ],
+  "STEP:TFLSJ:G3430:L3516": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 731848,
+      "byte_length": 1116,
+      "sha256": "4303541b902d270bc8e8557dc5a86188cef4bc6185ffc2edb8976a97cdb1d91a"
+    }
+  ],
+  "STEP:TBESG:G3439:L3552": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 732964,
+      "byte_length": 1578,
+      "sha256": "7b4cab5eec91627dbd3d9a1b3dd62765e314eeca7df118e0e561657e936e4e5a"
+    }
+  ],
+  "STEP:TFLSJ:G3439:L3525": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 734542,
+      "byte_length": 1846,
+      "sha256": "3cb05bf25a6bff335d972d3e93a896e7353440ceaaa77f14feefc67eedf15f15"
+    }
+  ],
+  "STEP:TBESG:G3444:L3557": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 736388,
+      "byte_length": 1809,
+      "sha256": "1d5f88d5efff2538d75ecc7283dc44ed8bac9ec96006b4a0773d7fd271c0d87c"
+    }
+  ],
+  "STEP:TFLSJ:G3444:L3530": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 738197,
+      "byte_length": 2343,
+      "sha256": "1a725c5b7c5b673c0151029b9918e376a7b24890f85047dadbd01c9be4540acf"
+    }
+  ],
+  "STEP:TBESG:G3485:L3598": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 740540,
+      "byte_length": 2032,
+      "sha256": "64dbc8b3e3de0785fd3d7837b34ce9791bf9a825c4d6e8cb2805388d58562bbf"
+    }
+  ],
+  "STEP:TFLSJ:G3485:L3571": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 742572,
+      "byte_length": 2172,
+      "sha256": "a8079ce7c9bb98673a3b8e3f294a328b91fcca450d6ba88af2784eaa796b7826"
+    }
+  ],
+  "STEP:TBESG:G3501:L3614": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 744744,
+      "byte_length": 2024,
+      "sha256": "bc9205972423d1c6e46eafb7d4df52eb5feb6229c8021cfdbe2bb38cb5b3cb3b"
+    }
+  ],
+  "STEP:TFLSJ:G3501:L3587": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 746768,
+      "byte_length": 3457,
+      "sha256": "eb5eaf9114358cc60fd0884ee7ecde60d94a586608c93f77e9c1fc03730c7a4d"
+    }
+  ],
+  "STEP:TBESG:G3551:L3664": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 750225,
+      "byte_length": 2767,
+      "sha256": "8edab99e829a1e6e42c990f4d4f078c6d8587560677785831bee2a567dd2d5ab"
+    }
+  ],
+  "STEP:TFLSJ:G3551:L3637": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 752992,
+      "byte_length": 4854,
+      "sha256": "6f94d7951dbfdbc0a264fc90dae20f999a1d4ba22ea77dd99b4e45b74afc3cf9"
+    }
+  ],
+  "STEP:TBESG:G3563:L3677": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 757846,
+      "byte_length": 1813,
+      "sha256": "1a9251528498733ce060995c98a97ef96a5dd958b25212d0605e5cb48b219d21"
+    }
+  ],
+  "STEP:TFLSJ:G3563:L3650": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 759659,
+      "byte_length": 4514,
+      "sha256": "2dd4ac9acae2855b487589f9515cc08047d17d7fe99952199de7ab2391672ed6"
+    }
+  ],
+  "STEP:TBESG:G3639:L3755": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 764173,
+      "byte_length": 1391,
+      "sha256": "e21898107ebd384f1f502f305fe9c908c1928c0db971a88f3e957ca4de80c656"
+    }
+  ],
+  "STEP:TFLSJ:G3639:L3728": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 765564,
+      "byte_length": 1936,
+      "sha256": "4dbea3046f52d06f4e24e84aaf08d9a546b76daf32870ffd48d1ecf97f3c656d"
+    }
+  ],
+  "STEP:TBESG:G3709:L3826": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 767500,
+      "byte_length": 1822,
+      "sha256": "f35397e7108642b08674c4c444a0bb4efe49a690c7837f145d2d4e75333addcd"
+    }
+  ],
+  "STEP:TFLSJ:G3709:L3799": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 769322,
+      "byte_length": 2959,
+      "sha256": "555663e3f78d9a3242e49b1d468fdfc8a401d897f02793acbc37088f1707db74"
+    }
+  ],
+  "STEP:TBESG:G3816:L3934": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 772281,
+      "byte_length": 2355,
+      "sha256": "3cfcfdfa59190e2cf53e2f4ea3bb3e03b4210f656746d998447c9bd486e623ec"
+    }
+  ],
+  "STEP:TFLSJ:G3816:L3907": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 774636,
+      "byte_length": 3627,
+      "sha256": "dd3f918db1676ed57b39f60c006b519b9cc37815033b42b3ee3640473cc7f9a7"
+    }
+  ],
+  "STEP:TBESG:G3841:L3959": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 778263,
+      "byte_length": 1472,
+      "sha256": "b4c73f52d91cf81786838ac373950b68fb387bb5c1692bf600b54536dec02bd4"
+    }
+  ],
+  "STEP:TFLSJ:G3841:L3932": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 779735,
+      "byte_length": 1195,
+      "sha256": "6cc9d73b5d315716fd4ab41b7fd15d01941a3169167a6d40575ba4270e570fb7"
+    }
+  ],
+  "STEP:TBESG:G3847:L3965": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 780930,
+      "byte_length": 1516,
+      "sha256": "44ea0f55f6057624581d44c5c3015ec42120fe9339d475f68e82afcb2cad928b"
+    }
+  ],
+  "STEP:TFLSJ:G3847:L3938": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 782446,
+      "byte_length": 1828,
+      "sha256": "375732d0694a62423a9ea265237e738921c892ae92ea6e8e11383939cfd554b8"
+    }
+  ],
+  "STEP:TBESG:G3875:L3993": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 784274,
+      "byte_length": 1766,
+      "sha256": "310bfcc0893baffb6e851d88c416cf3dc0a001c42bc1a935c0fe2a69124172dd"
+    }
+  ],
+  "STEP:TFLSJ:G3875:L3966": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 786040,
+      "byte_length": 1337,
+      "sha256": "11f2065319ece820d1271a9821941de03afd41b173021d3d3f66d86b08683d1a"
+    }
+  ],
+  "STEP:TBESG:G3900:L4018": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 787377,
+      "byte_length": 1426,
+      "sha256": "bad71adcfc2485e40fb6942c75d446a366b64d02e6ac58b615d53338f95b4345"
+    }
+  ],
+  "STEP:TFLSJ:G3900:L3991": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 788803,
+      "byte_length": 1296,
+      "sha256": "7cd4b607f61bedf635843f8604c1d9d5733972df734bd46d511a8fc2f2feea62"
+    }
+  ],
+  "STEP:TBESG:G3952:L4070": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 790099,
+      "byte_length": 1757,
+      "sha256": "436959d9a2cf532bfb8de95029d4b5ab05de26b0414905544314dbe4c6738136"
+    }
+  ],
+  "STEP:TFLSJ:G3952:L4043": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 791856,
+      "byte_length": 2296,
+      "sha256": "68c8898e07447c47a1cbcb97b676a7d3c1193e11323455667ab2c84e1b77673e"
+    }
+  ],
+  "STEP:TBESG:G3957:L4075": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 794152,
+      "byte_length": 1743,
+      "sha256": "df00f849032ba5428bef55808627a1a5b3a7b9b8acbff7f2e0e46a021daa890a"
+    }
+  ],
+  "STEP:TFLSJ:G3957:L4048": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 795895,
+      "byte_length": 1274,
+      "sha256": "5e743a4c04c6dd08e92d1930591725800d2edc6ed7cdac9667e97faae4913c82"
+    }
+  ],
+  "STEP:TBESG:G3985G:L4104": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 797169,
+      "byte_length": 2356,
+      "sha256": "e4772d3ae4e838786813711cc20d93c18be679429edc1750fe0e96b28bf7ddba"
+    }
+  ],
+  "STEP:TBESG:G3985H:L4105": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 799525,
+      "byte_length": 2355,
+      "sha256": "e4b12dd3f011fbe6dc4210f5f509d7fa8373b02eedef6627adb5cc14eced15f9"
+    }
+  ],
+  "STEP:TBESG:G3985I:L4106": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 801880,
+      "byte_length": 2354,
+      "sha256": "e9345714acae165117c2c08c6318a28a96fbb4746a5e75ac96b0907c1b19c0af"
+    }
+  ],
+  "STEP:TFLSJ:G3985G:L4077": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 804234,
+      "byte_length": 2440,
+      "sha256": "e7733b342c84ae4deba1977a12a1e850c4173078bead74996af4208780d6d349"
+    }
+  ],
+  "STEP:TFLSJ:G3985H:L4078": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 806674,
+      "byte_length": 2439,
+      "sha256": "130ebdfdd0eb00765119a48828f8044ccfc408d4a088bdb2f7edbc24680c64f3"
+    }
+  ],
+  "STEP:TFLSJ:G3985I:L4079": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 809113,
+      "byte_length": 2438,
+      "sha256": "612c5c6845ed7188734b6fc7e8b85a98795d6c9c225502d8a915fd3e4370d51a"
+    }
+  ],
+  "STEP:TBESG:G3986G:L4107": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 811551,
+      "byte_length": 2056,
+      "sha256": "d41e93f982a897df0241b5b9b4fd238c4c66cc4a825ac365c814bd32f50f70e3"
+    }
+  ],
+  "STEP:TBESG:G3986H:L4108": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 813607,
+      "byte_length": 2053,
+      "sha256": "f0b5a25704fbc4b315f7c9d99a426bb1b0e54ea01192da6d9e81854b5d2d9693"
+    }
+  ],
+  "STEP:TFLSJ:G3986G:L4080": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 815660,
+      "byte_length": 1256,
+      "sha256": "b27232da59eeb8423d5759b35771f5c0ba4a21500cfce3180213c1f96cf5ea07"
+    }
+  ],
+  "STEP:TFLSJ:G3986H:L4081": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 816916,
+      "byte_length": 1253,
+      "sha256": "8f90dbd0f4bb12c20c74b785878ff6b94f9e499bae266c8cbf1b780309339f5f"
+    }
+  ],
+  "STEP:TBESG:G4100:L4224": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 818169,
+      "byte_length": 2920,
+      "sha256": "acd963cf8e8ca5d5b27f911940561d0cd8191ab1cdbd37f6e3be7bde21cf8a2c"
+    }
+  ],
+  "STEP:TFLSJ:G4100:L4197": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 821089,
+      "byte_length": 3989,
+      "sha256": "54977ed0245881ebe0927c14b139e51234ae498a1788b11603e374fbcec23f63"
+    }
+  ],
+  "STEP:TBESG:G4102G:L4226": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 825078,
+      "byte_length": 2692,
+      "sha256": "ea7de2151b32f6d0cd0d6ec69c73d8dec080e364eaa61bb98ba8ed4268d17131"
+    }
+  ],
+  "STEP:TBESG:G4102H:L4227": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 827770,
+      "byte_length": 2706,
+      "sha256": "dc565bfbaa4ee9af9035bc488c16a4217363e16721eaf2be5946d9db43de9bd1"
+    }
+  ],
+  "STEP:TFLSJ:G4102G:L4199": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 830476,
+      "byte_length": 4504,
+      "sha256": "bce546a979b226df812053c1c84d42181566ac9aae89c4fb101f4481b3782ad1"
+    }
+  ],
+  "STEP:TFLSJ:G4102H:L4200": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 834980,
+      "byte_length": 4518,
+      "sha256": "a6d741dc6aa3c20851fbf613e020977a61fefff010b41edbcc933bb6722bd062"
+    }
+  ],
+  "STEP:TBESG:G4103:L4228": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 839498,
+      "byte_length": 2243,
+      "sha256": "a6e8cd998a8a0137a0a79862b6e30a738053f926377457d1f89137bc33f2ac72"
+    }
+  ],
+  "STEP:TFLSJ:G4103:L4201": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 841741,
+      "byte_length": 3897,
+      "sha256": "1cc6993d38c4c21efd196b24e83e9d504ac50ca04afb200d17222a3cf59aacaf"
+    }
+  ],
+  "STEP:TBESG:G4130:L4255": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 845638,
+      "byte_length": 1838,
+      "sha256": "6e0b712ca2530935c520a4af1f88d1563d6a89d7c0ce06ffca14d18303f5d3cc"
+    }
+  ],
+  "STEP:TFLSJ:G4130:L4228": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 847476,
+      "byte_length": 4857,
+      "sha256": "30707a8c7d5b9a44da15eae8f8a6f21f8b2847c38552ad9ce73d7b36bd3c5cea"
+    }
+  ],
+  "STEP:TBESG:G4151G:L4276": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 852333,
+      "byte_length": 4669,
+      "sha256": "e00f4cb677acbb59de3ee09f43c736dd850a66cc77d0485543f2200b53cd674c"
+    }
+  ],
+  "STEP:TBESG:G4151H:L4277": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 857002,
+      "byte_length": 4669,
+      "sha256": "04be7b1441d8e328b0273fa1f02b964370956c64fa9dce351192eb047194c9f3"
+    }
+  ],
+  "STEP:TFLSJ:G4151G:L4249": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 861671,
+      "byte_length": 4841,
+      "sha256": "0c7469ab755ad468cae4a2ba8b5e28b9f3a8f73aafb43bcc9ccee06a0c8fdca1"
+    }
+  ],
+  "STEP:TFLSJ:G4151H:L4250": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 866512,
+      "byte_length": 4841,
+      "sha256": "34103ab1fecdbea44a5742b9a07575facfc7a79dad43466ccf4ddb0f6b541563"
+    }
+  ],
+  "STEP:TBESG:G4202:L4331": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 871353,
+      "byte_length": 1665,
+      "sha256": "70ddea77827f5d8d1634ee926a178e84486a08c4331e0392d91c2a907a91bda3"
+    }
+  ],
+  "STEP:TFLSJ:G4202:L4304": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 873018,
+      "byte_length": 1269,
+      "sha256": "2988cb8494aaf8d1206e37e56f50eab231411ba45b4d2d6678ad68f3354aa68e"
+    }
+  ],
+  "STEP:TBESG:G4267:L4397": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 874287,
+      "byte_length": 1290,
+      "sha256": "1159ffee9d352710d9a73bd17b236c3827c2fbac5658378212a2b670bec24af6"
+    }
+  ],
+  "STEP:TFLSJ:G4267:L4370": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 875577,
+      "byte_length": 2083,
+      "sha256": "301fdc4156582b64d8ab773091991fe1009b75cbafc8d9ea5cd9f2756f5cbe00"
+    }
+  ],
+  "STEP:TBESG:G4268:L4398": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 877660,
+      "byte_length": 1217,
+      "sha256": "2cd9c76e7497bd5a4d07be9f0b47d51c0fb419c932c79c4f52bb172e553a6f36"
+    }
+  ],
+  "STEP:TFLSJ:G4268:L4371": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 878877,
+      "byte_length": 1373,
+      "sha256": "33f620bf508035203081110845d606227ac85aed776aa063b8df7edb2b62bc78"
+    }
+  ],
+  "STEP:TBESG:G4309:L4439": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 880250,
+      "byte_length": 1281,
+      "sha256": "0c8839ec4953823d80ef466c0ebb04521d830f0fb965d00a5579201fb7a4fa21"
+    }
+  ],
+  "STEP:TFLSJ:G4309:L4412": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 881531,
+      "byte_length": 1289,
+      "sha256": "9f690b805553ba554fa8b3de3ecb3378959ff059f1a25299b2cc7e57983eb179"
+    }
+  ],
+  "STEP:TBESG:G4416:L4549": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 882820,
+      "byte_length": 1590,
+      "sha256": "8d7583b360d4ffec2cc9f220a39adc5d3bae6f036bc7c759ec03977ce059f900"
+    }
+  ],
+  "STEP:TFLSJ:G4416:L4522": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 884410,
+      "byte_length": 1558,
+      "sha256": "0ef9adc2efda6ec4d7d5988daf83621458d6f384847a1ece7ac326007360c298"
+    }
+  ],
+  "STEP:TBESG:G4487:L4620": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 885968,
+      "byte_length": 2080,
+      "sha256": "3f27c78c86d8cd2b3d197aebda86a8b88d63c25d51ff7fda815d3c26f185371d"
+    }
+  ],
+  "STEP:TFLSJ:G4487:L4593": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 888048,
+      "byte_length": 2446,
+      "sha256": "884e8aa3812f4fcf4d10cf1f6de673d6a182b63966caf9db141a42b6924c8d09"
+    }
+  ],
+  "STEP:TBESG:G4561:L4698": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 890494,
+      "byte_length": 3503,
+      "sha256": "953a396a84faef98aa59c31b869004a875d2d378af2be5decaebae8336b7634a"
+    }
+  ],
+  "STEP:TFLSJ:G4561:L4671": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 893997,
+      "byte_length": 2895,
+      "sha256": "d10d885e599626778189bfedfe5ff765794ae3a1fe5b0d64711ebb6229dadc8b"
+    }
+  ],
+  "STEP:TBESG:G4637:L4783": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 896892,
+      "byte_length": 1480,
+      "sha256": "4d8cd47986415113978818436526a01db049bed09e122cb6e1db726862737819"
+    }
+  ],
+  "STEP:TFLSJ:G4637:L4756": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 898372,
+      "byte_length": 1877,
+      "sha256": "3ca1847c1939d4591332b865acddfa262737418aaa136de7acdbfe939637866c"
+    }
+  ],
+  "STEP:TBESG:G4690G:L4837": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 900249,
+      "byte_length": 2052,
+      "sha256": "c629844046c088599cd690e74cb9be2c62924cbe617b7a8c272c936a184942e8"
+    }
+  ],
+  "STEP:TBESG:G4690H:L4838": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 902301,
+      "byte_length": 2044,
+      "sha256": "3c347d2d2fb810125a92cde65ec9f6e2a710efbbaa173a5f5696b003d446aa44"
+    }
+  ],
+  "STEP:TFLSJ:G4690G:L4810": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 904345,
+      "byte_length": 2289,
+      "sha256": "4b83e2512b545a7c0905ea9cd6d3f8dbff894cfa45b5ea9ca24ec85387262e65"
+    }
+  ],
+  "STEP:TFLSJ:G4690H:L4811": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 906634,
+      "byte_length": 2281,
+      "sha256": "7ce07e634d0fe83213e18cdc2f4719327c7c53c27a014f954abe91558db68cbb"
+    }
+  ],
+  "STEP:TBESG:G4697:L4845": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 908915,
+      "byte_length": 1812,
+      "sha256": "a4eb937cdc1ee2a663d2f69eae38f525ee518bbaef1578a1c6fbc17907ff1528"
+    }
+  ],
+  "STEP:TFLSJ:G4697:L4818": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 910727,
+      "byte_length": 1339,
+      "sha256": "193615cb802167a5d44f7397676a94dedf491a758adf2c5f2bfb968772b48eda"
+    }
+  ],
+  "STEP:TBESG:G4972:L5124": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 912066,
+      "byte_length": 1643,
+      "sha256": "134b1789a93c470738bc4a03dc12ee09af18aa5046020199452c750ca64722ed"
+    }
+  ],
+  "STEP:TFLSJ:G4972:L5097": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 913709,
+      "byte_length": 4461,
+      "sha256": "500c0bae68b1ba3a5233e6006c817f11a3b6eced0bfac9bfa5893a6632269bed"
+    }
+  ],
+  "STEP:TBESG:G4973:L5125": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 918170,
+      "byte_length": 1451,
+      "sha256": "aa260986fc6090beafde9e7767225b634cdccca8e36a2eb53c9753c4993dd6e5"
+    }
+  ],
+  "STEP:TFLSJ:G4973:L5098": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 919621,
+      "byte_length": 3525,
+      "sha256": "8dd850a3b846fba78ef4855b5b1ff11a29a44f76d5c583e83b79b20c94cf487e"
+    }
+  ],
+  "STEP:TBESG:G4982:L5134": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 923146,
+      "byte_length": 1945,
+      "sha256": "d85c72fe275b75383ff0edd07dac1e87cb395fc6fd3e982b2f836082a76fe1aa"
+    }
+  ],
+  "STEP:TFLSJ:G4982:L5107": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 925091,
+      "byte_length": 7789,
+      "sha256": "7710a9a70ff3e19fc3cc8b0c41ddfd5eaf757711f3d7c4baec86826134e9a646"
+    }
+  ],
+  "STEP:TBESG:G4983:L5135": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 932880,
+      "byte_length": 2863,
+      "sha256": "08e70bb98b965260fdacea3912d0de7e9239dcdbb9618712d8ccdef5499e3736"
+    }
+  ],
+  "STEP:TFLSJ:G4983:L5108": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 935743,
+      "byte_length": 5688,
+      "sha256": "1dd74db2cf1904ec43e99109526e0ac12358f5afa172ef26d7a8dd8d957ae36f"
+    }
+  ],
+  "STEP:TBESG:G4991:L5143": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 941431,
+      "byte_length": 2231,
+      "sha256": "786390b987275c502874a238e8dffe9cc7e7e751bc68d64242cb16895d878e38"
+    }
+  ],
+  "STEP:TFLSJ:G4991:L5116": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 943662,
+      "byte_length": 2838,
+      "sha256": "6ba2d3d26d2742b8bf47f7a92843285a73bc9aa0a9635fcb42d290117967acda"
+    }
+  ],
+  "STEP:TBESG:G5020:L5172": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 946500,
+      "byte_length": 1365,
+      "sha256": "19227fb0dde079dbaca27d72d02278c900eb96d444253a1f9bacf8472b334c29"
+    }
+  ],
+  "STEP:TFLSJ:G5020:L5145": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 947865,
+      "byte_length": 1672,
+      "sha256": "1d86d2dd4422f93679bb14d99a48163cd1ebb81b6a07e4258370c1f1bb8a9098"
+    }
+  ],
+  "STEP:TBESG:G5043:L5195": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 949537,
+      "byte_length": 2874,
+      "sha256": "44f2e12f620d92b3e389866efe5352b3e1e31091b09d2813089ea12f108c1026"
+    }
+  ],
+  "STEP:TFLSJ:G5043:L5168": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 952411,
+      "byte_length": 2614,
+      "sha256": "59096e61e57c7a696f0bc9fd22da5970552de5182f8b7f143c570ad060226222"
+    }
+  ],
+  "STEP:TBESG:G5048:L5200": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 955025,
+      "byte_length": 1795,
+      "sha256": "17180c54d09725e08080dec6d2730985d96765b6d24bace0cf6b01f24b775ae0"
+    }
+  ],
+  "STEP:TFLSJ:G5048:L5173": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 956820,
+      "byte_length": 2928,
+      "sha256": "11dd9067db66c7caa09dcff0386dcbc105f2fec9b724ad1439afcaa99a20d30c"
+    }
+  ],
+  "STEP:TBESG:G5206:L5361": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 959748,
+      "byte_length": 1447,
+      "sha256": "0b08279abe5e66411beef32755ba0500c19c66d5eb1115ec618dce16bdfdaa35"
+    }
+  ],
+  "STEP:TFLSJ:G5206:L5334": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 961195,
+      "byte_length": 1296,
+      "sha256": "965f498289a56071daad663880c2168c95b560c7a0f546cf1515870199999086"
+    }
+  ],
+  "STEP:TBESG:G5207:L5362": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 962491,
+      "byte_length": 4067,
+      "sha256": "1644071a5f76c00a3148df62f2a41de026c5bb56728cf96d2d018d851db23329"
+    }
+  ],
+  "STEP:TFLSJ:G5207:L5335": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 966558,
+      "byte_length": 5420,
+      "sha256": "9479743e8e419538d50e28d8afa9cc46e2f72e8de4f8b2a515ebfd36c0251f1f"
+    }
+  ],
+  "STEP:TBESG:G5219:L5374": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 971978,
+      "byte_length": 1657,
+      "sha256": "09783713adcb4a6b7cbd45a472d872f72f731d79aa5913b1259356f068941426"
+    }
+  ],
+  "STEP:TFLSJ:G5219:L5347": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 973635,
+      "byte_length": 4242,
+      "sha256": "15035ef755e0d0ea4f540d42a9499d9bbe3620e254cf07755fa8c7b82f10771a"
+    }
+  ],
+  "STEP:TBESG:G5251:L5406": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 977877,
+      "byte_length": 1338,
+      "sha256": "aec971521dab8087de61b8448f1a050964e35d621a2a7f2459ac3fa500ad8548"
+    }
+  ],
+  "STEP:TFLSJ:G5251:L5379": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 979215,
+      "byte_length": 1145,
+      "sha256": "e2a64914b7ca82be7e3a839f544386332e36c0e767f48f2ba4a5a4f2d6d95bf8"
+    }
+  ],
+  "STEP:TBESG:G5368:L5526": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 980360,
+      "byte_length": 1769,
+      "sha256": "509fd6ee675a50cce5257d9808e304107ffe481afd5a956b0797357e7494d3d4"
+    }
+  ],
+  "STEP:TFLSJ:G5368:L5499": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 982129,
+      "byte_length": 6406,
+      "sha256": "158da477592f8d6711aae01c01248088514602c82438fe6a5a3dc924d07e2809"
+    }
+  ],
+  "STEP:TBESG:G5463:L5629": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 988535,
+      "byte_length": 2817,
+      "sha256": "0e495a6baf0d00c372efd15c2a8459c766e80ae0a2c6e20570acf58adf80a47c"
+    }
+  ],
+  "STEP:TFLSJ:G5463:L5602": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 991352,
+      "byte_length": 7680,
+      "sha256": "615f1156dc8cdb7ae2202c242a70cdcfe9fce24b3629a9f4a17ea400e9555631"
+    }
+  ],
+  "STEP:TBESG:G5479:L5645": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 999032,
+      "byte_length": 2211,
+      "sha256": "875af7f6c0d878096098b907c8b57be35a121205ad9ac1c876bf5e37d8da83c7"
+    }
+  ],
+  "STEP:TFLSJ:G5479:L5618": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 1001243,
+      "byte_length": 1672,
+      "sha256": "0cbddeaa2b55723d3e7271746bc92fafe8d3e975bdee50d96c389e7287482ecf"
+    }
+  ],
+  "STEP:TBESG:G5483:L5649": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 1002915,
+      "byte_length": 1606,
+      "sha256": "b1175f8b2b71fca603739359e771fbd346d8a85b058728ab29142c94f8fb64d3"
+    }
+  ],
+  "STEP:TFLSJ:G5483:L5622": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 1004521,
+      "byte_length": 5640,
+      "sha256": "be9d232cb4237aa2e6455442decf4069e4eff380ae1ef51ff02083c92c9891a7"
+    }
+  ],
+  "STEP:TBESG:G5485:L5651": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 1010161,
+      "byte_length": 2399,
+      "sha256": "02890ed29df7be2299e898e3c96737e993b051ac6bb555874ab2c30270d14daa"
+    }
+  ],
+  "STEP:TFLSJ:G5485:L5624": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 1012560,
+      "byte_length": 9618,
+      "sha256": "591033e815c986946fd2ab5791f4a82d0d15567359acfeaa71181da9168f43d2"
+    }
+  ],
+  "STEP:TBESG:G5547:L5715": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 1022178,
+      "byte_length": 1979,
+      "sha256": "862f0ca9dbcacad8aa34ae1d6756a466ef3b0e4005614b6215c342e0b6bec456"
+    }
+  ],
+  "STEP:TFLSJ:G5547:L5688": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 1024157,
+      "byte_length": 1547,
+      "sha256": "3ee7029de104cbd27137d7f88f7ae766cf126f36fbdb666c10d14f2e92baddf0"
+    }
+  ],
+  "STEP:TBESG:G5548:L5716": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 1025704,
+      "byte_length": 1603,
+      "sha256": "a392cb6a3d611efd6e5a5230103943dddbc026190c724c207d7a47876f78c718"
+    }
+  ],
+  "STEP:TFLSJ:G5548:L5689": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 1027307,
+      "byte_length": 3307,
+      "sha256": "f47b84122b1bf960aec44fa14b31216c0423e6552287d143b17dc5bf45a0eada"
+    }
+  ],
+  "STEP:TBESG:G5590G:L5761": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 1030614,
+      "byte_length": 2256,
+      "sha256": "2df5aa7ec18961fe3a98cc82e4381a39169d810a2f7ebe2fb1d69e07ab53b7a0"
+    }
+  ],
+  "STEP:TBESG:G5590H:L5762": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 1032870,
+      "byte_length": 2262,
+      "sha256": "c9f409c916b0e41230fe59217309aafa432f9119ac8ea10307cdc223b2c1fcef"
+    }
+  ],
+  "STEP:TBESG:G5590I:L5763": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 1035132,
+      "byte_length": 2264,
+      "sha256": "e749a96dc2c5266cd95dbca74c3bef427ea545c661ad7cbc6e40c32ac7708fdf"
+    }
+  ],
+  "STEP:TBESG:G5590J:L5764": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 1037396,
+      "byte_length": 2264,
+      "sha256": "768679b588d623f21ac4c8f6242b61387380a7f136182ebaf594541d0ebe5d42"
+    }
+  ],
+  "STEP:TBESG:G5590K:L5765": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 1039660,
+      "byte_length": 2264,
+      "sha256": "dec01cd79c5c39ed2a3924ba129e10af839cfed601724467f8c6fa42f45c952f"
+    }
+  ],
+  "STEP:TFLSJ:G5590G:L5734": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 1041924,
+      "byte_length": 9569,
+      "sha256": "efa0596023e3ea25e46bc1dd14543e10660f6ef8a35c7ae4aee0f339b2fe708c"
+    }
+  ],
+  "STEP:TFLSJ:G5590H:L5735": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 1051493,
+      "byte_length": 9575,
+      "sha256": "5819a73f4889ac34770f3a22429e288f208ecec14799cc43cb444d718f6ad750"
+    }
+  ],
+  "STEP:TFLSJ:G5590I:L5736": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 1061068,
+      "byte_length": 9577,
+      "sha256": "bf83477d6503ae62f76d1a9cbcda8a5beeebc779a05121c7a3c21999f7fa7aa3"
+    }
+  ],
+  "STEP:TFLSJ:G5590J:L5737": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 1070645,
+      "byte_length": 9577,
+      "sha256": "e5739c17e190fcd84572275e50ba9d710d7de23636f179daa64c839ed887d15c"
+    }
+  ],
+  "STEP:TFLSJ:G5590K:L5738": [
+    {
+      "file": "sources/lexical/selected/LEX-STEP.jsonl",
+      "byte_offset": 1080222,
+      "byte_length": 9577,
+      "sha256": "de426b1f10fee573e26aa17191bf9e1610c469012e056e496aa7ac7994d28c4f"
+    }
+  ]
+}
