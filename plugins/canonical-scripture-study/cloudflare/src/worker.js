@@ -51,7 +51,7 @@ export function createServer(assets) {
 // This also prevents the workers.dev hostname from bypassing hostname Access.
 const jwksByIssuer = new Map();
 async function authorizeAccessRequest(request, env) {
-  const teamDomain = env.TEAM_DOMAIN?.replace(/\\/$/, '');
+  const teamDomain = env.TEAM_DOMAIN?.replace(/\/$/, '');
   const audience = env.POLICY_AUD;
   if (!teamDomain || !audience) {
     console.error('Cloudflare Access settings missing');
