@@ -13,5 +13,10 @@
     "run_worker_first": true
   },
   "keep_vars": true,
-  "previews": {}
+  "previews": {
+    "vars": {
+      "TEAM_DOMAIN": "https://plain-violet-0e50.cloudflareaccess.com",
+      "POLICY_AUD": "f717575db1e37aec81acbf7f39ca0e5db3eb8fc04de5200d0894359394900314"
+    }
+  }
 }
