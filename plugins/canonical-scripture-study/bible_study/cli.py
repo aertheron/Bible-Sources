@@ -18,7 +18,7 @@ def main(argv=None):
     p.add_argument("--data-root"); p.add_argument("--cache-root"); p.add_argument("--offline", action="store_true", default=None)
     sub = p.add_subparsers(dest="command", required=True)
     sub.add_parser("health")
-    plan = sub.add_parser("plan"); plan.add_argument("query"); plan.add_argument("--active-reference"); plan.add_argument("--language", default="en"); plan.add_argument("--format", default="plain_working"); plan.add_argument("--state", help="JSON continuation_state file; '-' reads stdin")
+    plan = sub.add_parser("plan"); plan.add_argument("query"); plan.add_argument("--active-reference"); plan.add_argument("--language", default="en"); plan.add_argument("--format", default="plain_working"); plan.add_argument("--state", help="JSON continuation_state file; '-' reads stdin"); plan.add_argument("--depth", choices=["standard", "detailed", "full"])
     read = sub.add_parser("passage"); read.add_argument("reference"); read.add_argument("--sources", nargs="+"); read.add_argument("--detail", choices=["text", "linguistic"], default="text")
     app = sub.add_parser("apparatus"); app.add_argument("reference")
     dss = sub.add_parser("dss"); dss.add_argument("reference"); dss.add_argument("--cursor", type=int, default=0); dss.add_argument("--limit", type=int, default=1); dss.add_argument("--no-linguistics", action="store_true")
@@ -31,7 +31,7 @@ def main(argv=None):
     try:
         engine = Engine(SourceStore(args.data_root, args.cache_root, args.offline))
         if args.command == "health": result = engine.health()
-        elif args.command == "plan": result = engine.plan(args.query, args.active_reference, args.language, args.format, load_json(args.state) if args.state else None)
+        elif args.command == "plan": result = engine.plan(args.query, args.active_reference, args.language, args.format, load_json(args.state) if args.state else None, args.depth)
         elif args.command == "passage": result = engine.reader.passage(args.reference, args.sources, args.detail)
         elif args.command == "apparatus": result = engine.reader.apparatus(args.reference)
         elif args.command == "dss": result = engine.reader.dss(args.reference, args.cursor, args.limit, not args.no_linguistics)

@@ -84,6 +84,57 @@ class RuntimeTests(unittest.TestCase):
         p = self.engine.plan("Exegesis only Romans 12:1-2")
         self.assertNotIn("translate_annotate", p["stages"])
 
+    def test_depth_profiles_and_source_order(self):
+        for query, depth, anchors in [("Genesis 1:1", "standard", 2), ("Standard study Genesis 1:1", "standard", 2), ("Detailed study Genesis 1:1", "detailed", 4), ("Full study Genesis 1:1", "full", 6), ("Uitgebreide studie Genesis 1:1", "detailed", 4)]:
+            with self.subTest(query=query):
+                p = self.engine.plan(query)
+                self.assertEqual(p["study_depth"], depth)
+                self.assertEqual(p["budgets"]["canonical_anchors"], anchors)
+                self.assertEqual(p["source_policy"]["order"][0], "primary_source_text_and_local_context")
+                self.assertTrue(p["source_policy"]["independent_analysis_first"])
+                self.assertFalse(p["delivery"]["background_jobs"])
+                self.assertEqual(p["source_policy"]["external_research_default"], "selective_after_independent_analysis" if depth == "full" else "off")
+        self.assertEqual(self.engine.plan("Genesis 1", study_depth="detailed")["study_depth"], "detailed")
+        self.assertEqual(self.engine.plan("Translate Genesis 1, full")["study_depth"], "full")
+        self.assertEqual(self.engine.plan("help")["default_study_depth"], "standard")
+
+    def test_depth_continuation_and_legacy_state(self):
+        p = self.engine.plan("Detailed study Genesis 1-2, in Dutch, with original language interlinear")
+        saved = copy.deepcopy(p["continuation_state"])
+        n = self.engine.plan("Next", study_state=saved)
+        self.assertEqual((n["reference"], n["study_depth"], n["language"], n["translation_format"]), ("Genesis 2", "detailed", "nl", "original_interlinear"))
+        self.assertEqual(saved, p["continuation_state"])
+        changed = self.engine.plan("Next, full", study_state=saved)
+        self.assertEqual((changed["mode"], changed["study_depth"]), ("full_study", "full"))
+        old = self.engine.plan("Full study Genesis 1-2")["continuation_state"]
+        old.pop("study_depth")
+        self.assertEqual(self.engine.plan("Next", study_state=old)["study_depth"], "full")
+        old["request_mode"] = "study_plan"
+        self.assertEqual(self.engine.plan("Next", study_state=old)["study_depth"], "standard")
+        for bad in ("unknown", [], None):
+            with self.subTest(bad=bad), self.assertRaises(StudyError):
+                self.engine.plan("Next", study_state={**old, "study_depth": bad})
+        with self.assertRaises(StudyError):
+            self.engine.plan("Next", study_state={**old, "extra": True})
+        with self.assertRaises(StudyError):
+            self.engine.plan("Next", study_state={**saved, "study_depth": "standard"})
+        for bad in ("unknown", [], "__proto__"):
+            with self.subTest(bad=bad), self.assertRaises(StudyError):
+                self.engine.plan("Genesis 1", study_depth=bad)
+
+    def test_focused_depth_does_not_force_passage_translation(self):
+        p = self.engine.plan("Word study testing. Compare Matthew 6:13 and James 1:13., full")
+        self.assertEqual(p["mode"], "word_study")
+        self.assertEqual(p["study_depth"], "full")
+        self.assertIn("Compare", p["follow_up_requested"])
+        self.assertNotIn("translation_notes", p["response_sections"])
+        e = self.engine.plan("Exegesis only Romans 12:1-2, detailed")
+        self.assertNotIn("translate_annotate", e["stages"])
+        self.assertTrue(e["context_preface"]["required"])
+        self.assertEqual(e["context_preface"]["preceding_context_reference"], "Romans 11:32-36")
+        translation = self.engine.plan("Translate Genesis 1:1, full")
+        self.assertEqual(translation["response_sections"], ["orientation", "translation_notes"])
+
     def test_source_editions_have_native_status(self):
         p = self.engine.reader.passage("Genesis 1:1", ["WLC", "UXLC", "TAHOT", "LXX"], "linguistic")
         self.assertEqual(len(p["source_packets"]), 4)

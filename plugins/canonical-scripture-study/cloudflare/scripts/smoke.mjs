@@ -37,6 +37,22 @@ const plan = (await tool('study_plan', {query: 'Translate Genesis 1-2, in Dutch,
 assert.equal(plan.reference, 'Genesis 1');
 const next = (await tool('study_plan', {query: 'Next', study_state: plan.continuation_state})).structuredContent;
 assert.deepEqual([next.reference, next.language, next.translation_format, next.mode], ['Genesis 2', 'nl', 'original_interlinear', 'translation_only']);
+const standard = (await tool('study_plan', {query: 'Romans 12:1-2'})).structuredContent;
+assert.equal(standard.study_depth, 'standard');
+assert.equal(standard.source_policy.external_research_default, 'off');
+assert.equal(standard.context_preface.required, true);
+assert.equal(standard.context_preface.preceding_context_reference, 'Romans 11:32-36');
+const detailed = (await tool('study_plan', {query: 'Detailed study Genesis 1-2'})).structuredContent;
+const nextDetailed = (await tool('study_plan', {query: 'Next', study_state: detailed.continuation_state})).structuredContent;
+assert.equal(nextDetailed.study_depth, 'detailed');
+assert.equal(nextDetailed.reference, 'Genesis 2');
+const full = (await tool('study_plan', {query: 'Full study Genesis 1:1-2:3'})).structuredContent;
+assert.equal(full.budgets.canonical_anchors, 6);
+assert.equal(full.source_policy.independent_analysis_first, true);
+assert.equal(full.next.reference, 'Genesis 2:4-25');
+const invalidDepth = await tool('study_plan', {query: 'Next', study_state: {...full.continuation_state, study_depth: 'invalid'}});
+assert.equal(invalidDepth.isError, true);
+assert.equal(invalidDepth.structuredContent.error.code, 'study_depth');
 const passage = (await tool('fetch_passage', {reference: 'Genesis 1:1-3', sources: ['WLC', 'LXX', 'TAHOT']})).structuredContent;
 assert.equal(passage.source_packets.length, 3);
 assert.ok(passage.source_packets.every(p => p.evidence.sha256 && p.records.length));
@@ -59,4 +75,4 @@ const badOrigin = await fetch(endpoint, {method: 'POST', headers: {'Content-Type
 assert.equal(badOrigin.status, 403);
 const staticAttempt = await fetch(new URL('/spans/arbitrary.txt', endpoint));
 assert.equal(staticAttempt.status, 404);
-console.log(JSON.stringify({endpoint, protocol_version: version, tools: list.tools.length, resources: resources.resources.length, checked: ['initialization', 'schemas and read-only hints', 'verified passage retrieval', 'Next in Dutch interlinear mode', 'word study', 'DSS status and 69 linguistic columns', 'structured domain error', 'skill instructions', 'resource read', 'browser origin rejection', 'static paths unavailable through public routes']}, null, 2));
+console.log(JSON.stringify({endpoint, protocol_version: version, tools: list.tools.length, resources: resources.resources.length, checked: ['initialization', 'schemas and read-only hints', 'verified passage retrieval', 'Next in Dutch interlinear mode', 'study depths, source order and dependent context', 'word study', 'DSS status and 69 linguistic columns', 'structured domain error', 'skill instructions', 'resource read', 'browser origin rejection', 'static paths unavailable through public routes']}, null, 2));

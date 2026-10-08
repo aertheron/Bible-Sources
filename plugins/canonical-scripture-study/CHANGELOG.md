@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.3 Preview — 2026-10-08
+
+- Add Standard/Detailed/Full planning, depth-specific research budgets, English/Dutch aliases and an additive study_depth/--depth option.
+- Preserve depth through Next and accept the existing six-field continuation state.
+- Return source-first research order, staged in-turn delivery and relevant name/literary reading-aid contracts; update the embedded skills and method.
+- Strengthen adjacent translation notes, translation/explanation consistency and confidence checks after user feedback.
+- Keep pinned source bytes, evidence contracts and Cloudflare Access JWT protection intact; validate the authenticated protocol with local signing keys.
+- Publish this change to the existing Preview branch only; production promotion remains separate.
+
 ## 0.1.2 — 2026-10-06
 
 - Add native JavaScript hosting for Cloudflare Workers Free with verified Workers Static Assets; no paid service or model API binding.

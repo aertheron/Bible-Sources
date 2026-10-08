@@ -1,4 +1,4 @@
-# Canonical Scripture Study — MVP 0.1.2
+# Canonical Scripture Study — Preview 0.1.3
 
 *Study Scripture through its languages, context, and canonical story.*
 
@@ -28,16 +28,18 @@ bible-study-mcp
 
 Configure an MCP-capable host to start that environment's `bible-study-mcp` executable. Its standard input/output is the protocol; use the CLI for ordinary terminal JSON. The portable [plugin manifest](plugin.json), [MCP configuration](mcp.json), eight `skills/` folders and repository marketplace catalogue support package discovery on compatible surfaces. For a different Python environment, adjust the host's executable path. Installing the Python wheel installs the retrieval runtime; obtain the full repository plugin folder to use the skills and manifest.
 
-The intended study interface is a ChatGPT Work conversation. Once connected and installed, select **@Canonical Scripture Study** and ask for a passage study or a focused command. ChatGPT uses the skills to translate and explain the retrieved evidence.
+The study interface is a ChatGPT conversation in Chat or Work. Once connected and installed, select **@Canonical Scripture Study** and ask for a passage study or a focused command. ChatGPT uses the skills to translate and explain the retrieved evidence.
 
-The code and local runtime are published. A [free Cloudflare hosting package](cloudflare/) now supplies a native Worker, verified static source assets and a Streamable HTTP endpoint. Use its setup guide to deploy and then connect the actual HTTPS `/mcp` URL in ChatGPT. No live endpoint or completed ChatGPT installation is claimed. This hosting path needs no model API key; ChatGPT performs the study. Publishing these files does not replace the existing personal plugin or create a public Plugins Directory listing.
+The code and local runtime are published. A [free Cloudflare hosting package](cloudflare/) now supplies a native Worker, verified static source assets and a Streamable HTTP endpoint. Use its setup guide to deploy and then connect the actual HTTPS `/mcp` URL in ChatGPT. The existing OAuth deployment uses https://study.canonical-theology.com/mcp; this iteration is tested on the separate Preview connection before promotion. This hosting path needs no model API key; ChatGPT performs the study. Publishing these files does not replace the existing personal plugin or create a public Plugins Directory listing.
 
 ## Commands and continuation
 
-Natural language is the interface; these are routing aliases, not registered native slash commands. Bare passages start with a concise study plan and orientation. Explicit commands perform the requested task.
+Natural language is the interface; these are routing aliases, not registered native slash commands. Bare passages default to Standard and start with a concise study plan and orientation. Choose Detailed or Full for greater depth; a focused command still performs its own task. Explicit commands perform the requested task.
 
 | Command | Output |
 | --- | --- |
+| Standard study / bare passage | Working translation, relevant notes, brief context and explanation |
+| Detailed study | Adds consequential terms, historical/cultural context, visible literary structure and bounded canonical links |
 | Full study | Context, translation, notes, local exegesis, biblical/canonical development, theology review |
 | Translation only / Translate | Working translation in the chosen format with necessary context and notes |
 | Word study | Source terms, contextual senses, translation guidance and bounded canonical development |
@@ -47,7 +49,7 @@ Natural language is the interface; these are routing aliases, not registered nat
 | Translation variance reconciliation | Actual source differences and an evidence-based assessment |
 | Theology check | Fair claim reconstruction and contextual evidence review |
 | DSS research | Paged physical records, reconstruction status and linguistic annotations |
-| Next / Next chapter 2 / Next: Genesis 2 | Continue with the saved mode, language and display format |
+| Next / Next chapter 2 / Next: Genesis 2 | Continue with the saved mode, depth, language and display format |
 
 English and Dutch aliases are supported. The host can normalize other languages into the documented commands and pass a language code.
 
@@ -79,7 +81,7 @@ Retrieval uses commit `df1ed50b4aa532c14c9587106b75693414aaa622`. A full checkou
 
 Included readers cover WLC/OSHB, UXLC, all TAHOT fields, Brenton Greek, SBLGNT and its edition-comparison apparatus, and enriched DSS exports. The ordinary reference router covers 66 base books; additional Greek books and Psalm 151 need separate native-edition access (`Reader.native_chapter` in Python), and do not yet have dedicated CLI/MCP routing. Native numbering remains explicit: **book routes and equal verse numbers do not constitute reviewed cross-edition equivalence**. WLC/UXLC are related transcriptions, not independent witnesses. Greek surface tokenization provides stable derived IDs and exact character offsets, not an invented lemma/morphology layer.
 
-The 50 complete word studies are retrieved one or two at a time with up to six compact context pointers; related entries are not automatically loaded. Selected lexical data is not a complete lexicon or concordance. Six provisional canonical seed dossiers supply up to six anchor pointers; the host retrieves relevant local contexts. BibleProject and academic sources are research leads for overview, context, exegesis and theology, not a mirrored commentary collection. New completed studies can grow the public collection through its existing review/update process; chat drafts are not automatically published.
+The 50 complete word studies are retrieved one or two at a time with up to six compact context pointers; related entries are not automatically loaded. Selected lexical data is not a complete lexicon or concordance. Six provisional canonical seed dossiers supply up to six anchor pointers; the host retrieves relevant local contexts. Independent Hebrew/Greek and biblical-context analysis comes first. Standard and Detailed do not browse by default; Full uses BibleProject/academic leads selectively afterwards for a specific deepening question. These are research leads, not a mirrored commentary collection. New completed studies can grow the public collection through its existing review/update process; chat drafts are not automatically published.
 
 ## Limits and next work
 

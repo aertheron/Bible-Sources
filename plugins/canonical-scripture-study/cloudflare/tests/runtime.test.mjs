@@ -30,6 +30,17 @@ test('Worker matches Python source packets, plans, studies and validation contra
   const cases = [];
   const add = (kind, ...args) => cases.push({kind, args});
   for (const query of ['Translate Genesis 1:1-2:3', 'Translate Genesis 1-2, in Dutch, with original language interlinear', 'Translate the whole of Isaiah', 'Full study Romeinen 12:1-2, in Nederlands, with original interlinear', 'Romans 12:1-2', 'Exegesis only Romans 12:1-2', 'Word study testing. Compare Matthew 6:13 and James 1:13.', 'Theme study salvation', 'Translate Acts 8:37', 'Next', 'help', 'Translate Genesis 0', 'Translate Genesis 1:99', 'Translate Isaiah 67', 'Translate Genesis 5-3', 'Translate Unknown 1']) add('plan', query);
+  for (const query of ['Standard study Genesis 1:1', 'Detailed study Genesis 1-2', 'Uitgebreide studie Genesis 1', 'Word study testing, full', 'Exegesis only Romans 12:1-2, detailed', 'Translate Genesis 1, full', 'Genesis 1, standaard', 'Detailed Genesis 1']) add('plan', query);
+  for (const depth of ['standard', 'detailed', 'full', 'invalid', [], '__proto__']) add('plan', 'Genesis 1', null, 'en', 'plain_working', null, depth);
+  const detailed = (await make().plan('Detailed study Genesis 1-2, in Dutch, with original language interlinear')).continuation_state;
+  add('plan', 'Next', null, 'en', 'plain_working', detailed);
+  add('plan', 'Next, full', null, 'en', 'plain_working', detailed);
+  for (const mode of ['full_study', 'study_plan']) {
+    const legacy = {...detailed, request_mode: mode}; delete legacy.study_depth;
+    add('plan', 'Next', null, 'en', 'plain_working', legacy);
+  }
+  for (const depth of ['invalid', [], null]) add('plan', 'Next', null, 'en', 'plain_working', {...detailed, study_depth: depth});
+  add('plan', 'Next', null, 'en', 'plain_working', {...detailed, study_depth: 'standard'});
   const state = (await make().plan('Translate Genesis 1-2, in Dutch, with original language interlinear')).continuation_state;
   for (const command of ['Next', 'Next chapter 2', 'Next: Genesis 2', 'Volgende hoofdstuk 2']) add('plan', command, null, 'en', 'plain_working', state);
   add('plan', 'Next', null, 'en', 'plain_working', {request_mode: []});
