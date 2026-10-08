@@ -1,4 +1,5 @@
 import {McpServer} from '@modelcontextprotocol/server';
+import {createRemoteJWKSet, jwtVerify} from 'jose';
 import {createMcpHandler} from 'agents/mcp/server';
 import {z} from 'zod';
 import {Engine} from './engine.js';
@@ -45,11 +46,49 @@ export function createServer(assets) {
   }
   return server;
 }
+
+// Enforce Access authentication at the origin as well as at Cloudflare's edge.
+// This also prevents the workers.dev hostname from bypassing hostname Access.
+const jwksByIssuer = new Map();
+async function authorizeAccessRequest(request, env) {
+  const teamDomain = env.TEAM_DOMAIN?.replace(/\\/$/, '');
+  const audience = env.POLICY_AUD;
+  if (!teamDomain || !audience) {
+    console.error('Cloudflare Access settings missing');
+    return new Response('Service not configured', {status: 503});
+  }
+  let issuer;
+  try {
+    issuer = new URL(teamDomain);
+    if (issuer.protocol !== 'https:' || issuer.pathname !== '/' || issuer.search || issuer.hash) throw new Error('Invalid issuer URL');
+  } catch {
+    console.error('Invalid Cloudflare Access team domain');
+    return new Response('Service not configured', {status: 503});
+  }
+  const token = request.headers.get('Cf-Access-Jwt-Assertion');
+  if (!token) return new Response('Forbidden', {status: 403});
+  const issuerUrl = issuer.origin;
+  try {
+    if (!jwksByIssuer.has(issuerUrl)) {
+      jwksByIssuer.set(issuerUrl, createRemoteJWKSet(new URL('/cdn-cgi/access/certs', issuerUrl)));
+    }
+    await jwtVerify(token, jwksByIssuer.get(issuerUrl), {
+      issuer: issuerUrl,
+      audience,
+    });
+    return null;
+  } catch {
+    return new Response('Forbidden', {status: 403});
+  }
+}
+
 export default {
   async fetch(request, env, ctx) {
     const path = new URL(request.url).pathname;
     if (request.method === 'GET' && (path === '/' || path === '/health')) return Response.json({name: 'Canonical Scripture Study', version: VERSION, mcp_path: '/mcp', source_commit: bundle.source_commit, hosting: 'Cloudflare Workers and Static Assets; no paid services required'});
     if (path !== '/mcp') return new Response('Not found', {status: 404});
+    const rejected = await authorizeAccessRequest(request, env);
+    if (rejected) return rejected;
     if (request.method === 'POST') {
       if (+request.headers.get('Content-Length') > 128 * 1024) return new Response('Request too large', {status: 413});
       const body = await request.arrayBuffer();
