@@ -11,11 +11,16 @@
     "test": "npm run prepare:data && node --test tests/*.test.mjs",
     "smoke": "node scripts/smoke.mjs"
   },
-  "engines": {"node": ">=22"},
+  "engines": {
+    "node": ">=22"
+  },
   "dependencies": {
     "@modelcontextprotocol/server": "2.0.0",
     "agents": "0.26.0",
-    "zod": "4.4.3"
+    "zod": "4.4.3",
+    "jose": "6.2.12"
   },
-  "devDependencies": {"wrangler": "4.147.0"}
+  "devDependencies": {
+    "wrangler": "4.147.0"
+  }
 }

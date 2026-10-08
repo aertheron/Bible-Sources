@@ -48,7 +48,7 @@ Use the Workers path in the dashboard. A static Pages site by itself does not ex
 
 ## Connect it in ChatGPT
 
-On ChatGPT web, open **Plugins → + → Add custom MCP server**. Name it **Canonical Scripture Study**, enter the deployed HTTPS `/mcp` URL, and select **No authentication**. Review ChatGPT's connection prompt, create the personal plugin, then install it. In a new Work conversation select **@Canonical Scripture Study** and try:
+On ChatGPT web, open **Plugins → + → Add custom MCP server**. Name it **Canonical Scripture Study**, enter the deployed HTTPS `/mcp` URL, and select **OAuth** after configuring Cloudflare Access as described below. Review ChatGPT's connection prompt, create the personal plugin, then install it. In a new Work conversation select **@Canonical Scripture Study** and try:
 
 - `Full study Romans 12:1-2`
 - `Word study testing. Compare Matthew 6:13 and James 1:13.`
@@ -56,6 +56,24 @@ On ChatGPT web, open **Plugins → + → Add custom MCP server**. Name it **Cano
 - `Next`
 
 The initial connection supplies the tools, server-wide method and translation key, and `get_study_instructions`, which retrieves the exact eight published skill instructions on demand. It also exposes twelve methodology resources. This allows an initial study trial through the MCP connection. Registering an MCP server does not itself install the repository's skill folders as native ChatGPT skills. To install the complete bundled plugin afterward, copy the registered connection ID beginning `plugin_asdk_app...` and wire that existing connection to this plugin's eight skills using the supported plugin packaging flow. There is no need to build a separate study website.
+
+
+## Secure a private deployment with Cloudflare Access
+
+The Worker **requires valid Cloudflare Access JWT assertions for every `/mcp` request**, including requests through a `workers.dev` hostname. Without environment configuration it fails closed with HTTP 503; requests lacking assertions are refused with HTTP 403. The existing `/health` endpoint remains an intentionally public, non-sensitive status response.
+
+**Before deploying the protection:**
+
+1. Configure a Cloudflare Access **self-hosted application** for the Worker custom domain (for example, `study.canonical-theology.com`), with an Allow policy for your exact email. Do not use an Everyone policy for a personal deployment.
+2. In Zero Trust, copy the application's **Application Audience (AUD) Tag** from Additional settings, and your **Team domain** (for example, `https://example.cloudflareaccess.com`).
+3. Under **Workers & Pages → canonical-scripture-study → Settings → Variables and Secrets**, add two text variables named `TEAM_DOMAIN` and `POLICY_AUD`. The configured `keep_vars` setting preserves dashboard variables across Wrangler deployments. Neither value is a client secret.
+4. Deploy and test that unauthenticated `/mcp` requests are rejected. In Access application settings, under **Advanced settings**, enable **Managed OAuth**. Configure the Access token lifetime to approximately 15 minutes and the grant session to up to 14 days. Only allow redirect URIs actually needed by trusted OAuth clients.
+5. In ChatGPT, reconnect the personal MCP plugin to the custom domain using **OAuth**. Complete the Cloudflare login through your permitted account and smoke-test actual tool calls.
+6. After OAuth works, disable the unneeded `workers.dev` route. JWT checks remain enabled as defense in depth.
+
+**Do not merge or deploy this change until `TEAM_DOMAIN` and `POLICY_AUD` are configured.** Otherwise the MCP endpoint intentionally stops responding to valid tool calls. Cloudflare Access handles the OAuth browser flow and forwards a signed JWT in `Cf-Access-Jwt-Assertion`; the Worker validates the JWT signature, issuer, audience and expiry before it runs tools. ChatGPT's OAuth access token is not itself a JWT for this Worker to verify.
+
+For future public release, keep JWT validation but replace the single-email Access policy with a suitable public-user authentication policy and identity provider. Do not provide Cloudflare-account access to end users.
 
 ## Free limits and verification
 

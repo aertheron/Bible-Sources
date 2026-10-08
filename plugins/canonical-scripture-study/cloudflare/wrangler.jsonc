@@ -3,11 +3,20 @@
   "name": "canonical-scripture-study",
   "main": "src/worker.js",
   "compatibility_date": "2026-10-06",
-  "compatibility_flags": ["nodejs_compat"],
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
   "workers_dev": true,
   "assets": {
     "directory": "./generated/assets",
     "binding": "ASSETS",
     "run_worker_first": true
+  },
+  "keep_vars": true,
+  "previews": {
+    "vars": {
+      "TEAM_DOMAIN": "https://plain-violet-0e50.cloudflareaccess.com",
+      "POLICY_AUD": "f717575db1e37aec81acbf7f39ca0e5db3eb8fc04de5200d0894359394900314"
+    }
   }
 }
