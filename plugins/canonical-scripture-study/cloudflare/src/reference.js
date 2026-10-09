@@ -61,8 +61,34 @@ export class References {
   }
   next(current) {
     const p = this.parse(current), last = this.last(p.book, p.end_chapter);
+    const after = p.end_verse < last
+      ? [p.end_chapter, p.end_verse + 1]
+      : [p.end_chapter + 1, 1];
+    if (!this.verses[p.book][after[0]]) return null;
+
+    // Prefer the remainder of a *curated* literary unit over an artificial chapter break.
+    // Respect the existing bounded source/translation limits; never silently expand
+    // the current study or replace an explicitly requested next reference.
+    const within = (start, end) => (start[0] < end[0] || start[0] === end[0] && start[1] <= end[1]);
+    const relevant = config('literary-units').units.map(unit => ({unit, range: this.parse(unit.reference)}))
+      .filter(({range: u}) => u.book === p.book
+        && within([u.start_chapter, u.start_verse], [p.start_chapter, p.start_verse])
+        && within([p.end_chapter, p.end_verse], [u.end_chapter, u.end_verse])
+        && within(after, [u.end_chapter, u.end_verse]))
+      .sort((a, b) => this.count(a.range) - this.count(b.range));
+    for (const {unit, range} of relevant) {
+      const remainder = new Passage(p.book, after[0], after[1], range.end_chapter, range.end_verse);
+      try {
+        this.scope(remainder);
+        if (this.count(remainder) <= config('chunking').soft_max_verses) {
+          return {reference: this.label(remainder), boundary_status: 'curated_literary_continuation', literary_unit_reference: unit.reference, literary_unit_title: unit.title};
+        }
+      } catch (error) {
+        if (!(error instanceof StudyError) || error.code !== 'portion_scope') throw error;
+      }
+    }
+    // Fallback to the original bounded chapter/curated-chunk logic.
     if (p.end_verse < last) return this.portions(this.label(new Passage(p.book, p.end_chapter, p.end_verse + 1, p.end_chapter, last)))[0];
-    const c = p.end_chapter + 1;
-    return this.verses[p.book][c] ? this.portions(`${this.books[p.book].name} ${c}`)[0] : null;
+    return this.portions(`${this.books[p.book].name} ${after[0]}`)[0];
   }
 }
