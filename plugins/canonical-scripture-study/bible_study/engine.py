@@ -36,7 +36,7 @@ ALIASES = {
     "variant_reconciliation": ["translation variance reconciliation", "variant reconciliation", "tekstvarianten"],
     "theology_check": ["theology check", "theologiecontrole"],
     "dss_research": ["dss research", "dead sea scrolls", "dss studie"],
-    "word_study": ["word study", "woordstudie"],
+    "word_study": ["full word study", "standard word study", "volledige woordstudie", "standaard woordstudie", "word study full", "woordstudie volledig", "word study", "woordstudie"],
     "theme_study": ["theme study", "themastudie"],
     "study_plan": ["study plan", "studieplan"],
 }
@@ -135,7 +135,12 @@ class Engine:
         for alias, candidate in sorted([(a, k) for k, values in ALIASES.items() for a in values], key=lambda pair: len(pair[0]), reverse=True):
             m = re.match(re.escape(alias) + r"(?:\s*:\s*|\s+|$)", text, re.I)
             if m:
-                mode = candidate; text = text[m.end():].strip(); break
+                mode = candidate; text = text[m.end():].strip()
+                if mode == "word_study" and alias in {"full word study", "volledige woordstudie", "word study full", "woordstudie volledig"}:
+                    study_depth = "full"
+                elif mode == "word_study" and alias in {"standard word study", "standaard woordstudie"}:
+                    study_depth = "standard"
+                break
         if not text:
             text = active_reference or ""
         if not text:
