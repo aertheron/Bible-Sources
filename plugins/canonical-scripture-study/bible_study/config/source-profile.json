@@ -2,7 +2,7 @@
   "schema_version": "0.1.0",
   "profile": "shared-public",
   "repository": "aertheron/Bible-Sources",
-  "commit": "2a9ed22bb590d55d3e1d4f65d668eba645d35bb2",
+  "commit": "579c734e8c035b34bf5c08ab4ba3506ee32596fc",
   "metadata_hashes": {
     "indexes/book-catalog.json": "cc3516a7df31ef64db0923682aa7a4e95c914cd445a3c5423bc500beaea5eea4",
     "indexes/chapter-index.jsonl": "a8d21b41f89d002991710f01ea9cbd541b4bc21c88913da4800dc13c86d09aed",
@@ -167,7 +167,7 @@
     "indexes/dss/records/Zeph.tsv": "9ab1f7fd263124154568d16bb0f48c82395fe1045ce4f025a310cc353c4c6a2c",
     "indexes/dss/records/_unmapped_or_nonbiblical.tsv": "7756d09e156d7895ec722e76eca0abd9339786323a4163fa8fb5f1621daa53b1",
     "indexes/lexical-entry-index.json": "2cebaeda8ae067fd398586136609df8b45887996735bf50cd5a26145f9c32eb6",
-    "indexes/word-study-index.json": "80b0d59443255e6647210a6f9a15ee9c91ea5f9be5ba295a785b5732e185165d",
+    "indexes/word-study-index.json": "4bca65429b395e8b0cdb62a2598f17e935d5c619af295429d97b939107e180c2",
     "resources/research-links.json": "fe97d367edb19ddb9139cdcf9f2bb76636465850928c0d1bcd744cd978c47f6a",
     "sources/sblgnt/apparatus/1Cor.txt": "234e25b89f92d60c9327d1485dc22a78613ae5c9acc9385c69b2646944ce8d11",
     "sources/sblgnt/apparatus/1John.txt": "0020f2e4bad2c3159c6b276bbeb72dfdef01aca4b114475077e7536ac80c23e3",
