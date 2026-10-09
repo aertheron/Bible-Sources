@@ -1,6 +1,6 @@
 # WT018 — Covenant and covenant instruction
 
-Version 0.2.0; 2026-10-05. Theme hub. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Theme hub. English core with Dutch search aliases.
 
 **Dutch aliases:** verbond, verbondsinstructie, Torah.
 
@@ -34,6 +34,13 @@ The working synthesis holds continuity of God's purpose together with changes as
 
 **Study questions for the theology check:** Keep covenant parties, promises, obligations, signs, and fulfillment distinct while tracing development.
 
+### Full-depth semantic audit: covenant and instruction are not synonyms
+
+Hebrew **בְּרִית (*berit*)** designates an agreement/covenant or binding relational arrangement; **תּוֹרָה (*torah*)** can mean instruction, teaching or law depending on object and setting. Greek **διαθήκη (*diathēkē*)** frequently represents covenant but can be pressed into testament/will-related reasoning in relevant contexts; **νόμος (*nomos*)** can be Mosaic law, a particular command, scriptural collection or more general ordering/standard. Neither a shared English term nor their presence in a theological scheme makes them lexically identical.
+
+**Parties and obligations.** Gen 15 involves Yahweh's promise to Abraham and covenant enactment; Exod 24 features Moses, Israel, covenant words, assent and blood. Ps 1's delight in *torah* names formative instruction, not a denial of binding commands. Jer 31:31–34 explicitly identifies Israel and Judah, a broken former covenant, internalized instruction, knowledge of God and forgiveness. Heb 8 quotes and argues from that passage; a Christian account of participation must preserve the parties named in Jeremiah even while examining Christ's mediating role.
+
+**Difficult Greek construction.** Heb 9:15–22 plays on *diathēkē* and questions of death, covenant and testamentary force. No universal gloss “covenant only” or “will only” can decide its logic without sentence-level exegesis. **Theological synthesis:** promise, faithful response, instruction, covenant breach and promised renewal are real canonical stages, not new lexical senses of *berit*. “Torah means only loving teaching and never law” is as reductive as “Torah is merely a modern statutory code.” **Limit:** this is a paired conceptual hub; its source words need independent semantic inventories in particular ancient legal genres.
 ## Evidence and lookup
 
 **Checked context bank:** Gen 15:1-18; Exo 24:1-8; Jer 31:31-34; Heb 8:6-13; Heb 9:15-22; Luke 22:19-20; Psa 1:1-3; Matt 5:17-20. Select relevant examples; this is not a request to analyze the full bank.

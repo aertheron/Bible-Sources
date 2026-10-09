@@ -1,6 +1,6 @@
 # WT004 — Justification, vindication
 
-Version 0.2.0; 2026-10-05. Theme hub. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Theme hub. English core with Dutch search aliases.
 
 **Dutch aliases:** rechtvaardiging, in het gelijk stellen.
 
@@ -34,6 +34,13 @@ The working comparison holds Paul's rejection of wage-based boasting together wi
 
 **Study questions for the theology check:** Test forensic, covenantal, and transformative claims against the passages that actually support each claim and against their strongest challenges.
 
+### Full-depth semantic inventory
+
+Greek δικαιόω (*dikaioō*) can describe declaring a party just, vindicating someone, or acknowledging that someone is right depending on agent, standard and courtroom or demonstrative setting. The noun δικαίωσις (*dikaiōsis*) and related δικαιοσύνη (*dikaiosynē*) are distinct forms; Hebrew צדק constructions must be studied separately. “Justification,” “vindication,” and “show to be in the right” are possible working renderings, not synonyms with every proposed doctrine.
+
+**Occurrence control.** Deut 25:1 presents judges deciding a dispute: the parties and adjudicating authority supply a clear legal sense. Luke 7:29 says people justify **God**, meaning acknowledge His rightness, not cause Him to become righteous. Rom 3:21–26 concerns sinful humanity, God's righteousness and the vindicating or right-making verdict in Christ; Rom 4:4–5 explicitly opposes treating trust as wages due. James 2:21–24 concerns Abraham's faith in relation to his later action and asks whether claimed faith can save (2:14). Merely paraphrasing “justified before human observers” supplies an audience James does not specify; however demonstration of faithful action remains contextually relevant.
+
+**Theological limits.** Legal verdict, covenant identity, transformation, and final judgment are related theological questions, not the word's entire lexical content. Paul and James ask different questions but their exact conclusions should not be flattened into a preconceived systematic reconciliation. Test the strongest challenge on both sides: Paul's exclusion of boasting, James' insistence that faith actually acts. A translation must preserve the writer's actual verb and the argumentative status of each predicate. **Coverage limit:** a corpus-wide legal-versus-causative classification remains unverified.
 ## Evidence and lookup
 
 **Checked context bank:** Rom 3:21-26; Rom 4:1-5; Jas 2:21-24; Deu 25:1; Luke 7:29-35; Rom 4:18-25; Jas 2:14-26; Luke 7:29; Luke 7:35. Select relevant examples; this is not a request to analyze the full bank.

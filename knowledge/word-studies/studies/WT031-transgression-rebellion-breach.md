@@ -1,6 +1,6 @@
 # WT031 — Transgression, rebellion, breach
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** overtreding, rebellie, trouwbreuk.
 
@@ -34,6 +34,13 @@ The working synthesis treats rebellion as accountable opposition or breach in th
 
 **Study questions for the theology check:** Follow breached obligations, divine forgiveness, and renewal without making one secondary illustration the universal definition.
 
+### Full-depth semantic audit: rebellion and transgression
+
+Hebrew **פֶּשַׁע (*pesha‘*)** and **פָּשַׁע (*pasha‘*)** can frame wrongdoing as revolt, breach or rebellion; Greek **παράβασις (*parabasis*)** often stresses crossing a known boundary, while **παράπτωμα (*paraptōma*)** may emphasize trespass, lapse or offence. They are related through moral discourse but do not constitute one mechanically equivalent original word or one rigid theological category.
+
+**Contexts and agents.** Exod 34:6–7 places rebellion alongside iniquity and sin in God's self-revelation. The coordination lists distinct but overlapping aspects of human wrongdoing; it does not force a technical three-stage sin taxonomy. Isa 1:2 portrays Israel as rebellious children against their nurturing father, allowing the prophetic family image to supply a relational dimension. Eph 2:1–5 describes people previously dead in trespasses and sins and then God's mercy; the argument's larger issue is renewal by grace, not simply accidental stumbling over a line.
+
+**Boundary and canonical inference.** A specific command crossed may suit “transgression”; disloyal revolt may suit “rebellion”; an individual lapse or offence may suit “trespass.” The translator must identify speaker, violated norm, affected relationship and consequences. The idea that any one word always specifies high-handed deliberate sin while another always means unintended error needs local evidence, not etymological certainty. Canonically the prophets' covenant-breach imagery and Paul's account of transformed life can be connected without hiding differences in context. **Limit:** separate ancient Greek rendering histories of *pesha‘* must be checked occurrence by occurrence.
 ## Evidence and lookup
 
 **Checked context bank:** Exo 34:7; Isa 1:2; Eph 2:1-3; 2Ki 1:1; Rom 4:15; Rom 5:15-20. Select relevant examples; this is not a request to analyze the full bank.

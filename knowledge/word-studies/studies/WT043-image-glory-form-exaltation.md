@@ -1,6 +1,6 @@
 # WT043 — Image, glory, form, exaltation
 
-Version 0.2.0; 2026-10-05. Theme hub. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Theme hub. English core with Dutch search aliases.
 
 **Dutch aliases:** beeld, heerlijkheid, gestalte, verhoging.
 
@@ -36,6 +36,13 @@ The working synthesis gives weight to Christ's relation to creation and divine h
 
 **Study questions for the theology check:** Trace image-bearing, divine disclosure, and Christ's vocation, identifying textual observation before synthesis.
 
+### Full-depth semantic audit: image, glory and form
+
+The separate terms in this hub must not be fused: Hebrew **צֶלֶם (*tselem*)**, image/representation; **כָּבוֹד (*kavod*)**, glory/honour/weighty presence in context; Greek **εἰκών (*eikōn*)**, image; **δόξα (*doxa*)**, honour/glory; **μορφή (*morphē*)**, form/condition; **κενόω (*kenoō*)**, make empty/empty oneself; **ὑπερυψόω (*hyperypsoō*)**, highly exalt. Their relations are contextual and literary, not alternate glosses for one noun.
+
+**Agents and purposes.** Gen 1:26–28 ascribes God's image to humanity, male and female, with blessing and vocation to rule; it does not explicitly itemize intelligence or any one capacity as the image's exhaustive definition. Exod 33:18–23 describes Moses asking to see divine glory within the covenant crisis, with limits on his perception. Col 1:15 calls Christ the image of the invisible God in a unit about creation and reconciliation. Phil 2:5–11 describes Christ in God's form, taking the form of a servant, self-emptying and obedience, followed by exaltation: the actions and contrasts shape the meaning of *morphē* and *kenoō*. The debated term **ἁρπαγμός (*harpagmos*)** in Phil 2:6 remains a contextual interpretive problem; it cannot be settled solely by “grasped” or “exploited” as a dictionary verdict.
+
+**Theological limits.** The Christian confession that Christ reveals God and restores human vocation is a canonical synthesis. It should preserve the relevant literary predicates rather than using “image” as a shortcut for all divine attributes, or *kenoō* as proof Jesus ceased to be divine. Distinguish honour/glory from a literal substance or visible glow when genre is metaphorical. **Limit:** iconography, ANE royal imagery and the disputed Greek idiom need sourced historical comparison.
 ## Evidence and lookup
 
 **Checked context bank:** Gen 1:26-28; Exo 33:18-23; 2Cor 4:4-6; Col 1:15-20; Phil 2:6-11; Isa 45:22-23; Rom 4:14; Psa 89:27; 2Cor 3:18; Phil 2:7; Phil 2:9-11; Phil 2:6. Select relevant examples; this is not a request to analyze the full bank.

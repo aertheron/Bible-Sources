@@ -1,6 +1,6 @@
 # WT015 — Lord, master, hosts, sovereignty
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** Heer, heer, meester, heerschappij.
 
@@ -34,6 +34,13 @@ The working synthesis explains Jesus' exalted authority in the text's relation t
 
 **Study questions for the theology check:** Assess authority, kingship, and divine-name reception through context and identifiable scriptural connections.
 
+### Full-depth semantic audit: lordship and masters
+
+Hebrew **אָדוֹן (*’adon*)** can identify a human superior or master; **אֲדֹנָי (*’adonay*)** is a divine form of address in relevant contexts. Greek **κύριος (*kyrios*)** can address a human lord/master, function as a respectful title, or denote God or Jesus; actual referent decides, not the mere presence of the word. **Yahweh of hosts** describes divine lordship by a separate Hebrew name-plus-title construction. Greek **παντοκράτωρ (*pantokratōr*)**, commonly “almighty/all-sovereign,” is distinct from kyrios and from a generic human “master.”
+
+**Actors and texts.** In Gen 24:18 the addressee called lord is a human participant; inferring divine status from the gloss would be absurd. 1 Sam 1:3 speaks of Yahweh of hosts in a worship setting, invoking God's rule over hosts without deciding from this one clause precisely which “hosts” are being pictured. Ps 110:1 differentiates Yahweh and the speaker's “my lord”; a contextual royal figure and later messianic reception are distinct analytic stages. Phil 2:9–11 confesses Jesus as **Lord** within exaltation and scriptural echoes: its theological force derives from Isaiah's worship language and the argument, not simply because *kyrios* is inherently divine.
+
+**Rendering rules.** Keep proper name Yahweh distinct from the Hebrew title Adonai and Greek kyrios. Later manuscript practices or translation conventions that use “LORD” to represent YHWH must not be mistaken for evidence that the Hebrew original wrote *’adon*. **Limit:** broad *kyrios* social address and Septuagint substitution patterns require occurrence-specific control and cannot be decided through English capitalization.
 ## Evidence and lookup
 
 **Checked context bank:** Gen 24:18; 1Sa 1:3; Psa 110:1; Phil 2:9-11; Rev 1:8; Matt 22:41-46; Isa 45:22-23; Rom 10:9-13. Select relevant examples; this is not a request to analyze the full bank.

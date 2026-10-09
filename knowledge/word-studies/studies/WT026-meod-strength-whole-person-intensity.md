@@ -1,6 +1,6 @@
 # WT026 — Meod, strength, whole-person intensity
 
-Version 0.2.0; 2026-10-05. Name and phrase. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Name and phrase. English core with Dutch search aliases.
 
 **Dutch aliases:** meod, kracht, zeer, geheel.
 
@@ -34,6 +34,13 @@ The working synthesis interprets the sequence as a comprehensive summons rather 
 
 **Study questions for the theology check:** Study the Shema and its NT reception as whole-person devotion without requiring identical lists of human faculties.
 
+### Full-depth semantic audit: meod as intensifier
+
+Hebrew **מְאֹד (*me’od*)** most commonly acts as an adverb/intensifier: “very,” “greatly,” “exceedingly,” or the degree of an action or quality. Gen 1:31 describes creation as **very good**; here the word does not mean muscles or financial wealth. In Deut 6:5 the phrase **בְּכָל־מְאֹדֶךָ (*bekhol-me’odekha*)** follows heart and *nephesh* and expresses loving Yahweh with all one's “muchness” or full capacity/resources. Its possessive construction and series position produce the broader idiomatic effect; “strength” in English is an interpretation of the *whole phrase*, not the ordinary stand-alone lexical meaning of the adverb.
+
+**Literary and reception context.** Deut 6:4–9 is a covenant appeal involving love, memory, teaching and loyalty; the audience is Israel and the object of love is Yahweh. Mark 12:29–30 cites the Shema in Greek with a list of heart, soul, mind and strength. Its several Greek nouns unpack the command's totalizing force; they do not establish that Hebrew *me’od* independently means all four faculties. Elsewhere the simple intensifier may modify a verb, adjective or quantity without becoming an anthropological technical term.
+
+**Semantic limits.** Separate degree, amount, whole-capacity idiom, and later Greek reception. “Love with every resource” can communicate Deut 6:5 in explanatory paraphrase, provided the actual Hebrew wording and alternative “strength” tradition remain visible. A theology of wholehearted worship follows the literary unit rather than a universal muscular gloss for *me’od*. **Limit:** an exhaustive count of nominal and adverbial uses would need a complete concordance.
 ## Evidence and lookup
 
 **Checked context bank:** Gen 1:31; Deu 6:4-5; Mark 12:28-34; Luke 10:25-28; 2Ki 23:25; Deu 6:5. Select relevant examples; this is not a request to analyze the full bank.

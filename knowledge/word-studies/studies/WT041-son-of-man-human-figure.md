@@ -1,6 +1,6 @@
 # WT041 — Son of Man, human figure
 
-Version 0.2.0; 2026-10-05. Name and phrase. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Name and phrase. English core with Dutch search aliases.
 
 **Dutch aliases:** Mensenzoon, zoon van een mens, menselijke gestalte.
 
@@ -36,6 +36,13 @@ The working synthesis reads Jesus' authority and suffering together, explaining 
 
 **Study questions for the theology check:** Distinguish Daniel's context, Gospel use, and proposed larger typology; compare their actual images and referents.
 
+### Full-depth semantic audit: son of man and human-like figure
+
+Hebrew/Aramaic constructions for “son of man” can denote an ordinary human being, an individual addressed as a mortal, or a figure contrasted with beasts depending on language and genre. Aramaic **בַּר אֱנָשׁ (*bar ’enash*)** in Dan 7:13 says **one like a son of man**; Greek **ὁ υἱὸς τοῦ ἀνθρώπου (*ho huios tou anthrōpou*)** is Jesus' recurrent self-designation in the Gospels. Similar constituent words need not mean every passage has exactly the same fixed referent.
+
+**Literary situation.** Dan 7:2–14 places four beastly regimes opposite a human-like figure receiving authority from the Ancient of Days. The vision later interprets kingship and the vindication of the holy ones; how individual representative and collective people relate is an interpretive question requiring that interpretation section, not merely v. 13. Ezekiel's recurring “son of man” address (Hebrew *ben ’adam*) stresses the prophet's human status in prophetic scenes and cannot be mechanically treated as a messianic title. Mark 14:61–64 combines Daniel 7 authority and Psalm 110 right-hand language in Jesus' trial; the original allusions and immediate charge matter.
+
+**Canonically**, Jesus' suffering, representative humanity, exaltation and rule can be brought together from sayings that actually state these features. The title alone does not prove “merely human” or by itself contain the entire later doctrine of incarnation. Watch quotation versus proposed echo and do not overwrite Daniel's own collective interpretation. **Limit:** the debated history of definite Aramaic expression as an idiom or title needs external philological assessment.
 ## Evidence and lookup
 
 **Checked context bank:** Dan 7:9-14; Mark 14:61-64; Dan 7:17-27; Ezk 2:1-5; Mark 2:10; Mark 8:31; Acts 7:55-56; John 12:34; Dan 7:13. Select relevant examples; this is not a request to analyze the full bank.

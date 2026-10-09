@@ -1,6 +1,6 @@
 # WT032 — Iniquity, guilt, consequences
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** ongerechtigheid, schuld, gevolgen.
 
@@ -34,6 +34,13 @@ The useful trajectory concerns wrongdoing, burden, confession, and divine remova
 
 **Study questions for the theology check:** Study responsibility, bearing guilt, removal, and restoration while distinguishing poetic images from a complete atonement theory.
 
+### Full-depth semantic audit: iniquity, guilt and burden
+
+Hebrew **עָוֹן (*‘avon*)** can describe wrongdoing/iniquity, culpability or the **burden/consequences** associated with an offence. The actual construction—especially “bear *‘avon*”—must identify whether a person bears guilt, endures punishment, or carries wrongdoing away in a ritual image. Greek **ἀνομία (*anomia*)**, often lawlessness, may overlap in translation but is not a fixed lemma-equivalent of *‘avon*. “Twistedness” from a word-root story is not the complete attested meaning.
+
+**Distinct settings.** Exod 34:6–7 places *‘avon* alongside rebellion and sin, with forgiveness and judgment in one revelation of Yahweh's character. Lev 16 describes the scapegoat **bearing away** Israel's iniquities in a Day of Atonement rite; the cultic action and affected community give “carrying away guilt” an enacted meaning, not an anatomical transfer claim. Isa 53 speaks of the servant and the iniquities of others: the identity of sufferers, the servant's actions and the poetry's parallel lines must be read before settling a single atonement model. A warning that later generations bear consequences requires its own argument and must not assume automatic inherited individual moral guilt from a noun alone.
+
+**Related conceptual boundaries.** *ḥatta’t* (sin/sin offering), *pesha‘* (rebellion) and *‘avon* (wrongdoing/guilt) overlap but the collocations are not a strict psychological taxonomy of moral acts. Canonically responsibility, forgiveness and removal of wrongdoing meet in Christ's work; this synthesis must preserve actual agency and genre. **Limit:** historical sacrificial semantics and disputed transmission of Isa 53 require separate study.
 ## Evidence and lookup
 
 **Checked context bank:** Exo 34:7; Lev 16:20-22; Isa 53:5-6; Gen 4:13; Ezk 18:19-23; Psa 32:1-5. Select relevant examples; this is not a request to analyze the full bank.

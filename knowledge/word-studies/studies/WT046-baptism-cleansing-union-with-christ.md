@@ -1,6 +1,6 @@
 # WT046 — Baptism, cleansing, union with Christ
 
-Version 0.2.0; 2026-10-05. Theme hub. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Theme hub. English core with Dutch search aliases.
 
 **Dutch aliases:** doop, reiniging, verbondenheid met Christus.
 
@@ -36,6 +36,13 @@ The working study should show its preferred account and its strongest challenge,
 
 **Study questions for the theology check:** Retain Mark's covenant/new-creation proposal as attributed synthesis and evaluate its scriptural support and alternatives.
 
+### Full-depth semantic audit: baptism and associated vocabulary
+
+Greek **βαπτίζω (*baptizō*)** can designate dipping/immersing, washing or ritual baptizing depending on construction and institution; **βάπτισμα (*baptisma*)** is the associated rite. **ἐπερώτημα (*eperōtēma*)** in 1 Pet 3:21 is contested (appeal, request, undertaking/pledge), and **ἐν Χριστῷ** is a relational phrase, not a baptismal noun. Theological participation in Christ cannot be deduced from the basic physical verb alone.
+
+**Participants and actions.** Rom 6:1–11 addresses people baptized into Christ's death and narrates the consequence as a new way of life. The “into Christ/into His death” syntax supplies union imagery not contained in the bare verb *baptizō*. Acts 2:38–41 portrays repentance and baptism in Pentecost's public summons; Acts 10:44–48 depicts reception of the Spirit before the accompanying water baptism. These narratives must not be forced into an absolute chronological rule from one passage. 1 Cor 12:13 connects Spirit and one body; its Greek prepositions and corporate subject need close reading before equating it with every description of water baptism. 1 Pet 3:18–22 relates baptism to conscience and resurrection while explicitly distinguishing the rite from mere removal of dirt.
+
+**Competing covenant readings.** Baptism as covenantal formalization and new creation is a theological synthesis with real support from these passages, not a separate lexical sense of the washing verb. The lexical data alone neither settles paedobaptism versus believer-only baptism nor erases the commanded human response. Mark disputed *eperōtēma* honestly and read its phrase before deciding “pledge” versus “appeal.” **Limit:** Jewish ritual washings, early-Christian liturgical history and lexical nuance of all prepositions remain to be independently checked.
 ## Evidence and lookup
 
 **Checked context bank:** Rom 6:1-11; 1Cor 12:12-13; 1Pet 3:18-22; Acts 2:38; Acts 10:44-48; Matt 3:1-12; Gal 3:26-29; 1Pet 3:21. Select relevant examples; this is not a request to analyze the full bank.

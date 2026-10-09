@@ -1,6 +1,6 @@
 # WT009 — Nephesh, psychē, soul, life, person
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** nephesh, psychē, ziel, leven, persoon.
 
@@ -34,6 +34,13 @@ The working conclusion treats embodiment and dependence on God's life-giving act
 
 **Study questions for the theology check:** Separate word meaning from the broader questions of embodiment, death, the intermediate state, and resurrection; test the project's anthropology across the selected texts.
 
+### Full-depth semantic audit: person, life and intermediate state
+
+Hebrew נֶפֶשׁ (*nephesh*) can denote a living being, an individual, a life at risk, self, appetite or desire in context. Greek ψυχή (*psychē*) overlaps in reference to person/self/life but is not its fixed equivalent. **Genesis 2:7** says a formed human **becomes** a living nephesh; Genesis 1 uses living-being vocabulary of animals. **Leviticus 17:11** relates life to blood within sacrificial instruction, not modern anatomy. **Matthew 16:25–26** plays on losing/saving life in discipleship. In each passage identify whether the referent is an embodied living individual, their life, or a discourse-specific figurative self.
+
+**Strong counterchecks:** Gen 35:18 depicts Rachel's nephesh departing as she dies; 1 Kgs 17:21–22 depicts a child's nephesh returning with life; Matt 10:28 distinguishes body-killing from destruction of psychē in a judgment saying; Rev 6:9–11 depicts slain persons speaking beneath an altar in a vision. The narrative, teaching and apocalyptic genres differ. None alone licenses either an automatically immortal detachable substance or an absolute denial of personal existence between death and resurrection.
+
+**Theological distinction:** anthropology emphasizing created embodied persons fits Genesis and resurrection language but remains a synthesis. The intermediate state, final judgment, immortality as gift and final resurrection are different propositions. They must not be inferred merely from the gloss “soul.” **Limit:** this corpus has selected diagnostic contexts, not the full range of every metaphorical desire/appetite construction or every LXX equivalence.
 ## Evidence and lookup
 
 **Checked context bank:** Gen 2:7; Lev 17:10-14; Matt 16:24-26; Rev 6:9-11; Gen 1:20-24; Gen 35:18; 1Ki 17:21-22; Matt 10:28; Matt 16:24-27. Select relevant examples; this is not a request to analyze the full bank.

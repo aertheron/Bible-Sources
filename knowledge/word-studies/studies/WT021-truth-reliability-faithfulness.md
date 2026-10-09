@@ -1,6 +1,6 @@
 # WT021 — Truth, reliability, faithfulness
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** waarheid, betrouwbaarheid, trouw.
 
@@ -34,6 +34,13 @@ The working synthesis follows God's dependability, trustworthy revelation, and h
 
 **Study questions for the theology check:** Trace the reliability of God and His promises and distinguish that trajectory from the meaning of each local term.
 
+### Full-depth semantic audit: truth and reliability
+
+Hebrew **אֱמֶת (*’emet*)** can indicate truth, factual veracity, dependability, faithfulness and reliability depending on clause; **אֱמוּנָה (*’emunah*)** more often draws attention to steadfastness, fidelity or trustworthy support. Greek **ἀλήθεια (*alētheia*)** commonly indicates truth/reality, and **πιστός (*pistos*)** describes faithful or believing persons depending on referent. These overlap but are not synonyms or universal replacements for one another.
+
+**Participants and pairings.** Exod 34:6 pairs Yahweh's *hesed* with *’emet* in a declaration following Israel's unfaithfulness. There “reliability/faithfulness” fits because Yahweh is the characterized speaker and the context is covenant repair; this does not prove *’emet* always means “covenant fidelity.” Psalm 89 connects God's faithfulness with Davidic promise and royal lament, inviting analysis of the addressed God and uncertain human political outcome. John 1:14–18 says Christ is full of grace and truth in a scene recalling Moses and divine disclosure. “Truth” there is not reduced to factual accuracy alone, but the wider revelatory claim comes from the prologue, not from the lexeme.
+
+**Translation and canonical reasoning.** In a testimony setting “truth” may be best; in a promise/character context “faithfulness” or “reliability” may communicate the point. Dutch *waarheid*, *trouw* and *betrouwbaarheid* require the same caution. Opposing “truth” to “love” as if *’emet* denotes cold information ignores the literary collocations. **Limit:** a complete concordance of truth-claims, legal testimony, honesty and enduring faithfulness has not been assembled; some contexts warrant live alternatives.
 ## Evidence and lookup
 
 **Checked context bank:** Exo 34:6-7; Psa 89:1-2; John 1:14-18; Deu 32:4; Psa 119:142; John 8:31-36; Rom 3:3-4. Select relevant examples; this is not a request to analyze the full bank.

@@ -1,6 +1,6 @@
 # WT040 — Son, children, monogenēs
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** Zoon, kinderen, enig, uniek.
 
@@ -34,6 +34,13 @@ The focused trajectory connects royal sonship, Jesus' distinctive relation to th
 
 **Study questions for the theology check:** Distinguish royal, relational, and community sonship and test the project's Christological synthesis across the relevant passages.
 
+### Full-depth semantic audit: son, child, unique one
+
+Hebrew **בֵּן (*ben*)** can denote a biological son, descendant, group member or a relational designation; Greek **υἱός (*huios*)** overlaps with those sonship usages while **τέκνον (*teknon*)** foregrounds child/offspring. Greek **μονογενής (*monogenēs*)** emphasizes being an **only** or **unique** child/person in the attested relevant contexts; its morphology by itself does not prove the physical event of “being begotten” as a technical metaphysical process. “Only” and “unique” must be tested by referent and the family or promise situation.
+
+**Passages by relationship.** 2 Sam 7:12–16 uses father-son language for a Davidic king and dynastic promise, which later Christian interpretation relates to Jesus. Luke 7:12 uses *monogenēs* for a widow's only son; the bereaved parent is the plot's affected person. Heb 11:17 speaks of Isaac as Abraham's *monogenēs* in a promise/sacrifice argument, even though Abraham had another biological son: this strongly supports *unique in promise/relationship* rather than asserting Isaac was Abraham's only biological offspring. John 1:14, 18 treats the Son's uniquely close relation to the Father within the pre-existence/revelation prologue; the Christological claims arise from that argument, not an isolated suffix.
+
+**Semantic/theological boundary.** Adoptive, royal, spiritual and biological sonship are different contextual relationships; John’s theology of Jesus' identity and eternal relationship cannot be proved from the word *monogenēs* alone, nor dismissed by insisting on a single mundane gloss. Historical Christological debates require argument from the whole passage. **Limit:** all uses of *ben*, compound “sons of...” idioms and Johannine textual variants demand source-specific follow-up.
 ## Evidence and lookup
 
 **Checked context bank:** 2Sa 7:12-16; John 1:14-18; Heb 11:17; Luke 7:11-17; Luke 8:40-42; Luke 9:37-43; John 3:16-18; John 1:12-18; John 1:18; Luke 7:12; Luke 8:42; Luke 9:38. Select relevant examples; this is not a request to analyze the full bank.

@@ -1,6 +1,6 @@
 # WT002 — Works, deeds, service
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** werken, daden, dienen.
 
@@ -34,6 +34,13 @@ The working conclusion is that action has moral and theological significance, bu
 
 **Study questions for the theology check:** Connect creation's human vocation, covenant obedience, and renewed life. Compare grace, faith, and judgment without making all action equivalent to earning salvation.
 
+### Full-depth semantic inventory
+
+**Distinct lexical families.** Hebrew עָבַד (*‘avad*) can describe agricultural labour, serving a human master or serving Yahweh; עֲבֹדָה (*‘avodah*) can denote work, service or specifically cultic duty; מַעֲשֶׂה (*ma‘aseh*) designates an act, undertaking or product. Greek ἔργον (*ergon*) is a deed/work/task, and ἐργάζομαι (*ergazomai*) expresses doing or working. These meanings overlap but cannot be homogenized into one “works” doctrine. A service context may be worship-related without the verb lexically meaning priestly worship in every scene.
+
+**Contrasting uses by agent and outcome.** In Gen 2:15 humanity works and keeps the garden; nothing identifies activity here as earning salvation. Eph 2:8–10 first excludes human works as a boastful ground for receiving salvation and then states that those renewed in Christ are created **for good works**. The subjects and temporal relation change the force without changing the core noun. James 2:14–17 identifies a needy brother or sister as the affected party: verbal blessing without physical help exposes empty profession. Rom 4:4–5 involves a worker whose pay is owed, which is a different relationship than service lovingly given to a vulnerable neighbour.
+
+**Semantic and theological boundary.** “Works of the law” is a distinct phrase and should not be silently supplied wherever Paul says “works,” nor omitted where he explicitly writes it. Creation vocation, Torah observance, sacrificial service, meritorious wage, compassionate action and divine works are **contextual categories**, not fixed subsenses of a single Greek lemma. Canonical synthesis may affirm that grace precedes and produces good works while refusing both salvation-as-wages and faith without action. **Coverage limit:** ordinary crafts/trades and wider legal usages require further occurrence-level verification; the selected texts do not comprise a complete concordance.
 ## Evidence and lookup
 
 **Checked context bank:** Gen 2:15; Eph 2:8-10; Jas 2:14-26; Rom 3:27-31; Rom 4:1-5; Gal 5:6. Select relevant examples; this is not a request to analyze the full bank.

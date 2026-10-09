@@ -1,6 +1,6 @@
 # WT028 — Hope, waiting, expectation
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** hoop, wachten, verwachting.
 
@@ -36,6 +36,13 @@ The working synthesis presents hope as sustained expectation rooted in God's fai
 
 **Study questions for the theology check:** Trace promise and patient expectation while retaining the future horizon and present suffering.
 
+### Full-depth semantic audit: hope and waiting
+
+Hebrew **יָחַל (*yaḥal*)** and **קָוָה (*qavah*)** can express waiting, hoping or expectant endurance; Greek **ἐλπίς (*elpis*)** and **ἐλπίζω (*elpizō*)** identify hope or placing hope in something. These are different lexical families, not a single direct equivalent. “Hope” may be confidently anticipated, anxiously awaited, or misplaced depending on the **object**, not because its dictionary meaning automatically promises certainty.
+
+**Textual controls.** Ps 130:5–8 describes a speaker waiting for Yahweh's word and a community invited to hope in His redeeming goodness. The watchman comparison supplies persistence and expectation from literary design. Isa 40:28–31 locates waiting upon Yahweh amid exhaustion and weakness; the specific promise concerns renewed strength. Rom 8:18–25 describes groaning creation and believers awaiting redemption of the body: the very distinction between what is seen and what is hoped for establishes an unseen future object. None requires that every use of hope entail uncertainty about God's faithfulness.
+
+**Canonical limits.** Hope, patience, trust, promise and faith overlap but are distinct: hope points forward to an awaited good, trust concerns reliance on someone, and endurance characterizes the waiting person's conduct. Translate “wait” when temporal expectation drives the scene, “hope” where anticipated benefit or ground of confidence is foregrounded. A canonical theology of resurrection hope comes from Christ's resurrection and Paul's argument, not etymology of *elpis*. **Limit:** negative/misplaced-hope usages and the Hebrew roots' full distribution require further concordance-based verification.
 ## Evidence and lookup
 
 **Checked context bank:** Psa 130:5-8; Isa 40:31; Rom 8:18-25; Psa 42:5-11; Rom 5:1-5; 1Pet 1:3-9. Select relevant examples; this is not a request to analyze the full bank.

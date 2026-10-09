@@ -1,6 +1,6 @@
 # WT035 — Redemption, ransom, buying back
 
-Version 0.2.0; 2026-10-05. Theme hub. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Theme hub. English core with Dutch search aliases.
 
 **Dutch aliases:** verlossing, losprijs, vrijkopen.
 
@@ -36,6 +36,13 @@ The working synthesis joins deliverance with restored belonging and responsibili
 
 **Study questions for the theology check:** Connect family restoration, exodus, and Christ's work with each image's limits visible.
 
+### Full-depth semantic audit: redeemer, ransom, purchase
+
+Hebrew **גָּאַל (*ga’al*)** can concern the action of a **kinsman-redeemer** restoring a relative's property, family claims or person under specified social arrangements; **פָּדָה (*padah*)** can concern ransom or redeeming/setting free by intervention. Greek **λύτρον (*lytron*)** names ransom, **ἀπολύτρωσις (*apolytrōsis*)** deliverance/redemption, and **ἀγοράζω (*agorazō*)** buying or acquisition in ordinary and theological contexts. They are related images, not interchangeable transfer mechanics.
+
+**Social and narrative roles.** Exod 6:6–8 announces Yahweh's deliverance of enslaved Israel from Egypt: the people and oppressor are specified; a market payment is not the focus of the narrative. Lev 25 sets out family property recovery with close kin, obligations and economic vulnerability; its kinship structure is essential before comparing Christ. In Ruth, a redeemer role is embedded in kinship and responsibility, but not every generous relative's act is automatically a completed statutory redemption. Mark 10:45 speaks of the Son of Man giving His life as a ransom for many in a larger context of service and status reversal. Eph 1:7 relates redemption and forgiveness through Christ.
+
+**Atonement boundary.** The noun *lytron* supports a costly liberation image; it does not lexically identify exactly to whom a payment is made. “Bought” can be a metaphor of belonging and deliverance without a fully specified ancient commercial transaction in every verse. Canonically exodus, family redemption and Jesus' sacrificial service converge, while each contributes a different picture. **Limit:** complete legal go'el practices and Second Temple ransom history need separately sourced historical research.
 ## Evidence and lookup
 
 **Checked context bank:** Exo 6:6; Lev 25:25; Mark 10:45; Eph 1:7; Deu 7:7-9; Rut 4:1-12; 1Cor 6:19-20; Heb 9:12-15. Select relevant examples; this is not a request to analyze the full bank.

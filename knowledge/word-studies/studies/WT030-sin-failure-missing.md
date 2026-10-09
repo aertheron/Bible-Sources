@@ -1,6 +1,6 @@
 # WT030 — Sin, failure, missing
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** zonde, falen, missen.
 
@@ -34,6 +34,13 @@ The working synthesis treats sin as morally accountable failure in relation to G
 
 **Study questions for the theology check:** Trace human vocation, failure, domination by sin, and restoration without replacing the authors' distinct images.
 
+### Full-depth semantic audit: sin and error without reductionism
+
+Hebrew **חָטָא (*ḥata’*)** and **חַטָּאת (*ḥatta’t*)** range across sinning/wrongdoing and related **sin offering/purification offering** usage of the noun in cultic contexts. Greek **ἁμαρτία (*hamartia*)** and **ἁμαρτάνω (*hamartanō*)** denote sin and committing wrongdoing; context may personify Sin as a ruling power. The familiar “miss the mark” explanation can illustrate an older verbal image but cannot function as a complete modern theological definition.
+
+**Explicit contrasts.** Judg 20:16 describes a sling stone that does not miss a target: the physical accuracy context must not be transformed into a doctrine of moral sin. Gen 4:7 portrays sin as crouching at Cain's door, a literary personification alongside an ethical summons. Levitical offering contexts may refer to a sacrifice designated for sin/purification, not to a morally evil sacrificial animal. Rom 3:23 characterizes all as sinning and falling short within an argument about God's righteousness; Rom 6 develops Sin as a masterlike power from which people are to be liberated. Identify whether the actor commits a deed, a ritual addresses impurity/guilt, or the noun is personified.
+
+**Theology, judgment and agency.** Rebellion (*pesha‘*), iniquity/guilt (*‘avon*), transgression, missing and impurity have overlapping yet nonidentical meaning fields. Sin is not lexically only “accidental mistakes,” nor only a predetermined fallen condition. The canonical account links disobedience, damaged relationships, enslaving patterns, judgment and Christ's deliverance. **Limit:** the offering noun's exact semantic classification requires checked sacrificial prescriptions, not extrapolation solely from Rom 3.
 ## Evidence and lookup
 
 **Checked context bank:** Jdg 20:16; Gen 4:7; Rom 3:23; Lev 4:1-5; Rom 5:12-21; Rom 6:12-14; Rom 7:7-13. Select relevant examples; this is not a request to analyze the full bank.

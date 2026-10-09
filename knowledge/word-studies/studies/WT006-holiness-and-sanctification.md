@@ -1,6 +1,6 @@
 # WT006 — Holiness and sanctification
 
-Version 0.2.0; 2026-10-05. Theme hub. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Theme hub. English core with Dutch search aliases.
 
 **Dutch aliases:** heiligheid, heiliging.
 
@@ -34,6 +34,13 @@ The working synthesis holds identity and vocation together. Grace does not make 
 
 **Study questions for the theology check:** Trace God's holy presence and a people's vocation into Spirit-enabled life. Discuss status and growth from passages rather than assuming one excludes the other.
 
+### Full-depth semantic inventory
+
+Hebrew קָדוֹשׁ (*qadosh*), קָדַשׁ (*qadash*), Greek ἅγιος (*hagios*), ἁγιάζω (*hagiazō*) and ἁγιασμός (*hagiasmos*) form overlapping adjective/verb/noun families. The **referent** determines the contextual force: Yahweh is holy; objects, time and places can be designated holy; a community is sanctified or called holy; people can act in holiness. Neither “morally perfect” nor “set apart” fits each of these uses without qualification.
+
+**Contextual participant matrix.** In Lev 19:1–18 Yahweh's holiness grounds instructions about worship, family, economic fairness and protection from exploitation; set-apart identity is inseparable from actual justice. In 1 Cor 1:2 Paul addresses an **already sanctified** congregation while the letter subsequently rebukes its misconduct; status does not prove present moral perfection. In 1 Thess 4:3–8 the divine will for sanctification is applied to concrete sexual conduct and relationships. Hallowing God's name asks people to treat or acknowledge what is already holy as holy: God is not the patient receiving moral improvement.
+
+**Canonical theological distinction.** Consecration by God's initiative, morally shaped life and the community's calling are related, but “positional” and “progressive” are explanatory categories rather than two lexical definitions of *hagiazō*. Heb 10:10–14 holds Christ's decisive offering and continued sanctifying language in one argument and should be read in context rather than split into isolated proof texts. The typical “separation” explanation does not alone account for the weight and otherness of divine holiness. **Coverage limit:** individual priestly purification and cultic consecration categories demand their own local reading; this is a bounded sense map.
 ## Evidence and lookup
 
 **Checked context bank:** Lev 19:1-2; 1Cor 1:2; 1Thess 4:3-8; Lev 19:3-18; 1Cor 6:9-11; Heb 10:10-14. Select relevant examples; this is not a request to analyze the full bank.
