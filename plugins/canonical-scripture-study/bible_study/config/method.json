@@ -20,7 +20,7 @@
   "budgets": {
     "source_packet_characters": 60000,
     "stage_handoff_characters": 16000,
-    "word_packet_characters": 12000,
+    "word_packet_characters": 16000,
     "word_entries": 2,
     "context_pointers": 6,
     "canonical_anchors": 6,

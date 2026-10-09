@@ -26,8 +26,9 @@ export class Knowledge {
       entries.push({entry, evidence: this.store.evidence(row.entry_record), review: row.review, contextual_senses: senses, context_pointers: contexts, deferred_context_ids: chosen.slice(contexts.length), related_entry_ids: row.related_entry_ids});
     }
     const packet = {query, status: 'curated_entries', entries, coverage: '50 authored model-assisted studies; selected lexical sources, not an exhaustive concordance or independent peer review.', sense_record_access: 'Use lookup_word with an exact sense ID to retrieve its complete annotation/provenance record.', related_entries_loaded: false};
-    if (ids.length === 1) {const item = entries[0]; while (item.context_pointers.length && charCount(JSON.stringify(packet)) > 12000) item.deferred_context_ids.unshift(item.context_pointers.pop().id);}
-    try {return bounded(packet, 12000);} catch (error) {if (!(error instanceof StudyError)) throw error; if (ids.length === 2) return {query, status: 'choose_one', reason: 'Two complete entries exceed the normal packet budget.', candidates: candidates()}; throw error;}
+    const limit = config('method').budgets.word_packet_characters;
+    if (ids.length === 1) {const item = entries[0]; while (item.context_pointers.length && charCount(JSON.stringify(packet)) > limit) item.deferred_context_ids.unshift(item.context_pointers.pop().id);}
+    try {return bounded(packet, limit);} catch (error) {if (!(error instanceof StudyError)) throw error; if (ids.length === 2) return {query, status: 'choose_one', reason: 'Two complete entries exceed the normal packet budget.', candidates: candidates()}; throw error;}
   }
   async lexical(entryId) {
     if (typeof entryId !== 'string' || charCount(entryId) > 100) throw new StudyError('lexical_query', 'Supply a selected lexical record ID.');

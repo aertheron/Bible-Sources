@@ -50,13 +50,14 @@ class Knowledge:
             remaining -= len(contexts)
             entries.append({"entry": entry, "evidence": self.store.evidence(row["entry_record"]), "review": row["review"], "contextual_senses": senses, "context_pointers": contexts, "deferred_context_ids": chosen[len(contexts):], "related_entry_ids": row["related_entry_ids"]})
         packet = {"query": query, "status": "curated_entries", "entries": entries, "coverage": "50 authored model-assisted studies; selected lexical sources, not an exhaustive concordance or independent peer review.", "sense_record_access": "Use lookup_word with an exact sense ID to retrieve its complete annotation/provenance record.", "related_entries_loaded": False}
+        limit = config("method")["budgets"]["word_packet_characters"]
         if len(ids) == 1:
             item = entries[0]
-            while item["context_pointers"] and len(json.dumps(packet, ensure_ascii=False, separators=(",", ":"))) > 12000:
+            while item["context_pointers"] and len(json.dumps(packet, ensure_ascii=False, separators=(",", ":"))) > limit:
                 removed = item["context_pointers"].pop()
                 item["deferred_context_ids"].insert(0, removed["id"])
         try:
-            return bounded(packet, 12000)
+            return bounded(packet, limit)
         except StudyError:
             if len(ids) == 2:
                 return {"query": query, "status": "choose_one", "reason": "Two complete entries exceed the normal packet budget.", "candidates": [{"id": i, "title": studies[i]["title"]} for i in ids]}

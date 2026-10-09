@@ -269,7 +269,7 @@ class RuntimeTests(unittest.TestCase):
                 self.assertEqual(packet["status"], "curated_entries")
                 self.assertTrue(packet["entries"][0]["entry"]["core_study"])
                 self.assertLessEqual(len(packet["entries"][0]["context_pointers"]), 6)
-                bounded(packet, 12000)
+                bounded(packet, config("method")["budgets"]["word_packet_characters"])
                 self.assertFalse(packet["related_entries_loaded"])
 
     def test_word_query_testing_and_followup(self):
