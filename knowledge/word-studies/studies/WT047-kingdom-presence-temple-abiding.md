@@ -1,6 +1,6 @@
 # WT047 — Kingdom, presence, temple, abiding
 
-Version 0.2.0; 2026-10-05. Theme hub. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Theme hub. English core with Dutch search aliases.
 
 **Dutch aliases:** koninkrijk, aanwezigheid, tempel, blijven.
 
@@ -38,6 +38,13 @@ The working synthesis relates God's reign and presence to a people and a renewed
 
 **Study questions for the theology check:** Trace dwelling and rule through sanctuary, Jesus, the Spirit and community, and new creation using the bounded canonical map.
 
+### Full-depth semantic audit: kingdom, presence, temple and abiding
+
+Distinct sources: Hebrew **מַלְכוּת (*malkut*)**, kingdom/reign; **פָּנִים (*panim*)**, face/presence; Greek **βασιλεία (*basileia*)**, kingship/reign/kingdom; **ναός (*naos*)**, temple sanctuary; **μένω (*menō*)**, remain/abide/dwell in relevant usage. The words interconnect narratively, not lexically. A “kingdom” can mean rule, realm or community under a king by context; “presence” may be interpersonal rather than spatial; a temple can be physical or metaphorical.
+
+**Context and recipients.** Exod 25:8 instructs Israel to build a sanctuary so Yahweh may dwell among them; the space and people are specifically identified. Ps 16:11 poetically associates life and joy with God's presence, not an architectural sanctuary blueprint. Mark 1:14–15 announces God's kingdom drawing near and calls for response; what happens under the reign must be read from Jesus' mission. 1 Cor 3:16–17 identifies the **community** as God's temple and warns against its destruction; switching immediately to the believer's individual body ignores Paul's plural audience here. John 15 uses abiding language for sustained relation between Jesus and disciples; ordinary *menō* can also simply mean staying somewhere. Rev 21:3 depicts divine dwelling with humanity in new creation.
+
+**Canonical distinction.** Eden presence, tabernacle/temple, Jesus, Spirit-indwelt community and new creation can form a coherent trajectory but are not identical textual stages. Jesus' words and imagery determine legitimate typology. “Kingdom = heaven after death,” “temple = every believer's body,” and “abide = metaphysical fusion” are overspecified glosses. **Limit:** exhaustive basileia usage and temple layout parallels require bounded separate studies.
 ## Evidence and lookup
 
 **Checked context bank:** Exo 25:8; Psa 16:11; Mark 1:15; John 1:14; 1Cor 3:16; Rev 21:1-4; Exo 33:12-17; Ezk 36:25-27; Luke 17:20-21; John 15:1-8; Eph 2:19-22; 1Pet 2:4-10. Select relevant examples; this is not a request to analyze the full bank.

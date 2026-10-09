@@ -1,6 +1,6 @@
 # WT049 — Judgment, death, Sheol, Hades, Gehenna, Tartarus, abyss
 
-Version 0.2.0; 2026-10-05. Theme hub. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Theme hub. English core with Dutch search aliases.
 
 **Dutch aliases:** oordeel, dood, Sheol, Hades, Gehenna, Tartarus, afgrond.
 
@@ -42,6 +42,13 @@ Hebrews 6:2 and Jude 1:7 supply useful comparisons concerning eternal judgment a
 
 **Study questions for the theology check:** Record Mark's relational de-creation account as the project's proposed synthesis with its support and counter-evidence. Preserve genre, temporal setting, and alternative readings for contested texts.
 
+### Full-depth semantic audit: death, the dead, judgment and final outcomes
+
+**Do not equate distinct realm names or actions.** Hebrew **שְׁאוֹל (*Sheol*)** refers to the realm/condition of the dead in varying poetic and narrative contexts. Greek **ᾅδης (*Hades*)** may correspond in ancient translations and describes the dead realm in relevant New Testament settings; **γέεννα (*Gehenna*)** has a distinct historical/geographic background and warning use; **ταρταρόω (*tartaroō*)** in 2 Pet 2:4 describes consigning sinning angels to confinement; **ἄβυσσος (*abyssos*)** can mark the deep/abyss in apocalyptic imprisonment imagery. Greek **κρίσις (*krisis*)** is judgment/decision, **θάνατος (*thanatos*)** death, **ἀπόλλυμι (*apollymi*)** destroy/lose/perish in varied settings, **ἀθανασία (*athanasia*)** immortality, and **αἰών / αἰώνιος (*aiōn / aiōnios*)** age/age-related or enduring language according to argument. These are many lexical families with different referents and cannot be collapsed into the English word “hell.”
+
+**Contextual sequence and participants.** Gen 37:35 uses Sheol in Jacob's mourning, not an explicit map of eternal punishment. Luke 16:19–31 depicts the rich man and Lazarus with Hades, Abraham's side and an unbridgeable division within a teaching narrative: interpret genre and the addressed hearers, and do not automatically equate it with the post-judgment lake of fire. 2 Pet 2:4 concerns rebellious angels, not the ordinary destination of dead humans. Rev 9 depicts abyss-related judgment beings, whereas Rev 20:11–15 explicitly distinguishes Death/Hades from the lake of fire and the final judgment. **Agent, timeline, affected beings and locale** matter. Acts 2's Psalm citation concerning Hades should be checked separately for its Greek OT background.
+
+**Theological proposals and limits.** Eternal conscious torment, universal restoration and conditional immortality are competing theological accounts, not alternate lexicon meanings of *aiōnios* or *apollymi*. The working project favours conditional immortality/relational de-creation where its cumulative argument holds, recognizes an intermediate state, and explicitly acknowledges that apocalyptic images and poetic descriptions prevent mechanical certainty about final ontology. A fair analysis must read Matt 25:46, Mark 9:43–48, Rev 20, 1 Cor 15 and other substantive challenges in context before making claims about duration or experience. “Eternal” cannot simply be replaced by “temporary,” and “destruction” alone cannot settle consciousness without its object and setting. **Limit:** this is a bounded theme hub, not a verified exhaustive concordance or full textual apparatus; especially imagery and chronological sequence remain contested.
 ## Evidence and lookup
 
 **Checked context bank:** Gen 37:35; Matt 10:28; Luke 16:19-31; 2Pet 2:4; Rev 9:1-11; Rev 20:11-15; Rom 10:6-8; 1Tim 6:16; Psa 16:10; John 3:16; Matt 25:31-46; Rev 14:9-11; Rev 20:10; 2Thess 1:9; Heb 6:2; Jude 1:7; Heb 9:14; 1Cor 15:53-54; Matt 25:46. Select relevant examples; this is not a request to analyze the full bank.

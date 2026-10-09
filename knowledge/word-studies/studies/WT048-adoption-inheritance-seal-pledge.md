@@ -1,6 +1,6 @@
 # WT048 — Adoption, inheritance, seal, pledge
 
-Version 0.2.0; 2026-10-05. Theme hub. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Theme hub. English core with Dutch search aliases.
 
 **Dutch aliases:** aanneming tot kinderen, erfenis, zegel, onderpand.
 
@@ -36,6 +36,13 @@ The working synthesis joins assurance with a real future horizon and life shaped
 
 **Study questions for the theology check:** Trace promised inheritance, belonging to God, and future bodily redemption while retaining Paul's temporal distinctions.
 
+### Full-depth semantic audit: adoption, inheritance and divine guarantee
+
+Greek **υἱοθεσία (*huiothesia*)** denotes adoption/establishment as a son or child in an appropriate social-legal image; **κληρονομία (*klēronomia*)** is inheritance/heritage; **σφραγίζω (*sphragizō*)** means seal, authenticate or mark; **σφραγίς (*sphragis*)** a seal/sign; and **ἀρραβών (*arrabōn*)** a pledge, guarantee or deposit. These are materially different images, not one doctrinal root. Roman adoption practices can illuminate social metaphor if verified; do not assume every detail of one legal system is encoded in Paul.
+
+**People, relationships and timing.** Rom 8:14–25 speaks of believers as God's children, receiving the Spirit, crying “Abba,” and still awaiting adoption's **completion in bodily redemption**. Present sonship and future hope coexist in the argument. Gal 4:1–7 compares heir/minor/slave status and the arrival of the Son and Spirit; the contrast is governed by the text, not by a universal ban on conditional warnings. Eph 1:11–14 links inheritance with the Spirit's sealing and a pledge of future completion; 2 Cor 1:21–22 similarly connects anointing, sealing and pledge in God's action toward the community.
+
+**Theological boundaries.** Family status, future inheritance, ownership/authentication and earnest guarantee may form a powerful cumulative picture of God's commitment. They are not lexical proof that no person can later reject a covenant relationship; that requires argument about the person and the warnings. Conversely, the Spirit's pledged presence should not be weakened to merely a human good intention. **Limit:** precise scope of legal adoption and the nature of the *arrabōn* metaphor should be evaluated with ancient documents, not unsourced analogy.
 ## Evidence and lookup
 
 **Checked context bank:** Rom 8:14-25; Eph 1:13-14; 2Cor 1:21-22; Gal 4:1-7; Gen 38:18; 1Ki 21:8; Eph 1:3-14. Select relevant examples; this is not a request to analyze the full bank.
