@@ -1,5 +1,38 @@
 # Changelog
 
+## 0.1.6 Preview — 2026-10-09
+
+- Default Word study / Woordstudie to a concise Standard word study; add explicit Full word study / Volledige woordstudie routing and depth-specific response sections.
+- Keep the existing optional Detailed depth, selected research budgets and phased delivery; add word-specific coverage targets without bloating Standard.
+- Require claim-adjacent biblical references and verifiable source attribution for lexicographical claims; never invent BDB/HALOT quotations or infer their contents from selected STEP/OSHB project records.
+- Return a structured word_study_policy and citation_policy in both JavaScript and Python planners and update study skills, MCP instructions, documentation, parity tests and smoke checks.
+- No source-text changes, authentication changes or Production promotion.
+
+## 0.1.5 Preview — 2026-10-09
+
+- Choose bounded remaining verses of a curated literary unit for Next suggestions, even across chapter boundaries (Genesis 1:1–3 → 1:4–2:3), without automatically expanding the current request.
+- Keep explicit Next chapter and pending chapter portions authoritative; fall back to existing bounded chunking when curated continuations cannot be used.
+- Explain literary boundary choices and interpret dependent openings at the necessary discourse scale, not a fixed five-verse context window.
+- Mirror reference and planner changes across Python/JavaScript, with specific Next, continuation, and smoke regression checks.
+- Preserve the progressive delivery behavior introduced in 0.1.4; no authentication changes; Production unchanged pending review.
+
+## 0.1.4 Preview — 2026-10-09
+
+- Require an actual completed Standard study instead of stopping at the returned study plan.
+- Add evidence-gated delivery milestones for normal and focused study modes, with preference for successive assistant messages and a single-stream fallback.
+- Prioritize early verified working translation/notes, autonomous continuation in the same user turn, and clear Next semantics.
+- Update MCP instructions, skill and method, both Python/JavaScript planners, versioned manifests and regression tests.
+- Keep authentication and tool input schemas unchanged; Production is not promoted.
+
+## 0.1.3 Preview — 2026-10-08
+
+- Add Standard/Detailed/Full planning, depth-specific research budgets, English/Dutch aliases and an additive study_depth/--depth option.
+- Preserve depth through Next and accept the existing six-field continuation state.
+- Return source-first research order, staged in-turn delivery and relevant name/literary reading-aid contracts; update the embedded skills and method.
+- Strengthen adjacent translation notes, translation/explanation consistency and confidence checks after user feedback.
+- Keep pinned source bytes, evidence contracts and Cloudflare Access JWT protection intact; validate the authenticated protocol with local signing keys.
+- Publish this change to the existing Preview branch only; production promotion remains separate.
+
 ## 0.1.2 — 2026-10-06
 
 - Add native JavaScript hosting for Cloudflare Workers Free with verified Workers Static Assets; no paid service or model API binding.

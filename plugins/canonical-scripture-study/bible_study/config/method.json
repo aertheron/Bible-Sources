@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.1.0",
+  "schema_version": "0.1.6",
   "purpose": "Christian formation through biblical theology, canonical theology and context-sensitive working translation.",
   "preferred_framework": "Mark Gatzen's working biblical/canonical theology is preferred, but correctable by source evidence and contextual argument. A complete website claim profile has not been imported.",
   "sequence": [
@@ -29,6 +29,54 @@
     "secondary_complete_entries": 6,
     "secondary_characters": 8000
   },
-  "secondary_resources": "Use BibleProject for book overview, literary structure, vocabulary, exegesis and canonical synthesis. Read relevant resources before attributing claims. Research links are leads, not a mirrored commentary corpus."
+  "secondary_resources": "Do independent analysis of the retrieved Hebrew/Greek and biblical context first. Standard and Detailed do not browse external sites by default. In Full, use BibleProject or scholarly resources selectively after that analysis for a specific unresolved or deepening question. Honour explicit research requests. Read before attributing; external resources are comparison and evidence, not the starting interpretation.",
+  "default_study_depth": "standard",
+  "study_depths": {
+    "standard": {
+      "label": "Standard",
+      "sections": [
+        "orientation",
+        "translation_notes",
+        "brief_explanation"
+      ],
+      "canonical_anchors": 2,
+      "word_entries": 1,
+      "secondary_sources": 0
+    },
+    "detailed": {
+      "label": "Detailed",
+      "sections": [
+        "orientation",
+        "translation_notes",
+        "local_exegesis",
+        "literary_historical_context",
+        "canonical_connections"
+      ],
+      "canonical_anchors": 4,
+      "word_entries": 2,
+      "secondary_sources": 0
+    },
+    "full": {
+      "label": "Full",
+      "sections": [
+        "orientation",
+        "translation_notes",
+        "local_exegesis",
+        "literary_historical_context",
+        "textual_review",
+        "canonical_connections",
+        "theological_synthesis"
+      ],
+      "canonical_anchors": 6,
+      "word_entries": 2,
+      "secondary_sources": 2
+    }
+  },
+  "source_order": [
+    "primary_source_text_and_local_context",
+    "independent_exegesis",
+    "bounded_canonical_context",
+    "optional_external_deepening",
+    "theology_review"
+  ]
 }
-

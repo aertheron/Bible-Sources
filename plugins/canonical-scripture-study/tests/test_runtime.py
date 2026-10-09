@@ -29,6 +29,29 @@ class RuntimeTests(unittest.TestCase):
         data = self.engine.reader.passage(p["reference"], ["WLC"])
         self.assertEqual(sum(len(c["records"]) for c in data["source_packets"]), 34)
 
+    def test_next_follows_curated_literary_unit_without_expanding_current_scope(self):
+        standard = self.engine.plan("Genesis 1:1-3")
+        self.assertEqual(standard["reference"], "Genesis 1:1-3")
+        self.assertEqual(standard["next"]["reference"], "Genesis 1:4-2:3")
+        self.assertEqual(standard["next"]["literary_unit_reference"], "Genesis 1:1-2:3")
+        self.assertEqual(standard["next"]["boundary_basis"], "curated_literary_continuation")
+        after = self.engine.plan("Next", study_state=standard["continuation_state"])
+        self.assertEqual(after["reference"], "Genesis 1:4-2:3")
+        source = self.engine.reader.passage(after["reference"], ["WLC"])
+        self.assertEqual(sum(len(packet["records"]) for packet in source["source_packets"]), 31)
+        self.assertEqual(after["study_depth"], "standard")
+        self.assertEqual(after["next"]["reference"], "Genesis 2:4-25")
+
+        whole_chapter = self.engine.plan("Genesis 1")
+        self.assertEqual(whole_chapter["next"]["reference"], "Genesis 2:1-3")
+        self.assertEqual(self.engine.plan("Next chapter 2", study_state=standard["continuation_state"])["reference"], "Genesis 2")
+        explicitly_scoped = self.engine.plan("Full study Genesis 1:1-2:3")
+        self.assertEqual(explicitly_scoped["reference"], "Genesis 1:1-2:3")
+        self.assertEqual(explicitly_scoped["next"]["reference"], "Genesis 2:4-25")
+        # Fallback to existing size-safe, curated chunks where no parent unit is indexed.
+        self.assertEqual(self.engine.refs.next("Luke 1:1-25")["reference"], "Luke 1:26-56")
+        self.assertEqual(self.engine.refs.next("Psalms 119:1-8")["reference"], "Psalms 119:9-16")
+
     def test_two_chapters_continue_in_same_mode(self):
         p = self.engine.plan("Translate Genesis 1-2, in Dutch, with original language interlinear")
         self.assertEqual(p["reference"], "Genesis 1")
@@ -83,6 +106,90 @@ class RuntimeTests(unittest.TestCase):
         self.assertEqual(self.engine.plan("Romans 12:1-2")["mode"], "study_plan")
         p = self.engine.plan("Exegesis only Romans 12:1-2")
         self.assertNotIn("translate_annotate", p["stages"])
+
+    def test_depth_profiles_and_source_order(self):
+        for query, depth, anchors in [("Genesis 1:1", "standard", 2), ("Standard study Genesis 1:1", "standard", 2), ("Detailed study Genesis 1:1", "detailed", 4), ("Full study Genesis 1:1", "full", 6), ("Uitgebreide studie Genesis 1:1", "detailed", 4)]:
+            with self.subTest(query=query):
+                p = self.engine.plan(query)
+                self.assertEqual(p["study_depth"], depth)
+                self.assertEqual(p["budgets"]["canonical_anchors"], anchors)
+                self.assertEqual(p["source_policy"]["order"][0], "primary_source_text_and_local_context")
+                self.assertTrue(p["source_policy"]["independent_analysis_first"])
+                self.assertFalse(p["delivery"]["background_jobs"])
+                self.assertEqual(p["source_policy"]["external_research_default"], "selective_after_independent_analysis" if depth == "full" else "off")
+        self.assertEqual(self.engine.plan("Genesis 1", study_depth="detailed")["study_depth"], "detailed")
+        self.assertEqual(self.engine.plan("Translate Genesis 1, full")["study_depth"], "full")
+        self.assertEqual(self.engine.plan("help")["default_study_depth"], "standard")
+
+    def test_word_study_standard_full_and_citation_contracts(self):
+        basic = self.engine.plan("Woordstudie ruach", language="nl")
+        self.assertEqual(basic["mode"], "word_study")
+        self.assertEqual(basic["topic"], "ruach")
+        self.assertEqual(basic["study_depth"], "standard")
+        self.assertEqual(basic["word_study_policy"]["selected_depth"], "standard")
+        self.assertEqual(basic["word_study_policy"]["target_diagnostic_occurrences"], 3)
+        self.assertIn("key_occurrences", basic["response_sections"])
+        self.assertNotIn("theological_synthesis_and_limits", basic["response_sections"])
+        self.assertEqual(basic["budgets"]["secondary_sources"], 0)
+        self.assertIn("BDB", basic["word_study_policy"]["citation_policy"]["lexical"])
+
+        for cmd in ("Full word study ruach", "Volledige woordstudie ruach", "Word study ruach, full", "Woordstudie ruach, volledig"):
+            with self.subTest(command=cmd):
+                full = self.engine.plan(cmd, language="nl")
+                self.assertEqual(full["mode"], "word_study")
+                self.assertEqual(full["topic"], "ruach")
+                self.assertEqual(full["study_depth"], "full")
+                self.assertEqual(full["word_study_policy"]["target_diagnostic_occurrences"], 6)
+                self.assertIn("theological_synthesis_and_limits", full["response_sections"])
+                self.assertEqual(full["budgets"]["secondary_sources"], 2)
+                self.assertTrue(full["word_study_policy"]["citation_policy"]["source_classification"])
+
+        for cmd in ("Standard word study ruach", "Standaard woordstudie ruach", "Word study ruach, standard"):
+            with self.subTest(command=cmd):
+                self.assertEqual(self.engine.plan(cmd)["study_depth"], "standard")
+
+        self.assertEqual(self.engine.plan("Word study ruach", study_depth="full")["study_depth"], "full")
+        full = self.engine.plan("Full word study ruach")
+        self.assertEqual(full["delivery"]["milestones"][1]["id"], "evidence_ready")
+        self.assertFalse(full["delivery"]["background_jobs"])
+        self.assertEqual(self.engine.plan("Full study Genesis 1:1-3")["mode"], "full_study")
+
+    def test_depth_continuation_and_legacy_state(self):
+        p = self.engine.plan("Detailed study Genesis 1-2, in Dutch, with original language interlinear")
+        saved = copy.deepcopy(p["continuation_state"])
+        n = self.engine.plan("Next", study_state=saved)
+        self.assertEqual((n["reference"], n["study_depth"], n["language"], n["translation_format"]), ("Genesis 2", "detailed", "nl", "original_interlinear"))
+        self.assertEqual(saved, p["continuation_state"])
+        changed = self.engine.plan("Next, full", study_state=saved)
+        self.assertEqual((changed["mode"], changed["study_depth"]), ("full_study", "full"))
+        old = self.engine.plan("Full study Genesis 1-2")["continuation_state"]
+        old.pop("study_depth")
+        self.assertEqual(self.engine.plan("Next", study_state=old)["study_depth"], "full")
+        old["request_mode"] = "study_plan"
+        self.assertEqual(self.engine.plan("Next", study_state=old)["study_depth"], "standard")
+        for bad in ("unknown", [], None):
+            with self.subTest(bad=bad), self.assertRaises(StudyError):
+                self.engine.plan("Next", study_state={**old, "study_depth": bad})
+        with self.assertRaises(StudyError):
+            self.engine.plan("Next", study_state={**old, "extra": True})
+        with self.assertRaises(StudyError):
+            self.engine.plan("Next", study_state={**saved, "study_depth": "standard"})
+        for bad in ("unknown", [], "__proto__"):
+            with self.subTest(bad=bad), self.assertRaises(StudyError):
+                self.engine.plan("Genesis 1", study_depth=bad)
+
+    def test_focused_depth_does_not_force_passage_translation(self):
+        p = self.engine.plan("Word study testing. Compare Matthew 6:13 and James 1:13., full")
+        self.assertEqual(p["mode"], "word_study")
+        self.assertEqual(p["study_depth"], "full")
+        self.assertIn("Compare", p["follow_up_requested"])
+        self.assertNotIn("translation_notes", p["response_sections"])
+        e = self.engine.plan("Exegesis only Romans 12:1-2, detailed")
+        self.assertNotIn("translate_annotate", e["stages"])
+        self.assertTrue(e["context_preface"]["required"])
+        self.assertEqual(e["context_preface"]["preceding_context_reference"], "Romans 11:32-36")
+        translation = self.engine.plan("Translate Genesis 1:1, full")
+        self.assertEqual(translation["response_sections"], ["orientation", "translation_notes"])
 
     def test_source_editions_have_native_status(self):
         p = self.engine.reader.passage("Genesis 1:1", ["WLC", "UXLC", "TAHOT", "LXX"], "linguistic")

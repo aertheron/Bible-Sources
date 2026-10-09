@@ -33,9 +33,9 @@ def build_server():
         return safe(lambda: engine().health())
 
     @server.tool(annotations=annotations, structured_output=True)
-    def study_plan(query: str, active_reference: str | None = None, language: str = "en", translation_format: str = "plain_working", study_state: dict[str, Any] | None = None) -> dict[str, Any]:
+    def study_plan(query: str, active_reference: str | None = None, language: str = "en", translation_format: str = "plain_working", study_state: dict[str, Any] | None = None, study_depth: str | None = None) -> dict[str, Any]:
         """Route a command; split long requests and continue with Next and the previous continuation_state."""
-        return safe(lambda: engine().plan(query, active_reference, language, translation_format, study_state))
+        return safe(lambda: engine().plan(query, active_reference, language, translation_format, study_state, study_depth))
 
     @server.tool(annotations=annotations, structured_output=True)
     def fetch_passage(reference: str, sources: list[str] | None = None, detail: str = "text") -> dict[str, Any]:

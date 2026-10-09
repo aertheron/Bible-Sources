@@ -30,6 +30,18 @@ test('Worker matches Python source packets, plans, studies and validation contra
   const cases = [];
   const add = (kind, ...args) => cases.push({kind, args});
   for (const query of ['Translate Genesis 1:1-2:3', 'Translate Genesis 1-2, in Dutch, with original language interlinear', 'Translate the whole of Isaiah', 'Full study Romeinen 12:1-2, in Nederlands, with original interlinear', 'Romans 12:1-2', 'Exegesis only Romans 12:1-2', 'Word study testing. Compare Matthew 6:13 and James 1:13.', 'Theme study salvation', 'Translate Acts 8:37', 'Next', 'help', 'Translate Genesis 0', 'Translate Genesis 1:99', 'Translate Isaiah 67', 'Translate Genesis 5-3', 'Translate Unknown 1']) add('plan', query);
+  for (const query of ['Word study ruach', 'Woordstudie ruach', 'Full word study ruach', 'Volledige woordstudie ruach', 'Standard word study ruach', 'Standaard woordstudie ruach', 'Word study ruach, full', 'Woordstudie ruach, volledig']) add('plan', query);
+  for (const query of ['Standard study Genesis 1:1', 'Detailed study Genesis 1-2', 'Uitgebreide studie Genesis 1', 'Word study testing, full', 'Exegesis only Romans 12:1-2, detailed', 'Translate Genesis 1, full', 'Genesis 1, standaard', 'Detailed Genesis 1']) add('plan', query);
+  for (const depth of ['standard', 'detailed', 'full', 'invalid', [], '__proto__']) add('plan', 'Genesis 1', null, 'en', 'plain_working', null, depth);
+  const detailed = (await make().plan('Detailed study Genesis 1-2, in Dutch, with original language interlinear')).continuation_state;
+  add('plan', 'Next', null, 'en', 'plain_working', detailed);
+  add('plan', 'Next, full', null, 'en', 'plain_working', detailed);
+  for (const mode of ['full_study', 'study_plan']) {
+    const legacy = {...detailed, request_mode: mode}; delete legacy.study_depth;
+    add('plan', 'Next', null, 'en', 'plain_working', legacy);
+  }
+  for (const depth of ['invalid', [], null]) add('plan', 'Next', null, 'en', 'plain_working', {...detailed, study_depth: depth});
+  add('plan', 'Next', null, 'en', 'plain_working', {...detailed, study_depth: 'standard'});
   const state = (await make().plan('Translate Genesis 1-2, in Dutch, with original language interlinear')).continuation_state;
   for (const command of ['Next', 'Next chapter 2', 'Next: Genesis 2', 'Volgende hoofdstuk 2']) add('plan', command, null, 'en', 'plain_working', state);
   add('plan', 'Next', null, 'en', 'plain_working', {request_mode: []});
@@ -68,6 +80,84 @@ test('Worker matches Python source packets, plans, studies and validation contra
   const expected = JSON.parse(execFileSync('python3', [resolve(here, 'python-oracle.py')], {input: JSON.stringify(cases), maxBuffer: 16 * 1024 * 1024, encoding: 'utf8'}));
   for (let i = 0; i < cases.length; i++) assert.deepEqual(await call(cases[i]), expected[i], `${i}: ${cases[i].kind} ${JSON.stringify(cases[i].args).slice(0, 150)}`);
   t.diagnostic(`${cases.length} parity cases matched, including 1,189 chapter boundaries, all 50 studies and all selected lexical IDs.`);
+});
+
+test('Preview delivery plans complete Standard studies and gate visible results', async () => {
+  const standard = await make().plan('Genesis 1:1-3', null, 'nl');
+  assert.equal(standard.study_depth, 'standard');
+  assert.match(standard.reader_action, /Complete this bounded passage/);
+  assert.deepEqual(standard.delivery.milestones.map(x => x.id), ['orientation', 'translation_ready', 'explanation_ready', 'synthesis_ready']);
+  assert.equal(standard.delivery.preferred_surface, 'sequential_assistant_messages_if_supported');
+  assert.equal(standard.delivery.fallback_surface, 'single_streamed_answer_with_milestones');
+  assert.equal(standard.delivery.requires_user_prompt_between_milestones, false);
+  assert.equal(standard.delivery.background_jobs, false);
+  assert.match(standard.delivery.instruction, /Next means a different passage/);
+  assert.ok(standard.delivery.milestones.every(x => x.ready_when && x.present));
+
+  const translation = await make().plan('Translate Genesis 1:1-3');
+  assert.deepEqual(translation.delivery.milestones.map(x => x.id), ['orientation', 'translation_ready']);
+  const word = await make().plan('Word study ruach');
+  assert.deepEqual(word.delivery.milestones.map(x => x.id), ['orientation', 'evidence_ready', 'synthesis_ready']);
+  assert.equal(word.delivery.milestones.some(x => x.id === 'translation_ready'), false);
+  const detailed = await make().plan('Detailed study Genesis 1-2');
+  const next = await make().plan('Next', null, 'en', 'plain_working', detailed.continuation_state);
+  assert.equal(next.reference, 'Genesis 2');
+  assert.equal(next.study_depth, 'detailed');
+  assert.deepEqual(next.delivery.milestones, detailed.delivery.milestones);
+});
+
+test('Next recommendations follow bounded literary units without overriding requested chapters', async () => {
+  const engine = make();
+  const standard = await engine.plan('Genesis 1:1-3', null, 'nl');
+  assert.equal(standard.reference, 'Genesis 1:1-3');
+  assert.equal(standard.next.reference, 'Genesis 1:4-2:3');
+  assert.equal(standard.next.literary_unit_reference, 'Genesis 1:1-2:3');
+  assert.equal(standard.next.boundary_basis, 'curated_literary_continuation');
+  const continuation = await engine.plan('Next', null, 'en', 'plain_working', standard.continuation_state);
+  assert.equal(continuation.reference, 'Genesis 1:4-2:3');
+  const portion = await engine.reader.passage(continuation.reference, ['WLC']);
+  assert.equal(portion.source_packets.reduce((n, packet) => n + packet.records.length, 0), 31);
+  assert.equal(continuation.study_depth, 'standard');
+  assert.equal(continuation.next.reference, 'Genesis 2:4-25');
+  const chapter = await engine.plan('Genesis 1');
+  assert.equal(chapter.next.reference, 'Genesis 2:1-3');
+  const explicit = await engine.plan('Next chapter 2', null, 'en', 'plain_working', standard.continuation_state);
+  assert.equal(explicit.reference, 'Genesis 2');
+  const full = await engine.plan('Full study Genesis 1:1-2:3');
+  assert.equal(full.reference, 'Genesis 1:1-2:3');
+  assert.equal(full.next.reference, 'Genesis 2:4-25');
+  assert.equal(engine.refs.next('Luke 1:1-25').reference, 'Luke 1:26-56');
+  assert.equal(engine.refs.next('Psalms 119:1-8').reference, 'Psalms 119:9-16');
+});
+
+test('Word studies default to concise Standard and accept explicit Full with auditable citations', async () => {
+  const engine = make();
+  const standard = await engine.plan('Woordstudie ruach', null, 'nl');
+  assert.equal(standard.mode, 'word_study');
+  assert.equal(standard.topic, 'ruach');
+  assert.equal(standard.study_depth, 'standard');
+  assert.equal(standard.word_study_policy.target_diagnostic_occurrences, 3);
+  assert.ok(standard.response_sections.includes('key_occurrences'));
+  assert.ok(!standard.response_sections.includes('theological_synthesis_and_limits'));
+  assert.equal(standard.budgets.secondary_sources, 0);
+  assert.match(standard.word_study_policy.citation_policy.lexical, /BDB/);
+  for (const cmd of ['Full word study ruach', 'Volledige woordstudie ruach', 'Word study ruach, full', 'Woordstudie ruach, volledig']) {
+    const full = await engine.plan(cmd, null, 'nl');
+    assert.equal(full.mode, 'word_study');
+    assert.equal(full.topic, 'ruach');
+    assert.equal(full.study_depth, 'full');
+    assert.equal(full.word_study_policy.target_diagnostic_occurrences, 6);
+    assert.ok(full.response_sections.includes('theological_synthesis_and_limits'));
+    assert.equal(full.budgets.secondary_sources, 2);
+    assert.ok(full.word_study_policy.citation_policy.source_classification);
+    assert.equal(full.delivery.milestones[1].id, 'evidence_ready');
+    assert.equal(full.delivery.background_jobs, false);
+  }
+  for (const cmd of ['Standard word study ruach', 'Standaard woordstudie ruach', 'Word study ruach, standard']) {
+    assert.equal((await engine.plan(cmd)).study_depth, 'standard');
+  }
+  assert.equal((await engine.plan('Word study ruach', null, 'en', 'plain_working', null, 'full')).study_depth, 'full');
+  assert.equal((await engine.plan('Full study Genesis 1:1-3')).mode, 'full_study');
 });
 
 test('Source tampering, unsafe paths and oversized packets fail closed', async () => {

@@ -5,7 +5,7 @@ description: "Fetch bounded identified Hebrew/Greek Bible sources with native re
 
 # Fetch and check alignment
 
-Resolve the current portion from study_plan. Retrieve WLC/OSHB and relevant Brenton Greek for an OT study, or SBLGNT for an NT study. Fetch TAHOT, UXLC, the NT apparatus or DSS when relevant. Retrieve small linguistic windows where required by an interlinear or lexical question.
+Resolve the current portion and study depth from study_plan. Use its budgets and retrieve evidence for the next stage rather than every available source or linked study. Analyse our primary sources and biblical context before external research. Retrieve WLC/OSHB and relevant Brenton Greek for an OT study, or SBLGNT for an NT study. Fetch TAHOT, UXLC, the NT apparatus or DSS when relevant. Retrieve small linguistic windows where required by an interlinear or lexical question.
 
 Preserve native verse labels, edition identity, byte-span provenance and source annotations. Treat equal numbers as candidate alignment, not reviewed equivalence. Compare local wording and book/form identity; flag unmapped differences rather than manufacturing a matching verse. WLC and UXLC are transcriptions of one manuscript, not independent votes.
 

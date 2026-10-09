@@ -1,4 +1,4 @@
-# Canonical Scripture Study — MVP 0.1.2
+# Canonical Scripture Study — Production 0.1.6
 
 *Study Scripture through its languages, context, and canonical story.*
 
@@ -28,28 +28,45 @@ bible-study-mcp
 
 Configure an MCP-capable host to start that environment's `bible-study-mcp` executable. Its standard input/output is the protocol; use the CLI for ordinary terminal JSON. The portable [plugin manifest](plugin.json), [MCP configuration](mcp.json), eight `skills/` folders and repository marketplace catalogue support package discovery on compatible surfaces. For a different Python environment, adjust the host's executable path. Installing the Python wheel installs the retrieval runtime; obtain the full repository plugin folder to use the skills and manifest.
 
-The intended study interface is a ChatGPT Work conversation. Once connected and installed, select **@Canonical Scripture Study** and ask for a passage study or a focused command. ChatGPT uses the skills to translate and explain the retrieved evidence.
+The study interface is a ChatGPT conversation in Chat or Work. Once connected and installed, select **@Canonical Scripture Study** and ask for a passage study or a focused command. ChatGPT uses the skills to translate and explain the retrieved evidence.
 
-The code and local runtime are published. A [free Cloudflare hosting package](cloudflare/) now supplies a native Worker, verified static source assets and a Streamable HTTP endpoint. Use its setup guide to deploy and then connect the actual HTTPS `/mcp` URL in ChatGPT. No live endpoint or completed ChatGPT installation is claimed. This hosting path needs no model API key; ChatGPT performs the study. Publishing these files does not replace the existing personal plugin or create a public Plugins Directory listing.
+The code and local runtime are published. A [free Cloudflare hosting package](cloudflare/) now supplies a native Worker, verified static source assets and a Streamable HTTP endpoint. Use its setup guide to deploy and then connect the actual HTTPS `/mcp` URL in ChatGPT. The existing OAuth deployment uses https://study.canonical-theology.com/mcp; the Preview connection follows a separate development branch and can contain newer, unpromoted changes. This hosting path needs no model API key; ChatGPT performs the study. Publishing these files does not replace the existing personal plugin or create a public Plugins Directory listing.
+
+## Version and updating ChatGPT
+
+The manifest, Python adapter, Worker package and MCP `study_health.plugin_version` use the same semantic version (currently **0.1.6** in main). The running MCP server uses the deployed Git commit, not the version of this GitHub file until a successful Cloudflare deployment.
+
+Changes to tools, shared MCP instructions or bundled on-demand study instructions take effect on the deployed server. Existing ChatGPT connections pointing to the same HTTPS `/mcp` endpoint do **not** need to be recreated. After a deployment, open the existing ChatGPT plugin connection and choose **Refresh** to rescan tool metadata and instructions, then test in a new conversation. The available UI may vary. The displayed plugin name/icon and any separately imported packaged skill files are not automatically replaced by a Worker deployment. Version changes may be visible through the `study_health` tool rather than the ChatGPT plugin card.
+
+The default delivery contract prefers successive visible assistant messages (orientation, verified translation and notes, exegesis, synthesis) within one user request. If ChatGPT cannot generate successive messages, provide the same content as a progressively streamed answer. MCP tools cannot themselves post chat messages or start background model work. `Next` still means the next Bible passage only.
 
 ## Commands and continuation
 
-Natural language is the interface; these are routing aliases, not registered native slash commands. Bare passages start with a concise study plan and orientation. Explicit commands perform the requested task.
+Natural language is the interface; these are routing aliases, not registered native slash commands. Bare passages default to Standard and complete the bounded study, with verified translation and notes presented before deeper interpretation when the chat host permits progressive output. Choose Detailed or Full for greater depth; a focused command still performs its own task. Explicit commands perform the requested task.
 
 | Command | Output |
 | --- | --- |
+| Standard study / bare passage | Working translation, relevant notes, brief context and explanation |
+| Detailed study | Adds consequential terms, historical/cultural context, visible literary structure and bounded canonical links |
 | Full study | Context, translation, notes, local exegesis, biblical/canonical development, theology review |
 | Translation only / Translate | Working translation in the chosen format with necessary context and notes |
-| Word study | Source terms, contextual senses, translation guidance and bounded canonical development |
+| Word study / Woordstudie | **Standard** by default: concise meaning range, 2–3 key verse examples, verified source notes, brief synthesis |
+| Full word study / Volledige woordstudie | **Full**: developed form/sense study, contrasting passages, lexical evidence, meaningful alternatives and canonical development |
 | Theme study | Relevant anchors and biblical/canonical development |
 | Context and history | Literary, historical and cultural orientation |
 | Exegesis only | Passage explanation without requiring a new full translation |
 | Translation variance reconciliation | Actual source differences and an evidence-based assessment |
 | Theology check | Fair claim reconstruction and contextual evidence review |
 | DSS research | Paged physical records, reconstruction status and linguistic annotations |
-| Next / Next chapter 2 / Next: Genesis 2 | Continue with the saved mode, language and display format |
+| Next / Next chapter 2 / Next: Genesis 2 | Continue with the saved mode, depth, language and display format |
+
+Examples: `Woordstudie ruach` (Standard), `Volledige woordstudie ruach` (Full), `Word study ruach, full` (Full). Explicitly choosing a depth does not change a word study into a passage study. Detailed remains supported as an intermediate depth option.
+
+For word-study citations, each important contextual sense should cite a real passage; consequential textual/translation claims identify the consulted edition. External lexicons (including BDB and HALOT) must be verified from their actual entries before being attributed or quoted. The selected STEP/OSHB supporting records and our own authored word studies do **not** stand in for a verified BDB/HALOT entry. When an exact lexicon cannot be consulted, the agent must say so rather than invent quotations, edition sections, page numbers or links. Full word studies include a short source list when external works were actually consulted.
 
 English and Dutch aliases are supported. The host can normalize other languages into the documented commands and pass a language code.
+
+The next-passage suggestion consults curated literary units before defaulting to a modern chapter boundary. After Genesis 1:1–3, the default suggestion is Genesis 1:4–2:3 to finish the seven-day literary unit; after Genesis 1 alone, Genesis 2:1–3 finishes that unit. An explicit `Next chapter 2` remains a chapter request, and `Genesis 1–2` preserves its explicitly requested chapter portions. The current study is never silently expanded. Where no reliable, bounded literary unit is indexed, retain the size-safe fallback and review local discourse. The curated literary unit list is intentionally incomplete.
 
 Large requests become a sequence: **Genesis 1–2** gives Genesis 1, then Genesis 2 on **Next**. **Genesis 1:1–2:3** remains a single portion, followed by Genesis 2:4–25. A request for the whole of Isaiah starts at Isaiah 1. Psalm 119 uses its 22 eight-verse stanzas; Luke 1 uses 1–25, 26–56 and 57–80. Ten long chapters have curated study boundaries; others use explicitly provisional size boundaries that the host should review against discourse. Do not reject a valid request solely for length or silently discard the remainder.
 
@@ -79,7 +96,7 @@ Retrieval uses commit `df1ed50b4aa532c14c9587106b75693414aaa622`. A full checkou
 
 Included readers cover WLC/OSHB, UXLC, all TAHOT fields, Brenton Greek, SBLGNT and its edition-comparison apparatus, and enriched DSS exports. The ordinary reference router covers 66 base books; additional Greek books and Psalm 151 need separate native-edition access (`Reader.native_chapter` in Python), and do not yet have dedicated CLI/MCP routing. Native numbering remains explicit: **book routes and equal verse numbers do not constitute reviewed cross-edition equivalence**. WLC/UXLC are related transcriptions, not independent witnesses. Greek surface tokenization provides stable derived IDs and exact character offsets, not an invented lemma/morphology layer.
 
-The 50 complete word studies are retrieved one or two at a time with up to six compact context pointers; related entries are not automatically loaded. Selected lexical data is not a complete lexicon or concordance. Six provisional canonical seed dossiers supply up to six anchor pointers; the host retrieves relevant local contexts. BibleProject and academic sources are research leads for overview, context, exegesis and theology, not a mirrored commentary collection. New completed studies can grow the public collection through its existing review/update process; chat drafts are not automatically published.
+The 50 complete word studies are retrieved one or two at a time with up to six compact context pointers; related entries are not automatically loaded. Selected lexical data is not a complete lexicon or concordance. Six provisional canonical seed dossiers supply up to six anchor pointers; the host retrieves relevant local contexts. Independent Hebrew/Greek and biblical-context analysis comes first. Standard and Detailed do not browse by default; Full uses BibleProject/academic leads selectively afterwards for a specific deepening question. These are research leads, not a mirrored commentary collection. New completed studies can grow the public collection through its existing review/update process; chat drafts are not automatically published.
 
 ## Limits and next work
 

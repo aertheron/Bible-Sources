@@ -11,7 +11,7 @@ Honor the chosen display: plain_working; transliteration_interlinear (transliter
 
 Explain dependent openings from retrieved context before translating. Preserve repetition, imagery and literary force where defensible. Render YHWH as Yahweh, distinguish kyrios contextually, and keep Sheol/Hades/Gehenna/Tartarus/abyss distinct. Use nephesh/psychē, aiōnios and other key words contextually rather than imposing a single doctrinal gloss.
 
-Add factual textual notes, contextual translation notes and an occurrence-specific term key. Bracket supplied disputed inclusions at the affected place and preserve significant rejected readings in footnotes. Do not import unattested familiar expansions.
+Attach consequential textual and rendering notes directly to the working translation. Use a compact occurrence-specific term key for the terms that matter, without printing the full internal schema. Check that the prose and term key give the same contextual sense and do not soften a verb or leave an unreadable gloss. Bracket supplied disputed inclusions at the affected place and preserve significant rejected readings in footnotes. Do not import unattested familiar expansions.
 
 Return translate_annotate with verses, footnotes, term_key and context_preface. Validate the envelope and check the actual source alignment manually. If the dense display cannot fit, continue through smaller sequential portions, retaining the pending request and format.
 

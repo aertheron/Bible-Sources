@@ -1,4 +1,4 @@
-# Translation policy and key 0.1.0
+# Translation policy and key 0.1.3
 
 Label substantial output **Working translation**, or **Werkvertaling** in Dutch. Treat it as a study aid with revisable decisions, not an official translation. Produce natural requested-language prose while preserving defensible repetition, imagery, contrast, wordplay and argument. Keep source text, selected reading and contextual sense separate.
 
@@ -15,6 +15,10 @@ Render Hebrew YHWH as **Yahweh**. Render Greek kyrios contextually as Lord/Maste
 Preserve **Sheol, Hades, Gehenna, Tartarus and abyss** as distinct terms with concise first-use explanations. Do not collapse them into one “hell” concept. Distinguish the verb referring to Tartarus in 2 Peter 2:4 from a noun occurrence. Determine whether abyssos denotes a natural depth or a cosmic/prison context before supplying its explanation. Do not smuggle later cosmology into a gloss.
 
 Translate nephesh/psychē contextually: life, person, living being, self and other senses depend on the occurrence. Do not force transliteration or “soul” everywhere. Keep the source term visible in the term key where a traditional target word could confuse the reading. Apply the same discipline to heart, spirit, flesh, faith, works, righteousness, justification and other common labels.
+
+Check translation against the explanation: an argued sense of kabash as subdue/control must not silently become merely cultivate in Genesis 1:28. Render nephesh chayyah naturally in its sentence rather than the awkward gloss “living life.” A shared term for animals and humans supports a contextual living-being sense; it does not by itself settle every question about human ontology. Preserve defensible poetic choices such as “wild and waste” for tohu va-bohu while checking each occurrence.
+
+Explain the grammar behind a consequential choice such as “When God began to create” in Genesis 1:1 and footnote the meaningful alternative. Do not choose syntax merely because it prevents an unwanted doctrinal inference, and do not claim either rendering by itself proves creation from nothing or eternal matter.
 
 Do not derive a sentence's meaning by adding all senses of a root, by etymology alone or by later doctrinal usage. aiōnios does not mean either “endless” or “age-long” automatically in every occurrence. Explain a consequential ambiguity rather than hiding it beneath a preferred fixed gloss.
 
