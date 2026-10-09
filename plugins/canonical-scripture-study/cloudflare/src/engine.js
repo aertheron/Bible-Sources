@@ -29,7 +29,7 @@ export const ALIASES = {
   variant_reconciliation: ['translation variance reconciliation', 'variant reconciliation', 'tekstvarianten'],
   theology_check: ['theology check', 'theologiecontrole'],
   dss_research: ['dss research', 'dead sea scrolls', 'dss studie'],
-  word_study: ['word study', 'woordstudie'],
+  word_study: ['full word study', 'standard word study', 'volledige woordstudie', 'standaard woordstudie', 'word study full', 'woordstudie volledig', 'word study', 'woordstudie'],
   theme_study: ['theme study', 'themastudie'],
   study_plan: ['study plan', 'studieplan'],
 };
@@ -90,7 +90,7 @@ export class Engine {
     let mode = 'study_plan';
     for (const [alias, candidate] of Object.entries(ALIASES).flatMap(([k, values]) => values.map(a => [a, k])).sort(([a], [b]) => b.length - a.length)) {
       const m = new RegExp('^' + escape(alias) + '(?:\\s*:\\s*|\\s+|$)', 'i').exec(text);
-      if (m) {mode = candidate; text = text.slice(m[0].length).trim(); break;}
+      if (m) {mode = candidate; text = text.slice(m[0].length).trim(); if (mode === 'word_study' && /^(?:full word study|volledige woordstudie|word study full|woordstudie volledig)$/i.test(alias)) depth = 'full'; else if (mode === 'word_study' && /^(?:standard word study|standaard woordstudie)$/i.test(alias)) depth = 'standard'; break;}
     }
     if (!text) text = activeReference ?? '';
     if (!text) return {status: 'needs_input', mode, message: 'Supply the passage, word or theme for this command.'};
