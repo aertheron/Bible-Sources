@@ -1,6 +1,6 @@
 # WT010 — Spirit, wind, breath, and Spirit-language
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** geest, wind, adem, Heilige Geest.
 
@@ -34,6 +34,13 @@ The working synthesis grounds the Spirit's significance in God's activity, prese
 
 **Study questions for the theology check:** Trace creation, prophecy, new covenant, and renewed life. Keep Spirit-language observations separate from conclusions about personal identity and relationships.
 
+### Full-depth semantic audit: ruach and cognition
+
+Hebrew רוּחַ (*ruach*) can denote **wind** (Exod 14:21), **breath/life-giving animation** (Job 33:4; Ezek 37), **human spirit or disposition** in applicable contexts, and **God's Spirit** (Ezek 36:27; Rom 8 for corresponding Greek). Genesis 1:2's רוּחַ אֱלֹהִים permits questions of “Spirit of God,” “wind of God,” and an intensive wind expression; genre and discourse, not a one-word substitution, must rank them. Ezek 37 and John 3:8 intentionally exploit wind/breath/Spirit associations, without converting every instance into a complete polysemy bundle.
+
+**Neighboring concepts must remain distinct.** Genesis 2:7 specifically says נְשָׁמָה (*neshamah*, breath), not ruach. Hebrew לֵב/לֵבָב (*lev/levav*) regularly carries thinking, understanding, deliberation and intention. The Greek νοῦς (*nous*) is another cognitive term; it is not identical to πνεῦμα (*pneuma*). Statements that ruach is simply “mind/thoughts” need an inspected lexical entry or compelling specific clause; an author's spiritual-theological association does not create a dictionary sense. Human emotional disposition is not synonymous with cognitive faculty.
+
+**Roles and theology.** John 14:16–17 describes a *paraklētos*, while 1 John 2:1 applies the same advocacy designation to Jesus. Acts 2's pouring language is metaphorical action, not a synonym for Spirit. The canonical development from creation and life, to Ezekiel's promised renewal, to Pentecost and Christ's people supplies theological understanding of personal divine activity; it cannot be imposed retrospectively on every meteorological wind. **Limit:** a full catalogue of human spirit metaphors and text-critical alternatives has not been compiled.
 ## Evidence and lookup
 
 **Checked context bank:** Gen 1:2; Gen 2:7; Exo 14:21; Job 33:4; John 3:8; 1John 2:1; Ezk 36:25-27; Ezk 37:1-14; John 14:16-17; Acts 2:16-18; Rom 8:9-16. Select relevant examples; this is not a request to analyze the full bank.

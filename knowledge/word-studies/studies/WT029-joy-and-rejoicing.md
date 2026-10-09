@@ -1,6 +1,6 @@
 # WT029 — Joy and rejoicing
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** vreugde, blijdschap, zich verheugen.
 
@@ -34,6 +34,13 @@ The working synthesis locates joy in God's presence, action, and promised future
 
 **Study questions for the theology check:** Follow celebration, promised restoration, and resurrection hope through selected contexts.
 
+### Full-depth semantic audit: joy and rejoicing
+
+Hebrew **שִׂמְחָה (*simḥah*)** and **שָׂמַח (*samaḥ*)**, and Greek **χαρά (*chara*)** and **χαίρω (*chairō*)** can describe joy, gladness, celebration, rejoicing and responses to good news. The nouns and verbs have their own grammar; internal emotional state, communal celebration and an exhortation to rejoice are related uses but should not be collapsed. A joyous celebration is not proof that the noun denotes permanent psychological happiness.
+
+**Situations and recipients.** Neh 8:9–12 depicts an assembled community hearing Torah, initially grieving, then instructed to celebrate and share with those lacking provision; the communal and generous expressions distinguish it from solitary feeling. Luke 2:10 announces great joy at Jesus' birth in a news-proclamation, with the message itself explaining the reason. 2 Cor 6:10 pairs **sorrowful yet always rejoicing**, ruling out the equation of joy with the absence of grief. Phil 4:4–9 calls a community to rejoice in the Lord while also addressing anxiety, prayer, thanksgiving and conduct.
+
+**Related terms and theology.** Pleasure, joy, blessing, peace, laughter and hope can overlap but must not automatically be treated as identical Greek or Hebrew words. Joy as fruit of God's saving work is a canonical synthesis; a command to rejoice does not mean every believer always experiences the same emotion. Historical settings of festival and lament can strongly influence the clause. **Limit:** ordinary secular festive or mocking uses, and all idiomatic cognates, are outside this selected context sample.
 ## Evidence and lookup
 
 **Checked context bank:** Neh 8:10; Luke 2:10; 2Cor 6:10; Phil 4:4-7; Neh 8:9-12; Psa 30:1-5; Hab 3:17-19; John 16:20-22. Select relevant examples; this is not a request to analyze the full bank.

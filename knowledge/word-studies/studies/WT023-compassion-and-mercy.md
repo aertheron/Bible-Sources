@@ -1,6 +1,6 @@
 # WT023 — Compassion and mercy
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** ontferming, medelijden, barmhartigheid.
 
@@ -34,6 +34,13 @@ The working synthesis treats mercy as morally serious and relationally concrete.
 
 **Study questions for the theology check:** Trace divine compassion and human mercy in concrete narrative and covenant settings.
 
+### Full-depth semantic audit: compassion, pity, mercy
+
+Hebrew **רַחוּם (*raḥum*)** is a compassionate/merciful adjective; **רַחֲמִים (*raḥamim*)** relates to mercy or compassion; Greek **ἔλεος (*eleos*)** can describe mercy, pity or practical kindness; **σπλαγχνίζομαι (*splanchnizomai*)** describes being moved with compassion. They are distinct words even when applied to the same event. The historical *raḥam* / womb association must not be projected as an active maternal image into every token without literary evidence.
+
+**Agents and effects.** Exod 34:6 calls Yahweh compassionate **and** gracious **and** rich in *hesed*, so these are overlapping parts of His revealed character, not one fused lemma. Ps 103:8–14 attributes patient, parental compassion to God toward vulnerable humans; the father's comparison belongs to this psalm. Isa 49:15 **explicitly** compares God's remembrance to a nursing mother, giving a solid local basis for maternal imagery. In Luke 10:25–37 the Samaritan feels compassion and responds through treatment, transport and ongoing care; the wounded traveller is the concrete beneficiary, and neighbouring religious figures do not provide that help. Matt 9:35–38 depicts Jesus' compassion at distressed crowds, leading into His concern for labourers.
+
+**Related ideas and limits.** “Mercy,” “grace,” “love” and “hesed” overlap in divine action but are not always interchangeable Greek/Hebrew word equivalents. Divine compassion does not mean indifference to judgment: James 2:13 discusses mercy and judgment together. **Limit:** bodily idiom, maternal metaphor and legal “show mercy” formulas require occurrence-level checks rather than universal word-root claims.
 ## Evidence and lookup
 
 **Checked context bank:** Exo 34:6-7; Isa 49:15; Luke 10:25-37; Psa 103:8-14; Hos 11:1-9; Matt 9:35-38; Jas 2:13-17; Psa 103:13. Select relevant examples; this is not a request to analyze the full bank.

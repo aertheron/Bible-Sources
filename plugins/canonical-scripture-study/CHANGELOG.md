@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.1.7 Preview — 2026-10-09
+
+- Release check: expanded complete word-study packets use a shared 16,000-character ceiling in Python and Worker; context pointers are still deferred as needed, all study content is retained, and lexical/single-sense limits remain 12,000.
+
+- Upgrade Full word-study planning to cover all supported attested semantic senses rather than using 4–6 sample passages as a hard limit; include uncommon uses and distinct homographs.
+- Require occurrence-level contextual analysis: syntax, actor/recipient, relationships, direction and reciprocity, literary/historical setting.
+- Compare related lexical concepts without treating them as synonyms, and separate source semantics from contextual inference and theological/canonical interpretation.
+- Preserve compact Standard word studies and existing evidence-based citation rules. Add matching JavaScript/Python delivery metadata and regression/smoke assertions.
+- No edits to any of the 50 curated source word-study records, indexes or source evidence; these are managed independently. Production unchanged.
+
 ## 0.1.6 Preview — 2026-10-09
 
 - Default Word study / Woordstudie to a concise Standard word study; add explicit Full word study / Volledige woordstudie routing and depth-specific response sections.

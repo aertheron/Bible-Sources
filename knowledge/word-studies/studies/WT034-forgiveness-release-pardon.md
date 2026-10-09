@@ -1,6 +1,6 @@
 # WT034 — Forgiveness, release, pardon
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** vergeving, vrijlating, kwijtschelding.
 
@@ -34,6 +34,13 @@ The working synthesis joins God's pardon with restored possibility for faithful 
 
 **Study questions for the theology check:** Follow divine pardon, renewed relationship, and Jesus' authority without assuming forgiveness abolishes every temporal consequence.
 
+### Full-depth semantic audit: forgive, carry, release, favour
+
+Hebrew **סָלַח (*salaḥ*)** typically concerns forgiveness or pardon, especially divine forgiveness in relevant Hebrew contexts; **נָשָׂא (*nasa’*)** is a broader verb meaning lift, carry or bear and can express forgiveness of sin in a qualified construction. Greek **ἀφίημι (*aphiēmi*)** can mean send away, leave, release, remit or forgive according to its object; **ἄφεσις (*aphesis*)** can refer to release/remission; **χαρίζομαι (*charizomai*)** relates to gracious giving or forgiving. These families intersect without being freely interchangeable.
+
+**Agent/object controls.** Exod 34:6–7 says Yahweh bears/forgives iniquity, rebellion and sin while describing accountability: mercy does not make judgment a non-entity. Jer 31:31–34 promises the new covenant with forgiveness and no longer remembering sin, linking pardon with restored covenant knowledge. In Mark 2:1–12 Jesus pronounces forgiveness, and an ensuing challenge concerns the authority of the speaker; the miracle and opponents' response supply the Christological force. Eph 1:7 relates forgiveness of trespasses to redemption in Christ, but the noun “redemption” does not become a dictionary definition of forgiveness.
+
+**Theological synthesis and limits.** Release from debt, pardon of guilt, bearing an offence and restored relationship are useful related images; which one dominates depends on the actual noun/verb and grammar. A relational de-creation or atonement framework should not redefine *aphiēmi* itself as one full atonement theory. Forgiving a person does not automatically mean instant restoration of human trust or absence of consequences; such pastoral distinctions require other arguments. **Limit:** legal debt-remission and everyday “leave/permit” senses of *aphiēmi* need separate sentence evidence.
 ## Evidence and lookup
 
 **Checked context bank:** Exo 34:6-7; Jer 31:34; Mark 2:1-12; Eph 1:7; Lev 16:20-22; Luke 4:16-21; Matt 18:21-35; Col 3:12-14. Select relevant examples; this is not a request to analyze the full bank.

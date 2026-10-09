@@ -1,6 +1,6 @@
 # WT039 — Messiah, Christ, anointing
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** Messias, Christus, zalving.
 
@@ -34,6 +34,13 @@ The working synthesis sees Jesus as the decisive Messiah through the New Testame
 
 **Study questions for the theology check:** Trace royal and other anointing contexts into the NT identification of Jesus, separating local office from later reception.
 
+### Full-depth semantic audit: anointing and messianic office
+
+Hebrew **מָשַׁח (*mashaḥ*)** means anoint/smear with oil in appropriate physical or ritual settings; **מָשִׁיחַ (*mashiaḥ*)** designates an anointed person; Greek **χρίω (*chriō*)** is anoint and **χριστός (*christos*)** the anointed one. A verb describing anointing, an office-holding designation and Jesus' later near-proper title are historically related but must not be treated as simultaneous senses of every term.
+
+**Distinct participants.** 1 Sam 16:12–13 depicts Samuel anointing David in relation to royal selection, with Yahweh's Spirit subsequently mentioned. Isa 45:1 astonishingly calls **Cyrus** Yahweh's *mashiaḥ* in a political restoration oracle, proving that the Hebrew term by itself is not limited to Jesus or to a morally flawless Israelite king. Ps 2's anointed king belongs to royal-poetic discourse and is taken up in later messianic interpretation. Luke 4:16–21 depicts Jesus reading Isaiah's anointing and announcing good news; Acts 10:38 speaks of God anointing Jesus with the Holy Spirit and power, applying royal/prophetic service rather than describing a literal oil ceremony.
+
+**Boundaries and development.** Kings, priests or commissioned figures may be anointed in differing settings; exact officiants and ritual purpose require the local narrative. The biblical movement toward Jesus as Messiah arises from the intertextual trajectory of royal promise, Spirit-given vocation, suffering and resurrection. It does not follow from spelling alone that every “anointed” historical figure was a conscious prophecy of the Messiah. **Limit:** varied priestly and royal oil customs, and Greek *christos* before its Christological reception, need distinct attested contexts.
 ## Evidence and lookup
 
 **Checked context bank:** 1Sa 16:1-13; Isa 45:1; Luke 4:16-21; Acts 10:38; Exo 29:1-9; 2Sa 7:12-16; Psa 2:1-12; Heb 1:8-9. Select relevant examples; this is not a request to analyze the full bank.

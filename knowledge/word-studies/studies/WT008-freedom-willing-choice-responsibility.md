@@ -1,6 +1,6 @@
 # WT008 — Freedom, willing, choice, responsibility
 
-Version 0.2.0; 2026-10-05. Theme hub. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Theme hub. English core with Dutch search aliases.
 
 **Dutch aliases:** vrije wil, vrijheid, kiezen, verantwoordelijkheid.
 
@@ -34,6 +34,13 @@ The working synthesis should affirm the summons and responsibility the passage s
 
 **Study questions for the theology check:** Assess divine initiative and human response together, including commands, promises, warnings, and grace. Link to the testing/temptation reconciliation example below.
 
+### Full-depth semantic audit and agency
+
+This is a **theme hub** whose Greek ἐλευθερία (*eleutheria*, freedom), ἐλεύθερος (*eleutheros*, free), θέλω (*thelō*, want/will), and θέλημα (*thelēma*, desire/intention/purpose) are not one word or an ancient technical definition of “free will.” Freedom normally specifies *from what* bondage or *for what* life. John 8:31–36 concerns slavery to sin and liberation by the Son; it does not settle whether each possible decision can be otherwise. Deut 30:15–20 commands a people to choose life in a covenant setting, providing a strong exhortative and responsibility context without defining a modern metaphysical model. Phil 2:12–13 coordinates the community's action with God's work in willing and acting; do not erase either side.
+
+**Temptation as a distinct lexical case:** Greek πειρασμός / πειράζω cover testing, trial and temptation where purpose, source and response determine nuance. Matt 6:13 and Jas 1:13–15 belong to the same Greek family. James denies God's enticement to evil and traces temptation from desire; he also describes trials and endurance (1:2–4, 12). Matt 4:1 distinguishes the Spirit's leading from the devil's tempting. Hebrew נסה (*nasah*) in Gen 22:1 speaks of testing Abraham. These connections do not justify inventing unrelated Greek terms to remove a theological tension.
+
+**Theological inference:** divine grace, authentic warnings, morally weighty response, deliverance from sin and the choice to continue in faithful relationship are distinct claims to examine canonically. Neither “cannot ever depart” nor “metaphysically unrestricted will” is a lexical gloss of *thelō*. **Limit:** selected passages establish contextual categories; a complete formal account of human agency requires more than a word inventory.
 ## Evidence and lookup
 
 **Checked context bank:** Deu 30:15-20; John 8:31-36; Phil 2:12-13; Jas 1:13-15; Gen 22:1-2; Matt 4:1-11; Matt 6:9-15; Jas 1:2-4; Jas 1:12-18; Gen 22:1; Matt 6:13; Jas 1:13; Matt 4:1. Select relevant examples; this is not a request to analyze the full bank.

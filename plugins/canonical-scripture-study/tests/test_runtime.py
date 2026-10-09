@@ -140,7 +140,16 @@ class RuntimeTests(unittest.TestCase):
                 self.assertEqual(full["topic"], "ruach")
                 self.assertEqual(full["study_depth"], "full")
                 self.assertEqual(full["word_study_policy"]["target_diagnostic_occurrences"], 6)
-                self.assertIn("theological_synthesis_and_limits", full["response_sections"])
+                self.assertIn("theological_interpretation_and_limits", full["response_sections"])
+                self.assertIn("sense_inventory_and_lexical_boundaries", full["response_sections"])
+                self.assertIn("contextual_senses_by_occurrence_and_participants", full["response_sections"])
+                self.assertIn("related_terms_and_concepts_with_distinctions", full["response_sections"])
+                self.assertIn("semantic_method", full["word_study_policy"])
+                self.assertIn("homographs", full["word_study_policy"]["semantic_method"]["sense_inventory"])
+                self.assertIn("grammatical subject", full["word_study_policy"]["semantic_method"]["participants_and_relations"])
+                self.assertIn("theological synthesis", full["word_study_policy"]["semantic_method"]["theological_interpretation"])
+                self.assertIn("not an upper bound", full["word_study_policy"]["semantic_method"]["coverage_rule"])
+                self.assertNotIn("semantic_method", basic["word_study_policy"])
                 self.assertEqual(full["budgets"]["secondary_sources"], 2)
                 self.assertTrue(full["word_study_policy"]["citation_policy"]["source_classification"])
 
@@ -260,7 +269,7 @@ class RuntimeTests(unittest.TestCase):
                 self.assertEqual(packet["status"], "curated_entries")
                 self.assertTrue(packet["entries"][0]["entry"]["core_study"])
                 self.assertLessEqual(len(packet["entries"][0]["context_pointers"]), 6)
-                bounded(packet, 12000)
+                bounded(packet, config("method")["budgets"]["word_packet_characters"])
                 self.assertFalse(packet["related_entries_loaded"])
 
     def test_word_query_testing_and_followup(self):

@@ -1,6 +1,6 @@
 # WT013 — Yahweh, YHWH, the divine name
 
-Version 0.2.0; 2026-10-05. Name and phrase. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Name and phrase. English core with Dutch search aliases.
 
 **Dutch aliases:** Yahweh, JHWH, de goddelijke naam.
 
@@ -34,6 +34,13 @@ The working synthesis treats these applications as important evidence for the Ne
 
 **Study questions for the theology check:** Record the earlier passage's wording and later reception separately; assess divine-name Christology through actual quotations and arguments.
 
+### Full-depth semantic audit: name, presence and identity
+
+The divine name **יהוה (YHWH, rendered Yahweh)** is a proper designation, not an interchangeable common noun for “God” or “Lord.” Hebrew **יָהּ (Yah)** is a shorter form in appropriate names or poetry; **אֶהְיֶה (*’ehyeh*, I will be / I am)** in Exod 3:12–15 is a verbal form in the name-disclosure narrative. The phonetic and theological connection between *’ehyeh* and YHWH is important but does not establish that the name is literally the full sentence “I am who I am” at every occurrence.
+
+**Speaker and literary setting.** In Exod 3:12 Yahweh promises His presence with Moses; Exod 3:14–15 connects the name disclosure with deliverance and remembrance across generations. The Hebrew wording in v. 14 permits interpretive discussion of “I am” and “I will be,” while v. 12 gives the promise's temporal and relational force. The name is given in a concrete encounter, not as a stand-alone abstract ontology. In passages saying “call on the name of Yahweh,” the action is appeal and recognition; it does not invoke an etymology.
+
+**Canonical reception.** Joel 2:32's invocation of Yahweh is reused in Rom 10:9–13 in a discourse about confessing Jesus as Lord and calling for salvation. This is a substantial scriptural and Christological connection, but translating every Greek *kyrios* back to the proper name would ignore its many human and divine contexts. **Uncertainty:** the name's earliest vocalization and disputed etymological reconstructions cannot be established from the consonants alone; “Yahweh” is the project's chosen scholarly convention, not a directly preserved ancient audio recording.
 ## Evidence and lookup
 
 **Checked context bank:** Exo 3:12-15; Jol 2:32; Rom 10:9-13; Exo 6:2-8; Isa 45:22-23; Phil 2:9-11. Select relevant examples; this is not a request to analyze the full bank.

@@ -1,6 +1,6 @@
 # WT050 — Marriage, one flesh, desire, sexual ethics
 
-Version 0.2.0; 2026-10-05. Theme hub. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Theme hub. English core with Dutch search aliases.
 
 **Dutch aliases:** huwelijk, één vlees, verlangen, seksuele ethiek.
 
@@ -40,6 +40,13 @@ For unmarried and remarriage questions, preserve the actual forms. First Corinth
 
 **Study questions for the theology check:** Keep Mark's covenantal argument attributed and assess each term and inference in its own literary, cultural, and canonical setting; explain supported alternatives respectfully.
 
+### Full-depth semantic audit: one flesh, desire and sexual conduct
+
+**Separate original terms rather than treating an English vice-category as one word.** Hebrew **בָּשָׂר אֶחָד (*basar ’eḥad*)** is the “one flesh” phrase in Gen 2:24; **נָאַף (*na’af*)** concerns adultery. Greek **ἐπιθυμέω (*epithymeō*)** and **ἐπιθυμία (*epithymia*)** indicate desire/longing, which can be morally appropriate or inappropriate by **object and context**. **πορνεία (*porneia*)** covers a range of prohibited sexual misconduct, while **μοιχεία (*moicheia*)** specifically concerns adultery; Greek **μαλακός (*malakos*)** literally can mean soft (e.g., garments) and requires difficult contextual assessment in vice lists; **ἀρσενοκοίτης (*arsenokoitēs*)** is a rare term whose scope, etymology and ancient usage require source-level restraint.
+
+**Local diagnostic contexts.** Gen 2:24 places a man and woman within a kinship union and describes “one flesh”; what covenant formalization and mutual obligations imply is a theological development, not the noun *basar* alone. Exod 20:17 forbids coveting a neighbour's goods/spouse; the forbidden object and violated relationship determine the negative sense. Luke 22:15 uses the **same desire family** for Jesus' earnest wish to eat Passover with His disciples—direct counterevidence to “epithymeō always means lust.” Matt 5:27–30 speaks of looking with intent to desire in an adultery argument: do not overgeneralize to the claim that every recognition of beauty or unchosen experience of attraction is adultery. 1 Cor 6:9–20 discusses prohibited practices and bodily union in a wider temple/Christ argument; list terms must be handled individually. 1 Thess 4:3–8 calls for sanctification and respect in sexual conduct within a community.
+
+**Historical and ethical synthesis.** Adultery, sexual exploitation, prostitution, prohibited kinship unions, lust and covenantal fidelity overlap ethically but are not one-to-one equivalents. Claims about divorce and remarriage must involve relevant covenant, abandonment and Jesus/Paul passages, not a stand-alone gloss for *porneia*. The project's Christian sexual ethic follows literary and canonical argument rather than importing modern identity categories into ancient words. Preserve contested *malakos* and *arsenokoitēs* interpretations, their Greek cultural environment and genuine lexical uncertainty; do not assert that the entire ancient semantic range has been proven from two vice-list tokens. **Limit:** this multifaceted hub requires independent, exhaustive philological and historical work on the rare Greek terms before strong universal claims.
 ## Evidence and lookup
 
 **Checked context bank:** Gen 2:18-25; Exo 20:17; Matt 5:27-30; Luke 22:15; 1Cor 6:9-20; 1Thess 4:3-8; Matt 13:17; 1Tim 3:1; Matt 19:3-12; Mark 7:20-23; 1Cor 7:1-9; 1Cor 7:32-35; 1Tim 1:9-11; Lev 18:22; Lev 20:13; Matt 11:8; 1Cor 6:12-20; 1Cor 6:9; 1Cor 7:11; 1Cor 7:27-28; 1Cor 6:9-11. Select relevant examples; this is not a request to analyze the full bank.

@@ -1,6 +1,6 @@
 # WT027 — Peace, shalom, well-being
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** vrede, shalom, welzijn.
 
@@ -34,6 +34,13 @@ The working synthesis joins peace with justice, truthful diagnosis, and reconcil
 
 **Study questions for the theology check:** Connect blessing, royal hope, and reconciliation while preserving each passage's contribution.
 
+### Full-depth semantic audit: shalom and peace
+
+Hebrew **שָׁלוֹם (*shalom*)** can describe well-being, welfare, safety, harmony, restored relations, peace after conflict, or the absence of war. Greek **εἰρήνη (*eirēnē*)** overlaps, but its contextual scope must be read independently. “Wholeness” can summarize aspects of shalom in a particular passage; it is not a compulsory dictionary replacement in every greeting or inquiry about somebody's welfare.
+
+**Participants and contexts.** In a common peace/welfare greeting the speaker may simply ask whether someone is well, without invoking a complete eschatological state. Num 6:24–26 concludes the priestly blessing with Yahweh giving shalom, a divine gift to the addressed community within a covenant worship setting. Isa 9's anticipated royal figure connects peace with just rule rather than merely the cessation of conflict. In Eph 2:11–22 Christ makes peace between previously divided groups and creates a new shared access to the Father; the affected parties and wall of hostility clarify what “peace” concretely entails.
+
+**Lexical distinctions.** Peace, righteousness, covenant blessing, reconciliation and salvation form related themes but have separate vocabulary and are not all encoded in *shalom*. The phrase “peace to you” can be ordinary politeness or, in special narrated contexts, assurance of restored relation. Canonically peace can develop from flourishing and protection into reconciled community and final new creation; this is theological synthesis, not a separate sense hidden in every token. **Limit:** the present selected passages do not exhaust peace as negotiated treaty, economic welfare, greeting, inward rest, or absence of war.
 ## Evidence and lookup
 
 **Checked context bank:** Num 6:22-27; Isa 9:6-7; Eph 2:11-22; Jer 6:13-15; John 14:27; John 16:33; Rom 5:1-2. Select relevant examples; this is not a request to analyze the full bank.

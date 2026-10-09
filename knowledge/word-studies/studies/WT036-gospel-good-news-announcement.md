@@ -1,6 +1,6 @@
 # WT036 — Gospel, good news, announcement
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** evangelie, goed nieuws, verkondiging.
 
@@ -34,6 +34,13 @@ The working synthesis keeps narrative content, saving significance, and required
 
 **Study questions for the theology check:** Trace kingdom announcement and Christ's death and resurrection without reducing the whole proclamation to one modern slogan.
 
+### Full-depth semantic audit: news, announcement and kingdom
+
+Hebrew **בָּשַׂר (*basar*, to bring or announce news)** and Greek **εὐαγγελίζω (*euangelizō*, announce good news)** are verbal proclamation terms; **εὐαγγέλιον (*euangelion*)** is good news/message and in some contexts an established proclamation. Do not confuse the Hebrew verbal root for announcing news with the similarly romanized word **בָּשָׂר (*basar*, flesh)**: they are distinct lexemes with different consonants. Not every occurrence of the announcement vocabulary contains every detail of later Christian doctrinal formulations.
+
+**Local messages and recipients.** Isa 52:7 celebrates a herald announcing peace, deliverance and the reign of God to Zion; the original setting of restoration gives the news its content. Mark 1:14–15 proclaims that God's kingdom has drawn near and summons repentance and faith; the herald is Jesus and the message centers on royal action. 1 Cor 15:1–8 rehearses the message Paul preached with Christ's death, burial, resurrection and appearances, naming testimony as grounding for the proclaimed event. The two New Testament contexts are complementary yet not word-for-word identical definitions of *euangelion*.
+
+**Historical and theological differentiation.** Good news can be a report of victory, royal accession or restoration in ancient settings; a Greco-Roman imperial parallel needs a specific attested source, not vague cultural assertion. Christ's resurrection and the kingdom together inform canonical gospel theology, but the noun itself means announcement/news, not “an invitation to go to heaven when you die.” **Limit:** a comprehensive study of imperial decrees and all Septuagint usages is outside the current verified sample.
 ## Evidence and lookup
 
 **Checked context bank:** Isa 52:7; Mark 1:14-15; 1Cor 15:1-5; Isa 40:9-11; Isa 61:1-3; Rom 1:1-7; Rom 1:16-17. Select relevant examples; this is not a request to analyze the full bank.
