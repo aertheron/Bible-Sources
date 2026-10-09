@@ -147,7 +147,16 @@ test('Word studies default to concise Standard and accept explicit Full with aud
     assert.equal(full.topic, 'ruach');
     assert.equal(full.study_depth, 'full');
     assert.equal(full.word_study_policy.target_diagnostic_occurrences, 6);
-    assert.ok(full.response_sections.includes('theological_synthesis_and_limits'));
+    assert.ok(full.response_sections.includes('theological_interpretation_and_limits'));
+    assert.ok(full.response_sections.includes('sense_inventory_and_lexical_boundaries'));
+    assert.ok(full.response_sections.includes('contextual_senses_by_occurrence_and_participants'));
+    assert.ok(full.response_sections.includes('related_terms_and_concepts_with_distinctions'));
+    assert.ok(full.word_study_policy.semantic_method);
+    assert.match(full.word_study_policy.semantic_method.sense_inventory, /homographs/);
+    assert.match(full.word_study_policy.semantic_method.participants_and_relations, /grammatical subject/);
+    assert.match(full.word_study_policy.semantic_method.theological_interpretation, /theological synthesis/);
+    assert.match(full.word_study_policy.semantic_method.coverage_rule, /not an upper bound/);
+    assert.equal(standard.word_study_policy.semantic_method, undefined);
     assert.equal(full.budgets.secondary_sources, 2);
     assert.ok(full.word_study_policy.citation_policy.source_classification);
     assert.equal(full.delivery.milestones[1].id, 'evidence_ready');
