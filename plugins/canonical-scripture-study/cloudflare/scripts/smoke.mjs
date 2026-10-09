@@ -40,6 +40,16 @@ const next = (await tool('study_plan', {query: 'Next', study_state: plan.continu
 assert.deepEqual([next.reference, next.language, next.translation_format, next.mode], ['Genesis 2', 'nl', 'original_interlinear', 'translation_only']);
 const standard = (await tool('study_plan', {query: 'Romans 12:1-2'})).structuredContent;
 assert.equal(standard.study_depth, 'standard');
+const wordStandard = (await tool('study_plan', {query: 'Woordstudie ruach', language: 'nl'})).structuredContent;
+assert.equal(wordStandard.mode, 'word_study');
+assert.equal(wordStandard.study_depth, 'standard');
+assert.ok(wordStandard.response_sections.includes('key_occurrences'));
+assert.match(wordStandard.word_study_policy.citation_policy.lexical, /HALOT/);
+const wordFull = (await tool('study_plan', {query: 'Volledige woordstudie ruach', language: 'nl'})).structuredContent;
+assert.equal(wordFull.mode, 'word_study');
+assert.equal(wordFull.study_depth, 'full');
+assert.ok(wordFull.response_sections.includes('theological_synthesis_and_limits'));
+assert.equal(wordFull.word_study_policy.target_diagnostic_occurrences, 6);
 assert.match(standard.reader_action, /Complete this bounded passage/);
 assert.deepEqual(standard.delivery.milestones.map(x => x.id), ['orientation', 'translation_ready', 'explanation_ready', 'synthesis_ready']);
 assert.equal(standard.delivery.requires_user_prompt_between_milestones, false);
