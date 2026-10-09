@@ -52,6 +52,8 @@ assert.equal(creationOpening.next.reference, 'Genesis 1:4-2:3');
 assert.equal(creationOpening.next.literary_unit_reference, 'Genesis 1:1-2:3');
 const continuedCreation = (await tool('study_plan', {query: 'Next', study_state: creationOpening.continuation_state})).structuredContent;
 assert.equal(continuedCreation.reference, 'Genesis 1:4-2:3');
+const literaryPassage = (await tool('fetch_passage', {reference: continuedCreation.reference, sources: ['WLC']})).structuredContent;
+assert.equal(literaryPassage.source_packets.reduce((n, p) => n + p.records.length, 0), 31);
 assert.equal(continuedCreation.next.reference, 'Genesis 2:4-25');
 assert.equal(standard.context_preface.preceding_context_reference, 'Romans 11:32-36');
 const detailed = (await tool('study_plan', {query: 'Detailed study Genesis 1-2'})).structuredContent;
