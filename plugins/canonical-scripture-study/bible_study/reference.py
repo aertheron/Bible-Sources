@@ -122,11 +122,31 @@ class References:
     def next(self, current):
         p = self.parse(current)
         last = self.last(p.book, p.end_chapter)
+        after = (p.end_chapter, p.end_verse + 1) if p.end_verse < last else (p.end_chapter + 1, 1)
+        if str(after[0]) not in self.verses[p.book]:
+            return None
+
+        # Complete a curated literary unit before defaulting to a chapter break.
+        # Never expand the current study or exceed the bounded source limits.
+        relevant = []
+        for unit in config("literary-units")["units"]:
+            u = self.parse(unit["reference"])
+            if u.book == p.book and (u.start_chapter, u.start_verse) <= (p.start_chapter, p.start_verse) and (p.end_chapter, p.end_verse) <= (u.end_chapter, u.end_verse) and after <= (u.end_chapter, u.end_verse):
+                relevant.append((self.count(u), unit, u))
+        for _, unit, u in sorted(relevant, key=lambda item: item[0]):
+            remainder = Passage(p.book, after[0], after[1], u.end_chapter, u.end_verse)
+            try:
+                self.scope(remainder)
+            except StudyError as error:
+                if error.code != "portion_scope":
+                    raise
+                continue
+            if self.count(remainder) <= config("chunking")["soft_max_verses"]:
+                return {"reference": self.label(remainder), "boundary_status": "curated_literary_continuation", "literary_unit_reference": unit["reference"], "literary_unit_title": unit["title"]}
+
+        # Fallback to the original bounded chapter/curated-chunk logic.
         if p.end_verse < last:
             rest = self.label(Passage(p.book, p.end_chapter, p.end_verse + 1, p.end_chapter, last))
         else:
-            c = p.end_chapter + 1
-            if str(c) not in self.verses[p.book]:
-                return None
-            rest = f"{self.books[p.book]['name']} {c}"
+            rest = f"{self.books[p.book]['name']} {after[0]}"
         return self.portions(rest)[0]
