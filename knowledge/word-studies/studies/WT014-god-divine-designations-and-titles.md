@@ -1,6 +1,6 @@
 # WT014 — God, divine designations, and titles
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** God, goden, goddelijke benamingen.
 
@@ -34,6 +34,13 @@ The useful trajectory concerns the Creator's uniqueness, competing divine claims
 
 **Study questions for the theology check:** Distinguish lexical designation, unique divine identity, and the canon's developed confession.
 
+### Full-depth semantic audit: divine designations
+
+This is a **multi-language designations hub**, not one lemma: Hebrew **אֵל (*’el*)**, **אֱלֹהִים (*’elohim*)**, **אֱלוֹהַּ (*’eloah*)**; Aramaic **אֱלָהּ (*’elah*)**; Greek **θεός (*theos*)**; plus separate titles such as **El Elyon**, **El Shaddai**, and Aramaic **Ancient of Days**. Each expression must be read by morphology, modifier, referent and literary genre. *Elohim* has morphologically plural form but can take singular agreement referring to Israel's God; the form alone proves neither a plurality of persons nor a single ontology for every spiritual referent.
+
+**Reference changes by setting.** In Gen 1:1 *elohim* refers to the sole Creator of the narrated world. Gen 14:18–22 uses **El Elyon** in Melchizedek's blessing, identified in Abraham's response with Yahweh; Gen 17:1 uses **El Shaddai** in covenantal speech. The historical derivation of *Shaddai* is debated and must not be forced into a “mountain,” “breast,” or “Almighty” etymology without source evidence. In Dan 7:9 the **Ancient of Days** is a literary visionary title; age imagery does not assert that Yahweh is an elderly physical being. 1 Cor 8:4–6 acknowledges broader claims to gods/lords while confessing one God and one Lord.
+
+**Theological layer.** A biblical description of God's unique identity requires the predicates and plot of these passages rather than assigning all distinct titles one flat dictionary meaning. Category-based use of “elohim” for spiritual beings can be considered from contextual occurrences, without treating every referent as equal to Yahweh. **Limit:** selected records do not constitute a universal concordance of *elohim*, nor a settled etymology of all divine epithets.
 ## Evidence and lookup
 
 **Checked context bank:** Gen 1:1; Gen 14:18-22; Gen 17:1; Dan 7:9-14; 1Cor 8:4-6; Exo 7:1; Exo 15:11; Deu 6:4-5; Psa 82:1-8. Select relevant examples; this is not a request to analyze the full bank.

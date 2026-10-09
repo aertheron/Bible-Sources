@@ -1,6 +1,6 @@
 # WT019 — Love, ahavah, agapē
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** liefde, liefhebben.
 
@@ -34,6 +34,13 @@ The working synthesis sees love as central to faithful life, with its content sp
 
 **Study questions for the theology check:** Trace commanded love, divine love, and Christ's example without exporting every positive description into negative-object uses.
 
+### Full-depth semantic audit: love across different objects
+
+Hebrew **אָהַב (*’ahav*, love)** and **אַהֲבָה (*’ahavah*, love)**, Greek **ἀγαπάω (*agapaō*)**, **ἀγάπη (*agapē*)**, and **φιλέω (*phileō*)** have overlapping but distinct distributions. Do not assert that *agapē* by itself always denotes uniquely divine, unconditional, morally perfect love while *phileō* always means inferior friendship. The object of love and author's judgment of that object matter.
+
+**Contextual contrasts.** Deut 6:5 commands wholehearted love of Yahweh, embedded in obedience and teaching. Lev 19:18 concerns neighbour relationships and refuses revenge. John 3:19 describes people who **loved darkness rather than light**: the *agapaō* word family can denote wrongly directed preference. John 13:34–35 frames mutual love by Jesus' own demonstrated action, giving moral specificity from **His example**, not from the bare verb. 1 Cor 13 lists love's patience, non-envy and endurance as part of Paul's argument to a divided community, rather than claiming that every occurrence of *agapē* secretly contains the whole chapter.
+
+**Connections and boundaries.** *Ḥesed* may be a type of reliable loving kindness but is not simply another generic word for love; *eleos* emphasizes mercy, and *charis* may denote favor or grace. Jesus' command, loving action and self-giving provide a theological account of love, not a license to replace every *agapē* with one rigid formula. **Limit:** the metaphorical erotic, familial, preferential and hostile-object contexts of all five lemmas exceed the selected examples; avoid unfounded claims based on word roots.
 ## Evidence and lookup
 
 **Checked context bank:** Deu 6:4-5; Lev 19:18; John 3:19; John 13:34-35; 1Cor 13:1-7; Matt 5:43-48; John 11:3-5; John 21:15-19; 1John 4:7-12. Select relevant examples; this is not a request to analyze the full bank.

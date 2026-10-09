@@ -1,6 +1,6 @@
 # WT017 — Creation, disorder, new creation
 
-Version 0.2.0; 2026-10-05. Theme hub. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Theme hub. English core with Dutch search aliases.
 
 **Dutch aliases:** schepping, woest en leeg, nieuwe schepping.
 
@@ -34,6 +34,13 @@ The working synthesis connects God's ordering and life-giving purpose with the r
 
 **Study questions for the theology check:** Trace ordering, habitation, de-creation imagery, and renewal, distinguishing direct wording from a proposed theological pattern.
 
+### Full-depth semantic audit: create, emptiness and newness
+
+This hub joins **distinct forms**: Hebrew **בָּרָא (*bara’*, create)**, **תֹּהוּ (*tohu*, wasteness/unformed disorder)**, **בֹּהוּ (*bohu*)**, and the expressive pairing **tohu va-bohu**; Greek **κτίζω (*ktizō*)**, **κτίσις (*ktisis*)** and **καινός (*kainos*, new in quality)**. They do not denote the same event or encode the entire doctrine of creation *ex nihilo* as their lexical definition.
+
+**Usage by discourse.** Gen 1:1–3 describes the initial scene and Yahweh ordering the world; Hebrew *tohu va-bohu* can be rendered “wild and waste” while noting its poetic intensification. Isa 45:18 explicitly contrasts a world made **not for tohu** with one formed for habitation, clarifying functionality without asserting a universal physical-science lexicon. Jer 4:23 uses creation-disorder wording in a prophetic judgment scene: the poet imagines **de-creation**, not necessarily a second literal account of primordial cosmology. 2 Cor 5:17 uses *kainē ktisis* of new creation in Christ; its referent and newness arise from the discourse on reconciliation.
+
+**Literary and historical controls.** Ancient Near Eastern creation narratives and cosmic-temple readings offer illuminating comparisons when specific motif and text are actually supplied; they are not proof that Gen 1 is a word-for-word translation of a temple ritual. “When God began to create” and “In the beginning God created” reflect syntactic interpretation, not a fixed meaning of *bara’*. **Canonically**, God's establishment of ordered, life-bearing creation and renewal through Christ form a strong thematic trajectory. **Limit:** a full philological argument about Genesis 1:1 syntax and all Hebrew *bara’* attestations demands focused textual analysis beyond a single hub.
 ## Evidence and lookup
 
 **Checked context bank:** Gen 1:1-3; Isa 45:18; Jer 4:23; 2Cor 5:17; Gen 1:1-5; Jer 4:19-28; Rom 4:17; Heb 11:3; Rev 21:1-5; Gen 1:2; Gen 1:1; Gen 1:1-2:3. Select relevant examples; this is not a request to analyze the full bank.
