@@ -30,6 +30,7 @@ test('Worker matches Python source packets, plans, studies and validation contra
   const cases = [];
   const add = (kind, ...args) => cases.push({kind, args});
   for (const query of ['Translate Genesis 1:1-2:3', 'Translate Genesis 1-2, in Dutch, with original language interlinear', 'Translate the whole of Isaiah', 'Full study Romeinen 12:1-2, in Nederlands, with original interlinear', 'Romans 12:1-2', 'Exegesis only Romans 12:1-2', 'Word study testing. Compare Matthew 6:13 and James 1:13.', 'Theme study salvation', 'Translate Acts 8:37', 'Next', 'help', 'Translate Genesis 0', 'Translate Genesis 1:99', 'Translate Isaiah 67', 'Translate Genesis 5-3', 'Translate Unknown 1']) add('plan', query);
+  for (const query of ['Word study ruach', 'Woordstudie ruach', 'Full word study ruach', 'Volledige woordstudie ruach', 'Standard word study ruach', 'Standaard woordstudie ruach', 'Word study ruach, full', 'Woordstudie ruach, volledig']) add('plan', query);
   for (const query of ['Standard study Genesis 1:1', 'Detailed study Genesis 1-2', 'Uitgebreide studie Genesis 1', 'Word study testing, full', 'Exegesis only Romans 12:1-2, detailed', 'Translate Genesis 1, full', 'Genesis 1, standaard', 'Detailed Genesis 1']) add('plan', query);
   for (const depth of ['standard', 'detailed', 'full', 'invalid', [], '__proto__']) add('plan', 'Genesis 1', null, 'en', 'plain_working', null, depth);
   const detailed = (await make().plan('Detailed study Genesis 1-2, in Dutch, with original language interlinear')).continuation_state;
