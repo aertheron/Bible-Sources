@@ -114,6 +114,8 @@ test('Next recommendations follow bounded literary units without overriding requ
   assert.equal(standard.next.boundary_basis, 'curated_literary_continuation');
   const continuation = await engine.plan('Next', null, 'en', 'plain_working', standard.continuation_state);
   assert.equal(continuation.reference, 'Genesis 1:4-2:3');
+  const portion = await engine.reader.passage(continuation.reference, ['WLC']);
+  assert.equal(portion.source_packets.reduce((n, packet) => n + packet.records.length, 0), 31);
   assert.equal(continuation.study_depth, 'standard');
   assert.equal(continuation.next.reference, 'Genesis 2:4-25');
   const chapter = await engine.plan('Genesis 1');
