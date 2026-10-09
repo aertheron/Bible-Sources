@@ -1,6 +1,6 @@
 # WT003 — Salvation, rescue, deliverance
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** redding, heil, verlossing.
 
@@ -34,6 +34,13 @@ The working synthesis places salvation in God's initiative to rescue and restore
 
 **Study questions for the theology check:** Develop the exodus-to-Christ trajectory and distinguish present rescue, restored life, and future salvation.
 
+### Full-depth semantic inventory
+
+The Hebrew root ישע (*yasha‘*) and noun יְשׁוּעָה (*yeshu‘ah*) cover rescue, safety, victory and deliverance; Greek σῴζω (*sōzō*) and σωτηρία (*sōtēria*) overlap without being interchangeable in every clause. “Heal,” “preserve,” “rescue,” and religious “save” are **context-dependent uses**, not four hidden meanings present in all tokens.
+
+**Representative actions and beneficiaries.** Exod 14:13–14 concerns Yahweh's rescue of Israel from an Egyptian military threat, with communal political and covenant consequences. Luke 8:48 concerns a woman restored from illness, with Jesus as healer and her bodily condition central to the verb's use. Rom 5:9–10 concerns people reconciled through Christ and awaiting salvation from wrath; the future time frame arises from the argument, not the noun alone. Eph 2:5, 8 speaks of salvation already received in grace; Rom 8:18–25 anticipates bodily redemption still awaited. Identify explicitly who saves, whom, from which threat, through what intervention, and toward which end.
+
+**Conceptual neighbors.** Redemption, reconciliation, liberation, forgiveness, healing and resurrection interconnect canonically but have distinct source terms and images. No occurrence of *sōzō* lexically guarantees an irreversible once-for-all individual state, an exclusively spiritual afterlife, or a universal rule about who finally receives life. Biblical development moves from exodus deliverance to healing and Christ's rescue and to promised bodily restoration; each author's discourse chooses the relevant aspect. **Coverage limit:** the consulted selected passages illustrate key usages, not every Greek sōzō construction in the New Testament.
 ## Evidence and lookup
 
 **Checked context bank:** Exo 14:13-14; Luke 8:48; Rom 5:9-10; Psa 3:1-8; Eph 2:1-10; Rom 8:18-25. Select relevant examples; this is not a request to analyze the full bank.

@@ -1,6 +1,6 @@
 # WT007 — Election, foreknowledge, predestination
 
-Version 0.2.0; 2026-10-05. Theme hub. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Theme hub. English core with Dutch search aliases.
 
 **Dutch aliases:** verkiezing, voorkennis, voorbestemming.
 
@@ -34,6 +34,11 @@ The working synthesis should state its preferred account and the evidence that s
 
 **Study questions for the theology check:** Review the project's preferred synthesis against these contexts and relevant counter-evidence. Treat competing theological accounts as interpretations, not alternate dictionary definitions.
 
+### Full-depth semantic audit and human/divine agency
+
+This hub contains **different lemmas**: Hebrew בחר (*bachar*, select/choose), Greek ἐκλέγομαι (*eklegomai*, select), προγινώσκω (*proginōskō*, know beforehand), πρόγνωσις (*prognōsis*, foreknowledge), and προορίζω (*proorizō*, determine or assign beforehand). These are not alternative spellings for one concept. In Deut 7:6–8 Yahweh chooses Israel as a people, with love, promise and historical liberation in view; it does not frame national greatness as the cause. In Rom 8:28–30 the persons foreknown are predestined **to conformity to the image of His Son**, while Rom 8's broader context includes suffering and expected glory. Eph 1:3–14 locates choosing **in Christ** and connects it with adoption and inheritance; context must assess both corporate identity and individual participation. Acts 4:27–28 concerns a particular event around Jesus, not every future moral choice.
+
+**Competing construals:** foreknowledge might mean prior knowledge, prior relational regard or prior choice in a given context; the prefix alone does not prove “fore-love,” conditional foreseen faith or fatalistic causation. Likewise the grammatical plural in Eph 1 does not, on its own, decide every corporate-versus-individual question. Rom 9–11's Israel, remnant, mercy, hardened participants and promised restoration remain essential counterchecks. **Canonical synthesis:** God's initiating vocation and purpose in Christ can be affirmed without substituting a Calvinist/Arminian scheme for any verb. Warnings and human response must be examined from their own passages. **Limit:** this is an interrelated theological vocabulary hub; a full concordance of each individual lemma is still outstanding.
 ## Evidence and lookup
 
 **Checked context bank:** Deu 7:6-8; Rom 8:28-30; Eph 1:3-14; Rom 9:6-18; Rom 11:1-5; 1Pet 1:1-2; Acts 4:27-28. Select relevant examples; this is not a request to analyze the full bank.

@@ -1,6 +1,6 @@
 # WT033 — Repentance, turning, change of response
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** bekering, berouw, omkeer.
 
@@ -34,6 +34,13 @@ The working synthesis treats repentance as a consequential reorientation where t
 
 **Study questions for the theology check:** Read prophetic turning and gospel response within their settings; add specific divine-relenting passages when that is the actual question.
 
+### Full-depth semantic audit: turning, reconsidering and repentance
+
+Hebrew **שׁוּב (*shuv*)** can describe physical return, turning toward/away from a person, or turning from wrongdoing toward Yahweh. **נָחַם (*naḥam*)** can describe regret, consolation or relenting/reconsidering a stated course in context; these are not simply alternative words for human conversion. Greek **μετανοέω (*metanoeō*)** and **μετάνοια (*metanoia*)** concern repentance/change of mind and response; **μεταμέλομαι (*metamelomai*)** can concern regret or change of feeling/purpose. Treat nouns and verbs separately.
+
+**Contexts and actors.** Ezek 18:21–32 summons an accountable human to turn from wrongdoing and live, with life and death central to the appeal. The verb for turning does not itself encode every emotional and behavioral component of repentance; the surrounding commands fill that out. Mark 1:14–15 combines repent and believe in response to the kingdom announcement. Luke 15's lost-and-found parables portray repentance in relational and communal narratives, but the sheep's physical return is not a one-word theological definition. Where God “relents” in the Hebrew Scriptures (e.g. context-sensitive *naḥam* clauses), the wording cannot be translated by importing human remorse for sin into God's character.
+
+**Important counterexample.** 1 Sam 15 uses divine non-relenting and relenting formulations in an argument about Saul: check the speaker and what course/action is at issue before asserting a contradiction or a metaphysical rule from the verb. Regret, sorrow, conversion, renewed loyalty and changed conduct overlap without lexical identity. **Canonical synthesis** connects Yahweh's call, human answerability and gracious restoration, while keeping warnings real. **Limit:** a complete inventory of the disputed *naḥam* stem senses and all Greek repentance constructions needs separate lexical access.
 ## Evidence and lookup
 
 **Checked context bank:** Ezk 18:30-32; Mark 1:14-15; Luke 15:1-10; Gen 6:6-7; Exo 32:14; 1Sa 15:10-11; 1Sa 15:29; Matt 27:3-5; Luke 3:7-14; 2Cor 7:8-10. Select relevant examples; this is not a request to analyze the full bank.

@@ -1,6 +1,6 @@
 # WT005 — Righteousness and justice
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** gerechtigheid, rechtvaardigheid, recht.
 
@@ -34,6 +34,13 @@ The working synthesis rejects a separation in which private piety has no public 
 
 **Study questions for the theology check:** Follow God's character, Israel's social vocation, Jesus' teaching, and Paul's argument with local contexts intact.
 
+### Full-depth semantic inventory
+
+**Multiple lemmas, not one “righteousness” word.** Hebrew צֶדֶק (*tsedeq*) and צְדָקָה (*tsedaqah*) describe rightness, righteous conduct, just treatment or intervention according to syntax; מִשְׁפָּט (*mishpat*) can be verdict, judgment, entitlement, decision or legal practice. Greek δικαιοσύνη (*dikaiosynē*) and δίκαιος (*dikaios*) are related but distinct nouns/adjectives. “Justice” and “righteousness” both overlap; no rule allocates all public action to one Hebrew root and all private morality to another.
+
+**Subjects and recipients.** Gen 18:19 describes Abraham's household practising righteousness and justice as part of a community calling. Deut 16:18–20 places those notions in judges' decisions and forbids partiality and bribes; the adversely affected parties matter. Isa 1:16–20 addresses wrongdoers and the vulnerable in the context of repentance. Matt 6:1 discusses the *practice* of righteousness before onlookers for recognition, not the same question as Rom 3:21–26 about God's saving righteousness in Christ. In Matthew 6:1, SBLGNT's δικαιοσύνη and an almsgiving-specific wording in other textual traditions create a genuine textual comparison, not merely an alternate dictionary gloss.
+
+**Semantic neighbors and theology.** God's justice, God's fidelity, human moral conduct, judicial verdict and a gift of righteousness can be brought into conversation canonically; treating them as interchangeable erases the speakers and arguments. “Righteousness of God” is a grammatical expression whose possibilities require testing by the Romans discourse, rather than a single preselected theology of imputation or of relational harmony. **Coverage limit:** the listed lexemes span extensive legal, sapiential and prophetic usages; this study identifies supported families, not a complete occurrence inventory.
 ## Evidence and lookup
 
 **Checked context bank:** Gen 18:19; Deu 16:18-20; Matt 6:1; Rom 3:21-26; Isa 1:16-20; Matt 5:6; Matt 6:1-4; Rom 3:21-31. Select relevant examples; this is not a request to analyze the full bank.

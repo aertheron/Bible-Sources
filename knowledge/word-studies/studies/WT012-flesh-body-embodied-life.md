@@ -1,6 +1,6 @@
 # WT012 — Flesh, body, embodied life
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** vlees, lichaam, lichamelijk leven.
 
@@ -34,6 +34,13 @@ The working synthesis rejects treating the body as a temporary, ethically insign
 
 **Study questions for the theology check:** Connect creation, incarnation, ethical life, and resurrection, preserving the difference between lexical uses and anthropology.
 
+### Full-depth semantic audit: flesh versus body
+
+Hebrew בָּשָׂר (*basar*) can denote flesh, kinship/one flesh (Gen 2:24), vulnerable embodied humanity (Isa 40:6) or humanity broadly. Greek **σάρξ** (*sarx*) can denote physical flesh, human creaturely condition, family descent or an ethically opposed orientation (Rom 8), while **σῶμα** (*sōma*) refers to a body, sometimes collective or metaphorical according to context. A *sarx* verse does not by itself teach contempt for created embodiment.
+
+**Different agents and genres.** In Gen 2:24 the man and woman become “one flesh” through a relational union; it is not a claim that literal tissue merges into one organism. Isa 40 contrasts all flesh as vulnerable with God's enduring word. John 1:14 says the Word **became flesh**, affirming actual human existence rather than automatically identifying Jesus with the moral “flesh” contrasted with Spirit in Paul's specific ethical argument. Rom 8:1–13 contrasts two orientations or spheres of life; 1 Cor 6:12–20 argues that believers' bodies belong to Christ and that sexual conduct matters. Physical bodies are not therefore evil.
+
+**Theological distinctions.** Embodiment, fallenness, family kinship, bodily weakness, ethics and new creation are interrelated but distinguishable. The human *basar* and Greek *sarx* cannot be replaced wholesale by “sinful nature,” nor *sōma* by “flesh” without examining construction. Canonical Christology affirms incarnation and resurrection; ethical exhortation concerns behaviour and allegiance, not escaping material being. **Limit:** the full Paulinist idiom catalogue and all collective-body metaphors exceed the selected local text sample.
 ## Evidence and lookup
 
 **Checked context bank:** Gen 2:24; Isa 40:6-8; John 1:14; Rom 8:1-9; 1Cor 6:12-20; Rom 8:10-13; 1Cor 15:42-49; Gal 3:2-3; Rom 8:1-13. Select relevant examples; this is not a request to analyze the full bank.

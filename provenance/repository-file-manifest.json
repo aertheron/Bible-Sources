@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "prepared_date": "2026-10-06",
+  "prepared_date": "2026-10-09",
   "files": [
     {
       "path": ".agents/plugins/marketplace.json",
@@ -1018,9 +1018,9 @@
     },
     {
       "path": "indexes/word-study-index.json",
-      "bytes": 229583,
-      "sha256": "71f5c30cc70cdf6f66d8f394faedebf079eff3c55937b391a3f97c0d3aea8f56",
-      "git_blob_sha": "a61ee4f9ea40b0014f8c88b280bcbd00c23a69bf"
+      "bytes": 235585,
+      "sha256": "4bca65429b395e8b0cdb62a2598f17e935d5c619af295429d97b939107e180c2",
+      "git_blob_sha": "239daebfda6ae746706ae2a8402cf4505249bf19"
     },
     {
       "path": "knowledge/word-studies/ATTRIBUTION.md",
@@ -1030,9 +1030,9 @@
     },
     {
       "path": "knowledge/word-studies/CHANGELOG.md",
-      "bytes": 691,
-      "sha256": "c8bf02f8c7f6d6197b9d3b8aa136ce99d623f0bdf9f095494b028c55f711bd53",
-      "git_blob_sha": "9848261680161263fb1bf39c04ebf10a9bb55c3c"
+      "bytes": 2171,
+      "sha256": "bb56ea788f37c020c1dcfbfb78ceb1643bb729b4ae649ad859c9241e238105cc",
+      "git_blob_sha": "6dc0690a72cb27c90c65fad2851aaff483cb148c"
     },
     {
       "path": "knowledge/word-studies/ENTRY_TEMPLATE.md",
@@ -1054,15 +1054,15 @@
     },
     {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "bytes": 28112,
-      "sha256": "e8b1fd62c05684499a4eae1053f722fc4ae25c1279262c553f017cf16d30795f",
-      "git_blob_sha": "a7381456d4aa76046f740f11b446bc12e99395a0"
+      "bytes": 30286,
+      "sha256": "12cdd35dba4ed1fc9d6b1e6ad65caca964a5a31e00ab248b8e572cb5d13dd698",
+      "git_blob_sha": "80937dd05c5f15bb5ff8ae94c9a8b22480ca1c68"
     },
     {
       "path": "knowledge/word-studies/data/entries.jsonl",
-      "bytes": 282088,
-      "sha256": "090ebf01fd7b60672ba46915bb9b663c9313e88c1a9e59f39d685055ea983059",
-      "git_blob_sha": "ebbc09abfa712381b201cfed08f0790af93ec131"
+      "bytes": 387817,
+      "sha256": "66743950d08f7ea98d73f44d780354a26a79263c6a5ce8842e9fee0d59fd483a",
+      "git_blob_sha": "da5e11fbc1f66e256afe6b008894d0ab4e0d59bc"
     },
     {
       "path": "knowledge/word-studies/data/passage_contexts.jsonl",
@@ -1084,303 +1084,303 @@
     },
     {
       "path": "knowledge/word-studies/studies/WT001-faith-belief-trust.md",
-      "bytes": 5410,
-      "sha256": "3b7fc9d24e1682c896436089e66899c4181ebdc03f6e30d59b493b6424893dc2",
-      "git_blob_sha": "d8576aff80ed839f29e479c958cda92fb8f10990"
+      "bytes": 7995,
+      "sha256": "7d30a2dcdb06b93ca3e39db808acac995fa3e9475d5ef139c089e1e91b5f14b3",
+      "git_blob_sha": "40d90c3d337336da493135e2edf87ac0a837e81e"
     },
     {
       "path": "knowledge/word-studies/studies/WT002-works-deeds-service.md",
-      "bytes": 5425,
-      "sha256": "57a61b8fb81680d45c19a1dc02b2691b7fc49fdb05b349decff8832d6b474751",
-      "git_blob_sha": "1b9c81512c5b750dcc13f6252f482aa367d65ba1"
+      "bytes": 7427,
+      "sha256": "42fe292d5aa61a446d3a7e26dca9a99463f171f493f448b5fb066a5d01ef275f",
+      "git_blob_sha": "37d060864389f21c3358c14c75d5b87e186b781d"
     },
     {
       "path": "knowledge/word-studies/studies/WT003-salvation-rescue-deliverance.md",
-      "bytes": 5320,
-      "sha256": "548eecdf6cdb1c1be4a1142a1c83e09b1e9b4e36b2d4cf0a1727894ee4e68ee6",
-      "git_blob_sha": "306b2e691ad58fee877b3fbafce2e21665fe8706"
+      "bytes": 7089,
+      "sha256": "8da36818b9c48e4a8fbe9200594cd9113c473ab0e8950bc399a20260099d835b",
+      "git_blob_sha": "3c6e56c9e3346c08d878fa2a7c3dc167130822f7"
     },
     {
       "path": "knowledge/word-studies/studies/WT004-justification-vindication.md",
-      "bytes": 5585,
-      "sha256": "466ad1e36a4ea5061a5b58aeab46718b61342344012205aab4562591b6936c68",
-      "git_blob_sha": "08c4e1e7b51a8bed71d6c9ec25fba656053d2352"
+      "bytes": 7474,
+      "sha256": "316b1b9aeb4dba65b7e7ee515d8e32f66b53706a8e5a42f9d94a6dbc5abc5e21",
+      "git_blob_sha": "6df4d7eba9b1d85478d6d6ebee7a6a7a5f04c2d0"
     },
     {
       "path": "knowledge/word-studies/studies/WT005-righteousness-and-justice.md",
-      "bytes": 5566,
-      "sha256": "beb8328c74ff3829cba44e7f1e2c75dcfad36b0596203802392a55a0db49ca42",
-      "git_blob_sha": "4322d79b30a1e2a648f07fece5e8849fca4e9b99"
+      "bytes": 7498,
+      "sha256": "01511b16c4991ad9850d3aeb2b69714e75285418126e242d194c2f30f94b4846",
+      "git_blob_sha": "1c02384471d42f912fe0d07c88b91cab8a93475f"
     },
     {
       "path": "knowledge/word-studies/studies/WT006-holiness-and-sanctification.md",
-      "bytes": 5448,
-      "sha256": "737f9450d1cba82ea9bdaf50ec7a392b77ea5008e1987f06d14a0ec441f9af2a",
-      "git_blob_sha": "44c9d939a98b8527122d5603a14a51c77671495f"
+      "bytes": 7297,
+      "sha256": "de3c2d3447020ab4cad397eddc87ebdd83e0ce09add740105271d3a99b196465",
+      "git_blob_sha": "4b319c2e1a76570faa19a1403d9bebd0f285c504"
     },
     {
       "path": "knowledge/word-studies/studies/WT007-election-foreknowledge-predestination.md",
-      "bytes": 5605,
-      "sha256": "65ecd2654a4c6c9c3935f21c333a00597f67e10c367a5b93cc71bab10fb7bd09",
-      "git_blob_sha": "55ec4519f83e63adac6266bb29efccd86c1a6d8f"
+      "bytes": 7404,
+      "sha256": "229aad75126839c17fd096be06cb7880985657405ebe98d89221e2e2d63e5fbb",
+      "git_blob_sha": "673ea9ebbdf2f4ace676c7a5439884be8261d8d1"
     },
     {
       "path": "knowledge/word-studies/studies/WT008-freedom-willing-choice-responsibility.md",
-      "bytes": 5526,
-      "sha256": "abe82eb680e3fbd1cd6a9f9d793233564dde13ad7a78dec0fb7042dc2496fd32",
-      "git_blob_sha": "6247b197f3f90041ae5a653050dbd1d403edc167"
+      "bytes": 7392,
+      "sha256": "5c65f8154b40caf979b02c97d5b22e4c7f2d67c4247a71c6417f42f417ee9c36",
+      "git_blob_sha": "70b15f08275c9f016499eb2fc51bff2c59d3281a"
     },
     {
       "path": "knowledge/word-studies/studies/WT009-nephesh-psych-soul-life-person.md",
-      "bytes": 5888,
-      "sha256": "b40dd0ad327368a0dbec83e60ccd28245c4d705654c31de720f031f343bde942",
-      "git_blob_sha": "ea492ff633740a33aab565cf39caff8d4a59f4bd"
+      "bytes": 7581,
+      "sha256": "0ea12ca0a5a36806a244bfe30467ecf7257bba58e7b4a15a069d2fbcf73ba1e6",
+      "git_blob_sha": "65ecec02b3340afa50cb07261105b3ff49ae3a9a"
     },
     {
       "path": "knowledge/word-studies/studies/WT010-spirit-wind-breath-and-spirit-language.md",
-      "bytes": 5796,
-      "sha256": "8a25883c2c9d08bf67cdfc28f7d7fba752191b155d734ae0fdb41b199fa5a256",
-      "git_blob_sha": "09af78be33d338e5cf86d61d63c343517cdf1a8a"
+      "bytes": 7604,
+      "sha256": "af51581090e3b87637f165d328bee379c9affe8eecef6c2d78c9825feb7c5bf6",
+      "git_blob_sha": "44f65fe8f85102ba8cd6558b7f6edd96edc7114b"
     },
     {
       "path": "knowledge/word-studies/studies/WT011-heart-thought-intention.md",
-      "bytes": 5561,
-      "sha256": "31879d0fd1e60edb48e719b03f74b885792049c52b34fa4b9d316699dadfc02e",
-      "git_blob_sha": "e318ce3723cd91525039b33ebbeeb52a834ccd82"
+      "bytes": 7340,
+      "sha256": "9a95b1f08b58de4fb684af49d0f65447291c2421d9b57e50b3dcf397928aceeb",
+      "git_blob_sha": "2cc426187a455825d2faa828a5d02aa2fb90fd64"
     },
     {
       "path": "knowledge/word-studies/studies/WT012-flesh-body-embodied-life.md",
-      "bytes": 5743,
-      "sha256": "e58a7b4bd001dfe80ef702e7987915cb34d7be6e4b768120b96a4dda9c7d5bc3",
-      "git_blob_sha": "8b4a4a35aaceba8dfbb1a7c95d7b8acad43f11de"
+      "bytes": 7465,
+      "sha256": "d6b4d8f9da529364def84a833dfb7d6a564c80b132e503f1bbd618455a086f42",
+      "git_blob_sha": "bad16ad64ee0d3fad8b8017c7a765ebd4048d90d"
     },
     {
       "path": "knowledge/word-studies/studies/WT013-yahweh-yhwh-the-divine-name.md",
-      "bytes": 5304,
-      "sha256": "2e1ea0982a81bd5a02b5f4c270bfd87ae15871a8abe095d99b68d50d5cefbb5c",
-      "git_blob_sha": "9b8977ce391991948dd0fd9d3560aa853b0506d2"
+      "bytes": 7025,
+      "sha256": "c196b4eff61e8e2cb3b942ca7d7406d738d7818e5c399c372c823876049f518e",
+      "git_blob_sha": "d78e536a7bd060c949e24e5939fadd9a61aeda51"
     },
     {
       "path": "knowledge/word-studies/studies/WT014-god-divine-designations-and-titles.md",
-      "bytes": 5522,
-      "sha256": "97ff35e46a099a0c18584aecbfc43e6e9fbc5f27fc071ce2f795e80092d8e633",
-      "git_blob_sha": "fc1f9f7e1e0ebb0f0b2f09383f92094df28d812f"
+      "bytes": 7320,
+      "sha256": "3e25ba1c658b432f25a1771d06cd11ca891259a2c5c922a9f981a927a8ae96e0",
+      "git_blob_sha": "d1496781c97f34ab04c5a5ae1744166b40afe17f"
     },
     {
       "path": "knowledge/word-studies/studies/WT015-lord-master-hosts-sovereignty.md",
-      "bytes": 5449,
-      "sha256": "ea742027f4e6d2aa5abefacf40ac36952955e9b299ad4cf6d5cf98d812351774",
-      "git_blob_sha": "c0c2ea19d4aa83a101036e8a275bb5598c07041b"
+      "bytes": 7212,
+      "sha256": "077e162468f95d1595998509a8b52046ea86d5a3f2e241988c955c5a544ef644",
+      "git_blob_sha": "06d41987334fea7dadf37088a6f073ec9daedaef"
     },
     {
       "path": "knowledge/word-studies/studies/WT016-one-alone-i-am-he.md",
-      "bytes": 5695,
-      "sha256": "5635d178db9ae75ed13e6bc26a46fe7d677834f6330af5525f2ef12ab8527ca1",
-      "git_blob_sha": "62f834363b5aae0cef3d05f318bae134cf8ff4ce"
+      "bytes": 7474,
+      "sha256": "174d38377daee032f74fdd7c3f260ecb762460bc90de1a45209526a817b7e926",
+      "git_blob_sha": "8080cf630fd8091f52e60278ff7869dcb509c4d3"
     },
     {
       "path": "knowledge/word-studies/studies/WT017-creation-disorder-new-creation.md",
-      "bytes": 5652,
-      "sha256": "a9d7b1141607f9a242dbebf258a64e4f64d4f5159de90ad90a6aaa811c20dbb1",
-      "git_blob_sha": "fcb3e1930674f2b5c37022367e29e9ab77107b85"
+      "bytes": 7518,
+      "sha256": "6e9a8aacdde02123eb247d1202792d6ca25129cda5f4a7ad162e86ef3a705e75",
+      "git_blob_sha": "d169c0f83c128e56f6a7b8ffe8744d5eaf38bbfd"
     },
     {
       "path": "knowledge/word-studies/studies/WT018-covenant-and-covenant-instruction.md",
-      "bytes": 5760,
-      "sha256": "1e8f18a6ae99aa60682d8d773528b8beea6e4c392bdd8d7c7d44aaa5fa562b48",
-      "git_blob_sha": "002c2cffb2a1d8cc70b025fdb8885c2806e5f7bf"
+      "bytes": 7641,
+      "sha256": "e5155bf94b20a2b9f68490cfd99d6d88e3ba717e178dc1c133e3aa10be07f620",
+      "git_blob_sha": "a5163f7c98075bc7dae561bb13e28f1478eb13a5"
     },
     {
       "path": "knowledge/word-studies/studies/WT019-love-ahavah-agap.md",
-      "bytes": 5435,
-      "sha256": "553d7b673b661521a3c241260c8f4915ff5c4255e36b476d73d3f06fc22c2725",
-      "git_blob_sha": "825d4c68dd98738201fbda906379f62faccb9471"
+      "bytes": 7119,
+      "sha256": "d7af3aa1bf2d9552f03ebae3b164df48cfacdd53cac06b40c421b1db68cb687a",
+      "git_blob_sha": "0abf1890b4542d22e844136785cfaf63ab1919bf"
     },
     {
       "path": "knowledge/word-studies/studies/WT020-hesed-loyal-love-kindness.md",
-      "bytes": 5444,
-      "sha256": "293a035d94db4ed82e5dd18d2cf409126a0688a16360f958e57584bd2b0e29c3",
-      "git_blob_sha": "5bb33d1196574b2da33beed0dcbe3bb3bdceee1f"
+      "bytes": 15416,
+      "sha256": "1944077669eeb7fd00d05be6995cc31a67abd968fa65bc0abc423191410e9ad3",
+      "git_blob_sha": "c9da75bb097386d80124307b3b4561be07901d43"
     },
     {
       "path": "knowledge/word-studies/studies/WT021-truth-reliability-faithfulness.md",
-      "bytes": 5678,
-      "sha256": "c9c0d0664f360d029aaddba8b74317c6c2d42c3b6ad434ffa9327790c350062c",
-      "git_blob_sha": "03dfe18db52930a69b4b4759cc0faa3ce2f481e9"
+      "bytes": 7486,
+      "sha256": "269e8885b564d11e8144f51f51ef50aaf845a7691d751b58ebc2e5a2fdba48b2",
+      "git_blob_sha": "941b88605184e083c781954129d86108f43291b7"
     },
     {
       "path": "knowledge/word-studies/studies/WT022-grace-favor-graciousness.md",
-      "bytes": 5417,
-      "sha256": "9b45be247886783301b513e6b95b046d5179d3b907394b8d8ac713ba6bdeb508",
-      "git_blob_sha": "ce650362a2282933176339c37cad5275d41b3cf6"
+      "bytes": 7246,
+      "sha256": "ad43ebdec24873fdfe5936d258d2c420a1c0585e1cc4f5bc18a0bae9dda20ce9",
+      "git_blob_sha": "17d4b5c182af447e941d9452a3917b86618be5fb"
     },
     {
       "path": "knowledge/word-studies/studies/WT023-compassion-and-mercy.md",
-      "bytes": 5336,
-      "sha256": "182b15cd9bf73e4a92d422718e5f768da39bdd664180650d963eead6e933d433",
-      "git_blob_sha": "d05015b90b830ac1e2da8e8224f51941d335f05e"
+      "bytes": 7100,
+      "sha256": "dd0ab47baef3aa3c79d65b8c6112f74048be435e5b86b8b9e7dc166b375bcc91",
+      "git_blob_sha": "1a16dbf58ecb7059c77af4157b206e55e361ddb4"
     },
     {
       "path": "knowledge/word-studies/studies/WT024-anger-patience-slow-to-anger.md",
-      "bytes": 5303,
-      "sha256": "c82382bd725698fd19a492210e9ba0e1a09b7615b73e7c7e13ff51aaf9fe8037",
-      "git_blob_sha": "96801af66e1633655daa93bd04c63c8b2e3090d4"
+      "bytes": 7086,
+      "sha256": "41fa824e8b3b842fbc463a218d686b9599bdf0533fc5ff5c2fc4d3f58686111f",
+      "git_blob_sha": "dee2fb07c2b62a9f59b5d718f50f87c940a870c8"
     },
     {
       "path": "knowledge/word-studies/studies/WT025-hear-listen-obey.md",
-      "bytes": 5234,
-      "sha256": "fdeffb64927892e52e38d9c26190bf995dab2b398bdef663de445eb7d5ae3693",
-      "git_blob_sha": "f787bcacaeee27233ee33a25995b90e660e7c223"
+      "bytes": 7046,
+      "sha256": "53526c9745e45843b3ae5291de7d82e42d5dadcad2c167dce3c7bffb4edb8beb",
+      "git_blob_sha": "e5f086d4ca62d8e058e0b21a7e05dcf2cb335760"
     },
     {
       "path": "knowledge/word-studies/studies/WT026-meod-strength-whole-person-intensity.md",
-      "bytes": 5170,
-      "sha256": "45ac9e0805e7a0c6efeb5cafeb3f562fe742f637d878a23575c8026b0cd72086",
-      "git_blob_sha": "d4985e013d7b6180a573d212bd022fb0bd0e62ce"
+      "bytes": 6917,
+      "sha256": "318535469a45e4fb9591330330d212b81e6aa6837b622b8a8d8764d8a00354d1",
+      "git_blob_sha": "10408f1fae57e6905eb5de971889cde5a557ac12"
     },
     {
       "path": "knowledge/word-studies/studies/WT027-peace-shalom-well-being.md",
-      "bytes": 5106,
-      "sha256": "32e72049497413624ca1d88ccc7d065d5d53c86ae0162a79495f206cc84afbe6",
-      "git_blob_sha": "5aa9e69f076035fcedfeb4ebbdd9d26a44ea106a"
+      "bytes": 6851,
+      "sha256": "54dd92c37741991836790c698ffd8edcc68b3854f8df985890b7456e56299ecd",
+      "git_blob_sha": "cd721cf98964fb355a63d19ffb725425d7b8857f"
     },
     {
       "path": "knowledge/word-studies/studies/WT028-hope-waiting-expectation.md",
-      "bytes": 5211,
-      "sha256": "ab847c42e5005c93d1bbb618736c164f21d335f28d437237e35364f85df607e6",
-      "git_blob_sha": "ac407c7cde341b7b7cabc54460b1259330fde3a5"
+      "bytes": 6964,
+      "sha256": "24de9d214f8de7f8dcf591190619df0c66ee0dacb448ba54a6f02101d247954a",
+      "git_blob_sha": "17e438015be72a251d8caefe181dae6abc9f4dc9"
     },
     {
       "path": "knowledge/word-studies/studies/WT029-joy-and-rejoicing.md",
-      "bytes": 5044,
-      "sha256": "2a79e6fb149ee3ae1651691e6e89b76c5c1da8cae52ef901f9285609605ccaf0",
-      "git_blob_sha": "9be2f5b007c811fa0a8c3ea410540bf4270e10a3"
+      "bytes": 6690,
+      "sha256": "1209aa1a925763fc4146ed2204a33efb8b3577e3387b4a1921e4d9298f103bba",
+      "git_blob_sha": "2a0db70b15fddd917a308d9e4893e13d61b16968"
     },
     {
       "path": "knowledge/word-studies/studies/WT030-sin-failure-missing.md",
-      "bytes": 5411,
-      "sha256": "3e1789a384d1325af29f985843fa78207c0ec1d574b47bef843342cfb4ebb23b",
-      "git_blob_sha": "e6ea321af596b6273210e9a8dcdd2ac3532d0c8f"
+      "bytes": 7212,
+      "sha256": "bf412341fe70a72e46d634ea29a7b00f874ca70079fd5d4b3847d19be821991d",
+      "git_blob_sha": "2d6f228f282341f5db56448570f94cc8b7268396"
     },
     {
       "path": "knowledge/word-studies/studies/WT031-transgression-rebellion-breach.md",
-      "bytes": 5679,
-      "sha256": "d925113afb382bed418a3a28476ed748a1f8fc5dc8b0be5ab53bef4a7cdbbe10",
-      "git_blob_sha": "a0028b301fafafee02ac93d0bca93e745c9478d6"
+      "bytes": 7461,
+      "sha256": "0b284618832984384cd5071977b91e69717ba939963e0573d109fbd7b6aa5775",
+      "git_blob_sha": "81b559a21da4bf40830ce1912a9a34b029a19848"
     },
     {
       "path": "knowledge/word-studies/studies/WT032-iniquity-guilt-consequences.md",
-      "bytes": 5667,
-      "sha256": "7d911936e45ac190452b9bada8adbc99710918d3c13ee0985bf437518fd1a76f",
-      "git_blob_sha": "5898fca6032a5deef69265c0cf3f10ea15252f8b"
+      "bytes": 7434,
+      "sha256": "1c64918eec8605b2b6d3add8958435a49b56f0346284caa96ae2bfe5853314c9",
+      "git_blob_sha": "34482cdfd49fc8de3589346ec90ee09d38acd4d0"
     },
     {
       "path": "knowledge/word-studies/studies/WT033-repentance-turning-change-of-response.md",
-      "bytes": 5575,
-      "sha256": "cacd17ce75510742c75f5c9b3ac0b6c24dda757d94a599f65eba8312dc602c8a",
-      "git_blob_sha": "eb8a43759681fbf1dd03f12099ab7cb67400368c"
+      "bytes": 7538,
+      "sha256": "3c9b46ce198c012c104a604619c3988e98a5e58243a68c85d598a07cb0587921",
+      "git_blob_sha": "65e7acf73874f86a4986cd950a45e86c41bafe07"
     },
     {
       "path": "knowledge/word-studies/studies/WT034-forgiveness-release-pardon.md",
-      "bytes": 5543,
-      "sha256": "142c47f88af88c1590fdae2de70401ba255ef83a8ac292bebb23b1df50073ba7",
-      "git_blob_sha": "13ad69377409404fcdf342c4df4e82b2be721379"
+      "bytes": 7452,
+      "sha256": "093bc3792bfae396457c4ab5d1012031172bffaad9b2cd9b4ce15b1325649bbb",
+      "git_blob_sha": "a6b460893b99bca3d5a301ca13b972c54f09e15a"
     },
     {
       "path": "knowledge/word-studies/studies/WT035-redemption-ransom-buying-back.md",
-      "bytes": 5455,
-      "sha256": "68084e35b2af6cd8e0ed2a32f7d9c818db2019419b5df98eb4adec97275e5cc8",
-      "git_blob_sha": "8f326f91d96b14295261ed89b635ee9e458e2a4c"
+      "bytes": 7280,
+      "sha256": "4d60b7066bb8cda2e6ff7136128d58db1bee86483ba91058f056abf56088aece",
+      "git_blob_sha": "7b289fcbeefd217efdbe873eee28138ba926b714"
     },
     {
       "path": "knowledge/word-studies/studies/WT036-gospel-good-news-announcement.md",
-      "bytes": 5395,
-      "sha256": "214091c8a1dbdd9a0813de041a9bca908a7388ea12cd406cd1fedef2bf918776",
-      "git_blob_sha": "35ebec5725032e23beb5e9cfceb1c313c7bb8ca6"
+      "bytes": 7188,
+      "sha256": "b451bde43ba7d9184016e6d83146afc60ad68f1fef34777852ee288543e383de",
+      "git_blob_sha": "2ecf31e9e53268394bc88d32a05f03a3423a9d5e"
     },
     {
       "path": "knowledge/word-studies/studies/WT037-witness-testimony-martyr.md",
-      "bytes": 5190,
-      "sha256": "b11ba062cb50bd8a60b9f227fb78ba1a57eafd8f5a58d09e7062bff7327f4e2b",
-      "git_blob_sha": "f63a0280c7c2e18f220aa482aea6bc7b6982feaf"
+      "bytes": 6988,
+      "sha256": "84f4f76e65e6330a708df00354a9eba600a3eda2bc65a9a0358c4949f40e8027",
+      "git_blob_sha": "fa555112fe0a5ef78f71e146b2f0623a0919a6ca"
     },
     {
       "path": "knowledge/word-studies/studies/WT038-passover-pesach-pascha.md",
-      "bytes": 5317,
-      "sha256": "8f90bb4146a990318dce03dc2c03be71bb24cade2f0f55abca1fec2d4741a47e",
-      "git_blob_sha": "29d4d68d0e207480d9e8aca16c5ea1dfb3eabb42"
+      "bytes": 7000,
+      "sha256": "9254298186ac7c73d5c70afffd9f8e1f5cf27f3f9c6431a08cc5bd8d9e1f9faf",
+      "git_blob_sha": "a3f824dea0ea0f85eba52a3df67dd8b368b6be93"
     },
     {
       "path": "knowledge/word-studies/studies/WT039-messiah-christ-anointing.md",
-      "bytes": 5298,
-      "sha256": "627930579c35f9e6700326d70fb97d8994a765663ea0135b78529de1224e2410",
-      "git_blob_sha": "52f729edf7f3dee311de7cb9d3ec16e2cec04042"
+      "bytes": 7100,
+      "sha256": "bdde9851219dc1c97375fcadd4d779c8f266bcf2d76fbc244c8c8e02a9f2e33a",
+      "git_blob_sha": "8b0e013c78b59206d1cd75c22f6974e4c4454bb4"
     },
     {
       "path": "knowledge/word-studies/studies/WT040-son-children-monogen-s.md",
-      "bytes": 5762,
-      "sha256": "8d62bde22a1eb008fb781af2f958618b68f4c4bef21f5e72dae19bedfab496f9",
-      "git_blob_sha": "f004d784571a7d34e0c61554a38ebf30118b0ac1"
+      "bytes": 7619,
+      "sha256": "b7980ab7523b1bb71cface020c21cf9a26928f1697d24e3d6169a1f924598072",
+      "git_blob_sha": "c22ca526fcacbc6a51c1f0b8b33320db6bb13d61"
     },
     {
       "path": "knowledge/word-studies/studies/WT041-son-of-man-human-figure.md",
-      "bytes": 5756,
-      "sha256": "03fa6254e3dc4ff96e6ccefd3e6bc2b0eb4b89e024f946bcf626cccc5ebed5bc",
-      "git_blob_sha": "07f117f25295bcbf7f5b4443f657da911a74fbb3"
+      "bytes": 7506,
+      "sha256": "b9e1840bd19ffe1b77ed3da89fbe2a48dc024a174bdb84f3542211173a081a50",
+      "git_blob_sha": "72be01f77119cc79d96936fc4175f21cd522257c"
     },
     {
       "path": "knowledge/word-studies/studies/WT042-word-speech-message-logos.md",
-      "bytes": 5623,
-      "sha256": "23ba63534c9fc491c2cdd83194f3f0e8580689997eada2fe4049e17342c8e06f",
-      "git_blob_sha": "67bf362fdaeaa74d6e9308f86eb013e7310c05ac"
+      "bytes": 7461,
+      "sha256": "f79b9b87b83c02bca016aa577fcb7379a7304cf6f470222ab2dbb7d206cdf4df",
+      "git_blob_sha": "0c34ec341992c57613bd7e54447ec39f58bb0540"
     },
     {
       "path": "knowledge/word-studies/studies/WT043-image-glory-form-exaltation.md",
-      "bytes": 6055,
-      "sha256": "dc364a1fce03a568e3a458fde35c80cc20321a417e17082bf24430966e3731c5",
-      "git_blob_sha": "cac386a5ff76509c95ca076f0b405b46c05572c7"
+      "bytes": 7938,
+      "sha256": "ad7aeb3d0ceda5ac75b20a8a0a1ad713905b690e6347234397ff5d64c95633fd",
+      "git_blob_sha": "3db12633e7dcac00e419e0c71cf28812af39fd39"
     },
     {
       "path": "knowledge/word-studies/studies/WT044-servant-sacrifice-lamb-atonement.md",
-      "bytes": 6007,
-      "sha256": "8998cf5f5d38d31f817a9aae1bd428c682bd6066df21348fe3410b40d2c5da49",
-      "git_blob_sha": "8659240003aee4470f2ba06f7b55690277251183"
+      "bytes": 8026,
+      "sha256": "0c663fac3418aa289972f3c9f48e6f2eaca77e465ee83f0dfd96d3f48705fb39",
+      "git_blob_sha": "3d9111c87ae01ee91f7807dd7c2a4c95134fedf4"
     },
     {
       "path": "knowledge/word-studies/studies/WT045-resurrection-newness-firstfruits-coming.md",
-      "bytes": 6435,
-      "sha256": "103b3b29902fdc08caaa59baacb385007d4d7ecb06020920dd643dc15bb32573",
-      "git_blob_sha": "fba26b7c7d8dcc40998fabe6dccea2a17461c16e"
+      "bytes": 8514,
+      "sha256": "f20684d4dc4e236dd064ea4823c0237afaf7c0df0c8b19f7928d4e2f84316a26",
+      "git_blob_sha": "0b6a23afbbd6c1962f7e630fc7620a80532e7f6f"
     },
     {
       "path": "knowledge/word-studies/studies/WT046-baptism-cleansing-union-with-christ.md",
-      "bytes": 6298,
-      "sha256": "daa9eb2e155248955978b1a70534c247f33725f541e7c76b8a1e7db66ed4a47e",
-      "git_blob_sha": "b9572d07a40a7c5344873f84c185b66cbd92c456"
+      "bytes": 8214,
+      "sha256": "68524f9152ce2772bf3f656afa2eb154b9b276ec193b7e005e5282fe01a14820",
+      "git_blob_sha": "58f0c71322eb04715337f05423e9c603b7ed8517"
     },
     {
       "path": "knowledge/word-studies/studies/WT047-kingdom-presence-temple-abiding.md",
-      "bytes": 5994,
-      "sha256": "1d837797417b99acb4866bf22166929e5ee1e3ebc7c1054f8d18d5a2a965a38f",
-      "git_blob_sha": "227c09e8e8623923a93d34b288f6fff1eb7da0cd"
+      "bytes": 7846,
+      "sha256": "3cc1de0b78ac58c70933d922dc91db9e4060de72971840be5ec6ef2a0ebfebd5",
+      "git_blob_sha": "467d79a5ff0b2d968895674d515376db30bb51d1"
     },
     {
       "path": "knowledge/word-studies/studies/WT048-adoption-inheritance-seal-pledge.md",
-      "bytes": 5924,
-      "sha256": "4e85b186163a71df042ced4a0091497a0f3b6f5a261af7daa73368a4a7251f23",
-      "git_blob_sha": "a55f863df46871cbf3bc77f78f10c104db0cb11c"
+      "bytes": 7765,
+      "sha256": "4fd8d53ca23ec5189be3ade49dfe332a268ffd8325e678cc32206b8d8c0a3a9e",
+      "git_blob_sha": "9341834ac13d6a5202875505f1c21dba2e1e08f3"
     },
     {
       "path": "knowledge/word-studies/studies/WT049-judgment-death-sheol-hades-gehenna-tartarus-abyss.md",
-      "bytes": 8030,
-      "sha256": "e5421936598f44b1798f0a7c7dac42f551949fd9ab70b4b69f92c06d0520cacb",
-      "git_blob_sha": "558b468e723864a88a85a0f5d03b90c8a8c52fc0"
+      "bytes": 10884,
+      "sha256": "7642e93604db075ee7584bc3ae34c49a033e89dcb3873a16f24669050dc47f52",
+      "git_blob_sha": "72e5cf1e12cf3f83642e08b34230d9f58101a387"
     },
     {
       "path": "knowledge/word-studies/studies/WT050-marriage-one-flesh-desire-sexual-ethics.md",
-      "bytes": 8024,
-      "sha256": "70c4aae0bad45e6e1b2a85c3b7c17ada289935eb66c6a5fccd8ceee21eff46d1",
-      "git_blob_sha": "cf0b3fdebe4ef3668961742cd8750c0252d9a12d"
+      "bytes": 10761,
+      "sha256": "48cb2b5ce2c4089edb3528c05dc6473ac3387e5e85f6a768f725f9dbbd78f410",
+      "git_blob_sha": "7604c70c260b62d855775f8b95369f4d38ee8cd3"
     },
     {
       "path": "knowledge/word-studies/validation.json",
@@ -1463,8 +1463,8 @@
     {
       "path": "plugins/canonical-scripture-study/bible_study/config/source-profile.json",
       "bytes": 31922,
-      "sha256": "65283b4f6c8bab13d43d602e358b36f1c741eca6ff8c1b37e8a265da2698ab28",
-      "git_blob_sha": "0026502ec698a4fe98d96c85a2bff02b9394b822"
+      "sha256": "e458d88300660daaaebf1df2416617995a90b44f8347ac079fad768d43beb125",
+      "git_blob_sha": "cdd32cbe43cea73ca963da58333dba344f8b9396"
     },
     {
       "path": "plugins/canonical-scripture-study/bible_study/config/textual-cases.json",

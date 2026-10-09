@@ -1,6 +1,6 @@
 # WT045 — Resurrection, newness, firstfruits, coming
 
-Version 0.2.0; 2026-10-05. Theme hub. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Theme hub. English core with Dutch search aliases.
 
 **Dutch aliases:** opstanding, nieuwheid, eerstelingen, komst.
 
@@ -36,6 +36,13 @@ The working synthesis locates future bodily life in God's action through Christ 
 
 **Study questions for the theology check:** Keep Israel's restoration, Christ's resurrection, believers' hope, and final renewal as related but differentiated stages.
 
+### Full-depth semantic audit: resurrection, life, firstfruits, appearance
+
+Greek **ἀνάστασις (*anastasis*)** means rising/resurrection in relevant contexts, **ζῳοποιέω (*zōopoieō*)** giving life/making alive, **ἀπαρχή (*aparchē*)** firstfruits or first portion, **καινός (*kainos*)** new in quality, and **παρουσία (*parousia*)** presence/arrival/coming. Hebrew **זֶרַע (*zera‘*)** and Greek **σπέρμα (*sperma*)** concern seed, offspring or descendants in specific constructions; they are a **separate promise family**, not definitions of resurrection.
+
+**Narrative and metaphor controls.** Ezek 37:1–14 employs raising bones in a prophetic *vision explicitly interpreted as Israel's national restoration*; any typological link to personal resurrection must be argued additionally. 1 Cor 15:12–28 presents Christ's bodily resurrection as the beginning/firstfruits of those who belong to Him, giving the agricultural metaphor its sequence and corporate significance. 2 Cor 5:17 uses **new creation** in a Christ-and-reconciliation argument; this does not mean *kainos* always denotes replacement rather than renewal. Rev 21:1–5 depicts new heaven and new earth, with creation-scale renewal. Matt 24 uses *parousia* amid warnings and apocalyptic discourse; ordinary Greek *parousia* can also denote someone’s arrival/presence, so it is not a dedicated technical term for every end-time model.
+
+**Conceptual boundaries.** Resurrection is not merely an immortal soul's survival, yet a claim about the intermediate state is a distinct question from resurrection's completion. Firstfruits implies a beginning of a larger harvest in the argued analogy but cannot mechanically settle the exact chronology of every eschatological text. The promised *offspring/seed* language is contextual and may designate an individual or a collective line; Galatians' argument must be read in its own rhetorical setting. **Limit:** no full lexicon census of every “coming,” “making alive,” or *zera‘* usage has been performed.
 ## Evidence and lookup
 
 **Checked context bank:** Ezk 37:1-14; 1Cor 15:20-28; 2Cor 5:17; Rev 21:1-5; Matt 24:3; Gen 12:1-3; Gal 3:16; Gal 3:26-29; Heb 2:10; Heb 4:15; Heb 5:7-10; Luke 24:25-27; Phil 1:26; 1Cor 15:42-54; Luke 2:34; Heb 9:15. Select relevant examples; this is not a request to analyze the full bank.

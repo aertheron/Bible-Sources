@@ -1,6 +1,6 @@
 # WT016 — One, alone, I am he
 
-Version 0.2.0; 2026-10-05. Name and phrase. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Name and phrase. English core with Dutch search aliases.
 
 **Dutch aliases:** één, alleen, Ik ben het.
 
@@ -34,6 +34,13 @@ The working synthesis should state what the selected texts affirm about God's un
 
 **Study questions for the theology check:** Discuss monotheistic confession and Christological reception from the full textual argument, not from an isolated numeral or phrase.
 
+### Full-depth semantic audit: numerical one and divine identity speech
+
+Hebrew **אֶחָד (*’eḥad*)** and Greek **εἷς (*heis*)** are number/oneness vocabulary; Hebrew **אֲנִי הוּא (*’ani hu’*)** and Greek **ἐγώ εἰμι (*egō eimi*)** are personal identity expressions, not another way of spelling the numeral. The first may count, classify or assert unity/exclusivity in context; the second may identify a speaker ordinarily, or carry special revelatory resonance where quoted scriptural echoes establish it. Neither *’eḥad* nor an unqualified “I am” means “Trinity,” “compound unity,” or the divine name by definition.
+
+**Critical contexts.** Deut 6:4 speaks of Yahweh, Israel's God, as one/alone within a summons to exclusive allegiance in 6:5–9; alternative translations of the Shema require syntactic analysis rather than an argument from a supposed inherent “compound” meaning of *’eḥad*. Isa 43:10 uses Yahweh's **“I am He”** speech in an anti-idolatry witness argument, emphasizing identity and uniqueness. John 8:58 places Jesus' **“I am”** statement into a claim concerning Abraham's time, not a routine reply to “who is there?” Its unusual temporal contrast and ensuing response may support a stronger identity claim, but the grammatical phrase alone is not a divine name.
+
+**Canonically**, Israel's exclusive God confession and John's Christological presentation should be related through actual allusions and actions. Distinguish ordinary Greek *egō eimi* identifications from marked statements, and keep the predicative or absolute syntax in view. **Limit:** proposed direct intertexts for each Johannine “I am” saying remain passage-level arguments, not a uniform dictionary classification.
 ## Evidence and lookup
 
 **Checked context bank:** Deu 6:4-5; Isa 43:10; John 8:58; John 9:9; Exo 3:12-15; John 10:30; 1Cor 8:4-6; Jas 2:19; John 11:25. Select relevant examples; this is not a request to analyze the full bank.

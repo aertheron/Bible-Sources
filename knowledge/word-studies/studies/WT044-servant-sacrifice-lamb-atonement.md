@@ -1,6 +1,6 @@
 # WT044 — Servant, sacrifice, lamb, atonement
 
-Version 0.2.0; 2026-10-05. Theme hub. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Theme hub. English core with Dutch search aliases.
 
 **Dutch aliases:** knecht, dienaar, slaaf, offer, verzoening.
 
@@ -36,6 +36,13 @@ The working synthesis holds the saving cost, the beneficiaries, and God's initia
 
 **Study questions for the theology check:** Assess the servant, sacrificial, and royal trajectories individually before combining them into the project's Christological synthesis.
 
+### Full-depth semantic audit: servant, offering, lamb and atonement
+
+This hub combines Hebrew **עֶבֶד (*‘eved*)**, servant/slave; **אָשָׁם (*’asham*)**, guilt/reparation offering or guilt; Greek **δοῦλος (*doulos*)**, slave; **παῖς (*pais*)**, child/servant; **ἀμνός (*amnos*)** and **ἀρνίον (*arnion*)**, lamb terms; and **ἱλαστήριον (*hilastērion*)**, associated with an atoning place or means, including the mercy-seat language. These are separate lexical entries. They share sacrificial or service themes in some passages but do not encode one specific atonement mechanism as one multiword definition.
+
+**Different textual pictures.** Isa 52:13–53:12 depicts a suffering servant and a guilt-offering image; the speaker changes and poetic parallel lines matter to questions of agency, guilt and the beneficiaries. Acts 3:13 calls Jesus God's *pais*, linking Him to servanthood while the Greek also permits “child” in other contexts. Phil 2:7 speaks of the *morphē* of a **doulos**, emphasizing lowered social status. John 1:29 uses the Lamb image; Rev 5 depicts a slaughtered-yet-standing Lamb whose victory takes the form of sacrificial faithfulness. Rom 3:25 describes Christ using *hilastērion* in a unit about redemption, divine righteousness and sins passed over. Its legitimate interpretive options (atoning sacrifice, mercy seat, means/place of atonement) require comparison with actual Greek cultic use and the argument; automatic translation as “appeasing an angry God” risks importing a complete model.
+
+**Atonement synthesis with limits.** Representative suffering, purification, justice, sacrificial offering, liberation and triumph over evil are interacting canonical images, not a word-equation that authorizes any one penal substitution, Christus Victor or propitiation model without argument. **Limit:** cultic grammar and the LXX's use of *hilastērion* require full verified lexical and textual comparison before final adjudication.
 ## Evidence and lookup
 
 **Checked context bank:** Isa 52:13-53:12; Acts 3:13; Rom 3:25; Phil 2:6-11; Rev 5:6-10; Isa 41:8-10; Isa 49:1-6; Lev 5:14-19; Lev 16:14-19; Exo 25:17-22; Heb 9:1-5; John 1:29; 1Pet 2:21-25; Isa 53:10; Heb 9:5; Rom 3:21-26. Select relevant examples; this is not a request to analyze the full bank.

@@ -1,6 +1,6 @@
 # WT025 — Hear, listen, obey
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** horen, luisteren, gehoorzamen.
 
@@ -34,6 +34,13 @@ The working synthesis treats attention to God's word as a summons to faithful re
 
 **Study questions for the theology check:** Connect covenant hearing, prophetic summons, and discipleship through selected contexts.
 
+### Full-depth semantic audit: hearing and response
+
+Hebrew **שָׁמַע (*shama‘*)** ranges across perceiving sound, listening attentively, hearing testimony, accepting a message and obeying a voice in constructions where the object and discourse support that consequence. Greek **ἀκούω (*akouō*)** means hear/listen and can involve responsive reception; **ὑπακούω (*hypakouō*)** more explicitly involves obedience or heeding. The imperative **Shema** in Deut 6:4 is a form of *shama‘*, not a separate mystical lexical root.
+
+**Contextual evidence.** Deut 6:4–9 addresses Israel to hear Yahweh's confession and love Him wholeheartedly, continuing into teaching and remembering commands. Its *whole discourse* gives obedience as the proper response; saying the verb always means “obey” erases ordinary acoustic uses. 1 Sam 15:22 contrasts Samuel's call to hearken/obey with sacrificial activity as Saul is rebuked. James 1:22–25 explicitly distinguishes hearing from doing, providing strong evidence that the two are not lexically identical even where real hearing properly leads to action.
+
+**Translation and synthesis.** “Hear,” “listen,” “heed,” and “obey” may all be appropriate in different clauses, depending on the subject's relation to the speaker, the imperative or report, and the actual behaviour. A sermon explaining that “biblical hearing demands obedient attention” may be sound theology while still wrong as a claim that the phonetic root means “obey in every verse.” The canonical trajectory links revelation, covenant summons and responsive discipleship without pretending sound perception is never the intended use. **Limit:** specific court testimony, divine hearing of prayer and overhearing categories need their own checked references.
 ## Evidence and lookup
 
 **Checked context bank:** Deu 6:4-9; 1Sa 15:22; Jas 1:19-25; Isa 6:9-10; Rom 10:14-17; Mark 4:1-9; Deu 6:4. Select relevant examples; this is not a request to analyze the full bank.
