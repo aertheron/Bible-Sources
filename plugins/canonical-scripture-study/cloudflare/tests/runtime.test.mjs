@@ -105,6 +105,28 @@ test('Preview delivery plans complete Standard studies and gate visible results'
   assert.deepEqual(next.delivery.milestones, detailed.delivery.milestones);
 });
 
+test('Next recommendations follow bounded literary units without overriding requested chapters', async () => {
+  const engine = make();
+  const standard = await engine.plan('Genesis 1:1-3', null, 'nl');
+  assert.equal(standard.reference, 'Genesis 1:1-3');
+  assert.equal(standard.next.reference, 'Genesis 1:4-2:3');
+  assert.equal(standard.next.literary_unit_reference, 'Genesis 1:1-2:3');
+  assert.equal(standard.next.boundary_basis, 'curated_literary_continuation');
+  const continuation = await engine.plan('Next', null, 'en', 'plain_working', standard.continuation_state);
+  assert.equal(continuation.reference, 'Genesis 1:4-2:3');
+  assert.equal(continuation.study_depth, 'standard');
+  assert.equal(continuation.next.reference, 'Genesis 2:4-25');
+  const chapter = await engine.plan('Genesis 1');
+  assert.equal(chapter.next.reference, 'Genesis 2:1-3');
+  const explicit = await engine.plan('Next chapter 2', null, 'en', 'plain_working', standard.continuation_state);
+  assert.equal(explicit.reference, 'Genesis 2');
+  const full = await engine.plan('Full study Genesis 1:1-2:3');
+  assert.equal(full.reference, 'Genesis 1:1-2:3');
+  assert.equal(full.next.reference, 'Genesis 2:4-25');
+  assert.equal(engine.refs.next('Luke 1:1-25').reference, 'Luke 1:26-56');
+  assert.equal(engine.refs.next('Psalms 119:1-8').reference, 'Psalms 119:9-16');
+});
+
 test('Source tampering, unsafe paths and oversized packets fail closed', async () => {
   clearCache();
   const key = Object.keys(bundle.chapters)[0], pointer = bundle.chapters[key];
