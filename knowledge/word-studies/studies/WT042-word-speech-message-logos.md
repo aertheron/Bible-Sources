@@ -1,6 +1,6 @@
 # WT042 — Word, speech, message, Logos
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** woord, spreken, boodschap, Logos.
 
@@ -34,6 +34,13 @@ Ephesians 6:17 and Romans 10:8–17 provide useful checks against the written/sp
 
 **Study questions for the theology check:** Study creation, prophetic speech, and John's prologue without treating proposed echoes as an identical lexical use.
 
+### Full-depth semantic audit: word, speech, event and Logos
+
+Hebrew **דָּבָר (*davar*)** can describe a spoken word, message, matter, event or thing in the stated discourse; its associated verb means speak. Greek **λόγος (*logos*)** can refer to speech, account, reason, statement, message or, in John's prologue, the personally identified Word; **ῥῆμα (*rhēma*)** often describes an utterance/word or message in specified contexts. Neither “logos = rational principle” nor “rhēma = special living revelation” can be imposed as a rigid biblical dictionary distinction.
+
+**Contexts and referents.** Gen 15:1 presents the word of Yahweh **coming to Abram** with a promise: this is a narrated revelatory communication, not a claim that the noun is always a person. Ps 33:6 connects Yahweh's word and breath with creating the heavens, a poetic account of effective divine speech. John 1:1–18 identifies the Logos as existing with God and being God, and then becoming flesh; the personal and Christological reading comes from this prologue's predications, not from every Greek *logos* token. John 10 and other uses can speak of the Scripture or a spoken assertion without personifying every word. Ordinary “word/message” and person-designation must remain separate contextual classifications.
+
+**Theological/translation caution.** John's portrayal may resonate with Hebrew divine speech and wisdom traditions, but each proposed intertext should be identified as quotation, echo or comparison. Do not claim an ontological Logos doctrine from an isolated lexicon entry. “Word” is usually a useful translation, with explanatory notes as needed. **Limit:** Greek philosophical uses of *logos*, wisdom intertexts and every Johannine anaphoric reference require specialist evidence beyond the selected passage.
 ## Evidence and lookup
 
 **Checked context bank:** Gen 15:1; Psa 33:6; John 1:1-18; John 10:34-36; Gen 1:1-5; Isa 55:10-11; Eph 6:17; Rom 10:8-17; John 2:1; John 1:1. Select relevant examples; this is not a request to analyze the full bank.
