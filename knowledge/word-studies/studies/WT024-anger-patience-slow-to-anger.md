@@ -1,6 +1,6 @@
 # WT024 — Anger, patience, slow to anger
 
-Version 0.2.0; 2026-10-05. Name and phrase. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Name and phrase. English core with Dutch search aliases.
 
 **Dutch aliases:** toorn, geduld, langzaam tot toorn.
 
@@ -34,6 +34,13 @@ The working synthesis portrays God's response to evil as purposeful rather than 
 
 **Study questions for the theology check:** Read patience and moral judgment together rather than using either to cancel the other.
 
+### Full-depth semantic audit: anger and restrained anger
+
+Hebrew **אֶרֶךְ אַפַּיִם (*’erekh ’appayim*)** is an idiom literally involving length of nostrils/anger and conventionally describes being **slow to anger**; Greek **ὀργή (*orgē*)** refers to anger or wrath, and **μακροθυμία (*makrothymia*)** to patience/long-suffering. They are related topics, not interchangeable lemmas. “Slow to anger” does not mean never opposing evil, and “wrath” does not by itself specify how long or by what means judgment is enacted.
+
+**Textual participants and moral direction.** In Exod 34:6–7 Yahweh's patience is spoken after Israel's grave unfaithfulness; it appears beside compassion, *hesed*, forgiveness and accountable judgment. Prov 14:29 contrasts the person who restrains anger with the quick-tempered person; humans are responsible agents, not objects of an abstract temperament test. Rom 2:4–5 describes God's kindness and patience as intended to lead a human audience toward repentance; that audience's stubborn response builds up judgment. The text therefore juxtaposes patience and wrath within one argument rather than making them contradict.
+
+**Historical and theological boundaries.** Ancient anger idioms can be translated naturally in modern language while retaining an explanatory note where the body metaphor matters. God's patience belongs to His character but is not a lexically implied guarantee of infinite delay. Human anger can be morally evaluated by motive, proportion and conduct. A theology of God's justice and compassion must come from the passages' claims, not the invented etymology of Greek *orgē*. **Limit:** individual anger idioms and difficult “divine repentance” contexts need passage-specific review.
 ## Evidence and lookup
 
 **Checked context bank:** Exo 34:6-7; Pro 14:29; Rom 2:4; Num 14:17-20; Psa 103:8-14; Rom 2:4-5; 2Pet 3:8-10. Select relevant examples; this is not a request to analyze the full bank.

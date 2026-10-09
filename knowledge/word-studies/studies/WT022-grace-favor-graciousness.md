@@ -1,6 +1,6 @@
 # WT022 — Grace, favor, graciousness
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** genade, gunst, genadig.
 
@@ -34,6 +34,13 @@ The working synthesis joins gift and transformation without turning transformati
 
 **Study questions for the theology check:** Compare divine generosity, favor, and salvation while keeping ordinary social uses visible.
 
+### Full-depth semantic audit: grace, favour and graciousness
+
+**Forms and core ranges:** Hebrew **חֵן (*ḥen*)** denotes favour, gracious regard or attractiveness in some social settings; **חָנַן (*ḥanan*)** is a verb of showing favour or being gracious; **חַנּוּן (*ḥannun*)** is a gracious adjective. Greek **χάρις (*charis*)** ranges across favour, generosity/grace, gift-related beneficence and in certain constructions gratitude or thanks. These are related but morphologically distinct and not interchangeable at each occurrence.
+
+**Contextual controls.** Gen 6:8 says Noah found *ḥen* in Yahweh's eyes within the judgment narrative; God is the one who shows favour, but the phrase does not itself encode a complete doctrine of predestination. Gen 33:8–11 uses favour language between humans, showing that its ordinary range is not exclusively salvific. Exod 34:6 calls Yahweh **ḥannun**, not the noun *ḥen*, within a string also containing compassion and *ḥesed*: these terms illuminate one another without becoming synonyms. Eph 2:8–10 portrays salvation as gift excluding boastful earning, with good works explicitly given their proper place as intended result. Rom 4:4–5 uses wages as a foil for unearned gift. Titus 2:11–14 personifies grace as teaching changed conduct.
+
+**Mercy and hesed boundary.** Mercy (*eleos*, barmhartigheid/ontferming) often emphasizes aid to a distressed party; *hesed* can emphasize beneficent love or fidelity; *charis/ḥen* often favour or giving, but the overlap is real. “Unmerited favour” is a useful *theological* explanation in specified saving contexts, not an exhaustive dictionary meaning of every *charis*. **Limit:** civil/social gratitude and charm uses require additional verified examples before claiming a complete corpus map.
 ## Evidence and lookup
 
 **Checked context bank:** Gen 6:8; Exo 34:6-7; Eph 2:8-10; Gen 33:8-11; Rom 4:4-5; Rom 6:1-2; Titus 2:11-14; Exo 34:6; Eph 2:10. Select relevant examples; this is not a request to analyze the full bank.
