@@ -1,6 +1,6 @@
 # WT038 — Passover, Pesach, pascha
 
-Version 0.2.0; 2026-10-05. Name and phrase. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Name and phrase. English core with Dutch search aliases.
 
 **Dutch aliases:** Pesach, Pascha, paasfeest.
 
@@ -34,6 +34,13 @@ The working synthesis treats Christological typology as a relation supported by 
 
 **Study questions for the theology check:** Trace exodus remembrance and Jesus' death while preserving the specific imagery and purpose of later applications.
 
+### Full-depth semantic audit: Passover and the festival image
+
+Hebrew **פֶּסַח (*pesaḥ*)** and Greek **πάσχα (*pascha*)** can refer to the **Passover event/rite**, **sacrificial animal**, **meal**, or **festival period** according to context and construction. Related Hebrew verbal explanations of Yahweh's action in Exod 12 should not be forced into a single unchallenged etymology. The meaning of the festival and the date/scope of its observance are historical issues beyond one isolated noun.
+
+**Original participants and setting.** Exod 12:1–28 concerns Israel's marked houses, the coming judgment in Egypt, sacrificial preparation, consumption and remembered liberation. The action of blood marking and the narrative's statement about protection belong to its own literary setting. In Luke 22, Jesus and His disciples share a final meal explicitly framed by Passover expectation; explore synoptic/Johannine chronology separately before treating every timeline variation as solved. 1 Cor 5:6–8 identifies Christ as “our Passover” and appeals to the congregation's removal of old leaven as an ethical metaphor. The referent Christ in that application is typological/Christological reception, not a claim that the Hebrew noun always means Messiah.
+
+**Canonical synthesis.** Liberation, sacrifice, shared remembrance and new communal life are connected by deliberate biblical reuse. The verb “pass over/protect” and word *pesaḥ* should be explained from the actual text rather than imported folklore about an invented English pun. **Limit:** Second Temple festival practice and calendar debates require verified historical sources, not a lexicon gloss.
 ## Evidence and lookup
 
 **Checked context bank:** Exo 12:1-14; Luke 22:14-20; 1Cor 5:7-8; Exo 12:21-27; Deu 16:1-8; John 19:31-37; Heb 11:28. Select relevant examples; this is not a request to analyze the full bank.

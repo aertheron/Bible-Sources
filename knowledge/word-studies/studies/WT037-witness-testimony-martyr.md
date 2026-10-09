@@ -1,6 +1,6 @@
 # WT037 — Witness, testimony, martyr
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** getuige, getuigenis, martelaar.
 
@@ -34,6 +34,13 @@ The working synthesis treats testimony as both proclamation and accountable atte
 
 **Study questions for the theology check:** Follow truth-bearing and faithful testimony while distinguishing legal, prophetic, and apostolic settings.
 
+### Full-depth semantic audit: witnesses and testimony
+
+Hebrew **עֵד (*‘ed*)** describes a witness who can attest events or testimony; Greek **μάρτυς (*martys*)**, **μαρτυρία (*martyria*)** and **μαρτυρέω (*martyreō*)** identify a witness, testimony and the act of witnessing. The English-derived term **martyr** acquired a strong association with dying for testimony, but the basic ancient Greek noun is not always “one who has been killed.” Whether a witness is reliable, lying, judicially competent or persecuted is contextual.
+
+**Roles and audiences.** Deut 19:15–21 concerns legal procedures with witnesses and evaluation of false testimony: the court, accusation and affected defendant determine the force. Isa 43:10 addresses Israel as Yahweh's witnesses to His unique identity; this is more than a courtroom transcript but retains the logic of attestation. Acts 1:8 makes disciples witnesses of Jesus empowered by the Spirit, with geographical expansion and a public message. Rev 1:5 designates Jesus the **faithful witness**, a claim about His character and testimony; in Revelation's setting faithfulness can involve suffering, but the lexical noun does not itself require death.
+
+**Related conceptual boundaries.** Legal eyewitness, witness-bearing proclamation, faithful covenant testimony and costly martyrdom form an interconnected canonical pattern. Do not equate every disciple's act of telling a story with unexamined “proof,” nor treat martyrdom as the sole sense of *martys*. The historical resurrection claim should be evaluated from the named witnesses and textual setting, not presumed true or false from the word alone. **Limit:** the distinct noun/verb forms and ancient legal evidence practices require deeper source-by-source review.
 ## Evidence and lookup
 
 **Checked context bank:** Deu 19:15; Isa 43:10; Acts 1:8; Rev 1:5; Num 35:30; John 5:31-39; Acts 22:20; Rev 12:10-11. Select relevant examples; this is not a request to analyze the full bank.
