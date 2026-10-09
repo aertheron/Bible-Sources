@@ -29,6 +29,27 @@ class RuntimeTests(unittest.TestCase):
         data = self.engine.reader.passage(p["reference"], ["WLC"])
         self.assertEqual(sum(len(c["records"]) for c in data["source_packets"]), 34)
 
+    def test_next_follows_curated_literary_unit_without_expanding_current_scope(self):
+        standard = self.engine.plan("Genesis 1:1-3")
+        self.assertEqual(standard["reference"], "Genesis 1:1-3")
+        self.assertEqual(standard["next"]["reference"], "Genesis 1:4-2:3")
+        self.assertEqual(standard["next"]["literary_unit_reference"], "Genesis 1:1-2:3")
+        self.assertEqual(standard["next"]["boundary_basis"], "curated_literary_continuation")
+        after = self.engine.plan("Next", study_state=standard["continuation_state"])
+        self.assertEqual(after["reference"], "Genesis 1:4-2:3")
+        self.assertEqual(after["study_depth"], "standard")
+        self.assertEqual(after["next"]["reference"], "Genesis 2:4-25")
+
+        whole_chapter = self.engine.plan("Genesis 1")
+        self.assertEqual(whole_chapter["next"]["reference"], "Genesis 2:1-3")
+        self.assertEqual(self.engine.plan("Next chapter 2", study_state=standard["continuation_state"])["reference"], "Genesis 2")
+        explicitly_scoped = self.engine.plan("Full study Genesis 1:1-2:3")
+        self.assertEqual(explicitly_scoped["reference"], "Genesis 1:1-2:3")
+        self.assertEqual(explicitly_scoped["next"]["reference"], "Genesis 2:4-25")
+        # Fallback to existing size-safe, curated chunks where no parent unit is indexed.
+        self.assertEqual(self.engine.refs.next("Luke 1:1-25")["reference"], "Luke 1:26-56")
+        self.assertEqual(self.engine.refs.next("Psalms 119:1-8")["reference"], "Psalms 119:9-16")
+
     def test_two_chapters_continue_in_same_mode(self):
         p = self.engine.plan("Translate Genesis 1-2, in Dutch, with original language interlinear")
         self.assertEqual(p["reference"], "Genesis 1")
