@@ -129,6 +129,36 @@ test('Next recommendations follow bounded literary units without overriding requ
   assert.equal(engine.refs.next('Psalms 119:1-8').reference, 'Psalms 119:9-16');
 });
 
+test('Word studies default to concise Standard and accept explicit Full with auditable citations', async () => {
+  const engine = make();
+  const standard = await engine.plan('Woordstudie ruach', null, 'nl');
+  assert.equal(standard.mode, 'word_study');
+  assert.equal(standard.topic, 'ruach');
+  assert.equal(standard.study_depth, 'standard');
+  assert.equal(standard.word_study_policy.target_diagnostic_occurrences, 3);
+  assert.ok(standard.response_sections.includes('key_occurrences'));
+  assert.ok(!standard.response_sections.includes('theological_synthesis_and_limits'));
+  assert.equal(standard.budgets.secondary_sources, 0);
+  assert.match(standard.word_study_policy.citation_policy.lexical, /BDB/);
+  for (const cmd of ['Full word study ruach', 'Volledige woordstudie ruach', 'Word study ruach, full', 'Woordstudie ruach, volledig']) {
+    const full = await engine.plan(cmd, null, 'nl');
+    assert.equal(full.mode, 'word_study');
+    assert.equal(full.topic, 'ruach');
+    assert.equal(full.study_depth, 'full');
+    assert.equal(full.word_study_policy.target_diagnostic_occurrences, 6);
+    assert.ok(full.response_sections.includes('theological_synthesis_and_limits'));
+    assert.equal(full.budgets.secondary_sources, 2);
+    assert.ok(full.word_study_policy.citation_policy.source_classification);
+    assert.equal(full.delivery.milestones[1].id, 'evidence_ready');
+    assert.equal(full.delivery.background_jobs, false);
+  }
+  for (const cmd of ['Standard word study ruach', 'Standaard woordstudie ruach', 'Word study ruach, standard']) {
+    assert.equal((await engine.plan(cmd)).study_depth, 'standard');
+  }
+  assert.equal((await engine.plan('Word study ruach', null, 'en', 'plain_working', null, 'full')).study_depth, 'full');
+  assert.equal((await engine.plan('Full study Genesis 1:1-3')).mode, 'full_study');
+});
+
 test('Source tampering, unsafe paths and oversized packets fail closed', async () => {
   clearCache();
   const key = Object.keys(bundle.chapters)[0], pointer = bundle.chapters[key];
