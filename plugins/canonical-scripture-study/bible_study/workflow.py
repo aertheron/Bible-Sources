@@ -50,19 +50,27 @@ WORD_STUDY_SECTIONS = {
     "bounded_canonical_development"
   ],
   "full": [
-    "source_forms_and_range",
-    "contextual_sense_comparison",
-    "key_occurrences_and_counterexamples",
+    "lemma_forms_and_attested_semantic_range",
+    "sense_inventory_and_lexical_boundaries",
+    "contextual_senses_by_occurrence_and_participants",
+    "related_terms_and_concepts_with_distinctions",
     "verified_lexical_and_translation_evidence",
-    "semantic_overlap_and_uncertainties",
-    "canonical_development",
-    "theological_synthesis_and_limits"
-  ]
-}
+    "literary_and_historical_usage",
+    "biblical_and_canonical_development",
+    "theological_interpretation_and_limits"
+  ]}
 WORD_STUDY_GUIDANCE = {
   "standard": "Present a compact word study: core meaning range, 2–3 diagnostic biblical occurrences with explicit references, one noteworthy distinction or uncertainty, and a brief synthesis. Do not turn a normal word study into a long passage-by-passage survey.",
   "detailed": "Explain additional contextual contrasts and selected textual connections without forcing a comprehensive concordance or exhaustive canonical survey.",
-  "full": "Produce a developed word study: original forms, occurrence-specific senses, 4–6 diagnostic passages including meaningful counterexamples, semantic overlap, relevant translation traditions and bounded canonical development. Compare external lexica or scholarship only when the actual entries are available and read; retain unresolved alternatives."
+  "full": "Produce a comprehensive evidence-bounded word study. Build an inventory of EVERY distinct attested sense or usage category supported by the available lexical evidence, including rare, figurative and apparently negative uses, clearly separating homographs or disputed senses. Do not treat 4–6 sample passages as a cap on covered senses: use enough selected and contrasting occurrences to substantiate every identified sense, without attempting an exhaustive concordance. For each occurrence explain the local sense and why it fits, literary and historical setting, grammatical role when relevant, the actor/subject, recipient/object or affected party, their relationship (including divine-human or human-human), direction and reciprocity, and the event or action. Distinguish what the word conventionally encodes from what the person, relationship, character, discourse and wider Scripture contribute. Compare genuinely related Hebrew/Greek terms, translations, overlapping ideas and clear differences without treating them as synonyms. Only then explain canonical development and theological interpretation, distinguishing observation, contextual inference and theological synthesis. Mark unverified/uncertain senses and corpus limits honestly; a Full study is comprehensive within attested accessible evidence, not guaranteed exhaustive."
+}
+WORD_SEMANTIC_METHOD = {
+  "sense_inventory": "Cover every materially distinct, attested sense or usage type supported by consulted records: central/peripheral, concrete/abstract, literal/figurative, positive/negative, and disputed when relevant. Record evidence and confidence; distinguish homographs (including same consonantal spelling) rather than merging them into a theological supermeaning. If supporting sources are incomplete, state which categories remain unverified; do not claim corpus exhaustiveness.",
+  "occurrence_context": "For each representative occurrence explain what sense is active, why this text selects it, immediate literary/discourse and historical-cultural setting, collocations and parallelism, and relevant grammatical/syntactic roles. Do not import every listed dictionary gloss into every verse.",
+  "participants_and_relations": "When relevant identify the grammatical subject/agent, speaker, experiencer, giver, beneficiary/recipient, object/target and affected parties; describe who relates to whom, whether the action is reciprocal or unilateral, what prior relationship/obligation exists, and whether the participant is God, a human, a group or another referent. Grammatical subject and theological actor need not coincide. These factors change contextual inference, not necessarily the dictionary sense.",
+  "related_concepts": "Compare genuinely neighboring words, cognates, translations and associated theological concepts; distinguish semantic overlap, contrast, co-occurrence, intertextual reuse and theological association. Do not assume equivalence or claim that one word contains all features of related concepts.",
+  "theological_interpretation": "After source-language and occurrence-level work, show biblical/canonical development and theological synthesis separately. Distinguish claims encoded by the lexeme from properties of the actors (for example God's faithful character), covenant/historical context and later biblical theology. Compare meaningful interpretations and their limits; do not turn lexical semantics into doctrine by itself.",
+  "coverage_rule": "4–6 passages are an initial diagnostic target, not an upper bound. Use enough well-chosen occurrences to document every supported distinct sense; cite additional verses compactly where useful. If a complete concordance or full lexicon is unavailable, say this is the complete supported range within consulted evidence, not an independently proven exhaustive inventory. Never invent attestations or external lexicon quotations."
 }
 WORD_CITATION_POLICY = {
   "mode": "claim_level_verified_provenance",
@@ -103,7 +111,7 @@ def workflow(mode, depth):
             "milestones": [DELIVERY_MILESTONES[id] for id in FOCUSED_MILESTONES.get(mode, ["orientation", "translation_ready", "explanation_ready", "synthesis_ready"])],
             "instruction": "Complete every applicable milestone for the current passage without waiting for user input. Prefer a short visible orientation, then separate visible assistant updates as each verified result is ready; present the translation and notes before deeper explanation. If the host cannot issue successive assistant messages, stream a single answer in the same order. Never claim later tool calls or background work will happen after the reply ends. Next means a different passage, not the next study phase.",
         },
-        **({"word_study_policy": {"default_depth": "standard", "available_depths": ["standard", "full"], "selected_depth": depth, "guidance": WORD_STUDY_GUIDANCE[depth], "target_diagnostic_occurrences": 6 if depth == "full" else 4 if depth == "detailed" else 3, "citation_policy": WORD_CITATION_POLICY}} if mode == "word_study" else {}),
+        **({"word_study_policy": {"default_depth": "standard", "available_depths": ["standard", "full"], "selected_depth": depth, "guidance": WORD_STUDY_GUIDANCE[depth], "target_diagnostic_occurrences": 6 if depth == "full" else 4 if depth == "detailed" else 3, **({"semantic_method": WORD_SEMANTIC_METHOD} if depth == "full" else {}), "citation_policy": WORD_CITATION_POLICY}} if mode == "word_study" else {}),
         "source_policy": {"order": method["source_order"], "independent_analysis_first": True, "external_research_default": "selective_after_independent_analysis" if depth == "full" else "off", "explicit_research_request_can_override": True, "instruction": method["secondary_resources"]},
         "reading_aids": {"names_and_places": "Explain relevant names, places or objects from attested wording, explicit biblical wordplay or a sourced etymology; mark disputed or unknown origins and do not derive doctrine from a name.", "literary_structure": "Show verse-linked line breaks, parallelism, repetition or a compact structure table where it aids comprehension at any depth. Label a proposed chiasm and do not manufacture symmetry."},
         "budgets": budgets,
