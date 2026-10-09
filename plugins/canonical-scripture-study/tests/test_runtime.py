@@ -30,7 +30,7 @@ class RuntimeTests(unittest.TestCase):
         self.assertEqual(sum(len(c["records"]) for c in data["source_packets"]), 34)
 
     def test_next_follows_curated_literary_unit_without_expanding_current_scope(self):
-        standard = self.engine.plan("Genesis 1:1-3")
+        standard = self.engine.plan("Genesis 1:1-3, exact")
         self.assertEqual(standard["reference"], "Genesis 1:1-3")
         self.assertEqual(standard["next"]["reference"], "Genesis 1:4-2:3")
         self.assertEqual(standard["next"]["literary_unit_reference"], "Genesis 1:1-2:3")
@@ -42,7 +42,7 @@ class RuntimeTests(unittest.TestCase):
         self.assertEqual(after["study_depth"], "standard")
         self.assertEqual(after["next"]["reference"], "Genesis 2:4-25")
 
-        whole_chapter = self.engine.plan("Genesis 1")
+        whole_chapter = self.engine.plan("Genesis 1, exact")
         self.assertEqual(whole_chapter["next"]["reference"], "Genesis 2:1-3")
         self.assertEqual(self.engine.plan("Next chapter 2", study_state=standard["continuation_state"])["reference"], "Genesis 2")
         explicitly_scoped = self.engine.plan("Full study Genesis 1:1-2:3")
@@ -51,6 +51,31 @@ class RuntimeTests(unittest.TestCase):
         # Fallback to existing size-safe, curated chunks where no parent unit is indexed.
         self.assertEqual(self.engine.refs.next("Luke 1:1-25")["reference"], "Luke 1:26-56")
         self.assertEqual(self.engine.refs.next("Psalms 119:1-8")["reference"], "Psalms 119:9-16")
+
+    def test_studies_select_and_explain_literary_units(self):
+        for query in ("Genesis 1", "Standard study Genesis 1:1-3", "Detailed study Genesis 1", "Full study Genesis 1"):
+            with self.subTest(query=query):
+                plan = self.engine.plan(query)
+                self.assertEqual(plan["reference"], "Genesis 1:1-2:3")
+                self.assertTrue(plan["scope_policy"]["expanded"])
+                self.assertEqual(plan["scope_policy"]["selection"], "curated_literary_unit")
+                self.assertEqual(plan["next"]["reference"], "Genesis 2:4-25")
+                self.assertEqual(self.engine.plan("Next", study_state=plan["continuation_state"])["reference"], "Genesis 2:4-25")
+        for unit in config("literary-units")["units"]:
+            p = self.engine.refs.parse(unit["reference"])
+            opening = self.engine.refs.label(Passage(p.book, p.start_chapter, p.start_verse, p.start_chapter, p.start_verse))
+            selected = self.engine.refs.study_scope(opening)
+            self.assertEqual(selected["study_reference"], self.engine.refs.label(p))
+        exact = self.engine.plan("Genesis 1:1-3, exact")
+        self.assertEqual(exact["reference"], "Genesis 1:1-3")
+        self.assertFalse(exact["scope_policy"]["expanded"])
+        self.assertEqual(self.engine.plan("Genesis 1:1-3, precies")["reference"], "Genesis 1:1-3")
+        self.assertEqual(self.engine.plan("Translate Genesis 1:1-3")["reference"], "Genesis 1:1-3")
+        unindexed = self.engine.plan("Luke 1:1-3")
+        self.assertEqual(unindexed["scope_policy"]["selection"], "host_literary_review_required")
+        self.assertEqual(unindexed["reference"], "Luke 1:1-3")
+        self.assertEqual(self.engine.plan("Genesis 1")["language"], "en")
+        self.assertEqual(self.engine.plan("Genesis 1, in Dutch")["language"], "nl")
 
     def test_two_chapters_continue_in_same_mode(self):
         p = self.engine.plan("Translate Genesis 1-2, in Dutch, with original language interlinear")

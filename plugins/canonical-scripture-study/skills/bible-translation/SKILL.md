@@ -5,7 +5,7 @@ description: "Produce contextual English, Dutch or another-language working Bibl
 
 # Translate and annotate
 
-Read [translation rules and key](../../references/translation-key.md). Use the selected attested reading with source evidence and meaningful alternatives. Translate into the requested language and label substantial output Working translation/Werkvertaling.
+Read [translation rules and key](../../references/translation-key.md). Use the selected attested reading with source evidence and meaningful alternatives. Translate into the requested language and label substantial output Working translation/Werkvertaling. Apply the returned translation_policy before finalizing consequential wording: retrieve relevant OT/Greek-OT/NT source forms, preserve supported recognizable quotation/echo wording, and footnote the traditional, scholarly and working choices. Use a defensible consolidated construction when useful; preserve actual source differences rather than harmonizing them.
 
 Honor the chosen display: plain_working; transliteration_interlinear (transliteration then gloss, original script optional in display); original_interlinear (original then transliteration then contextual gloss). Keep actual inflected forms and source order in interlinear groups. Tie groups to retrieved word/token IDs and check complete coverage; do not invent forms, lemmas or morphology. Add natural clause prose when a gloss line misleads.
 

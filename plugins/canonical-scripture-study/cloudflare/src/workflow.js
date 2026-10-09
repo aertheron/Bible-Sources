@@ -103,6 +103,7 @@ export function workflow(mode, depth) {
     ...(mode === 'word_study' ? {word_study_policy: {default_depth: 'standard', available_depths: ['standard', 'full'], selected_depth: depth, guidance: wordStudyGuidance[depth], target_diagnostic_occurrences: depth === 'full' ? 6 : depth === 'detailed' ? 4 : 3, ...(depth === 'full' ? {semantic_method: wordSemanticMethod} : {}), citation_policy: wordCitationPolicy}} : {}),
     source_policy: {order: method.source_order, independent_analysis_first: true, external_research_default: depth === 'full' ? 'selective_after_independent_analysis' : 'off', explicit_research_request_can_override: true, instruction: method.secondary_resources},
     reading_aids: {names_and_places: 'Explain relevant names, places or objects from attested wording, explicit biblical wordplay or a sourced etymology; mark disputed or unknown origins and do not derive doctrine from a name.', literary_structure: 'Show verse-linked line breaks, parallelism, repetition or a compact structure table where it aids comprehension at any depth. Label a proposed chiasm and do not manufacture symmetry.'},
+    translation_policy: method.translation_policy,
     budgets,
   };
 }

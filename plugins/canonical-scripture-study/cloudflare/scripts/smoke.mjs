@@ -1,5 +1,6 @@
 // Works against Wrangler locally or the actual workers.dev endpoint after deployment.
 import assert from 'node:assert/strict';
+import manifest from '../../plugin.json' with {type: 'json'};
 const endpoint = process.argv[2] ?? 'http://localhost:8787/mcp';
 const url = new URL(endpoint);
 if (!['localhost', '127.0.0.1', '[::1]'].includes(url.hostname) && url.protocol !== 'https:') throw Error('Use HTTPS for a public MCP endpoint.');
@@ -32,7 +33,7 @@ assert.equal(list.tools.length, 11);
 assert.ok(list.tools.every(t => t.annotations.readOnlyHint && !t.annotations.destructiveHint && t.outputSchema));
 const health = (await tool('study_health')).structuredContent;
 assert.equal(health.indexed_chapters, 4150);
-assert.equal(health.plugin_version, '0.1.7');
+assert.equal(health.plugin_version, manifest.version);
 assert.equal(health.deployment.paid_services_required, false);
 const plan = (await tool('study_plan', {query: 'Translate Genesis 1-2, in Dutch, with original language interlinear'})).structuredContent;
 assert.equal(plan.reference, 'Genesis 1');
@@ -62,7 +63,7 @@ assert.equal(standard.delivery.background_jobs, false);
 assert.equal(standard.delivery.fallback_surface, 'single_streamed_answer_with_milestones');
 assert.equal(standard.source_policy.external_research_default, 'off');
 assert.equal(standard.context_preface.required, true);
-const creationOpening = (await tool('study_plan', {query: 'Genesis 1:1-3'})).structuredContent;
+const creationOpening = (await tool('study_plan', {query: 'Genesis 1:1-3, exact'})).structuredContent;
 assert.equal(creationOpening.next.reference, 'Genesis 1:4-2:3');
 assert.equal(creationOpening.next.literary_unit_reference, 'Genesis 1:1-2:3');
 const continuedCreation = (await tool('study_plan', {query: 'Next', study_state: creationOpening.continuation_state})).structuredContent;

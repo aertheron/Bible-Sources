@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.8 — Preview
+
+- Ordinary passage studies explain and select the smallest curated enclosing literary unit, including Genesis 1:1–2:3 for Genesis 1. Explicit exact requests and focused commands keep their scope; unindexed boundaries require source-based host review.
+- Apply a general source-grounded OT–NT wording policy: preserve recognizable verified quotation/echo wording where grammar supports it; assess defensible consolidated working renderings; footnote traditional, scholarly and working choices; preserve real source differences.
+- Make the English default explicit; change language only for the user’s request or retained study continuation.
+
 ## 0.1.7 Preview — 2026-10-09
 
 - Release check: expanded complete word-study packets use a shared 16,000-character ceiling in Python and Worker; context pointers are still deferred as needed, all study content is retained, and lexical/single-sense limits remain 12,000.

@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.1.7",
+  "schema_version": "0.1.8",
   "purpose": "Christian formation through biblical theology, canonical theology and context-sensitive working translation.",
   "preferred_framework": "Mark Gatzen's working biblical/canonical theology is preferred, but correctable by source evidence and contextual argument. A complete website claim profile has not been imported.",
   "sequence": [
@@ -78,5 +78,12 @@
     "bounded_canonical_context",
     "optional_external_deepening",
     "theology_review"
-  ]
+  ],
+  "translation_policy": {
+    "mode": "source_grounded_intertextual_wording",
+    "intertextual_wording": "Before settling consequential wording, check relevant OT–NT quotation or recognizable echo against the retrieved OT source, its Greek translation where relevant, and the NT source. When these support shared wording, use a recognizable matching target-language phrase in both passages while retaining each passage’s own syntax and contextual sense. Distinguish quotation, echo and thematic resemblance; never claim a connection solely from similar English or Dutch words.",
+    "consolidated_rendering": "Prefer a readable working translation that retains both defensible local grammar and a verified canonical verbal link. A carefully qualified consolidated construction may be used when grammatically defensible. Do not add a meaning unsupported by the source, force identical syntax or hide differences between Hebrew, Greek witnesses and NT reuse.",
+    "footnotes": "For a consequential grammatical or intertextual choice, explain the traditional rendering, the alternative scholarly reading and the working choice, with their evidence and limits. Explain any expanded or paraphrastic consolidation explicitly. Neither traditional nor scholarly wording wins merely by its label. Where sources differ, retain the difference and make the connection visible in a footnote instead of harmonizing the text.",
+    "example": "For Genesis 1:1 and John 1:1, verify the Greek wording before preserving the recognizable In the beginning link. A construction such as In the beginning, when God began to create… is an option to assess, not mandatory wording or proof that the competing Hebrew syntactic readings are equivalent. For an OT/NT quotation whose source wording differs, preserve both forms and explain the difference."
+  }
 }

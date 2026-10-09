@@ -114,5 +114,6 @@ def workflow(mode, depth):
         **({"word_study_policy": {"default_depth": "standard", "available_depths": ["standard", "full"], "selected_depth": depth, "guidance": WORD_STUDY_GUIDANCE[depth], "target_diagnostic_occurrences": 6 if depth == "full" else 4 if depth == "detailed" else 3, **({"semantic_method": WORD_SEMANTIC_METHOD} if depth == "full" else {}), "citation_policy": WORD_CITATION_POLICY}} if mode == "word_study" else {}),
         "source_policy": {"order": method["source_order"], "independent_analysis_first": True, "external_research_default": "selective_after_independent_analysis" if depth == "full" else "off", "explicit_research_request_can_override": True, "instruction": method["secondary_resources"]},
         "reading_aids": {"names_and_places": "Explain relevant names, places or objects from attested wording, explicit biblical wordplay or a sourced etymology; mark disputed or unknown origins and do not derive doctrine from a name.", "literary_structure": "Show verse-linked line breaks, parallelism, repetition or a compact structure table where it aids comprehension at any depth. Label a proposed chiasm and do not manufacture symmetry."},
+        "translation_policy": method["translation_policy"],
         "budgets": budgets,
     }

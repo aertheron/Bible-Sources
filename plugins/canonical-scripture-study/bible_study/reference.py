@@ -119,6 +119,17 @@ class References:
             out.extend({"reference": self.label(Passage(p.book, c, a, c, b)), "boundary_status": status} for a, b in bounds)
         return out
 
+    def study_scope(self, reference, exact=False):
+        requested = self.parse(reference, allow_book=True)
+        candidates = []
+        for unit in config("literary-units")["units"]:
+            u = self.parse(unit["reference"])
+            if unit.get("auto_expand") and u.book == requested.book and (u.start_chapter, u.start_verse) <= (requested.start_chapter, requested.start_verse) and (requested.end_chapter, requested.end_verse) <= (u.end_chapter, u.end_verse):
+                candidates.append((self.count(u), unit, u))
+        selected = min(candidates, key=lambda item: item[0]) if candidates else None
+        target = requested if exact or selected is None else selected[2]
+        return {"requested_reference": self.label(requested), "study_reference": self.label(target), "expanded": target != requested, "selection": "exact_requested_scope" if exact else "curated_literary_unit" if selected else "host_literary_review_required", "literary_unit_reference": selected[1]["reference"] if selected else None, "literary_unit_title": selected[1]["title"] if selected else None, "instruction": "Explain the chosen literary boundary before studying it, including added verses and why they complete the argument or scene. For example: You asked for Genesis 1; I will study Genesis 1:1–2:3 because the seventh day completes this creation account. Complete the selected unit using bounded sequential retrieval. The unit index is not exhaustive: review unindexed boundaries from source discourse, then replan a defensible adjusted range with the exact option. Honour an explicit request to study only the named verses; still explain the surrounding unit."}
+
     def next(self, current):
         p = self.parse(current)
         last = self.last(p.book, p.end_chapter)

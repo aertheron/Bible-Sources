@@ -59,6 +59,15 @@ export class References {
     }
     return out;
   }
+  studyScope(reference, exact = false) {
+    const requested = this.parse(reference, true);
+    const within = (a, b) => a[0] < b[0] || a[0] === b[0] && a[1] <= b[1];
+    const selected = config('literary-units').units.map(unit => ({unit, range: this.parse(unit.reference)}))
+      .filter(({unit, range: u}) => unit.auto_expand && u.book === requested.book && within([u.start_chapter, u.start_verse], [requested.start_chapter, requested.start_verse]) && within([requested.end_chapter, requested.end_verse], [u.end_chapter, u.end_verse]))
+      .sort((a, b) => this.count(a.range) - this.count(b.range))[0];
+    const target = exact || !selected ? requested : selected.range;
+    return {requested_reference: this.label(requested), study_reference: this.label(target), expanded: this.label(target) !== this.label(requested), selection: exact ? 'exact_requested_scope' : selected ? 'curated_literary_unit' : 'host_literary_review_required', literary_unit_reference: selected?.unit.reference ?? null, literary_unit_title: selected?.unit.title ?? null, instruction: 'Explain the chosen literary boundary before studying it, including added verses and why they complete the argument or scene. For example: You asked for Genesis 1; I will study Genesis 1:1–2:3 because the seventh day completes this creation account. Complete the selected unit using bounded sequential retrieval. The unit index is not exhaustive: review unindexed boundaries from source discourse, then replan a defensible adjusted range with the exact option. Honour an explicit request to study only the named verses; still explain the surrounding unit.'};
+  }
   next(current) {
     const p = this.parse(current), last = this.last(p.book, p.end_chapter);
     const after = p.end_verse < last

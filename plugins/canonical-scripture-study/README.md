@@ -1,4 +1,4 @@
-# Canonical Scripture Study — Preview 0.1.7
+# Canonical Scripture Study — Preview 0.1.8
 
 *Study Scripture through its languages, context, and canonical story.*
 
@@ -34,13 +34,17 @@ The code and local runtime are published. A [free Cloudflare hosting package](cl
 
 ## Preview version and updating ChatGPT
 
-The manifest, Python adapter, Worker package and MCP `study_health.plugin_version` use the same semantic version (currently **0.1.7** on Preview). The running MCP server uses the deployed Git commit, not the version of this GitHub file until a successful Cloudflare deployment.
+The manifest, Python adapter, Worker package and MCP `study_health.plugin_version` use the same semantic version (currently **0.1.8** on Preview). The running MCP server uses the deployed Git commit, not the version of this GitHub file until a successful Cloudflare deployment.
 
 Changes to tools, shared MCP instructions or bundled on-demand study instructions take effect on the deployed server. Existing ChatGPT connections pointing to the same HTTPS `/mcp` endpoint do **not** need to be recreated. After a deployment, open the existing ChatGPT plugin connection and choose **Refresh** to rescan tool metadata and instructions, then test in a new conversation. The available UI may vary. The displayed plugin name/icon and any separately imported packaged skill files are not automatically replaced by a Worker deployment. Version changes may be visible through the `study_health` tool rather than the ChatGPT plugin card.
 
 The default delivery contract prefers successive visible assistant messages (orientation, verified translation and notes, exegesis, synthesis) within one user request. If ChatGPT cannot generate successive messages, provide the same content as a progressively streamed answer. MCP tools cannot themselves post chat messages or start background model work. `Next` still means the next Bible passage only.
 
 ## Commands and continuation
+
+Ordinary studies use the enclosing literary unit and explain the adjustment: `Genesis 1` selects **Genesis 1:1–2:3**, including the seventh day. The curated unit registry is selective; the host reviews other boundaries from source discourse. Ask for `Genesis 1:1–3, exact` to keep a particular focus. Focused translation and source-retrieval commands retain their specified range. English is the default; an explicit language request and saved continuation are honoured.
+
+Working translations preserve source-supported recognizable OT–NT quotation and echo wording. Consequential notes compare traditional and scholarly renderings and explain any consolidated working construction; real source differences stay visible.
 
 Natural language is the interface; these are routing aliases, not registered native slash commands. Bare passages default to Standard and complete the bounded study, with verified translation and notes presented before deeper interpretation when the chat host permits progressive output. Choose Detailed or Full for greater depth; a focused command still performs its own task. Explicit commands perform the requested task.
 

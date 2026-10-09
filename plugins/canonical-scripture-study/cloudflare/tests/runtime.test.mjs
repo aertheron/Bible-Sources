@@ -31,7 +31,7 @@ test('Worker matches Python source packets, plans, studies and validation contra
   const add = (kind, ...args) => cases.push({kind, args});
   for (const query of ['Translate Genesis 1:1-2:3', 'Translate Genesis 1-2, in Dutch, with original language interlinear', 'Translate the whole of Isaiah', 'Full study Romeinen 12:1-2, in Nederlands, with original interlinear', 'Romans 12:1-2', 'Exegesis only Romans 12:1-2', 'Word study testing. Compare Matthew 6:13 and James 1:13.', 'Theme study salvation', 'Translate Acts 8:37', 'Next', 'help', 'Translate Genesis 0', 'Translate Genesis 1:99', 'Translate Isaiah 67', 'Translate Genesis 5-3', 'Translate Unknown 1']) add('plan', query);
   for (const query of ['Word study ruach', 'Woordstudie ruach', 'Full word study ruach', 'Volledige woordstudie ruach', 'Standard word study ruach', 'Standaard woordstudie ruach', 'Word study ruach, full', 'Woordstudie ruach, volledig']) add('plan', query);
-  for (const query of ['Standard study Genesis 1:1', 'Detailed study Genesis 1-2', 'Uitgebreide studie Genesis 1', 'Word study testing, full', 'Exegesis only Romans 12:1-2, detailed', 'Translate Genesis 1, full', 'Genesis 1, standaard', 'Detailed Genesis 1']) add('plan', query);
+  for (const query of ['Genesis 1:1-3, exact', 'Genesis 1:1-3, precies', 'Genesis 1', 'Genesis 22:1', 'Luke 1:1-3', 'Standard study Genesis 1:1', 'Detailed study Genesis 1-2', 'Uitgebreide studie Genesis 1', 'Word study testing, full', 'Exegesis only Romans 12:1-2, detailed', 'Translate Genesis 1, full', 'Genesis 1, standaard', 'Detailed Genesis 1']) add('plan', query);
   for (const depth of ['standard', 'detailed', 'full', 'invalid', [], '__proto__']) add('plan', 'Genesis 1', null, 'en', 'plain_working', null, depth);
   const detailed = (await make().plan('Detailed study Genesis 1-2, in Dutch, with original language interlinear')).continuation_state;
   add('plan', 'Next', null, 'en', 'plain_working', detailed);
@@ -108,7 +108,7 @@ test('Preview delivery plans complete Standard studies and gate visible results'
 
 test('Next recommendations follow bounded literary units without overriding requested chapters', async () => {
   const engine = make();
-  const standard = await engine.plan('Genesis 1:1-3', null, 'nl');
+  const standard = await engine.plan('Genesis 1:1-3, exact', null, 'nl');
   assert.equal(standard.reference, 'Genesis 1:1-3');
   assert.equal(standard.next.reference, 'Genesis 1:4-2:3');
   assert.equal(standard.next.literary_unit_reference, 'Genesis 1:1-2:3');
@@ -119,7 +119,7 @@ test('Next recommendations follow bounded literary units without overriding requ
   assert.equal(portion.source_packets.reduce((n, packet) => n + packet.records.length, 0), 31);
   assert.equal(continuation.study_depth, 'standard');
   assert.equal(continuation.next.reference, 'Genesis 2:4-25');
-  const chapter = await engine.plan('Genesis 1');
+  const chapter = await engine.plan('Genesis 1, exact');
   assert.equal(chapter.next.reference, 'Genesis 2:1-3');
   const explicit = await engine.plan('Next chapter 2', null, 'en', 'plain_working', standard.continuation_state);
   assert.equal(explicit.reference, 'Genesis 2');
@@ -192,4 +192,21 @@ test('Deployment assets remain within free file allowances and exclude private R
   assert.ok(report.largest_asset_bytes < 25 * 1024 * 1024);
   assert.equal(report.indexed_chapters, 4150);
   assert.ok(Object.values(bundle.chapters).every(r => !/rahlfs/i.test(r.file ?? r.path)));
+});
+
+test('Ordinary studies explain and select the enclosing unit; exact and focused tasks retain scope', async () => {
+  const engine = make();
+  for (const query of ['Genesis 1', 'Standard study Genesis 1:1-3', 'Detailed study Genesis 1', 'Full study Genesis 1']) {
+    const plan = await engine.plan(query);
+    assert.equal(plan.reference, 'Genesis 1:1-2:3');
+    assert.equal(plan.scope_policy.expanded, true);
+    assert.equal(plan.next.reference, 'Genesis 2:4-25');
+    assert.equal((await engine.plan('Next', null, 'en', 'plain_working', plan.continuation_state)).reference, 'Genesis 2:4-25');
+  }
+  assert.equal((await engine.plan('Genesis 22:1')).reference, 'Genesis 22:1-19');
+  const exact = await engine.plan('Genesis 1:1-3, exact');
+  assert.equal(exact.reference, 'Genesis 1:1-3');
+  assert.equal(exact.scope_policy.expanded, false);
+  assert.equal((await engine.plan('Translate Genesis 1:1-3')).reference, 'Genesis 1:1-3');
+  assert.equal((await engine.plan('Luke 1:1-3')).scope_policy.selection, 'host_literary_review_required');
 });
