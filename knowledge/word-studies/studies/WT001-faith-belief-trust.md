@@ -1,6 +1,6 @@
 # WT001 — Faith, belief, trust
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** geloof, geloven, vertrouwen.
 
@@ -32,6 +32,15 @@ The working synthesis is that biblical faith normally involves trusting a trustw
 
 **Study questions for the theology check:** Trace promise, trust, and fidelity while preserving the distinction between God's reliability and the human response. Review disputed genitive constructions individually.
 
+### Full-depth sense inventory and context controls
+
+The main **attested semantic uses** in this study must remain distinct: (1) trust/believing a person or promise (Hebrew אמן in Gen 15:6; Greek *pisteuō*, Rom 4:3–5); (2) reliability or faithfulness, including God's fidelity against human unfaithfulness (Rom 3:3; Matt 23:23); (3) a person's trusting response in a proclamation or covenant relationship (Gal 2:16; 5:6); and (4) in appropriate definite constructions, the faith professed or taught as shared content. The last category is a contextual construction, **not** the meaning of every bare *pistis*. Noun *pistis*, verb *pisteuō*, adjective *pistos*, and Hebrew *’aman* have related but distinguishable grammar and ranges. The Hebrew root's associations with being firm or supported do not make “mental certainty,” “allegiance,” and “faithfulness” simultaneously active in every occurrence.
+
+**Participant and action test.** In Gen 15:6 Abraham trusts a **speaker** (Yahweh) about promised offspring; the focus is the personal object of faith. Rom 4:4–5 contrasts wage entitlement with believing God; the disputed point is not the mechanical size of Abraham's confidence. In Rom 3:3 Yahweh's faithfulness is at issue, rather than the believer's emotional response. In James 2:14–26 a claim to have faith is tested by whether the speaker actually helps a hungry person; keep the claimant, vulnerable recipient, acts, and argumentative question visible. The agent's **character** (God's fidelity versus human instability) does not create different dictionary definitions.
+
+**Construction and alternatives.** In Rom 3:22 and Gal 2:16, *pistis Christou* has credible subjective/faithfulness-of-Christ and objective/faith-in-Christ readings. A genitive alone does not settle the dispute; neighbouring explicit belief clauses and discourse are required. Ethical allegiance and practical faithfulness may follow from trusting Christ but should not be imposed as a replacement gloss on every *pistis*. Conversely, treating trust as mere factual assent ignores the text's relational object.
+
+**Canonical synthesis, not lexicon.** Abraham's response to promise, God's unbroken trustworthiness, justification as unearned gift, and active faith expressing itself in love can be related across Gen 15, Rom 4, Gal 5 and James 2. They are not interchangeable senses of a single token. **Coverage qualification:** selected anchored uses have been evaluated; this is not a complete Greek concordance of every “the faith,” personal name, or genitive construction.
 ## Evidence and lookup
 
 **Checked context bank:** Gen 15:6; Rom 4:1-5; Gal 5:6; Rom 3:3; Rom 3:22; Gal 2:16; Matt 23:23; Gal 1:23. Select relevant examples; this is not a request to analyze the full bank.
