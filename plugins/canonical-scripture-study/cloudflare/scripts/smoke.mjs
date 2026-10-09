@@ -32,7 +32,7 @@ assert.equal(list.tools.length, 11);
 assert.ok(list.tools.every(t => t.annotations.readOnlyHint && !t.annotations.destructiveHint && t.outputSchema));
 const health = (await tool('study_health')).structuredContent;
 assert.equal(health.indexed_chapters, 4150);
-assert.equal(health.plugin_version, '0.1.6');
+assert.equal(health.plugin_version, '0.1.7');
 assert.equal(health.deployment.paid_services_required, false);
 const plan = (await tool('study_plan', {query: 'Translate Genesis 1-2, in Dutch, with original language interlinear'})).structuredContent;
 assert.equal(plan.reference, 'Genesis 1');
