@@ -1,4 +1,4 @@
-# Canonical Scripture Study — Preview 0.1.3
+# Canonical Scripture Study — Preview 0.1.4
 
 *Study Scripture through its languages, context, and canonical story.*
 
@@ -32,9 +32,17 @@ The study interface is a ChatGPT conversation in Chat or Work. Once connected an
 
 The code and local runtime are published. A [free Cloudflare hosting package](cloudflare/) now supplies a native Worker, verified static source assets and a Streamable HTTP endpoint. Use its setup guide to deploy and then connect the actual HTTPS `/mcp` URL in ChatGPT. The existing OAuth deployment uses https://study.canonical-theology.com/mcp; this iteration is tested on the separate Preview connection before promotion. This hosting path needs no model API key; ChatGPT performs the study. Publishing these files does not replace the existing personal plugin or create a public Plugins Directory listing.
 
+## Preview version and updating ChatGPT
+
+The manifest, Python adapter, Worker package and MCP `study_health.plugin_version` use the same semantic version (currently **0.1.4** on Preview). The running MCP server uses the deployed Git commit, not the version of this GitHub file until a successful Cloudflare deployment.
+
+Changes to tools, shared MCP instructions or bundled on-demand study instructions take effect on the deployed server. Existing ChatGPT connections pointing to the same HTTPS `/mcp` endpoint do **not** need to be recreated. After a deployment, open the existing ChatGPT plugin connection and choose **Refresh** to rescan tool metadata and instructions, then test in a new conversation. The available UI may vary. The displayed plugin name/icon and any separately imported packaged skill files are not automatically replaced by a Worker deployment. Version changes may be visible through the `study_health` tool rather than the ChatGPT plugin card.
+
+The default delivery contract prefers successive visible assistant messages (orientation, verified translation and notes, exegesis, synthesis) within one user request. If ChatGPT cannot generate successive messages, provide the same content as a progressively streamed answer. MCP tools cannot themselves post chat messages or start background model work. `Next` still means the next Bible passage only.
+
 ## Commands and continuation
 
-Natural language is the interface; these are routing aliases, not registered native slash commands. Bare passages default to Standard and start with a concise study plan and orientation. Choose Detailed or Full for greater depth; a focused command still performs its own task. Explicit commands perform the requested task.
+Natural language is the interface; these are routing aliases, not registered native slash commands. Bare passages default to Standard and complete the bounded study, with verified translation and notes presented before deeper interpretation when the chat host permits progressive output. Choose Detailed or Full for greater depth; a focused command still performs its own task. Explicit commands perform the requested task.
 
 | Command | Output |
 | --- | --- |
