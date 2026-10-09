@@ -1,4 +1,4 @@
-# Canonical Scripture Study — Preview 0.1.5
+# Canonical Scripture Study — Preview 0.1.6
 
 *Study Scripture through its languages, context, and canonical story.*
 
@@ -34,7 +34,7 @@ The code and local runtime are published. A [free Cloudflare hosting package](cl
 
 ## Preview version and updating ChatGPT
 
-The manifest, Python adapter, Worker package and MCP `study_health.plugin_version` use the same semantic version (currently **0.1.5** on Preview). The running MCP server uses the deployed Git commit, not the version of this GitHub file until a successful Cloudflare deployment.
+The manifest, Python adapter, Worker package and MCP `study_health.plugin_version` use the same semantic version (currently **0.1.6** on Preview). The running MCP server uses the deployed Git commit, not the version of this GitHub file until a successful Cloudflare deployment.
 
 Changes to tools, shared MCP instructions or bundled on-demand study instructions take effect on the deployed server. Existing ChatGPT connections pointing to the same HTTPS `/mcp` endpoint do **not** need to be recreated. After a deployment, open the existing ChatGPT plugin connection and choose **Refresh** to rescan tool metadata and instructions, then test in a new conversation. The available UI may vary. The displayed plugin name/icon and any separately imported packaged skill files are not automatically replaced by a Worker deployment. Version changes may be visible through the `study_health` tool rather than the ChatGPT plugin card.
 
@@ -50,7 +50,8 @@ Natural language is the interface; these are routing aliases, not registered nat
 | Detailed study | Adds consequential terms, historical/cultural context, visible literary structure and bounded canonical links |
 | Full study | Context, translation, notes, local exegesis, biblical/canonical development, theology review |
 | Translation only / Translate | Working translation in the chosen format with necessary context and notes |
-| Word study | Source terms, contextual senses, translation guidance and bounded canonical development |
+| Word study / Woordstudie | **Standard** by default: concise meaning range, 2–3 key verse examples, verified source notes, brief synthesis |
+| Full word study / Volledige woordstudie | **Full**: developed form/sense study, contrasting passages, lexical evidence, meaningful alternatives and canonical development |
 | Theme study | Relevant anchors and biblical/canonical development |
 | Context and history | Literary, historical and cultural orientation |
 | Exegesis only | Passage explanation without requiring a new full translation |
@@ -58,6 +59,10 @@ Natural language is the interface; these are routing aliases, not registered nat
 | Theology check | Fair claim reconstruction and contextual evidence review |
 | DSS research | Paged physical records, reconstruction status and linguistic annotations |
 | Next / Next chapter 2 / Next: Genesis 2 | Continue with the saved mode, depth, language and display format |
+
+Examples: `Woordstudie ruach` (Standard), `Volledige woordstudie ruach` (Full), `Word study ruach, full` (Full). Explicitly choosing a depth does not change a word study into a passage study. Detailed remains supported as an intermediate depth option.
+
+For word-study citations, each important contextual sense should cite a real passage; consequential textual/translation claims identify the consulted edition. External lexicons (including BDB and HALOT) must be verified from their actual entries before being attributed or quoted. The selected STEP/OSHB supporting records and our own authored word studies do **not** stand in for a verified BDB/HALOT entry. When an exact lexicon cannot be consulted, the agent must say so rather than invent quotations, edition sections, page numbers or links. Full word studies include a short source list when external works were actually consulted.
 
 English and Dutch aliases are supported. The host can normalize other languages into the documented commands and pass a language code.
 
