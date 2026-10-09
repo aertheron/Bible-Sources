@@ -35,6 +35,44 @@ FOCUSED_MILESTONES = {
     "theme_study": ["orientation", "evidence_ready", "synthesis_ready"],
 }
 
+WORD_STUDY_SECTIONS = {
+  "standard": [
+    "core_meanings",
+    "key_occurrences",
+    "verified_lexical_evidence",
+    "brief_contextual_and_canonical_summary"
+  ],
+  "detailed": [
+    "core_meanings",
+    "key_occurrences",
+    "contextual_contrasts",
+    "verified_lexical_evidence",
+    "bounded_canonical_development"
+  ],
+  "full": [
+    "source_forms_and_range",
+    "contextual_sense_comparison",
+    "key_occurrences_and_counterexamples",
+    "verified_lexical_and_translation_evidence",
+    "semantic_overlap_and_uncertainties",
+    "canonical_development",
+    "theological_synthesis_and_limits"
+  ]
+}
+WORD_STUDY_GUIDANCE = {
+  "standard": "Present a compact word study: core meaning range, 2–3 diagnostic biblical occurrences with explicit references, one noteworthy distinction or uncertainty, and a brief synthesis. Do not turn a normal word study into a long passage-by-passage survey.",
+  "detailed": "Explain additional contextual contrasts and selected textual connections without forcing a comprehensive concordance or exhaustive canonical survey.",
+  "full": "Produce a developed word study: original forms, occurrence-specific senses, 4–6 diagnostic passages including meaningful counterexamples, semantic overlap, relevant translation traditions and bounded canonical development. Compare external lexica or scholarship only when the actual entries are available and read; retain unresolved alternatives."
+}
+WORD_CITATION_POLICY = {
+  "mode": "claim_level_verified_provenance",
+  "primary_text": "For every decisive occurrence, give book/chapter/verse; identify source edition or witness when a wording, morphology, textual variant or translation claim depends on it. Cite the actual retrieved passage, not a remembered reading.",
+  "lexical": "For each attributed lexicon claim, name the lexicon/source, lemma or entry ID, exact sense/subsection when available, and verse/example supporting the sense. Quote or paraphrase only entries actually retrieved/read. Do not attribute a sense to BDB, HALOT or another work just because the claim is plausible. Selected STEP/OSHB records do not verify BDB or HALOT.",
+  "external": "If the original lexicon or other scholarly work is not accessible, state that the particular attribution has not been verified; describe the contextual reading as your own assessment instead of inventing a quotation, section, page or URL. For explicit lexicon questions, seek the requested source if available at any depth.",
+  "source_classification": "Distinguish the primary biblical text, our curated model-assisted word-study record, selected lexicon data, and external scholarship. An internal study ID or source hash is provenance for project data, not proof that BDB/HALOT says something.",
+  "placement": "Attach short readable references to the individual key claims; for Full, include a compact Sources consulted section with exact consulted entries and links only when verified. Do not add empty bibliographies or raw internal cache paths."
+}
+
 def workflow(mode, depth):
     method = config("method")
     profile = method["study_depths"][depth]
@@ -55,7 +93,7 @@ def workflow(mode, depth):
     return {
         "study_depth": depth,
         "depth_label": profile["label"],
-        "response_sections": focused.get(mode, profile["sections"]),
+        "response_sections": WORD_STUDY_SECTIONS[depth] if mode == "word_study" else focused.get(mode, profile["sections"]),
         "delivery": {
             "mode": "progressive_in_current_turn",
             "preferred_surface": "sequential_assistant_messages_if_supported",
@@ -65,6 +103,7 @@ def workflow(mode, depth):
             "milestones": [DELIVERY_MILESTONES[id] for id in FOCUSED_MILESTONES.get(mode, ["orientation", "translation_ready", "explanation_ready", "synthesis_ready"])],
             "instruction": "Complete every applicable milestone for the current passage without waiting for user input. Prefer a short visible orientation, then separate visible assistant updates as each verified result is ready; present the translation and notes before deeper explanation. If the host cannot issue successive assistant messages, stream a single answer in the same order. Never claim later tool calls or background work will happen after the reply ends. Next means a different passage, not the next study phase.",
         },
+        **({"word_study_policy": {"default_depth": "standard", "available_depths": ["standard", "full"], "selected_depth": depth, "guidance": WORD_STUDY_GUIDANCE[depth], "target_diagnostic_occurrences": 6 if depth == "full" else 4 if depth == "detailed" else 3, "citation_policy": WORD_CITATION_POLICY}} if mode == "word_study" else {}),
         "source_policy": {"order": method["source_order"], "independent_analysis_first": True, "external_research_default": "selective_after_independent_analysis" if depth == "full" else "off", "explicit_research_request_can_override": True, "instruction": method["secondary_resources"]},
         "reading_aids": {"names_and_places": "Explain relevant names, places or objects from attested wording, explicit biblical wordplay or a sourced etymology; mark disputed or unknown origins and do not derive doctrine from a name.", "literary_structure": "Show verse-linked line breaks, parallelism, repetition or a compact structure table where it aids comprehension at any depth. Label a proposed chiasm and do not manufacture symmetry."},
         "budgets": budgets,
