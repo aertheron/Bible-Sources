@@ -11,6 +11,15 @@ const audience = 'local-test-audience';
 const {privateKey, publicKey} = await generateKeyPair('RS256');
 const jwk = {...await exportJWK(publicKey), kid: 'local-key', alg: 'RS256', use: 'sig'};
 const sign = (key = privateKey, aud = audience, expiry = '5m') => new SignJWT({email: 'study@example.test'}).setProtectedHeader({alg: 'RS256', kid: 'local-key'}).setIssuer(issuer).setAudience(aud).setIssuedAt().setExpirationTime(expiry).sign(key);
+test('First MCP instructions prioritize progressive delivery and do not promise background work', () => {
+  const source = readFileSync(resolve(here, '../src/worker.js'), 'utf8');
+  const firstPriority = source.indexOf("'DELIVERY PRIORITY:");
+  const name = source.indexOf("'Canonical Scripture Study —");
+  assert.ok(firstPriority > 0 && name > firstPriority);
+  assert.match(source.slice(firstPriority, name), /Next means the next Bible passage/);
+  assert.match(source, /single.*response in the same order/);
+});
+
 test('Streamable HTTP lifecycle and eleven tools through the actual Worker handler', async () => {
   const actualFetch = globalThis.fetch;
   const token = await sign();
