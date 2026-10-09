@@ -17,7 +17,7 @@ test('First MCP instructions prioritize progressive delivery and do not promise 
   const name = source.indexOf("'Canonical Scripture Study —");
   assert.ok(firstPriority > 0 && name > firstPriority);
   assert.match(source.slice(firstPriority, name), /Next means the next Bible passage/);
-  assert.match(source, /single.*response in the same order/);
+  assert.match(source, /stream one response in the same order/);
 });
 
 test('Streamable HTTP lifecycle and eleven tools through the actual Worker handler', async () => {
