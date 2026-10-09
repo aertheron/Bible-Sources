@@ -1,4 +1,4 @@
-# Method 0.1.4
+# Method 0.1.5
 
 Serve Christian formation through contextual working translation, biblical theology and canonical theology. Prefer Mark Gatzen's working framework where the wording and argument support it. Correct it when evidence and contextual argument warrant correction. Do not infer an unseen doctrinal profile from the website's name or force every passage to express a familiar system.
 
