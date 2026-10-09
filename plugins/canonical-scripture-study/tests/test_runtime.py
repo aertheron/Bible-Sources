@@ -37,6 +37,8 @@ class RuntimeTests(unittest.TestCase):
         self.assertEqual(standard["next"]["boundary_basis"], "curated_literary_continuation")
         after = self.engine.plan("Next", study_state=standard["continuation_state"])
         self.assertEqual(after["reference"], "Genesis 1:4-2:3")
+        source = self.engine.reader.passage(after["reference"], ["WLC"])
+        self.assertEqual(sum(len(packet["records"]) for packet in source["source_packets"]), 31)
         self.assertEqual(after["study_depth"], "standard")
         self.assertEqual(after["next"]["reference"], "Genesis 2:4-25")
 
