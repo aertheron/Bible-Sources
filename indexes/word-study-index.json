@@ -18,8 +18,8 @@
       "id": "WT001",
       "title": "Faith, belief, trust",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "geloof",
@@ -33,19 +33,19 @@
         "G4103"
       ],
       "study_path": "knowledge/word-studies/studies/WT001-faith-belief-trust.md",
-      "study_sha256": "3b7fc9d24e1682c896436089e66899c4181ebdc03f6e30d59b493b6424893dc2",
+      "study_sha256": "7d30a2dcdb06b93ca3e39db808acac995fa3e9475d5ef139c089e1e91b5f14b3",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
         "byte_offset": 0,
-        "byte_length": 5420,
-        "sha256": "848039d01aa2ce82c51fd5d07da5761ee09770cb37c446e4cef432a63b3a8248"
+        "byte_length": 8205,
+        "sha256": "1ec6c7b762df2bb4cba3f2849868db84e70ed916aba3d665ca0222c56534b685"
       },
       "sense_ids": [
         "WT001:SENSE:trust-response",
@@ -79,8 +79,8 @@
       "id": "WT002",
       "title": "Works, deeds, service",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "werken",
@@ -95,19 +95,19 @@
         "G2038"
       ],
       "study_path": "knowledge/word-studies/studies/WT002-works-deeds-service.md",
-      "study_sha256": "57a61b8fb81680d45c19a1dc02b2691b7fc49fdb05b349decff8832d6b474751",
+      "study_sha256": "42fe292d5aa61a446d3a7e26dca9a99463f171f493f448b5fb066a5d01ef275f",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 5420,
-        "byte_length": 5685,
-        "sha256": "01ff55fe4e1f406cb59683e90a7c1861bb7b90cf3bcb44797a453ce90a3e8c48"
+        "byte_offset": 8205,
+        "byte_length": 7885,
+        "sha256": "c672069091d1fe9e5338402a2d76a25715b1d79342fee4c8128824c8b500a835"
       },
       "sense_ids": [],
       "context_ids": [
@@ -134,8 +134,8 @@
       "id": "WT003",
       "title": "Salvation, rescue, deliverance",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "redding",
@@ -149,19 +149,19 @@
         "G4991"
       ],
       "study_path": "knowledge/word-studies/studies/WT003-salvation-rescue-deliverance.md",
-      "study_sha256": "548eecdf6cdb1c1be4a1142a1c83e09b1e9b4e36b2d4cf0a1727894ee4e68ee6",
+      "study_sha256": "8da36818b9c48e4a8fbe9200594cd9113c473ab0e8950bc399a20260099d835b",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 11105,
-        "byte_length": 5199,
-        "sha256": "fbf4b9e4906da6d705bf0bb174536bf9c09dee4209f50f9376ab774d4cc035c2"
+        "byte_offset": 16090,
+        "byte_length": 7166,
+        "sha256": "aa3aecc8b01abe99efb1fd92f57322663f1c71eaab0ccc47d30cc1dcef8ba69f"
       },
       "sense_ids": [],
       "context_ids": [
@@ -188,8 +188,8 @@
       "id": "WT004",
       "title": "Justification, vindication",
       "kind": "Theme hub",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "rechtvaardiging",
@@ -201,19 +201,19 @@
         "G1347"
       ],
       "study_path": "knowledge/word-studies/studies/WT004-justification-vindication.md",
-      "study_sha256": "466ad1e36a4ea5061a5b58aeab46718b61342344012205aab4562591b6936c68",
+      "study_sha256": "316b1b9aeb4dba65b7e7ee515d8e32f66b53706a8e5a42f9d94a6dbc5abc5e21",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 16304,
-        "byte_length": 5523,
-        "sha256": "a327c9c193c600679038e481714c91fd392bb592133cb30310256d9ae1aabdac"
+        "byte_offset": 23256,
+        "byte_length": 7610,
+        "sha256": "03b9fbc374a888eae4f01b40f3f6f4a9ae2ee637e133aae65c50b34ad76cc728"
       },
       "sense_ids": [],
       "context_ids": [
@@ -242,8 +242,8 @@
       "id": "WT005",
       "title": "Righteousness and justice",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "gerechtigheid",
@@ -258,19 +258,19 @@
         "G1342"
       ],
       "study_path": "knowledge/word-studies/studies/WT005-righteousness-and-justice.md",
-      "study_sha256": "beb8328c74ff3829cba44e7f1e2c75dcfad36b0596203802392a55a0db49ca42",
+      "study_sha256": "01511b16c4991ad9850d3aeb2b69714e75285418126e242d194c2f30f94b4846",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 21827,
-        "byte_length": 5629,
-        "sha256": "7fbb09ed70810c17d648fd1f02abbe315bf79e9993aa354ff4fb16826a5b864d"
+        "byte_offset": 30866,
+        "byte_length": 7759,
+        "sha256": "dff3c4f50d060fc1da99df691acdfba9d29da66928a809b2a453beaa41dfc375"
       },
       "sense_ids": [],
       "context_ids": [
@@ -298,8 +298,8 @@
       "id": "WT006",
       "title": "Holiness and sanctification",
       "kind": "Theme hub",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "heiligheid",
@@ -313,19 +313,19 @@
         "G38"
       ],
       "study_path": "knowledge/word-studies/studies/WT006-holiness-and-sanctification.md",
-      "study_sha256": "737f9450d1cba82ea9bdaf50ec7a392b77ea5008e1987f06d14a0ec441f9af2a",
+      "study_sha256": "de3c2d3447020ab4cad397eddc87ebdd83e0ce09add740105271d3a99b196465",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 27456,
-        "byte_length": 5446,
-        "sha256": "91ec7b2ffaa500199530f15d2ae55fe48607c059969c5457396aecc930e78f8f"
+        "byte_offset": 38625,
+        "byte_length": 7493,
+        "sha256": "339764c3e54f272799976ad757fc34e6848d492c042449906b71240e08eef898"
       },
       "sense_ids": [],
       "context_ids": [
@@ -352,8 +352,8 @@
       "id": "WT007",
       "title": "Election, foreknowledge, predestination",
       "kind": "Theme hub",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "verkiezing",
@@ -368,19 +368,19 @@
         "G4268"
       ],
       "study_path": "knowledge/word-studies/studies/WT007-election-foreknowledge-predestination.md",
-      "study_sha256": "65ecd2654a4c6c9c3935f21c333a00597f67e10c367a5b93cc71bab10fb7bd09",
+      "study_sha256": "229aad75126839c17fd096be06cb7880985657405ebe98d89221e2e2d63e5fbb",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 32902,
-        "byte_length": 5753,
-        "sha256": "d4a36f06ed6dacf403c21e012c744d8b9c106df3f888ec6f370b64b84332dbfd"
+        "byte_offset": 46118,
+        "byte_length": 7748,
+        "sha256": "7b9b7e8e1983685b57c61f3740ebbe39b6edb654f4bba747c843ef8143d6366d"
       },
       "sense_ids": [],
       "context_ids": [
@@ -408,8 +408,8 @@
       "id": "WT008",
       "title": "Freedom, willing, choice, responsibility",
       "kind": "Theme hub",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "vrije wil",
@@ -429,19 +429,19 @@
         "G551"
       ],
       "study_path": "knowledge/word-studies/studies/WT008-freedom-willing-choice-responsibility.md",
-      "study_sha256": "abe82eb680e3fbd1cd6a9f9d793233564dde13ad7a78dec0fb7042dc2496fd32",
+      "study_sha256": "5c65f8154b40caf979b02c97d5b22e4c7f2d67c4247a71c6417f42f417ee9c36",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 38655,
-        "byte_length": 6066,
-        "sha256": "caa33ccc24cc0f3a782f34abd863aee8c3fc4a72b05f801a9b625eb2b1dc4bbf"
+        "byte_offset": 53866,
+        "byte_length": 8130,
+        "sha256": "ac122214c4e91a2730689f744e9ec4a55562684a736c81c9999f28d057e453a1"
       },
       "sense_ids": [],
       "context_ids": [
@@ -476,8 +476,8 @@
       "id": "WT009",
       "title": "Nephesh, psychē, soul, life, person",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "nephesh",
@@ -491,19 +491,19 @@
         "G5590"
       ],
       "study_path": "knowledge/word-studies/studies/WT009-nephesh-psych-soul-life-person.md",
-      "study_sha256": "b40dd0ad327368a0dbec83e60ccd28245c4d705654c31de720f031f343bde942",
+      "study_sha256": "0ea12ca0a5a36806a244bfe30467ecf7257bba58e7b4a15a069d2fbcf73ba1e6",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 44721,
-        "byte_length": 5869,
-        "sha256": "3801c0f283699c37f91b9d0699e72caba7c2b8e1cdb2cf0314ce407957a07cbb"
+        "byte_offset": 61996,
+        "byte_length": 7760,
+        "sha256": "0d0deb391e11287797ea2bfb831a74f5927c4ec6181cc32c9a980e92c1b4704e"
       },
       "sense_ids": [
         "WT009:SENSE:living-being",
@@ -541,8 +541,8 @@
       "id": "WT010",
       "title": "Spirit, wind, breath, and Spirit-language",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "geest",
@@ -562,19 +562,19 @@
         "G3306"
       ],
       "study_path": "knowledge/word-studies/studies/WT010-spirit-wind-breath-and-spirit-language.md",
-      "study_sha256": "8a25883c2c9d08bf67cdfc28f7d7fba752191b155d734ae0fdb41b199fa5a256",
+      "study_sha256": "af51581090e3b87637f165d328bee379c9affe8eecef6c2d78c9825feb7c5bf6",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 50590,
-        "byte_length": 6024,
-        "sha256": "50afb1d25e934a6da9c7efede4e3b1d0b1ebc9e202ddcb7e314ae4ec2f3ddabc"
+        "byte_offset": 69756,
+        "byte_length": 8030,
+        "sha256": "667f4969151f60e699387b5b789089a0f93b39de1deb8e0759e47cf79a1ea39a"
       },
       "sense_ids": [
         "WT010:SENSE:wind",
@@ -615,8 +615,8 @@
       "id": "WT011",
       "title": "Heart, thought, intention",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "hart",
@@ -630,19 +630,19 @@
         "G3563"
       ],
       "study_path": "knowledge/word-studies/studies/WT011-heart-thought-intention.md",
-      "study_sha256": "31879d0fd1e60edb48e719b03f74b885792049c52b34fa4b9d316699dadfc02e",
+      "study_sha256": "9a95b1f08b58de4fb684af49d0f65447291c2421d9b57e50b3dcf397928aceeb",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 56614,
-        "byte_length": 5408,
-        "sha256": "66ac32b9a503353cf30574acb70d451f8cfa021ab5b3f016143b1e1685db2f2c"
+        "byte_offset": 77786,
+        "byte_length": 7385,
+        "sha256": "3422c7ce79ce4d43e3e1c528ed494026da06d2c4bee2633920ddb6e8bf39d0a4"
       },
       "sense_ids": [
         "WT011:SENSE:understanding-discernment",
@@ -673,8 +673,8 @@
       "id": "WT012",
       "title": "Flesh, body, embodied life",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "vlees",
@@ -687,19 +687,19 @@
         "G4983"
       ],
       "study_path": "knowledge/word-studies/studies/WT012-flesh-body-embodied-life.md",
-      "study_sha256": "e58a7b4bd001dfe80ef702e7987915cb34d7be6e4b768120b96a4dda9c7d5bc3",
+      "study_sha256": "d6b4d8f9da529364def84a833dfb7d6a564c80b132e503f1bbd618455a086f42",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 62022,
-        "byte_length": 5432,
-        "sha256": "bf06dbfd128751142e2621b4e800502e0a23c689b47d5f5f31d7bfcf016d7000"
+        "byte_offset": 85171,
+        "byte_length": 7352,
+        "sha256": "22050fd6ba79967d038816a141e901e6b3f12e37e5e674c946254e0c2e164438"
       },
       "sense_ids": [
         "WT012:SENSE:embodied-humanity",
@@ -733,8 +733,8 @@
       "id": "WT013",
       "title": "Yahweh, YHWH, the divine name",
       "kind": "Name and phrase",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "Yahweh",
@@ -747,19 +747,19 @@
         "H1961"
       ],
       "study_path": "knowledge/word-studies/studies/WT013-yahweh-yhwh-the-divine-name.md",
-      "study_sha256": "2e1ea0982a81bd5a02b5f4c270bfd87ae15871a8abe095d99b68d50d5cefbb5c",
+      "study_sha256": "c196b4eff61e8e2cb3b942ca7d7406d738d7818e5c399c372c823876049f518e",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 67454,
-        "byte_length": 5095,
-        "sha256": "fda86b588f2a3cb80a9b1d7d562307ab7eb449b57b943c9a5051c4ec0564192c"
+        "byte_offset": 92523,
+        "byte_length": 7014,
+        "sha256": "9fd243dacbcb10411a8405e3c4a600b87609281f366626de4bb862380db53eb7"
       },
       "sense_ids": [],
       "context_ids": [
@@ -785,8 +785,8 @@
       "id": "WT014",
       "title": "God, divine designations, and titles",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "God",
@@ -804,19 +804,19 @@
         "G2316"
       ],
       "study_path": "knowledge/word-studies/studies/WT014-god-divine-designations-and-titles.md",
-      "study_sha256": "97ff35e46a099a0c18584aecbfc43e6e9fbc5f27fc071ce2f795e80092d8e633",
+      "study_sha256": "3e25ba1c658b432f25a1771d06cd11ca891259a2c5c922a9f981a927a8ae96e0",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 72549,
-        "byte_length": 5714,
-        "sha256": "5327d533c0ee78664a35c84f25e70637b44184cec6af40cd9d4abb0889534071"
+        "byte_offset": 99537,
+        "byte_length": 7710,
+        "sha256": "b86e0b11cf819c4659c5e38674d34ddf09f0363bad97a0f146e9d3539469dd69"
       },
       "sense_ids": [],
       "context_ids": [
@@ -846,8 +846,8 @@
       "id": "WT015",
       "title": "Lord, master, hosts, sovereignty",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "Heer",
@@ -863,19 +863,19 @@
         "G3841"
       ],
       "study_path": "knowledge/word-studies/studies/WT015-lord-master-hosts-sovereignty.md",
-      "study_sha256": "ea742027f4e6d2aa5abefacf40ac36952955e9b299ad4cf6d5cf98d812351774",
+      "study_sha256": "077e162468f95d1595998509a8b52046ea86d5a3f2e241988c955c5a544ef644",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 78263,
-        "byte_length": 5300,
-        "sha256": "fc4834ad1e2df72c9b3025730d52ccfbf8a30efb036f802b963c8ae68bfe4f00"
+        "byte_offset": 107247,
+        "byte_length": 7261,
+        "sha256": "87bbc65d3756662b4d563791095d60ea72712757ec92831ccba6f9505996e04a"
       },
       "sense_ids": [
         "WT015:SENSE:divine-citation-reception"
@@ -906,8 +906,8 @@
       "id": "WT016",
       "title": "One, alone, I am he",
       "kind": "Name and phrase",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "één",
@@ -923,19 +923,19 @@
         "G1510"
       ],
       "study_path": "knowledge/word-studies/studies/WT016-one-alone-i-am-he.md",
-      "study_sha256": "5635d178db9ae75ed13e6bc26a46fe7d677834f6330af5525f2ef12ab8527ca1",
+      "study_sha256": "174d38377daee032f74fdd7c3f260ecb762460bc90de1a45209526a817b7e926",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 83563,
-        "byte_length": 5624,
-        "sha256": "43386db55925be9c2332c61ab2d34886704673aaf92197f866d11d078e762f75"
+        "byte_offset": 114508,
+        "byte_length": 7601,
+        "sha256": "c6a45604a560b86fcd5d249ecdacbd807fd98f2578346cb171a38aafb7f4bcee"
       },
       "sense_ids": [
         "WT016:SENSE:ordinary-identification",
@@ -969,8 +969,8 @@
       "id": "WT017",
       "title": "Creation, disorder, new creation",
       "kind": "Theme hub",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "schepping",
@@ -986,19 +986,19 @@
         "G2537"
       ],
       "study_path": "knowledge/word-studies/studies/WT017-creation-disorder-new-creation.md",
-      "study_sha256": "a9d7b1141607f9a242dbebf258a64e4f64d4f5159de90ad90a6aaa811c20dbb1",
+      "study_sha256": "6e9a8aacdde02123eb247d1202792d6ca25129cda5f4a7ad162e86ef3a705e75",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 89187,
-        "byte_length": 5503,
-        "sha256": "27db1bb780198d7e24b6ade937745a138461b6491e1be12569be4c9b5dac5bd4"
+        "byte_offset": 122109,
+        "byte_length": 7567,
+        "sha256": "43c262c75a502044dd3ab61bca24f7b24f460e7b42b695a59bb621ed66d771d2"
       },
       "sense_ids": [
         "WT017:SENSE:create"
@@ -1032,8 +1032,8 @@
       "id": "WT018",
       "title": "Covenant and covenant instruction",
       "kind": "Theme hub",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "verbond",
@@ -1047,19 +1047,19 @@
         "G3551"
       ],
       "study_path": "knowledge/word-studies/studies/WT018-covenant-and-covenant-instruction.md",
-      "study_sha256": "1e8f18a6ae99aa60682d8d773528b8beea6e4c392bdd8d7c7d44aaa5fa562b48",
+      "study_sha256": "e5155bf94b20a2b9f68490cfd99d6d88e3ba717e178dc1c133e3aa10be07f620",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 94690,
-        "byte_length": 5422,
-        "sha256": "20909caddce415af5477484f1e6e9efa3545689a80de730ce908c88724db001c"
+        "byte_offset": 129676,
+        "byte_length": 7501,
+        "sha256": "ba1b6678935a7f940518613e55706fd7cad1c0e6f35d3ea78b6c70d9d3ef6a63"
       },
       "sense_ids": [],
       "context_ids": [
@@ -1088,8 +1088,8 @@
       "id": "WT019",
       "title": "Love, ahavah, agapē",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "liefde",
@@ -1103,19 +1103,19 @@
         "G5368"
       ],
       "study_path": "knowledge/word-studies/studies/WT019-love-ahavah-agap.md",
-      "study_sha256": "553d7b673b661521a3c241260c8f4915ff5c4255e36b476d73d3f06fc22c2725",
+      "study_sha256": "d7af3aa1bf2d9552f03ebae3b164df48cfacdd53cac06b40c421b1db68cb687a",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 100112,
-        "byte_length": 5293,
-        "sha256": "dcab074ebfe0986f083d1047501bb752396db788fee4a510c7b70725b800fb7b"
+        "byte_offset": 137177,
+        "byte_length": 7175,
+        "sha256": "195677c8b43e212cad94ccb2b920c7dc2493ed813a7b0a79bc36d74e10c0b812"
       },
       "sense_ids": [
         "WT019:SENSE:wrongful-love-object",
@@ -1175,7 +1175,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 105405,
+        "byte_offset": 144352,
         "byte_length": 9260,
         "sha256": "a8e3cb68012e2443c022ddf0737f351bb99946be1811b2ee23ed31fad730b53f"
       },
@@ -1218,8 +1218,8 @@
       "id": "WT021",
       "title": "Truth, reliability, faithfulness",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "waarheid",
@@ -1233,19 +1233,19 @@
         "G4103"
       ],
       "study_path": "knowledge/word-studies/studies/WT021-truth-reliability-faithfulness.md",
-      "study_sha256": "c9c0d0664f360d029aaddba8b74317c6c2d42c3b6ad434ffa9327790c350062c",
+      "study_sha256": "269e8885b564d11e8144f51f51ef50aaf845a7691d751b58ebc2e5a2fdba48b2",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 114665,
-        "byte_length": 5533,
-        "sha256": "70e13d003f497f445e9bf9f00ade81db71990266e5c83829a9c3524bd9ac6b47"
+        "byte_offset": 153612,
+        "byte_length": 7539,
+        "sha256": "b725866b3ec30f9a286855821c78dfbbb3f00973a76852de7720c91ab6917a1e"
       },
       "sense_ids": [],
       "context_ids": [
@@ -1273,8 +1273,8 @@
       "id": "WT022",
       "title": "Grace, favor, graciousness",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "genade",
@@ -1288,19 +1288,19 @@
         "G5485"
       ],
       "study_path": "knowledge/word-studies/studies/WT022-grace-favor-graciousness.md",
-      "study_sha256": "9b45be247886783301b513e6b95b046d5179d3b907394b8d8ac713ba6bdeb508",
+      "study_sha256": "ad43ebdec24873fdfe5936d258d2c420a1c0585e1cc4f5bc18a0bae9dda20ce9",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 120198,
-        "byte_length": 5160,
-        "sha256": "5bce1efc813769007b1590d11eb384114f168b0ed83a9ac4b989bc113e3912eb"
+        "byte_offset": 161151,
+        "byte_length": 7187,
+        "sha256": "003419e3fe24926bb264904121d245370571af44ce328903676248195ae06616"
       },
       "sense_ids": [
         "WT022:SENSE:gracious-adjective"
@@ -1332,8 +1332,8 @@
       "id": "WT023",
       "title": "Compassion and mercy",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "ontferming",
@@ -1347,19 +1347,19 @@
         "G4697"
       ],
       "study_path": "knowledge/word-studies/studies/WT023-compassion-and-mercy.md",
-      "study_sha256": "182b15cd9bf73e4a92d422718e5f768da39bdd664180650d963eead6e933d433",
+      "study_sha256": "dd0ab47baef3aa3c79d65b8c6112f74048be435e5b86b8b9e7dc166b375bcc91",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 125358,
-        "byte_length": 5176,
-        "sha256": "eeccd1c1e9bbbe034282f09271e853ccf1e47f713a7cc877bc87c6f5b0fff7fd"
+        "byte_offset": 168338,
+        "byte_length": 7138,
+        "sha256": "36dc1d960c340c62727468df36d113ffdae6c8d6e1fb8bcc57dd67929b4cb46e"
       },
       "sense_ids": [
         "WT023:SENSE:compassion"
@@ -1388,8 +1388,8 @@
       "id": "WT024",
       "title": "Anger, patience, slow to anger",
       "kind": "Name and phrase",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "toorn",
@@ -1403,19 +1403,19 @@
         "G3115"
       ],
       "study_path": "knowledge/word-studies/studies/WT024-anger-patience-slow-to-anger.md",
-      "study_sha256": "c82382bd725698fd19a492210e9ba0e1a09b7615b73e7c7e13ff51aaf9fe8037",
+      "study_sha256": "41fa824e8b3b842fbc463a218d686b9599bdf0533fc5ff5c2fc4d3f58686111f",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 130534,
-        "byte_length": 5174,
-        "sha256": "dc4983bb6b9ee7c5fc43077c4bbb63f3120130274f5f3c88a95d98288cb0f71c"
+        "byte_offset": 175476,
+        "byte_length": 7155,
+        "sha256": "8fb4795d49a7ae70a9f32db317602006781b4aa97e62eb4112f77775d5aedd8d"
       },
       "sense_ids": [],
       "context_ids": [
@@ -1442,8 +1442,8 @@
       "id": "WT025",
       "title": "Hear, listen, obey",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "horen",
@@ -1456,19 +1456,19 @@
         "G5219"
       ],
       "study_path": "knowledge/word-studies/studies/WT025-hear-listen-obey.md",
-      "study_sha256": "fdeffb64927892e52e38d9c26190bf995dab2b398bdef663de445eb7d5ae3693",
+      "study_sha256": "53526c9745e45843b3ae5291de7d82e42d5dadcad2c167dce3c7bffb4edb8beb",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 135708,
-        "byte_length": 5217,
-        "sha256": "dfc162a4a7d1af7e0bd38c93f1402282fdf0440faab5bbd4a1b54a475a1966fa"
+        "byte_offset": 182631,
+        "byte_length": 7227,
+        "sha256": "a09d617de976d21e6066431870a9777d91ed2b3e12eca73a623c4b55f853489f"
       },
       "sense_ids": [],
       "context_ids": [
@@ -1496,8 +1496,8 @@
       "id": "WT026",
       "title": "Meod, strength, whole-person intensity",
       "kind": "Name and phrase",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "meod",
@@ -1510,19 +1510,19 @@
         "G2479"
       ],
       "study_path": "knowledge/word-studies/studies/WT026-meod-strength-whole-person-intensity.md",
-      "study_sha256": "45ac9e0805e7a0c6efeb5cafeb3f562fe742f637d878a23575c8026b0cd72086",
+      "study_sha256": "318535469a45e4fb9591330330d212b81e6aa6837b622b8a8d8764d8a00354d1",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 140925,
-        "byte_length": 5065,
-        "sha256": "d17a33f3ef6ee0b20608c6d5e777bf016865c568e0cfc22ebaa239502a4d28b4"
+        "byte_offset": 189858,
+        "byte_length": 7010,
+        "sha256": "aad5345f4a6c7bfb996398ab81e1d093cbf6b0f41c8f513132ae9055062a6276"
       },
       "sense_ids": [
         "WT026:SENSE:intensifier",
@@ -1551,8 +1551,8 @@
       "id": "WT027",
       "title": "Peace, shalom, well-being",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "vrede",
@@ -1564,19 +1564,19 @@
         "G1515"
       ],
       "study_path": "knowledge/word-studies/studies/WT027-peace-shalom-well-being.md",
-      "study_sha256": "32e72049497413624ca1d88ccc7d065d5d53c86ae0162a79495f206cc84afbe6",
+      "study_sha256": "54dd92c37741991836790c698ffd8edcc68b3854f8df985890b7456e56299ecd",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 145990,
-        "byte_length": 5047,
-        "sha256": "1c6d8ec01a55c0c8988ff372737833ca1b2f6aa3c4cb8ff5a0318edc13b6c4da"
+        "byte_offset": 196868,
+        "byte_length": 6990,
+        "sha256": "023fb4ba7738ef5468dd17b126a2aa0ce9c478b5f2fc3d615d977a107b186702"
       },
       "sense_ids": [],
       "context_ids": [
@@ -1603,8 +1603,8 @@
       "id": "WT028",
       "title": "Hope, waiting, expectation",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "hoop",
@@ -1618,19 +1618,19 @@
         "G1679"
       ],
       "study_path": "knowledge/word-studies/studies/WT028-hope-waiting-expectation.md",
-      "study_sha256": "ab847c42e5005c93d1bbb618736c164f21d335f28d437237e35364f85df607e6",
+      "study_sha256": "24de9d214f8de7f8dcf591190619df0c66ee0dacb448ba54a6f02101d247954a",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 151037,
-        "byte_length": 5140,
-        "sha256": "e7008e28163c9f370087ec2b9d27e4369b6b1ef5add2a9aa2481f96661d80ee2"
+        "byte_offset": 203858,
+        "byte_length": 7091,
+        "sha256": "1d86521efd71d16af147385bd224699d58bbd341c433bb886b5360287362723d"
       },
       "sense_ids": [],
       "context_ids": [
@@ -1656,8 +1656,8 @@
       "id": "WT029",
       "title": "Joy and rejoicing",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "vreugde",
@@ -1671,19 +1671,19 @@
         "G5463"
       ],
       "study_path": "knowledge/word-studies/studies/WT029-joy-and-rejoicing.md",
-      "study_sha256": "2a79e6fb149ee3ae1651691e6e89b76c5c1da8cae52ef901f9285609605ccaf0",
+      "study_sha256": "1209aa1a925763fc4146ed2204a33efb8b3577e3387b4a1921e4d9298f103bba",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 156177,
-        "byte_length": 5056,
-        "sha256": "8ca4a4e9a751893e5b866dd5742dcccdda14277065eee466fc3511be4e17d766"
+        "byte_offset": 210949,
+        "byte_length": 6900,
+        "sha256": "7d1801949d974d8aa2d573f76b8f836ab692fe0791b9e465f8efdd68500668a4"
       },
       "sense_ids": [],
       "context_ids": [
@@ -1711,8 +1711,8 @@
       "id": "WT030",
       "title": "Sin, failure, missing",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "zonde",
@@ -1726,19 +1726,19 @@
         "G264"
       ],
       "study_path": "knowledge/word-studies/studies/WT030-sin-failure-missing.md",
-      "study_sha256": "3e1789a384d1325af29f985843fa78207c0ec1d574b47bef843342cfb4ebb23b",
+      "study_sha256": "bf412341fe70a72e46d634ea29a7b00f874ca70079fd5d4b3847d19be821991d",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 161233,
-        "byte_length": 5185,
-        "sha256": "69a2dbdccf634c12830d675e634d9de78a3ad8710160005255015ad96eeb5bdc"
+        "byte_offset": 217849,
+        "byte_length": 7184,
+        "sha256": "1a4ad3db00b3ea2d8a676d1ed444f27663673518075eb474bd00832d33bf38f8"
       },
       "sense_ids": [],
       "context_ids": [
@@ -1765,8 +1765,8 @@
       "id": "WT031",
       "title": "Transgression, rebellion, breach",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "overtreding",
@@ -1780,19 +1780,19 @@
         "G3900"
       ],
       "study_path": "knowledge/word-studies/studies/WT031-transgression-rebellion-breach.md",
-      "study_sha256": "d925113afb382bed418a3a28476ed748a1f8fc5dc8b0be5ab53bef4a7cdbbe10",
+      "study_sha256": "0b284618832984384cd5071977b91e69717ba939963e0573d109fbd7b6aa5775",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 166418,
-        "byte_length": 5461,
-        "sha256": "a4640535db4d30dd64927a8b68d7d1651dce78a97eea260ca14dec31c3f88c29"
+        "byte_offset": 225033,
+        "byte_length": 7441,
+        "sha256": "e2799c99afd49830e0e00f4ba01491c6303056662ab0ae48577288949ed4a73d"
       },
       "sense_ids": [],
       "context_ids": [
@@ -1818,8 +1818,8 @@
       "id": "WT032",
       "title": "Iniquity, guilt, consequences",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "ongerechtigheid",
@@ -1831,19 +1831,19 @@
         "G458"
       ],
       "study_path": "knowledge/word-studies/studies/WT032-iniquity-guilt-consequences.md",
-      "study_sha256": "7d911936e45ac190452b9bada8adbc99710918d3c13ee0985bf437518fd1a76f",
+      "study_sha256": "1c64918eec8605b2b6d3add8958435a49b56f0346284caa96ae2bfe5853314c9",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 171879,
-        "byte_length": 5350,
-        "sha256": "5f0e3c9d18881109aa86418ee7deb7f1ffab57040c86869fee0d55ed494be8fa"
+        "byte_offset": 232474,
+        "byte_length": 7315,
+        "sha256": "f0b4b6719c1f0aab39849914f6fccf8001f08d907c745239a0c7e976ba66a9ae"
       },
       "sense_ids": [
         "WT032:SENSE:wrongdoing-burden"
@@ -1871,8 +1871,8 @@
       "id": "WT033",
       "title": "Repentance, turning, change of response",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "bekering",
@@ -1887,19 +1887,19 @@
         "G3338"
       ],
       "study_path": "knowledge/word-studies/studies/WT033-repentance-turning-change-of-response.md",
-      "study_sha256": "cacd17ce75510742c75f5c9b3ac0b6c24dda757d94a599f65eba8312dc602c8a",
+      "study_sha256": "3c9b46ce198c012c104a604619c3988e98a5e58243a68c85d598a07cb0587921",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 177229,
-        "byte_length": 5819,
-        "sha256": "44aa42102c8bf6f19e2d94b995a346fae102ed1964fb516fa21f05a893ab9096"
+        "byte_offset": 239789,
+        "byte_length": 7980,
+        "sha256": "6d171be1e058a95daa08492f11117c6fff5806ecf7637322cca4feb5327fafa2"
       },
       "sense_ids": [
         "WT033:SENSE:regret-relent",
@@ -1933,8 +1933,8 @@
       "id": "WT034",
       "title": "Forgiveness, release, pardon",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "vergeving",
@@ -1949,19 +1949,19 @@
         "G5483"
       ],
       "study_path": "knowledge/word-studies/studies/WT034-forgiveness-release-pardon.md",
-      "study_sha256": "142c47f88af88c1590fdae2de70401ba255ef83a8ac292bebb23b1df50073ba7",
+      "study_sha256": "093bc3792bfae396457c4ab5d1012031172bffaad9b2cd9b4ce15b1325649bbb",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 183048,
-        "byte_length": 6008,
-        "sha256": "433082035f7d312f5c3dfdeb6605da368caae1d44f461654ef11933e2a7d5b22"
+        "byte_offset": 247769,
+        "byte_length": 8115,
+        "sha256": "994c343c087085ce0020a8dd297e5c854c05ceafdf4dc092e65c800d851b88b3"
       },
       "sense_ids": [],
       "context_ids": [
@@ -1990,8 +1990,8 @@
       "id": "WT035",
       "title": "Redemption, ransom, buying back",
       "kind": "Theme hub",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "verlossing",
@@ -2006,19 +2006,19 @@
         "G59"
       ],
       "study_path": "knowledge/word-studies/studies/WT035-redemption-ransom-buying-back.md",
-      "study_sha256": "68084e35b2af6cd8e0ed2a32f7d9c818db2019419b5df98eb4adec97275e5cc8",
+      "study_sha256": "4d60b7066bb8cda2e6ff7136128d58db1bee86483ba91058f056abf56088aece",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 189056,
-        "byte_length": 5398,
-        "sha256": "1c8553475732b2087b23795888359625a4252d28f5ec8afba36b3a510757c8b2"
+        "byte_offset": 255884,
+        "byte_length": 7421,
+        "sha256": "9e2529142553c86357346cfef7853f41a63318aa143965851ad50eb1b1218fef"
       },
       "sense_ids": [],
       "context_ids": [
@@ -2047,8 +2047,8 @@
       "id": "WT036",
       "title": "Gospel, good news, announcement",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "evangelie",
@@ -2061,19 +2061,19 @@
         "G2097"
       ],
       "study_path": "knowledge/word-studies/studies/WT036-gospel-good-news-announcement.md",
-      "study_sha256": "214091c8a1dbdd9a0813de041a9bca908a7388ea12cd406cd1fedef2bf918776",
+      "study_sha256": "b451bde43ba7d9184016e6d83146afc60ad68f1fef34777852ee288543e383de",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 194454,
-        "byte_length": 5247,
-        "sha256": "8d9e0bce259f74c78e7af27b311c8978414ffce5e5b6ee673b44374737ef1908"
+        "byte_offset": 263305,
+        "byte_length": 7238,
+        "sha256": "81fa70eb9d0ba782dcadd733dfc3ea5fa8c789b6076282d58b2387c44ab28d2a"
       },
       "sense_ids": [],
       "context_ids": [
@@ -2100,8 +2100,8 @@
       "id": "WT037",
       "title": "Witness, testimony, martyr",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "getuige",
@@ -2115,19 +2115,19 @@
         "G3140"
       ],
       "study_path": "knowledge/word-studies/studies/WT037-witness-testimony-martyr.md",
-      "study_sha256": "b11ba062cb50bd8a60b9f227fb78ba1a57eafd8f5a58d09e7062bff7327f4e2b",
+      "study_sha256": "84f4f76e65e6330a708df00354a9eba600a3eda2bc65a9a0358c4949f40e8027",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 199701,
-        "byte_length": 5117,
-        "sha256": "654e8023d639d7fb57df410c1a94a3b0aa21dbc9beef8bcb80f9510804d8d853"
+        "byte_offset": 270543,
+        "byte_length": 7113,
+        "sha256": "75dee7599700a9d49a0dce7ea96c12f24f8e0640834639db1f9206de6f4445f1"
       },
       "sense_ids": [],
       "context_ids": [
@@ -2156,8 +2156,8 @@
       "id": "WT038",
       "title": "Passover, Pesach, pascha",
       "kind": "Name and phrase",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "Pesach",
@@ -2169,19 +2169,19 @@
         "G3957"
       ],
       "study_path": "knowledge/word-studies/studies/WT038-passover-pesach-pascha.md",
-      "study_sha256": "8f90bb4146a990318dce03dc2c03be71bb24cade2f0f55abca1fec2d4741a47e",
+      "study_sha256": "9254298186ac7c73d5c70afffd9f8e1f5cf27f3f9c6431a08cc5bd8d9e1f9faf",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 204818,
-        "byte_length": 5106,
-        "sha256": "6f9238a0f2f96c5a35f3c330fca9ec441aebe72de9919a411c7b0807d9f2350b"
+        "byte_offset": 277656,
+        "byte_length": 6987,
+        "sha256": "7bbbbc0ca92c644ba9e739e8f12d173ccade4ea6b20aeb76fd102468bceab319"
       },
       "sense_ids": [],
       "context_ids": [
@@ -2208,8 +2208,8 @@
       "id": "WT039",
       "title": "Messiah, Christ, anointing",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "Messias",
@@ -2223,19 +2223,19 @@
         "G5547"
       ],
       "study_path": "knowledge/word-studies/studies/WT039-messiah-christ-anointing.md",
-      "study_sha256": "627930579c35f9e6700326d70fb97d8994a765663ea0135b78529de1224e2410",
+      "study_sha256": "bdde9851219dc1c97375fcadd4d779c8f266bcf2d76fbc244c8c8e02a9f2e33a",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 209924,
-        "byte_length": 5155,
-        "sha256": "c6e7697b7da71d2e962d38d3fedd0d0321be9a35293411b2ebc9c795a31d300f"
+        "byte_offset": 284643,
+        "byte_length": 7155,
+        "sha256": "389473c1549d0302e54ab783600aa3906251c354ed2fec4421c9ae74ab33a7ae"
       },
       "sense_ids": [],
       "context_ids": [
@@ -2264,8 +2264,8 @@
       "id": "WT040",
       "title": "Son, children, monogenēs",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "Zoon",
@@ -2280,19 +2280,19 @@
         "G3439"
       ],
       "study_path": "knowledge/word-studies/studies/WT040-son-children-monogen-s.md",
-      "study_sha256": "8d62bde22a1eb008fb781af2f958618b68f4c4bef21f5e72dae19bedfab496f9",
+      "study_sha256": "b7980ab7523b1bb71cface020c21cf9a26928f1697d24e3d6169a1f924598072",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 215079,
-        "byte_length": 5607,
-        "sha256": "14ed0da0c73eb06080bcf3580ba69cc99c937dd8b1fad934a6b6eb13223385d3"
+        "byte_offset": 291798,
+        "byte_length": 7662,
+        "sha256": "eca12a0deba37091095063b5b81f95f65be751091b11892531e2101cda826e60"
       },
       "sense_ids": [
         "WT040:SENSE:only-child",
@@ -2330,8 +2330,8 @@
       "id": "WT041",
       "title": "Son of Man, human figure",
       "kind": "Name and phrase",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "Mensenzoon",
@@ -2345,19 +2345,19 @@
         "G444"
       ],
       "study_path": "knowledge/word-studies/studies/WT041-son-of-man-human-figure.md",
-      "study_sha256": "03fa6254e3dc4ff96e6ccefd3e6bc2b0eb4b89e024f946bcf626cccc5ebed5bc",
+      "study_sha256": "b9e1840bd19ffe1b77ed3da89fbe2a48dc024a174bdb84f3542211173a081a50",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 220686,
-        "byte_length": 5633,
-        "sha256": "5f03f10f560759fb6069bfcf0f8b932f5e84496cc6eb690412c4ee6a8385fa3e"
+        "byte_offset": 299460,
+        "byte_length": 7581,
+        "sha256": "923e491bf4445d18adf568949a3bc9184c1a7bd424b31d13c746d6378274325b"
       },
       "sense_ids": [],
       "context_ids": [
@@ -2385,8 +2385,8 @@
       "id": "WT042",
       "title": "Word, speech, message, Logos",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "woord",
@@ -2402,19 +2402,19 @@
         "G1510"
       ],
       "study_path": "knowledge/word-studies/studies/WT042-word-speech-message-logos.md",
-      "study_sha256": "23ba63534c9fc491c2cdd83194f3f0e8580689997eada2fe4049e17342c8e06f",
+      "study_sha256": "f79b9b87b83c02bca016aa577fcb7379a7304cf6f470222ab2dbb7d206cdf4df",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 226319,
-        "byte_length": 5769,
-        "sha256": "c38aeba72f424ef83e07d3fb02a26e0d0dbcee7aeae84d5812d17d66bd391669"
+        "byte_offset": 307041,
+        "byte_length": 7805,
+        "sha256": "bb708bb8dec0927d67c050fc8213e82cd6f341c1b3f80bf99fe73ef0c28a8195"
       },
       "sense_ids": [
         "WT042:SENSE:past-presence",
@@ -2450,8 +2450,8 @@
       "id": "WT043",
       "title": "Image, glory, form, exaltation",
       "kind": "Theme hub",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "beeld",
@@ -2471,19 +2471,19 @@
         "G4416"
       ],
       "study_path": "knowledge/word-studies/studies/WT043-image-glory-form-exaltation.md",
-      "study_sha256": "dc364a1fce03a568e3a458fde35c80cc20321a417e17082bf24430966e3731c5",
+      "study_sha256": "ad7aeb3d0ceda5ac75b20a8a0a1ad713905b690e6347234397ff5d64c95633fd",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 232088,
-        "byte_length": 6146,
-        "sha256": "1c4dfa986629bb858361bba1ce5266c875da6c1e6eb2813c0b2492455cbc7295"
+        "byte_offset": 314846,
+        "byte_length": 8227,
+        "sha256": "aa9a7fbb21f997e346c25548a214fc137da1b0034c5eda762630487bb384c273"
       },
       "sense_ids": [
         "WT043:SENSE:harpagmos-question"
@@ -2521,8 +2521,8 @@
       "id": "WT044",
       "title": "Servant, sacrifice, lamb, atonement",
       "kind": "Theme hub",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "knecht",
@@ -2543,19 +2543,19 @@
         "H3722"
       ],
       "study_path": "knowledge/word-studies/studies/WT044-servant-sacrifice-lamb-atonement.md",
-      "study_sha256": "8998cf5f5d38d31f817a9aae1bd428c682bd6066df21348fe3410b40d2c5da49",
+      "study_sha256": "0c663fac3418aa289972f3c9f48e6f2eaca77e465ee83f0dfd96d3f48705fb39",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 238234,
-        "byte_length": 6186,
-        "sha256": "08c8e3385f33082e4e5a9e2346c29c8f7fbe517e37ef28f1d935e0a4e17306e0"
+        "byte_offset": 323073,
+        "byte_length": 8403,
+        "sha256": "cc30b6066c847cdf73fc3aadf226b43d286c5a251e625a59e0484a110f470165"
       },
       "sense_ids": [
         "WT044:SENSE:servant-designation",
@@ -2596,8 +2596,8 @@
       "id": "WT045",
       "title": "Resurrection, newness, firstfruits, coming",
       "kind": "Theme hub",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "opstanding",
@@ -2618,19 +2618,19 @@
         "G1163"
       ],
       "study_path": "knowledge/word-studies/studies/WT045-resurrection-newness-firstfruits-coming.md",
-      "study_sha256": "103b3b29902fdc08caaa59baacb385007d4d7ecb06020920dd643dc15bb32573",
+      "study_sha256": "f20684d4dc4e236dd064ea4823c0237afaf7c0df0c8b19f7928d4e2f84316a26",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 244420,
-        "byte_length": 6629,
-        "sha256": "9178291f6a41f5888d5e4f466d8027ae1e1ea3c67370dd7a8ed24bb5d06b169f"
+        "byte_offset": 331476,
+        "byte_length": 8906,
+        "sha256": "3da862fdb4f309c356e034b9da600bda619f439fa0708eac40c82fcbfa88712b"
       },
       "sense_ids": [
         "WT045:SENSE:ordinary-arrival",
@@ -2671,8 +2671,8 @@
       "id": "WT046",
       "title": "Baptism, cleansing, union with Christ",
       "kind": "Theme hub",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "doop",
@@ -2685,19 +2685,19 @@
         "G1906"
       ],
       "study_path": "knowledge/word-studies/studies/WT046-baptism-cleansing-union-with-christ.md",
-      "study_sha256": "daa9eb2e155248955978b1a70534c247f33725f541e7c76b8a1e7db66ed4a47e",
+      "study_sha256": "68524f9152ce2772bf3f656afa2eb154b9b276ec193b7e005e5282fe01a14820",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 251049,
-        "byte_length": 6078,
-        "sha256": "ffaf5613574e1b82bb7b6261c89b90403edb4b33dbf9f0a97d68f6f4b11cfac4"
+        "byte_offset": 340382,
+        "byte_length": 8192,
+        "sha256": "0fa83fc40faa661bc3ec9966dbd479ddb46b549724fb78e764c8a0ed529f48bc"
       },
       "sense_ids": [
         "WT046:SENSE:appeal-undertaking-disputed"
@@ -2728,8 +2728,8 @@
       "id": "WT047",
       "title": "Kingdom, presence, temple, abiding",
       "kind": "Theme hub",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "koninkrijk",
@@ -2748,19 +2748,19 @@
         "G1577"
       ],
       "study_path": "knowledge/word-studies/studies/WT047-kingdom-presence-temple-abiding.md",
-      "study_sha256": "1d837797417b99acb4866bf22166929e5ee1e3ebc7c1054f8d18d5a2a965a38f",
+      "study_sha256": "3cc1de0b78ac58c70933d922dc91db9e4060de72971840be5ec6ef2a0ebfebd5",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 257127,
-        "byte_length": 6237,
-        "sha256": "4dce0967335201c6dfe8f1c6d7e90decfa0fb3c56480d3b3204588bcd6af34fb"
+        "byte_offset": 348574,
+        "byte_length": 8287,
+        "sha256": "6894f1d7a5bbdcd4f1ae15bf16798ab5740ce32311f67c0ba014e3f6c0d56572"
       },
       "sense_ids": [
         "WT047:SENSE:community-temple",
@@ -2796,8 +2796,8 @@
       "id": "WT048",
       "title": "Adoption, inheritance, seal, pledge",
       "kind": "Theme hub",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "aanneming tot kinderen",
@@ -2813,19 +2813,19 @@
         "G728"
       ],
       "study_path": "knowledge/word-studies/studies/WT048-adoption-inheritance-seal-pledge.md",
-      "study_sha256": "4e85b186163a71df042ced4a0091497a0f3b6f5a261af7daa73368a4a7251f23",
+      "study_sha256": "4fd8d53ca23ec5189be3ade49dfe332a268ffd8325e678cc32206b8d8c0a3a9e",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 263364,
-        "byte_length": 5876,
-        "sha256": "8c62cbb2073b30ba921885997827b89c238af8cd092814ac859e1335838c4129"
+        "byte_offset": 356861,
+        "byte_length": 7915,
+        "sha256": "7f67bc9a6581d008696c7ccf2daf7eaa7394a814882b77dcd5804eb99ef48c89"
       },
       "sense_ids": [],
       "context_ids": [
@@ -2853,8 +2853,8 @@
       "id": "WT049",
       "title": "Judgment, death, Sheol, Hades, Gehenna, Tartarus, abyss",
       "kind": "Theme hub",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "oordeel",
@@ -2882,19 +2882,19 @@
         "G2851"
       ],
       "study_path": "knowledge/word-studies/studies/WT049-judgment-death-sheol-hades-gehenna-tartarus-abyss.md",
-      "study_sha256": "e5421936598f44b1798f0a7c7dac42f551949fd9ab70b4b69f92c06d0520cacb",
+      "study_sha256": "7642e93604db075ee7584bc3ae34c49a033e89dcb3873a16f24669050dc47f52",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 269240,
-        "byte_length": 8717,
-        "sha256": "8e6d252a623e260287d9fffdaa445f88ff31406eb2af93e15ce3d24998ca62a0"
+        "byte_offset": 364776,
+        "byte_length": 11770,
+        "sha256": "db294993c796544969e27bff1ef6a9deb7cdc70435c41cd43c84b3d6647d2f0d"
       },
       "sense_ids": [
         "WT049:SENSE:dead-realm-grief",
@@ -2944,8 +2944,8 @@
       "id": "WT050",
       "title": "Marriage, one flesh, desire, sexual ethics",
       "kind": "Theme hub",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "huwelijk",
@@ -2966,19 +2966,19 @@
         "G22"
       ],
       "study_path": "knowledge/word-studies/studies/WT050-marriage-one-flesh-desire-sexual-ethics.md",
-      "study_sha256": "70c4aae0bad45e6e1b2a85c3b7c17ada289935eb66c6a5fccd8ceee21eff46d1",
+      "study_sha256": "48cb2b5ce2c4089edb3528c05dc6473ac3387e5e85f6a768f725f9dbbd78f410",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
-        "contextual_and_canonical_study": "authored model-assisted synthesis",
+        "contextual_and_canonical_study": "expanded model-assisted Full semantic and contextual audit; selected verified anchor ranges, not independently exhaustive",
         "independent_peer_review": false,
         "corpus_wide_lemma_annotation": false
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 277957,
-        "byte_length": 8335,
-        "sha256": "fc2f6d8d84219d603cbe65629a9de2f207627dec65ccfa9c7dc36d7e2adc80df"
+        "byte_offset": 376546,
+        "byte_length": 11271,
+        "sha256": "9874a7655d1bc2d1c361c25c1009e1c3f1588009df6e6bdee7a2acb8c18a5799"
       },
       "sense_ids": [
         "WT050:SENSE:positive-desire",

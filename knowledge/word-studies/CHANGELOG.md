@@ -1,5 +1,9 @@
 # Study collection changes
 
+## 2026-10-09 — Full-depth semantic and theological expansion of all 50 studies
+
+Expanded WT001–WT019 and WT021–WT050 individually with new Full-study sections: principal and contrasting attested senses, lexical distinctions, grammatical actors/recipients, contextual relationships, literary and canonical development, meaningful alternatives, and clear theological synthesis/limits. WT020 hesed was previously revised to 0.3.0 and is included unchanged in the complete 50. Both human-readable Markdown and MCP-retrievable structured core studies are updated; index spans/hashes and provenance manifest regenerated. These are model-assisted, evidence-bounded study expansions; selected anchor verification is not an exhaustive concordance, complete lexicon, or independent peer review.
+
 ## 2026-10-09 — WT020 hesed version 0.3.0
 
 Expanded the full semantic range and contextual differentiation of hesed. Distinguished kindness, mercy, human loyalty, devotion, covenant love and the separate rare shame/reproach homonym; added verified human-to-human references and the contrast of God's lasting hesed with Israel's temporary hesed. Distinguished grace and mercy from lexical equivalents; documented Greek OT variation and the level of certainty for New Testament connections. Added four contextual annotations and regenerated entry and sense lookup offsets/checksums. Existing 50 stable IDs retained. No independent peer review or exhaustive corpus-wide tagging claimed.
