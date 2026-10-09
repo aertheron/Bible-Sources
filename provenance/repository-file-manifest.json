@@ -1463,8 +1463,8 @@
     {
       "path": "plugins/canonical-scripture-study/bible_study/config/source-profile.json",
       "bytes": 31922,
-      "sha256": "e458d88300660daaaebf1df2416617995a90b44f8347ac079fad768d43beb125",
-      "git_blob_sha": "cdd32cbe43cea73ca963da58333dba344f8b9396"
+      "sha256": "5935e30aa065cd8cfe95a178bff4454541d76966f5e32b232c151a5a521553a8",
+      "git_blob_sha": "583741b6a4eb943082449fb73bb857ae745f45d6"
     },
     {
       "path": "plugins/canonical-scripture-study/bible_study/config/textual-cases.json",
