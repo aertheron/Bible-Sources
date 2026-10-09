@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.5 Preview — 2026-10-09
+
+- Choose bounded remaining verses of a curated literary unit for Next suggestions, even across chapter boundaries (Genesis 1:1–3 → 1:4–2:3), without automatically expanding the current request.
+- Keep explicit Next chapter and pending chapter portions authoritative; fall back to existing bounded chunking when curated continuations cannot be used.
+- Explain literary boundary choices and interpret dependent openings at the necessary discourse scale, not a fixed five-verse context window.
+- Mirror reference and planner changes across Python/JavaScript, with specific Next, continuation, and smoke regression checks.
+- Preserve the progressive delivery behavior introduced in 0.1.4; no authentication changes; Production unchanged pending review.
+
 ## 0.1.4 Preview — 2026-10-09
 
 - Require an actual completed Standard study instead of stopping at the returned study plan.
