@@ -121,6 +121,39 @@ class RuntimeTests(unittest.TestCase):
         self.assertEqual(self.engine.plan("Translate Genesis 1, full")["study_depth"], "full")
         self.assertEqual(self.engine.plan("help")["default_study_depth"], "standard")
 
+    def test_word_study_standard_full_and_citation_contracts(self):
+        basic = self.engine.plan("Woordstudie ruach", language="nl")
+        self.assertEqual(basic["mode"], "word_study")
+        self.assertEqual(basic["topic"], "ruach")
+        self.assertEqual(basic["study_depth"], "standard")
+        self.assertEqual(basic["word_study_policy"]["selected_depth"], "standard")
+        self.assertEqual(basic["word_study_policy"]["target_diagnostic_occurrences"], 3)
+        self.assertIn("key_occurrences", basic["response_sections"])
+        self.assertNotIn("theological_synthesis_and_limits", basic["response_sections"])
+        self.assertEqual(basic["budgets"]["secondary_sources"], 0)
+        self.assertIn("BDB", basic["word_study_policy"]["citation_policy"]["lexical"])
+
+        for cmd in ("Full word study ruach", "Volledige woordstudie ruach", "Word study ruach, full", "Woordstudie ruach, volledig"):
+            with self.subTest(command=cmd):
+                full = self.engine.plan(cmd, language="nl")
+                self.assertEqual(full["mode"], "word_study")
+                self.assertEqual(full["topic"], "ruach")
+                self.assertEqual(full["study_depth"], "full")
+                self.assertEqual(full["word_study_policy"]["target_diagnostic_occurrences"], 6)
+                self.assertIn("theological_synthesis_and_limits", full["response_sections"])
+                self.assertEqual(full["budgets"]["secondary_sources"], 2)
+                self.assertTrue(full["word_study_policy"]["citation_policy"]["source_classification"])
+
+        for cmd in ("Standard word study ruach", "Standaard woordstudie ruach", "Word study ruach, standard"):
+            with self.subTest(command=cmd):
+                self.assertEqual(self.engine.plan(cmd)["study_depth"], "standard")
+
+        self.assertEqual(self.engine.plan("Word study ruach", study_depth="full")["study_depth"], "full")
+        full = self.engine.plan("Full word study ruach")
+        self.assertEqual(full["delivery"]["milestones"][1]["id"], "evidence_ready")
+        self.assertFalse(full["delivery"]["background_jobs"])
+        self.assertEqual(self.engine.plan("Full study Genesis 1:1-3")["mode"], "full_study")
+
     def test_depth_continuation_and_legacy_state(self):
         p = self.engine.plan("Detailed study Genesis 1-2, in Dutch, with original language interlinear")
         saved = copy.deepcopy(p["continuation_state"])
