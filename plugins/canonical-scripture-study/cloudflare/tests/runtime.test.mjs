@@ -81,6 +81,30 @@ test('Worker matches Python source packets, plans, studies and validation contra
   t.diagnostic(`${cases.length} parity cases matched, including 1,189 chapter boundaries, all 50 studies and all selected lexical IDs.`);
 });
 
+test('Preview delivery plans complete Standard studies and gate visible results', async () => {
+  const standard = await make().plan('Genesis 1:1-3', null, 'nl');
+  assert.equal(standard.study_depth, 'standard');
+  assert.match(standard.reader_action, /Complete this bounded passage/);
+  assert.deepEqual(standard.delivery.milestones.map(x => x.id), ['orientation', 'translation_ready', 'explanation_ready', 'synthesis_ready']);
+  assert.equal(standard.delivery.preferred_surface, 'sequential_assistant_messages_if_supported');
+  assert.equal(standard.delivery.fallback_surface, 'single_streamed_answer_with_milestones');
+  assert.equal(standard.delivery.requires_user_prompt_between_milestones, false);
+  assert.equal(standard.delivery.background_jobs, false);
+  assert.match(standard.delivery.instruction, /Next means a different passage/);
+  assert.ok(standard.delivery.milestones.every(x => x.ready_when && x.present));
+
+  const translation = await make().plan('Translate Genesis 1:1-3');
+  assert.deepEqual(translation.delivery.milestones.map(x => x.id), ['orientation', 'translation_ready']);
+  const word = await make().plan('Word study ruach');
+  assert.deepEqual(word.delivery.milestones.map(x => x.id), ['orientation', 'evidence_ready', 'synthesis_ready']);
+  assert.equal(word.delivery.milestones.some(x => x.id === 'translation_ready'), false);
+  const detailed = await make().plan('Detailed study Genesis 1-2');
+  const next = await make().plan('Next', null, 'en', 'plain_working', detailed.continuation_state);
+  assert.equal(next.reference, 'Genesis 2');
+  assert.equal(next.study_depth, 'detailed');
+  assert.deepEqual(next.delivery.milestones, detailed.delivery.milestones);
+});
+
 test('Source tampering, unsafe paths and oversized packets fail closed', async () => {
   clearCache();
   const key = Object.keys(bundle.chapters)[0], pointer = bundle.chapters[key];
