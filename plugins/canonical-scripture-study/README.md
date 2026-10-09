@@ -1,4 +1,4 @@
-# Canonical Scripture Study — Preview 0.1.4
+# Canonical Scripture Study — Preview 0.1.5
 
 *Study Scripture through its languages, context, and canonical story.*
 
@@ -34,7 +34,7 @@ The code and local runtime are published. A [free Cloudflare hosting package](cl
 
 ## Preview version and updating ChatGPT
 
-The manifest, Python adapter, Worker package and MCP `study_health.plugin_version` use the same semantic version (currently **0.1.4** on Preview). The running MCP server uses the deployed Git commit, not the version of this GitHub file until a successful Cloudflare deployment.
+The manifest, Python adapter, Worker package and MCP `study_health.plugin_version` use the same semantic version (currently **0.1.5** on Preview). The running MCP server uses the deployed Git commit, not the version of this GitHub file until a successful Cloudflare deployment.
 
 Changes to tools, shared MCP instructions or bundled on-demand study instructions take effect on the deployed server. Existing ChatGPT connections pointing to the same HTTPS `/mcp` endpoint do **not** need to be recreated. After a deployment, open the existing ChatGPT plugin connection and choose **Refresh** to rescan tool metadata and instructions, then test in a new conversation. The available UI may vary. The displayed plugin name/icon and any separately imported packaged skill files are not automatically replaced by a Worker deployment. Version changes may be visible through the `study_health` tool rather than the ChatGPT plugin card.
 
@@ -60,6 +60,8 @@ Natural language is the interface; these are routing aliases, not registered nat
 | Next / Next chapter 2 / Next: Genesis 2 | Continue with the saved mode, depth, language and display format |
 
 English and Dutch aliases are supported. The host can normalize other languages into the documented commands and pass a language code.
+
+The next-passage suggestion consults curated literary units before defaulting to a modern chapter boundary. After Genesis 1:1–3, the default suggestion is Genesis 1:4–2:3 to finish the seven-day literary unit; after Genesis 1 alone, Genesis 2:1–3 finishes that unit. An explicit `Next chapter 2` remains a chapter request, and `Genesis 1–2` preserves its explicitly requested chapter portions. The current study is never silently expanded. Where no reliable, bounded literary unit is indexed, retain the size-safe fallback and review local discourse. The curated literary unit list is intentionally incomplete.
 
 Large requests become a sequence: **Genesis 1–2** gives Genesis 1, then Genesis 2 on **Next**. **Genesis 1:1–2:3** remains a single portion, followed by Genesis 2:4–25. A request for the whole of Isaiah starts at Isaiah 1. Psalm 119 uses its 22 eight-verse stanzas; Luke 1 uses 1–25, 26–56 and 57–80. Ten long chapters have curated study boundaries; others use explicitly provisional size boundaries that the host should review against discourse. Do not reject a valid request solely for length or silently discard the remainder.
 
