@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.6 Preview — 2026-10-09
+
+- Default Word study / Woordstudie to a concise Standard word study; add explicit Full word study / Volledige woordstudie routing and depth-specific response sections.
+- Keep the existing optional Detailed depth, selected research budgets and phased delivery; add word-specific coverage targets without bloating Standard.
+- Require claim-adjacent biblical references and verifiable source attribution for lexicographical claims; never invent BDB/HALOT quotations or infer their contents from selected STEP/OSHB project records.
+- Return a structured word_study_policy and citation_policy in both JavaScript and Python planners and update study skills, MCP instructions, documentation, parity tests and smoke checks.
+- No source-text changes, authentication changes or Production promotion.
+
 ## 0.1.5 Preview — 2026-10-09
 
 - Choose bounded remaining verses of a curated literary unit for Next suggestions, even across chapter boundaries (Genesis 1:1–3 → 1:4–2:3), without automatically expanding the current request.
