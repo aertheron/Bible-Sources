@@ -1018,9 +1018,9 @@
     },
     {
       "path": "indexes/word-study-index.json",
-      "bytes": 229583,
-      "sha256": "71f5c30cc70cdf6f66d8f394faedebf079eff3c55937b391a3f97c0d3aea8f56",
-      "git_blob_sha": "a61ee4f9ea40b0014f8c88b280bcbd00c23a69bf"
+      "bytes": 231267,
+      "sha256": "80b0d59443255e6647210a6f9a15ee9c91ea5f9be5ba295a785b5732e185165d",
+      "git_blob_sha": "ec9e3b24a23025297c947c84a6e0b3063d4a32ac"
     },
     {
       "path": "knowledge/word-studies/ATTRIBUTION.md",
@@ -1030,9 +1030,9 @@
     },
     {
       "path": "knowledge/word-studies/CHANGELOG.md",
-      "bytes": 691,
-      "sha256": "c8bf02f8c7f6d6197b9d3b8aa136ce99d623f0bdf9f095494b028c55f711bd53",
-      "git_blob_sha": "9848261680161263fb1bf39c04ebf10a9bb55c3c"
+      "bytes": 1378,
+      "sha256": "236800fc4829a31b3938ed6a83d4d771e15ec6ca5fbd5364e3c2c31752dba530",
+      "git_blob_sha": "3fe97df320b483a6dc73db87d83bf1c62f2ad7b2"
     },
     {
       "path": "knowledge/word-studies/ENTRY_TEMPLATE.md",
@@ -1054,15 +1054,15 @@
     },
     {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "bytes": 28112,
-      "sha256": "e8b1fd62c05684499a4eae1053f722fc4ae25c1279262c553f017cf16d30795f",
-      "git_blob_sha": "a7381456d4aa76046f740f11b446bc12e99395a0"
+      "bytes": 30286,
+      "sha256": "12cdd35dba4ed1fc9d6b1e6ad65caca964a5a31e00ab248b8e572cb5d13dd698",
+      "git_blob_sha": "80937dd05c5f15bb5ff8ae94c9a8b22480ca1c68"
     },
     {
       "path": "knowledge/word-studies/data/entries.jsonl",
-      "bytes": 282088,
-      "sha256": "090ebf01fd7b60672ba46915bb9b663c9313e88c1a9e59f39d685055ea983059",
-      "git_blob_sha": "ebbc09abfa712381b201cfed08f0790af93ec131"
+      "bytes": 286292,
+      "sha256": "341d76c633e9c475f9789d6e9458a28c9beaa08dc78e79687ccf9d6ea8597e2c",
+      "git_blob_sha": "5bd50216e3b02234a4c4522c9c6e034ffa291658"
     },
     {
       "path": "knowledge/word-studies/data/passage_contexts.jsonl",
@@ -1198,9 +1198,9 @@
     },
     {
       "path": "knowledge/word-studies/studies/WT020-hesed-loyal-love-kindness.md",
-      "bytes": 5444,
-      "sha256": "293a035d94db4ed82e5dd18d2cf409126a0688a16360f958e57584bd2b0e29c3",
-      "git_blob_sha": "5bb33d1196574b2da33beed0dcbe3bb3bdceee1f"
+      "bytes": 15416,
+      "sha256": "1944077669eeb7fd00d05be6995cc31a67abd968fa65bc0abc423191410e9ad3",
+      "git_blob_sha": "c9da75bb097386d80124307b3b4561be07901d43"
     },
     {
       "path": "knowledge/word-studies/studies/WT021-truth-reliability-faithfulness.md",

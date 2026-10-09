@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "published_date": "2026-10-06",
+  "published_date": "2026-10-09",
   "entry_count": 50,
   "next_entry_id": "WT051",
   "collection_path": "knowledge/word-studies",
@@ -1148,19 +1148,24 @@
       "id": "WT020",
       "title": "Hesed, loyal love, kindness",
       "kind": "Word family",
-      "version": "0.2.0",
-      "updated": "2026-10-05",
+      "version": "0.3.0",
+      "updated": "2026-10-09",
       "language": "en",
       "dutch_aliases": [
         "hesed",
+        "chesed",
+        "khesed",
         "trouwe liefde",
-        "goedertierenheid"
+        "trouwe goedheid",
+        "liefdevolle goedheid",
+        "goedertierenheid",
+        "verbondsliefde"
       ],
       "base_strong_ids": [
         "H2617"
       ],
       "study_path": "knowledge/word-studies/studies/WT020-hesed-loyal-love-kindness.md",
-      "study_sha256": "293a035d94db4ed82e5dd18d2cf409126a0688a16360f958e57584bd2b0e29c3",
+      "study_sha256": "1944077669eeb7fd00d05be6995cc31a67abd968fa65bc0abc423191410e9ad3",
       "review": {
         "lexical_sources": "inspected selected records",
         "references": "all verses present in selected ranges",
@@ -1171,11 +1176,15 @@
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
         "byte_offset": 105405,
-        "byte_length": 5056,
-        "sha256": "1860339527c0e7583c91b74625f93a2f086a79309aa16697753415e78ee7fcbe"
+        "byte_length": 9260,
+        "sha256": "a8e3cb68012e2443c022ddf0737f351bb99946be1811b2ee23ed31fad730b53f"
       },
       "sense_ids": [
         "WT020:SENSE:kindness",
+        "WT020:SENSE:mercy-help",
+        "WT020:SENSE:relational-loyalty",
+        "WT020:SENSE:human-devotion",
+        "WT020:SENSE:divine-covenant-love",
         "WT020:SENSE:reproach"
       ],
       "context_ids": [
@@ -1188,15 +1197,21 @@
         "WT020:CTX:7"
       ],
       "related_entry_ids": [
+        "WT018",
         "WT019",
         "WT021",
+        "WT022",
         "WT023"
       ],
       "english_aliases": [
         "hesed",
+        "chesed",
         "khesed",
         "loyal love",
-        "kindness"
+        "steadfast love",
+        "covenant love",
+        "kindness",
+        "mercy"
       ]
     },
     {
@@ -1228,7 +1243,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 110461,
+        "byte_offset": 114665,
         "byte_length": 5533,
         "sha256": "70e13d003f497f445e9bf9f00ade81db71990266e5c83829a9c3524bd9ac6b47"
       },
@@ -1283,7 +1298,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 115994,
+        "byte_offset": 120198,
         "byte_length": 5160,
         "sha256": "5bce1efc813769007b1590d11eb384114f168b0ed83a9ac4b989bc113e3912eb"
       },
@@ -1342,7 +1357,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 121154,
+        "byte_offset": 125358,
         "byte_length": 5176,
         "sha256": "eeccd1c1e9bbbe034282f09271e853ccf1e47f713a7cc877bc87c6f5b0fff7fd"
       },
@@ -1398,7 +1413,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 126330,
+        "byte_offset": 130534,
         "byte_length": 5174,
         "sha256": "dc4983bb6b9ee7c5fc43077c4bbb63f3120130274f5f3c88a95d98288cb0f71c"
       },
@@ -1451,7 +1466,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 131504,
+        "byte_offset": 135708,
         "byte_length": 5217,
         "sha256": "dfc162a4a7d1af7e0bd38c93f1402282fdf0440faab5bbd4a1b54a475a1966fa"
       },
@@ -1505,7 +1520,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 136721,
+        "byte_offset": 140925,
         "byte_length": 5065,
         "sha256": "d17a33f3ef6ee0b20608c6d5e777bf016865c568e0cfc22ebaa239502a4d28b4"
       },
@@ -1559,7 +1574,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 141786,
+        "byte_offset": 145990,
         "byte_length": 5047,
         "sha256": "1c6d8ec01a55c0c8988ff372737833ca1b2f6aa3c4cb8ff5a0318edc13b6c4da"
       },
@@ -1613,7 +1628,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 146833,
+        "byte_offset": 151037,
         "byte_length": 5140,
         "sha256": "e7008e28163c9f370087ec2b9d27e4369b6b1ef5add2a9aa2481f96661d80ee2"
       },
@@ -1666,7 +1681,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 151973,
+        "byte_offset": 156177,
         "byte_length": 5056,
         "sha256": "8ca4a4e9a751893e5b866dd5742dcccdda14277065eee466fc3511be4e17d766"
       },
@@ -1721,7 +1736,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 157029,
+        "byte_offset": 161233,
         "byte_length": 5185,
         "sha256": "69a2dbdccf634c12830d675e634d9de78a3ad8710160005255015ad96eeb5bdc"
       },
@@ -1775,7 +1790,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 162214,
+        "byte_offset": 166418,
         "byte_length": 5461,
         "sha256": "a4640535db4d30dd64927a8b68d7d1651dce78a97eea260ca14dec31c3f88c29"
       },
@@ -1826,7 +1841,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 167675,
+        "byte_offset": 171879,
         "byte_length": 5350,
         "sha256": "5f0e3c9d18881109aa86418ee7deb7f1ffab57040c86869fee0d55ed494be8fa"
       },
@@ -1882,7 +1897,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 173025,
+        "byte_offset": 177229,
         "byte_length": 5819,
         "sha256": "44aa42102c8bf6f19e2d94b995a346fae102ed1964fb516fa21f05a893ab9096"
       },
@@ -1944,7 +1959,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 178844,
+        "byte_offset": 183048,
         "byte_length": 6008,
         "sha256": "433082035f7d312f5c3dfdeb6605da368caae1d44f461654ef11933e2a7d5b22"
       },
@@ -2001,7 +2016,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 184852,
+        "byte_offset": 189056,
         "byte_length": 5398,
         "sha256": "1c8553475732b2087b23795888359625a4252d28f5ec8afba36b3a510757c8b2"
       },
@@ -2056,7 +2071,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 190250,
+        "byte_offset": 194454,
         "byte_length": 5247,
         "sha256": "8d9e0bce259f74c78e7af27b311c8978414ffce5e5b6ee673b44374737ef1908"
       },
@@ -2110,7 +2125,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 195497,
+        "byte_offset": 199701,
         "byte_length": 5117,
         "sha256": "654e8023d639d7fb57df410c1a94a3b0aa21dbc9beef8bcb80f9510804d8d853"
       },
@@ -2164,7 +2179,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 200614,
+        "byte_offset": 204818,
         "byte_length": 5106,
         "sha256": "6f9238a0f2f96c5a35f3c330fca9ec441aebe72de9919a411c7b0807d9f2350b"
       },
@@ -2218,7 +2233,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 205720,
+        "byte_offset": 209924,
         "byte_length": 5155,
         "sha256": "c6e7697b7da71d2e962d38d3fedd0d0321be9a35293411b2ebc9c795a31d300f"
       },
@@ -2275,7 +2290,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 210875,
+        "byte_offset": 215079,
         "byte_length": 5607,
         "sha256": "14ed0da0c73eb06080bcf3580ba69cc99c937dd8b1fad934a6b6eb13223385d3"
       },
@@ -2340,7 +2355,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 216482,
+        "byte_offset": 220686,
         "byte_length": 5633,
         "sha256": "5f03f10f560759fb6069bfcf0f8b932f5e84496cc6eb690412c4ee6a8385fa3e"
       },
@@ -2397,7 +2412,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 222115,
+        "byte_offset": 226319,
         "byte_length": 5769,
         "sha256": "c38aeba72f424ef83e07d3fb02a26e0d0dbcee7aeae84d5812d17d66bd391669"
       },
@@ -2466,7 +2481,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 227884,
+        "byte_offset": 232088,
         "byte_length": 6146,
         "sha256": "1c4dfa986629bb858361bba1ce5266c875da6c1e6eb2813c0b2492455cbc7295"
       },
@@ -2538,7 +2553,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 234030,
+        "byte_offset": 238234,
         "byte_length": 6186,
         "sha256": "08c8e3385f33082e4e5a9e2346c29c8f7fbe517e37ef28f1d935e0a4e17306e0"
       },
@@ -2613,7 +2628,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 240216,
+        "byte_offset": 244420,
         "byte_length": 6629,
         "sha256": "9178291f6a41f5888d5e4f466d8027ae1e1ea3c67370dd7a8ed24bb5d06b169f"
       },
@@ -2680,7 +2695,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 246845,
+        "byte_offset": 251049,
         "byte_length": 6078,
         "sha256": "ffaf5613574e1b82bb7b6261c89b90403edb4b33dbf9f0a97d68f6f4b11cfac4"
       },
@@ -2743,7 +2758,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 252923,
+        "byte_offset": 257127,
         "byte_length": 6237,
         "sha256": "4dce0967335201c6dfe8f1c6d7e90decfa0fb3c56480d3b3204588bcd6af34fb"
       },
@@ -2808,7 +2823,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 259160,
+        "byte_offset": 263364,
         "byte_length": 5876,
         "sha256": "8c62cbb2073b30ba921885997827b89c238af8cd092814ac859e1335838c4129"
       },
@@ -2877,7 +2892,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 265036,
+        "byte_offset": 269240,
         "byte_length": 8717,
         "sha256": "8e6d252a623e260287d9fffdaa445f88ff31406eb2af93e15ce3d24998ca62a0"
       },
@@ -2961,7 +2976,7 @@
       },
       "entry_record": {
         "path": "knowledge/word-studies/data/entries.jsonl",
-        "byte_offset": 273753,
+        "byte_offset": 277957,
         "byte_length": 8335,
         "sha256": "fc2f6d8d84219d603cbe65629a9de2f207627dec65ccfa9c7dc36d7e2adc80df"
       },
@@ -3676,6 +3691,7 @@
       "WT026"
     ],
     "mercy": [
+      "WT020",
       "WT023"
     ],
     "message": [
@@ -4218,6 +4234,24 @@
     ],
     "één vlees": [
       "WT050"
+    ],
+    "chesed": [
+      "WT020"
+    ],
+    "trouwe goedheid": [
+      "WT020"
+    ],
+    "liefdevolle goedheid": [
+      "WT020"
+    ],
+    "verbondsliefde": [
+      "WT020"
+    ],
+    "steadfast love": [
+      "WT020"
+    ],
+    "covenant love": [
+      "WT020"
     ]
   },
   "lookup_base_strong": {
@@ -5090,206 +5124,230 @@
     "WT020:SENSE:kindness": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
       "byte_offset": 11972,
-      "byte_length": 452,
-      "sha256": "8a260b0675710e050bb7228adee9d0a2b6b28b7a2ce11f050bd23e1a0cbcc440"
+      "byte_length": 635,
+      "sha256": "88c44ce2a132f62967c4122b6197d9cf3f000b818dd2925b4b12bc19beb2a2f3"
     },
     "WT020:SENSE:reproach": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 12424,
+      "byte_offset": 14598,
       "byte_length": 415,
       "sha256": "08de1db417ebd84f3da478589f2af70f409533d20eda449c1ed5a5a2209281ec"
     },
     "WT022:SENSE:gracious-adjective": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 12839,
+      "byte_offset": 15013,
       "byte_length": 442,
       "sha256": "dca13206cad3954512fe7e0591992b5ce5197fdf6f1dbd5405f6e803fac0dab2"
     },
     "WT023:SENSE:compassion": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 13281,
+      "byte_offset": 15455,
       "byte_length": 428,
       "sha256": "cd663da0ffe5ee92a74a9bd403b4356089f06e023669b5edacddc00aba012f51"
     },
     "WT026:SENSE:intensifier": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 13709,
+      "byte_offset": 15883,
       "byte_length": 398,
       "sha256": "9718e502fb354468ffe1c6bde201e1002d94e704b040c57b22e940d1175afa35"
     },
     "WT026:SENSE:whole-capacity-phrase": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 14107,
+      "byte_offset": 16281,
       "byte_length": 456,
       "sha256": "22ad3e35e3c5129b9b455ba09c6017b59458ebaf6385a7cfd4ef4088190896e9"
     },
     "WT032:SENSE:wrongdoing-burden": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 14563,
+      "byte_offset": 16737,
       "byte_length": 511,
       "sha256": "e34692c3bbab294567da4e2aef39cd8ffded4d2c8cf5ac742791f52777ad17e9"
     },
     "WT033:SENSE:regret-relent": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 15074,
+      "byte_offset": 17248,
       "byte_length": 484,
       "sha256": "31e64cb335ce849229a7fc4e4ff7a88dce1e596830e0e59e108bfd7b62b5275c"
     },
     "WT033:SENSE:declared-purpose-not-revoked": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 15558,
+      "byte_offset": 17732,
       "byte_length": 518,
       "sha256": "d4925917e31dc4dbf694dc828ac38cefc50ea0b97a29059e72fe6c02470eee7e"
     },
     "WT040:SENSE:only-child": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 16076,
+      "byte_offset": 18250,
       "byte_length": 440,
       "sha256": "d8253973bbe4a08b16e5e25642f2abae28d7d67ab6a446b93423abbe4ad21fe8"
     },
     "WT040:SENSE:distinctive-promise-offspring": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 16516,
+      "byte_offset": 18690,
       "byte_length": 502,
       "sha256": "56483bfb628cb31a0d46c32425c00da84342a990362cc3f89c13cd47e4d6d2a2"
     },
     "WT040:SENSE:unique-filial-relation": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 17018,
+      "byte_offset": 19192,
       "byte_length": 538,
       "sha256": "7295093706eaf07b349e5c54a5b9946b6f8d948e94c95ee9d794661e9e97d420"
     },
     "WT042:SENSE:past-presence": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 17556,
+      "byte_offset": 19730,
       "byte_length": 474,
       "sha256": "ba57d12c5c7bb4fff416783fe3770e98bb31f54d013e364f8346ac9bca6bee53"
     },
     "WT042:SENSE:word-designation": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 18030,
+      "byte_offset": 20204,
       "byte_length": 474,
       "sha256": "2c7c35e13aac9f221bc49e6b85d36c97e664ea300203529bc7e9a510ba1faf82"
     },
     "WT043:SENSE:harpagmos-question": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 18504,
+      "byte_offset": 20678,
       "byte_length": 503,
       "sha256": "7f9cc166d3b80cfce66770759108f33fb2797bc370a311b6e554946f7b60c144"
     },
     "WT044:SENSE:servant-designation": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 19007,
+      "byte_offset": 21181,
       "byte_length": 503,
       "sha256": "05fd9de058d166126cb14ebb14bb9f4c20876a2feff143ff9b81c59dc1891dfd"
     },
     "WT044:SENSE:atonement-cover": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 19510,
+      "byte_offset": 21684,
       "byte_length": 423,
       "sha256": "3d66273c1c4e346a0bfa54447a34147c7df8796f427947f9fdd988b29c2f24bf"
     },
     "WT044:SENSE:christ-atonement-reading": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 19933,
+      "byte_offset": 22107,
       "byte_length": 505,
       "sha256": "3aef4309cf7506ee151d24ee71e5528976dfab316828c146b3c15d907af0ec3b"
     },
     "WT045:SENSE:ordinary-arrival": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 20438,
+      "byte_offset": 22612,
       "byte_length": 435,
       "sha256": "be23d84d2f5576e9473dfa3c7e1016318b56dec54f85f7c461a2315f19cdfe71"
     },
     "WT045:SENSE:christ-coming": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 20873,
+      "byte_offset": 23047,
       "byte_length": 474,
       "sha256": "a4c3a8ac34bebeacd061f84f041dae8e63c8430768bd1d3bc707554030b6bcac"
     },
     "WT045:SENSE:promise-offspring": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 21347,
+      "byte_offset": 23521,
       "byte_length": 555,
       "sha256": "055c40c76b257c0057f0c7e9a20083e5509f0e9872d860e75a4876c179ba2b87"
     },
     "WT046:SENSE:appeal-undertaking-disputed": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 21902,
+      "byte_offset": 24076,
       "byte_length": 497,
       "sha256": "8f28e03cef80a0594edcedcd1c3b8812fdfa31ceac4ba89f5d67a1ce4e82832b"
     },
     "WT047:SENSE:community-temple": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 22399,
+      "byte_offset": 24573,
       "byte_length": 443,
       "sha256": "bc7009476c5fb458536366cdb550d3e37d91d926732b20955fa1c82391867a17"
     },
     "WT047:SENSE:dwelling-with-tabernacle-resonance": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 22842,
+      "byte_offset": 25016,
       "byte_length": 481,
       "sha256": "ee3e22d7801d4c9bb11a617c526fdaa90489fea141f4890ae45acbc027bc2652"
     },
     "WT049:SENSE:dead-realm-grief": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 23323,
+      "byte_offset": 25497,
       "byte_length": 442,
       "sha256": "b4b0a17db9a1fcb602e3cf9f22c9695601fb776a6ee71d1aa35f67eebea6ad20"
     },
     "WT049:SENSE:hades-narrative": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 23765,
+      "byte_offset": 25939,
       "byte_length": 457,
       "sha256": "b15fad5c2e3cd43f7bc4b5579d645e02ab59b1a030bf3b9ec2ac6b91cae10ba9"
     },
     "WT049:SENSE:angel-confinement": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 24222,
+      "byte_offset": 26396,
       "byte_length": 469,
       "sha256": "7681cd5b4e6793b2455edd47f16459512088fe58181584095c23f9e084d1ad20"
     },
     "WT049:SENSE:life-punishment-comparison": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 24691,
+      "byte_offset": 26865,
       "byte_length": 522,
       "sha256": "3e2fbe00ce8d18f28eafc6885087b4f1dcbf475663052a017ed174d6f69f5754"
     },
     "WT050:SENSE:positive-desire": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 25213,
+      "byte_offset": 27387,
       "byte_length": 474,
       "sha256": "120b7bbf985b76862267894567e48d67abab796829ba89e47e839f7ffaf9bacf"
     },
     "WT050:SENSE:wrongful-desire-context": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 25687,
+      "byte_offset": 27861,
       "byte_length": 523,
       "sha256": "0a3de447edbaeabe063a81c3862bc33502bfa8acac2c02ecacf34fe7691055ee"
     },
     "WT050:SENSE:positive-longing": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 26210,
+      "byte_offset": 28384,
       "byte_length": 430,
       "sha256": "a7b32e9cf707f170c89ca6470435018e03e5b6668c5a1666e79bde8f540f9bad"
     },
     "WT050:SENSE:soft-material": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 26640,
+      "byte_offset": 28814,
       "byte_length": 436,
       "sha256": "d1f3e66f1a87c57aea68adfb55ab589045f9e3f41120adca58e47dbd3182b6ea"
     },
     "WT050:SENSE:vice-list-persons-disputed": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 27076,
+      "byte_offset": 29250,
       "byte_length": 520,
       "sha256": "45bbab3112a4e1ce41563b3873cf11358588b724c28943c8d2e64ffa488882ac"
     },
     "WT050:SENSE:male-sexual-conduct-scope": {
       "path": "knowledge/word-studies/data/contextual_senses.jsonl",
-      "byte_offset": 27596,
+      "byte_offset": 29770,
       "byte_length": 516,
       "sha256": "634bcb629565f6679c501356577a86b7bc26391f0656850311992bb855b89acb"
+    },
+    "WT020:SENSE:mercy-help": {
+      "path": "knowledge/word-studies/data/contextual_senses.jsonl",
+      "byte_offset": 12607,
+      "byte_length": 466,
+      "sha256": "3d2cd237d099c44e9233865f01aa35ceab3ee6c66a0bcbee84a329be83c086bc"
+    },
+    "WT020:SENSE:relational-loyalty": {
+      "path": "knowledge/word-studies/data/contextual_senses.jsonl",
+      "byte_offset": 13073,
+      "byte_length": 528,
+      "sha256": "5f86b8db96886a80ccea8c2962f843c587be922b8d9ef876e69d0f6a2de14a5f"
+    },
+    "WT020:SENSE:human-devotion": {
+      "path": "knowledge/word-studies/data/contextual_senses.jsonl",
+      "byte_offset": 13601,
+      "byte_length": 462,
+      "sha256": "376e397b1e1086267a4c653cd912d87e4216a54fa9a4fb7f3bf077c0ba029ec1"
+    },
+    "WT020:SENSE:divine-covenant-love": {
+      "path": "knowledge/word-studies/data/contextual_senses.jsonl",
+      "byte_offset": 14063,
+      "byte_length": 535,
+      "sha256": "e86eca4eaa6f2a8622644e729c7100dc3fc4a5d33088275ae6a1177d89e84fec"
     }
   },
   "context_records": {
