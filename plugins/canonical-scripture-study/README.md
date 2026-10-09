@@ -1,4 +1,4 @@
-# Canonical Scripture Study — Preview 0.1.6
+# Canonical Scripture Study — Preview 0.1.7
 
 *Study Scripture through its languages, context, and canonical story.*
 
@@ -34,7 +34,7 @@ The code and local runtime are published. A [free Cloudflare hosting package](cl
 
 ## Preview version and updating ChatGPT
 
-The manifest, Python adapter, Worker package and MCP `study_health.plugin_version` use the same semantic version (currently **0.1.6** on Preview). The running MCP server uses the deployed Git commit, not the version of this GitHub file until a successful Cloudflare deployment.
+The manifest, Python adapter, Worker package and MCP `study_health.plugin_version` use the same semantic version (currently **0.1.7** on Preview). The running MCP server uses the deployed Git commit, not the version of this GitHub file until a successful Cloudflare deployment.
 
 Changes to tools, shared MCP instructions or bundled on-demand study instructions take effect on the deployed server. Existing ChatGPT connections pointing to the same HTTPS `/mcp` endpoint do **not** need to be recreated. After a deployment, open the existing ChatGPT plugin connection and choose **Refresh** to rescan tool metadata and instructions, then test in a new conversation. The available UI may vary. The displayed plugin name/icon and any separately imported packaged skill files are not automatically replaced by a Worker deployment. Version changes may be visible through the `study_health` tool rather than the ChatGPT plugin card.
 
@@ -51,7 +51,7 @@ Natural language is the interface; these are routing aliases, not registered nat
 | Full study | Context, translation, notes, local exegesis, biblical/canonical development, theology review |
 | Translation only / Translate | Working translation in the chosen format with necessary context and notes |
 | Word study / Woordstudie | **Standard** by default: concise meaning range, 2–3 key verse examples, verified source notes, brief synthesis |
-| Full word study / Volledige woordstudie | **Full**: developed form/sense study, contrasting passages, lexical evidence, meaningful alternatives and canonical development |
+| Full word study / Volledige woordstudie | **Full**: all supported attested senses, context and participant/relationship nuances, related concepts, verified lexical evidence, and distinct canonically grounded theological synthesis |
 | Theme study | Relevant anchors and biblical/canonical development |
 | Context and history | Literary, historical and cultural orientation |
 | Exegesis only | Passage explanation without requiring a new full translation |
@@ -61,6 +61,8 @@ Natural language is the interface; these are routing aliases, not registered nat
 | Next / Next chapter 2 / Next: Genesis 2 | Continue with the saved mode, depth, language and display format |
 
 Examples: `Woordstudie ruach` (Standard), `Volledige woordstudie ruach` (Full), `Word study ruach, full` (Full). Explicitly choosing a depth does not change a word study into a passage study. Detailed remains supported as an intermediate depth option.
+
+Full word studies are not limited to six examples: the default diagnostic verse target is only a starting point. The semantic inventory should cover every distinct supported usage and any separate homograph, testing local meaning against literary setting, syntactic roles, who performs/receives an action and their relationship. The study then compares related Hebrew/Greek concepts and separately explains canonical and theological development. Partial lexical coverage must be reported as a limitation, not passed off as an exhaustive concordance. The Standard contract remains compact.
 
 For word-study citations, each important contextual sense should cite a real passage; consequential textual/translation claims identify the consulted edition. External lexicons (including BDB and HALOT) must be verified from their actual entries before being attributed or quoted. The selected STEP/OSHB supporting records and our own authored word studies do **not** stand in for a verified BDB/HALOT entry. When an exact lexicon cannot be consulted, the agent must say so rather than invent quotations, edition sections, page numbers or links. Full word studies include a short source list when external works were actually consulted.
 
