@@ -1,6 +1,6 @@
 # WT011 — Heart, thought, intention
 
-Version 0.2.0; 2026-10-05. Word family. English core with Dutch search aliases.
+Version 0.3.0; 2026-10-09. Word family. English core with Dutch search aliases.
 
 **Dutch aliases:** hart, denken, bedoeling.
 
@@ -34,6 +34,13 @@ The working synthesis treats thinking, willing, feeling, and acting as interconn
 
 **Study questions for the theology check:** Follow inner disposition, covenant loyalty, the promised new heart, and confession without treating all passages as anatomical descriptions.
 
+### Full-depth semantic audit: heart, inner person and thought
+
+Hebrew **לֵב / לֵבָב** (*lev/levav*) can refer to inner attention, understanding, deliberation, planning, remembering, desire, emotion, conscience-like moral evaluation and resolve, depending on clause. Greek **καρδία** (*kardia*) has overlapping inner-person uses; **νοῦς** (*nous*, mind/understanding) is related conceptually, not an interchangeable form. A literal bodily heart in an anatomical narrative would be a distinct concrete context; do not assert that every metaphor carries all mental and emotional functions at once.
+
+**Participants and contexts.** Deut 6:4–7 commands love of Yahweh with the whole heart in a covenant summons: whole-person allegiance is at issue, not solely emotion. 1 Kgs 3:9 asks for a “hearing heart” capable of discerning just administration; Solomon is the requesting ruler and his people are affected. Mark 7:20–23 locates evil intentions and actions within the human heart; here moral causation, not mere abstract knowledge, is foregrounded. Rom 10:9–10 links heart-belief and mouth-confession in a salvation argument, not two separate metaphysical compartments.
+
+**Lexical guardrail.** Do not move Hebrew *lev*'s ordinary thought and intention uses onto *ruach* just because both are inwardly related to human life. Neither “heart = feelings only” nor “heart = analytical brain only” represents the contextual range. Canonically the heart is the addressed seat of understanding, devotion, desire and responsible action; renewed-heart promises develop a theology of transformation, not a new lexicon. **Limit:** organ imagery, emotional idioms and cognitive causatives need independently inspected examples for exhaustive classification.
 ## Evidence and lookup
 
 **Checked context bank:** Deu 6:4-5; 1Ki 3:9; Mark 7:20-23; Rom 10:8-10; Jer 31:31-34; Ezk 36:25-27; Rom 12:1-2; 2Cor 9:7. Select relevant examples; this is not a request to analyze the full bank.
