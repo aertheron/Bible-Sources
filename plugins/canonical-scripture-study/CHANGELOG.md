@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.4 Preview — 2026-10-09
+
+- Require an actual completed Standard study instead of stopping at the returned study plan.
+- Add evidence-gated delivery milestones for normal and focused study modes, with preference for successive assistant messages and a single-stream fallback.
+- Prioritize early verified working translation/notes, autonomous continuation in the same user turn, and clear Next semantics.
+- Update MCP instructions, skill and method, both Python/JavaScript planners, versioned manifests and regression tests.
+- Keep authentication and tool input schemas unchanged; Production is not promoted.
+
 ## 0.1.3 Preview — 2026-10-08
 
 - Add Standard/Detailed/Full planning, depth-specific research budgets, English/Dutch aliases and an additive study_depth/--depth option.
